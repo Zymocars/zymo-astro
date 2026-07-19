@@ -193,16 +193,10 @@ const routes = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/routes' }),
   schema: z.object({
     slug: z.string(),
-    fromCity: z.string(),
-    toCity: z.string(),
     title: z.string(),
     description: z.string(),
-    distanceKm: z.number(),
-    driveTimeHours: z.string(),
-    routeVia: z.string(),
-    tollNote: z.string().optional(),
-    bestSeason: z.string().optional(),
-    tips: z.string(),
+    canonical: z.string().url(),
+    bodyHtml: z.string(),
     faqs: z.array(FaqItem).optional(),
   }),
 });

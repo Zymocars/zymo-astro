@@ -1,0 +1,69 @@
+---
+// Dynamic route page — /self-drive-{fromCity}-to-{toCity}
+//
+// One template renders every route in the `routes` collection at build time
+// via getStaticPaths(). Body content is stored as raw HTML from
+// zymo-backend/functions/seo/routeConfigs.js generateRouteContentHtml.
+
+import { getCollection, getEntry } from 'astro:content';
+import SeoPage from '../layouts/SeoPage.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('routes');
+  return all.map((entry) => ({
+    params: { route: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props as {
+  entry: Awaited<ReturnType<typeof getEntry<'routes', string>>>;
+};
+if (!entry) throw new Error(`No route entry for slug="${Astro.params.route}"`);
+
+const { title, description, canonical, bodyHtml, faqs } = entry.data;
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+  speakable: { '@type': 'SpeakableSpecification', cssSelector: ['[data-speakable]'] },
+};
+const jsonLd: unknown[] = [webPageSchema];
+if (faqs && faqs.length > 0) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+---
+
+<SeoPage
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <article class="z-route">
+    <Fragment set:html={bodyHtml} />
+  </article>
+</SeoPage>
+
+<style>
+  .z-route {
+    max-width: var(--z-container-max);
+    margin: 0 auto;
+    padding: var(--z-space-4);
+  }
+</style>
