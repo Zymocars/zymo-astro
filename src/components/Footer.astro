@@ -1,0 +1,303 @@
+---
+// Footer.astro — static footer for the SEO surface.
+// Verified port of the column structure, cities list, social links, and
+// compliance strip from zymo-web/src/components/Footer.tsx:47-297 (read this
+// session). React-only bits (animation timer, hover-underline effect via
+// pseudo-elements is preserved in CSS) omitted or reproduced in native CSS.
+// The 20-city Popular Cities list is copied verbatim from Footer.tsx:200-220.
+---
+
+<footer class="z-footer" role="contentinfo">
+  <div class="z-footer-grid">
+    {/* Contact */}
+    <div class="z-footer-col">
+      <h3 class="z-footer-heading">
+        <a href="/contact-us" class="z-link-hover">Contact Us</a>
+      </h3>
+      <p class="z-footer-body">
+        Have questions or need help? Reach out to our AI agent
+        <a href="/ZymoAI" class="z-footer-zai">Zai</a> here.
+      </p>
+    </div>
+
+    {/* About */}
+    <div class="z-footer-col">
+      <h3 class="z-footer-heading">About</h3>
+      <a href="/about-us" class="z-link-hover">About Us</a>
+      <a href="/career" class="z-link-hover">Career</a>
+      <a href="/agent-login" class="z-link-hover">Agent Panel</a>
+    </div>
+
+    {/* Features */}
+    <div class="z-footer-col">
+      <h3 class="z-footer-heading">Features</h3>
+      <a href="/blogs" class="z-link-hover">Blogs</a>
+      <a href="/self-drive-car-rental-india" class="z-link-hover">Self-drive car rentals (India)</a>
+      <a href="/privacy-policy" class="z-link-hover">Privacy Policy</a>
+      <a href="/terms-of-service" class="z-link-hover">Terms of Service</a>
+      <a href="/cancellation-policy" class="z-link-hover">Cancellation Policy</a>
+      <a href="/zoomcar-car-rental" class="z-link-hover">ZoomCar Alternatives</a>
+      <a href="/earn-from-your-car" class="z-link-hover">List Your Car &amp; Earn</a>
+    </div>
+
+    {/* Install App */}
+    <div class="z-footer-col">
+      <h3 class="z-footer-heading">Install App</h3>
+      <p class="z-footer-body">From App Store or Google Play</p>
+      <div class="z-footer-app-badges">
+        <a
+          href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew&referrer=utm_source%3Dzymo_web%26utm_medium%3Dorganic%26utm_campaign%3Dfooter"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/images/Footer/gplay.webp"
+            alt="Get it on Google Play"
+            width="144"
+            height="48"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+        <a
+          href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759?ct=footer&pt=zymo_web&mt=8"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/images/Footer/istore.webp"
+            alt="Download on the App Store"
+            width="144"
+            height="48"
+            loading="lazy"
+            decoding="async"
+          />
+        </a>
+      </div>
+      <p class="z-footer-body">Secured Payment Gateway</p>
+      <div class="z-footer-payment-icons">
+        <img src="/images/Footer/visa.webp" alt="Visa" width="40" height="24" loading="lazy" decoding="async" />
+        <img src="/images/Footer/mcrd.webp" alt="Mastercard" width="40" height="24" loading="lazy" decoding="async" />
+        <img src="/images/Footer/msto.webp" alt="Maestro" width="40" height="24" loading="lazy" decoding="async" />
+      </div>
+    </div>
+
+    {/* Popular Cities — verbatim from Footer.tsx:199-220 */}
+    <div class="z-footer-col">
+      <h3 class="z-footer-heading">
+        <a href="/cities" class="z-link-hover">Popular Cities</a>
+      </h3>
+      <a href="/self-drive-car-rental-in-mumbai" class="z-link-hover">Mumbai</a>
+      <a href="/self-drive-car-rental-in-delhi" class="z-link-hover">Delhi</a>
+      <a href="/self-drive-car-rental-in-bangalore" class="z-link-hover">Bangalore</a>
+      <a href="/self-drive-car-rental-in-hyderabad" class="z-link-hover">Hyderabad</a>
+      <a href="/self-drive-car-rental-in-chennai" class="z-link-hover">Chennai</a>
+      <a href="/self-drive-car-rental-in-pune" class="z-link-hover">Pune</a>
+      <a href="/self-drive-car-rental-in-kolkata" class="z-link-hover">Kolkata</a>
+      <a href="/self-drive-car-rental-in-ahmedabad" class="z-link-hover">Ahmedabad</a>
+      <a href="/self-drive-car-rental-in-jaipur" class="z-link-hover">Jaipur</a>
+      <a href="/self-drive-car-rental-in-kochi" class="z-link-hover">Kochi</a>
+      <a href="/self-drive-car-rental-in-goa" class="z-link-hover">Goa</a>
+      <a href="/self-drive-car-rental-in-chandigarh" class="z-link-hover">Chandigarh</a>
+      <a href="/self-drive-car-rental-in-visakhapatnam" class="z-link-hover">Visakhapatnam</a>
+      <a href="/self-drive-car-rental-in-mysore" class="z-link-hover">Mysore</a>
+      <a href="/self-drive-car-rental-in-udupi" class="z-link-hover">Udupi</a>
+      <a href="/self-drive-car-rental-in-nashik" class="z-link-hover">Nashik</a>
+      <a href="/self-drive-car-rental-in-mangalore" class="z-link-hover">Mangalore</a>
+      <a href="/self-drive-car-rental-in-indore" class="z-link-hover">Indore</a>
+      <a href="/self-drive-car-rental-in-lucknow" class="z-link-hover">Lucknow</a>
+      <a href="/self-drive-car-rental-in-trichy" class="z-link-hover">Trichy</a>
+      <a href="/cities" class="z-link-hover z-footer-view-all">View all cities →</a>
+    </div>
+
+    {/* Follow Us */}
+    <div class="z-footer-col">
+      <h3 class="z-footer-heading">Follow Us</h3>
+      <p class="z-footer-body">Stay connected with us on social media</p>
+      <div class="z-footer-social">
+        <a href="https://www.instagram.com/zymo.app/" target="_blank" rel="noopener noreferrer" aria-label="Follow Zymo on Instagram">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/company/zymoapp?originalSubdomain=in" target="_blank" rel="noopener noreferrer" aria-label="Follow Zymo on LinkedIn">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+        </a>
+        <a href="https://x.com/zymoapp" target="_blank" rel="noopener noreferrer" aria-label="Follow Zymo on X (Twitter)">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 4.01c-1 .49-1.98.689-3 .99-1.121-1.265-2.783-1.335-4.38-.737S11.977 6.323 12 8v1c-3.245.083-6.135-1.395-8-4 0 0-4.182 7.433 4 11-1.872 1.247-3.739 2.088-6 2 3.308 1.803 6.913 2.423 10.034 1.517 3.58-1.04 6.522-3.723 7.651-7.742a13.84 13.84 0 0 0 .497-3.753C21.996 4.24 22.586 3.5 22 4.01z"/></svg>
+        </a>
+        <a href="https://www.facebook.com/zymo.official/" target="_blank" rel="noopener noreferrer" aria-label="Follow Zymo on Facebook">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+        </a>
+        <a href="https://www.youtube.com/channel/UCHUvrPwNYxw7bukWFjhNpag" target="_blank" rel="noopener noreferrer" aria-label="Follow Zymo on YouTube">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"/><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="z-footer-compliance">
+    <span>Phone: <a href="tel:02269620852">022-69620852</a></span>
+    <span aria-hidden="true">·</span>
+    <span>Email: <a href="mailto:hello@zymo.app">hello@zymo.app</a></span>
+    <span aria-hidden="true">·</span>
+    <span>GSTIN: 27AAJCR3294F1Z4</span>
+  </div>
+
+  <div class="z-footer-copyright">
+    © ZEP TEPI TECHNOLOGIES PVT LTD
+  </div>
+</footer>
+
+<style>
+  .z-footer {
+    background: var(--z-bg-soft);
+    color: var(--z-fg);
+    padding: var(--z-space-8) var(--z-space-6);
+    border-top-left-radius: var(--z-radius-lg);
+    border-top-right-radius: var(--z-radius-lg);
+    margin-top: var(--z-space-12);
+  }
+
+  .z-footer-grid {
+    max-width: var(--z-container-wide);
+    margin: 0 auto;
+    display: grid;
+    gap: var(--z-space-6);
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 640px) {
+    .z-footer-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (min-width: 768px) {
+    .z-footer-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .z-footer-grid {
+      grid-template-columns: repeat(6, 1fr);
+    }
+  }
+
+  .z-footer-col {
+    display: flex;
+    flex-direction: column;
+    gap: var(--z-space-2);
+  }
+
+  .z-footer-heading {
+    font-size: var(--z-text-xl);
+    font-weight: 800;
+    color: var(--z-fg-strong);
+    margin: 0 0 var(--z-space-3);
+  }
+
+  .z-footer-body {
+    color: var(--z-fg-muted);
+    font-size: var(--z-text-sm);
+    margin: 0 0 var(--z-space-2);
+  }
+
+  .z-footer-col a {
+    color: var(--z-fg);
+    font-size: var(--z-text-sm);
+    text-decoration: none;
+  }
+
+  /* Link underline (matches word width) — reproduced from Footer.tsx:29-42 */
+  .z-link-hover {
+    position: relative;
+    display: inline-block;
+    width: fit-content;
+  }
+
+  .z-link-hover::after {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(to right, #3b82f6, #a855f7);
+    transition: width 0.3s ease;
+  }
+
+  .z-link-hover:hover::after {
+    width: 100%;
+  }
+
+  .z-footer-view-all {
+    color: var(--z-brand-purple);
+    font-size: var(--z-text-sm);
+    margin-top: var(--z-space-2);
+  }
+
+  .z-footer-zai {
+    color: var(--z-brand-purple);
+    font-weight: 500;
+  }
+
+  .z-footer-app-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--z-space-3);
+    margin: var(--z-space-2) 0;
+  }
+
+  .z-footer-app-badges img {
+    height: 40px;
+    width: auto;
+  }
+
+  .z-footer-payment-icons {
+    display: flex;
+    gap: var(--z-space-4);
+    margin-top: var(--z-space-2);
+  }
+
+  .z-footer-payment-icons img {
+    height: 24px;
+    width: auto;
+  }
+
+  .z-footer-social {
+    display: flex;
+    gap: var(--z-space-5);
+    margin-top: var(--z-space-2);
+  }
+
+  .z-footer-social a {
+    color: var(--z-fg-strong);
+    transition: transform var(--z-motion-fast), color var(--z-motion-fast);
+  }
+
+  .z-footer-social a:hover {
+    color: var(--z-brand-purple);
+    transform: scale(1.15);
+  }
+
+  .z-footer-compliance {
+    max-width: var(--z-container-wide);
+    margin: var(--z-space-8) auto 0;
+    padding-top: var(--z-space-6);
+    border-top: 1px solid var(--z-bg-hover);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: var(--z-space-4);
+    font-size: var(--z-text-sm);
+    color: var(--z-fg-muted);
+  }
+
+  .z-footer-copyright {
+    text-align: center;
+    color: var(--z-fg-muted);
+    font-size: var(--z-text-sm);
+    margin-top: var(--z-space-4);
+  }
+</style>

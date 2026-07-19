@@ -1,0 +1,62 @@
+---
+// SeoPage.astro — layout used by every SEO page (city, guide, answer,
+// modifier, national, route, zoomcar-cluster, partner, research, static).
+// Composes Base + NavBar + <slot /> + Footer + JSON-LD schema block.
+
+import Base from './Base.astro';
+import NavBar from '../components/NavBar.astro';
+import Footer from '../components/Footer.astro';
+
+export interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+  robots?: string;
+  noindex?: boolean;
+  jsonLd?: unknown[];
+}
+
+const {
+  title,
+  description,
+  canonical,
+  ogImage,
+  ogType,
+  robots,
+  noindex,
+  jsonLd = [],
+} = Astro.props;
+---
+
+<Base
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogImage={ogImage}
+  ogType={ogType}
+  robots={robots}
+  noindex={noindex}
+  jsonLd={jsonLd}
+>
+  <NavBar />
+  <main class="z-main">
+    <slot />
+  </main>
+  <Footer />
+</Base>
+
+<style>
+  .z-main {
+    /* Give SSR body content the same visual container the old dark SEO block
+       used (max-width 800px, dark background, padded, centered). Matches the
+       article-level styling that was hard-coded at
+       zymo-backend/functions/seo/cityContent.js:1120 in the SSR generator. */
+    background: var(--z-bg);
+    color: var(--z-fg);
+    padding: var(--z-space-8) var(--z-space-4);
+    line-height: 1.7;
+    font-size: var(--z-text-base);
+  }
+</style>

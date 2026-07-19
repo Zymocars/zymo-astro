@@ -1,0 +1,279 @@
+---
+// Phase 1 PoC page — Mumbai only.
+//
+// In Phase 2 this becomes `[city].astro` with `getStaticPaths()` reading from
+// the `cities` collection. For Phase 1 we hardcode Mumbai so we can prove the
+// content-collection → page render round-trip against real production content
+// before generalizing.
+//
+// Data source: src/content/cities/mumbai.md (migrated via
+// scripts/migrate-city-content.mjs from
+// zymo-backend/functions/seo/cityContent.js CITY_SEO_CONTENT.mumbai).
+
+import { getEntry } from 'astro:content';
+import SeoPage from '../layouts/SeoPage.astro';
+
+// Import the search widget CSS at build time — CSS is fine on the server side,
+// it just gets emitted as a stylesheet. The .ts file that DEFINES the custom
+// element uses `HTMLElement`, a browser global that does not exist in Node —
+// so that file is loaded via a browser <script> block near the end of the page,
+// NOT via a top-level Astro-frontmatter import.
+import '../components/SearchWidget/search-widget.css';
+
+const city = await getEntry('cities', 'mumbai');
+if (!city) {
+  throw new Error('cities/mumbai.md not found — run scripts/migrate-city-content.mjs first');
+}
+
+const {
+  cityName,
+  title,
+  description,
+  canonical,
+  heroImage,
+  heroAlt,
+  answerBlock,
+  intro,
+  popularAreas,
+  nearbyDestinations,
+  tips,
+  carTypes,
+  whyZymo,
+  howItWorks,
+  priceNote,
+  faqs,
+} = city.data;
+
+// -----------------------------------------------------------------------------
+// JSON-LD schemas
+// LocalBusiness — no AggregateRating attached (legal-cleanup 2026-04-27 per
+// zymo-backend/functions/seo/cityContent.js:11-15). Only individual Reviews
+// stay elsewhere on the page (not injected here for Phase 1 — added in Phase 2
+// once reviewData.js migration ships).
+// -----------------------------------------------------------------------------
+const localBusinessSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  '@id': canonical,
+  name: `Zymo self-drive car rental — ${cityName}`,
+  url: canonical,
+  image: `https://zymo.app${heroImage}`,
+  description,
+  priceRange: '₹₹',
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: cityName,
+    addressCountry: 'IN',
+  },
+  areaServed: {
+    '@type': 'City',
+    name: cityName,
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://zymo.app/' },
+    { '@type': 'ListItem', position: 2, name: 'Self-Drive Car Rentals', item: 'https://zymo.app/self-drive-car-rental-india' },
+    { '@type': 'ListItem', position: 3, name: cityName, item: canonical },
+  ],
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f: any) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
+---
+
+<SeoPage
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogImage={`https://zymo.app${heroImage}`}
+  ogType="website"
+  jsonLd={jsonLd}
+>
+  <article class="z-seo-article z-container">
+    {/* Breadcrumb */}
+    <nav class="z-breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li aria-hidden="true">›</li>
+        <li><a href="/self-drive-car-rental-india">Self-Drive</a></li>
+        <li aria-hidden="true">›</li>
+        <li aria-current="page">{cityName}</li>
+      </ol>
+    </nav>
+
+    {/* Hero image — same asset as production per
+        zymo-backend/functions/seo/cityContent.js:1128 (mumbai.webp). */}
+    <img
+      src={heroImage}
+      alt={heroAlt}
+      width="800"
+      height="400"
+      fetchpriority="high"
+      decoding="async"
+      class="z-hero-img"
+    />
+
+    <h1>Self-Drive Car Rental in {cityName}</h1>
+
+    {/* AEO answer block — 40-60 words, first text content, data-speakable
+        for Google Assistant / voice */}
+    <p class="z-answer-block" data-speakable="true">{answerBlock}</p>
+
+    {/* Search widget — vanilla custom element */}
+    <zymo-search city="mumbai"></zymo-search>
+
+    {/* City intro (from cityContent.js:99) */}
+    <p>{intro}</p>
+
+    <section>
+      <h2>Compare Car Rental Options in {cityName}</h2>
+      <p>
+        Looking for a self drive car in {cityName} or thinking of how to book a car for a
+        weekend trip? Whether you need self drive cars {cityName} for a quick city errand, a
+        longer rental car for outstation travel, or a one-way {cityName} car rental for an
+        inter-city trip — Zymo aggregates inventory from multiple rental partners.
+      </p>
+    </section>
+
+    <section>
+      <h2>Pickup Areas in {cityName}</h2>
+      <p><strong>Popular pickup neighbourhoods:</strong> {popularAreas.join(', ')}.</p>
+    </section>
+
+    <section>
+      <h2>Road Trips from {cityName}</h2>
+      <p>Popular destinations you can drive to from {cityName}:</p>
+      <ul>
+        {nearbyDestinations.map((dest: string) => <li>{dest}</li>)}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Driving Tips for {cityName}</h2>
+      <p>{tips}</p>
+    </section>
+
+    <section>
+      <h2>Best Cars to Book in {cityName}</h2>
+      <p>{carTypes}</p>
+    </section>
+
+    <section>
+      <h2>Why Book from Zymo in {cityName}?</h2>
+      <p>{whyZymo}</p>
+    </section>
+
+    <section>
+      <h2>How to Book a Self-Drive Car in {cityName}</h2>
+      <p>{howItWorks}</p>
+    </section>
+
+    <section>
+      <h2 id="prices">{cityName} Self-Drive Car Rental Prices</h2>
+      <p>{priceNote}</p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions — Car Rental in {cityName}</h2>
+      <dl class="z-faq">
+        {faqs.map((f: any) => (
+          <>
+            <dt>{f.q}</dt>
+            <dd>{f.a}</dd>
+          </>
+        ))}
+      </dl>
+    </section>
+  </article>
+
+  {/* Browser-only: register the <zymo-search> custom element. Astro processes
+      this <script> block through Vite, bundles it, and ships it as a module
+      to the browser. Because it references `HTMLElement`, it MUST live inside
+      this <script> and NOT in the Astro frontmatter. */}
+  <script>
+    import '../components/SearchWidget/search-widget.ts';
+  </script>
+</SeoPage>
+
+<style>
+  .z-seo-article {
+    max-width: var(--z-container-max);
+    padding-top: var(--z-space-4);
+    padding-bottom: var(--z-space-4);
+  }
+
+  .z-breadcrumb {
+    margin: 0 0 var(--z-space-4);
+  }
+
+  .z-breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--z-space-2);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: var(--z-text-sm);
+    color: var(--z-fg-muted);
+  }
+
+  .z-breadcrumb a {
+    color: var(--z-fg-muted);
+  }
+
+  .z-hero-img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--z-radius-md);
+    margin: 0 0 var(--z-space-4);
+  }
+
+  .z-answer-block {
+    font-size: var(--z-text-md);
+    color: var(--z-fg-strong);
+    line-height: 1.8;
+    margin: 0 0 var(--z-space-4);
+  }
+
+  section {
+    margin: var(--z-space-6) 0;
+  }
+
+  section ul {
+    padding-left: var(--z-space-6);
+  }
+
+  section li {
+    margin-bottom: var(--z-space-2);
+  }
+
+  .z-faq {
+    display: flex;
+    flex-direction: column;
+    gap: var(--z-space-4);
+  }
+
+  .z-faq dt {
+    font-weight: 700;
+    color: var(--z-fg-strong);
+    margin-bottom: var(--z-space-2);
+  }
+
+  .z-faq dd {
+    margin: 0 0 var(--z-space-4);
+    color: var(--z-fg);
+  }
+</style>

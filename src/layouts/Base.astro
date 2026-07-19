@@ -1,0 +1,127 @@
+---
+// Base.astro — root HTML shell shared by every Astro page (SEO + static).
+// Wires: viewport meta, theme meta, canonical, OG + Twitter cards, robots,
+// preconnects, Partytown-wrapped analytics, favicon, and design-token CSS.
+
+import '../styles/tokens.css';
+
+export interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+  robots?: string;
+  noindex?: boolean;
+  jsonLd?: unknown[];              // JSON-LD schema objects to inject in <head>
+}
+
+const {
+  title,
+  description,
+  canonical,
+  ogImage = 'https://zymo.app/AppLogo/zymo-logo.png',
+  ogType = 'website',
+  robots,
+  noindex = false,
+  jsonLd = [],
+} = Astro.props;
+
+const finalRobots = robots ?? (noindex ? 'noindex, nofollow' : 'index, follow');
+---
+
+<!DOCTYPE html>
+<html lang="en-IN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#05070E" />
+
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={finalRobots} />
+
+    {/* Geo */}
+    <meta name="geo.region" content="IN" />
+    <meta name="geo.placename" content="India" />
+
+    {/* Apple / mobile */}
+    <meta
+      name="apple-itunes-app"
+      content="app-id=1547829759, app-argument=https://zymo.app"
+    />
+
+    {canonical && <link rel="canonical" href={canonical} />}
+
+    {/* Open Graph */}
+    <meta property="og:site_name" content="Zymo" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    {canonical && <meta property="og:url" content={canonical} />}
+
+    {/* Twitter */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@zymocars" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
+    {/* Preconnects — top-4 byte-cost origins.
+        Order matters: keep highest-byte-cost origin first per Chrome preconnect
+        contention rules. */}
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link
+      rel="preconnect"
+      href="https://letzrent-5f5a3.firebaseapp.com"
+      crossorigin
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://apis.google.com" crossorigin />
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://maps.googleapis.com" />
+
+    {/* Fonts — Space Grotesk, matches production heading font */}
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+      rel="stylesheet"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+      />
+    </noscript>
+
+    {/* Analytics — Partytown-wrapped so main thread stays clean. Note: these
+        script tags MUST have type="text/partytown" — Partytown intercepts. */}
+    <script type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-ZBYWHYQNXB"></script>
+    <script type="text/partytown">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZBYWHYQNXB', { send_page_view: true });
+      gtag('config', 'AW-11464217393');
+    </script>
+
+    {/* Structured data — JSON-LD */}
+    {jsonLd.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
+
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Zymo Blog RSS"
+      href="/feed.xml"
+    />
+  </head>
+
+  <body>
+    <slot />
+  </body>
+</html>
