@@ -225,11 +225,11 @@ const partner = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/partner' }),
   schema: z.object({
     slug: z.string(),
-    kind: z.enum(['landing', 'faq', 'blog']),
+    kind: z.enum(['landing', 'faq', 'earn']),
     title: z.string(),
     description: z.string(),
-    body: z.string(),
-    publishedAt: z.string().optional(),
+    canonical: z.string().url(),
+    bodyHtml: z.string(),
   }),
 });
 
@@ -263,9 +263,25 @@ const staticPages = defineCollection({
 });
 
 // -----------------------------------------------------------------------------
+// Homepage — single-entry collection for `/`
+// Source: zymo-backend/functions/seo/homeContent.js generateHomepageContentHtml
+// -----------------------------------------------------------------------------
+const homepage = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/homepage' }),
+  schema: z.object({
+    slug: z.string(),
+    title: z.string(),
+    description: z.string(),
+    canonical: z.string().url(),
+    bodyHtml: z.string(),
+  }),
+});
+
+// -----------------------------------------------------------------------------
 // Register
 // -----------------------------------------------------------------------------
 export const collections = {
+  homepage,
   cities,
   guides,
   answers,

@@ -1,17 +1,86 @@
 ---
+// Homepage — /
+// Renders the migrated SSR content from zymo-backend/functions/seo/
+// homeContent.js generateHomepageContentHtml + mounts the <zymo-search>
+// island above the fold.
 
+import { getEntry } from 'astro:content';
+import SeoPage from '../layouts/SeoPage.astro';
+import '../components/SearchWidget/search-widget.css';
+
+const entry = await getEntry('homepage', 'index');
+if (!entry) throw new Error('No homepage entry — run scripts/migrate-homepage-content.mjs');
+
+const { title, description, canonical, bodyHtml } = entry.data;
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': 'https://zymo.app/#organization',
+  name: 'Zymo',
+  legalName: 'Zeptepi Technologies Pvt. Ltd.',
+  url: 'https://zymo.app',
+  logo: {
+    '@type': 'ImageObject',
+    url: 'https://zymo.app/AppLogo/zymo-logo.png',
+    width: 512,
+    height: 512,
+  },
+  sameAs: [
+    'https://www.instagram.com/zymo.app/',
+    'https://www.linkedin.com/company/zymoapp',
+    'https://x.com/zymoapp',
+    'https://www.facebook.com/zymo.official/',
+    'https://www.youtube.com/channel/UCHUvrPwNYxw7bukWFjhNpag',
+  ],
+  contactPoint: {
+    '@type': 'ContactPoint',
+    telephone: '+91-22-69620852',
+    contactType: 'customer support',
+    email: 'hello@zymo.app',
+    areaServed: 'IN',
+    availableLanguage: ['English', 'Hindi'],
+  },
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': 'https://zymo.app/#website',
+  url: 'https://zymo.app/',
+  name: 'Zymo',
+  description,
+  publisher: { '@id': 'https://zymo.app/#organization' },
+  inLanguage: 'en-IN',
+};
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+  speakable: { '@type': 'SpeakableSpecification', cssSelector: ['[data-speakable]'] },
+};
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={[orgSchema, websiteSchema, webPageSchema]}>
+  <article class="z-home">
+    <div class="z-home-search z-container">
+      <zymo-search city="mumbai"></zymo-search>
+    </div>
+    <Fragment set:html={bodyHtml} />
+  </article>
+
+  <script>
+    import '../components/SearchWidget/search-widget.ts';
+  </script>
+</SeoPage>
+
+<style>
+  .z-home { max-width: var(--z-container-max); margin: 0 auto; padding: var(--z-space-4); }
+  .z-home-search { max-width: var(--z-container-max); padding: var(--z-space-4); margin: 0 auto var(--z-space-6); }
+</style>

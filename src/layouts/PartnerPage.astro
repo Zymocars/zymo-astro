@@ -1,0 +1,39 @@
+---
+// PartnerPage.astro — shared layout for the 3 static partner-acquisition
+// pages (/earn-from-your-car, /partner, /partner/faq). Called from thin
+// per-URL Astro pages that pass a slug prop.
+
+import { getEntry } from 'astro:content';
+import SeoPage from './SeoPage.astro';
+
+export interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+const entry = await getEntry('partner', slug);
+if (!entry) throw new Error(`No partner entry for slug="${slug}"`);
+
+const { title, description, canonical, bodyHtml } = entry.data;
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+};
+---
+
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={[webPageSchema]}>
+  <article class="z-partner">
+    <Fragment set:html={bodyHtml} />
+  </article>
+</SeoPage>
+
+<style>
+  .z-partner { max-width: var(--z-container-max); margin: 0 auto; padding: var(--z-space-4); }
+</style>
