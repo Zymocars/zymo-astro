@@ -257,8 +257,8 @@ const staticPages = defineCollection({
     slug: z.string(),
     title: z.string(),
     description: z.string(),
-    body: z.string(),
-    updatedAt: z.string().optional(),
+    canonical: z.string().url(),
+    bodyHtml: z.string(),
   }),
 });
 

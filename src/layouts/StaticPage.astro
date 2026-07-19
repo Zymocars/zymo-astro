@@ -1,0 +1,42 @@
+---
+// StaticPage.astro — shared layout for the 9 truly-static internal pages
+// (about-us, contact-us, faqs, terms-of-service, privacy-policy,
+// cancellation-policy, car-loan, download-app, electric-car-rental-india).
+//
+// Each Astro page at root passes a slug prop; this layout loads the entry
+// from the staticPages content collection and renders bodyHtml verbatim.
+
+import { getEntry } from 'astro:content';
+import SeoPage from './SeoPage.astro';
+
+export interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+const entry = await getEntry('staticPages', slug);
+if (!entry) throw new Error(`No static-page entry for slug="${slug}"`);
+
+const { title, description, canonical, bodyHtml } = entry.data;
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+};
+---
+
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={[webPageSchema]}>
+  <article class="z-static">
+    <Fragment set:html={bodyHtml} />
+  </article>
+</SeoPage>
+
+<style>
+  .z-static { max-width: var(--z-container-max); margin: 0 auto; padding: var(--z-space-4); }
+</style>

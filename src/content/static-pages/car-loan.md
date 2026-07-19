@@ -1,0 +1,46 @@
+---
+slug: "car-loan"
+title: "Car Loan | Easy Auto Financing | Zymo"
+description: "Get easy car loan financing for your vehicle purchase. Compare loan options and apply online with Zymo's hassle-free process."
+canonical: "https://zymo.app/car-loan"
+bodyHtml: |
+  <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:900px;margin:0 auto;line-height:1.8;font-size:0.95rem">
+  <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Car Loan &mdash; Auto Financing on Zymo</h1>
+  
+  <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo connects car buyers with auto-financing options through partner lenders. You can apply for a car loan online, get an estimated EMI based on the loan amount and tenure you choose, and proceed with the lender for documentation and approval. Loan eligibility, interest rates, and approved amounts are decided by the lender based on your profile (income, credit history, employment type) &mdash; Zymo facilitates the introduction.</p>
+  
+  <section>
+  <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">How It Works</h2>
+  <ol>
+  <li>Open the <a href="/car-loan" style="color:#4F7BFF;text-decoration:none">Car Loan page</a> and fill out the application form with basic details (name, contact, city, employment, expected loan amount).</li>
+  <li>Use the EMI calculator to estimate your monthly payment for different tenures.</li>
+  <li>Submit the application &mdash; the lender will reach out for verification and the next steps.</li>
+  </ol>
+  </section>
+  
+  <section>
+  <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">What You&rsquo;ll Need</h2>
+  <ul>
+  <li><strong>Identity proof:</strong> Aadhaar / PAN</li>
+  <li><strong>Address proof</strong></li>
+  <li><strong>Income proof:</strong> Salary slips for the last 3 months OR bank statements for the last 6 months</li>
+  <li><strong>Bank account details</strong></li>
+  <li><strong>Standard KYC documents</strong> &mdash; the lender may request additional paperwork based on your profile</li>
+  </ul>
+  </section>
+  
+  <section>
+  <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">Common Questions</h2>
+  <p><strong>How much loan amount can I get?</strong> Eligibility depends on income, credit score, and the lender&rsquo;s policies. Most lenders finance 80&ndash;90% of the on-road price.</p>
+  <p><strong>What&rsquo;s the typical tenure?</strong> Car loan tenures generally range from 12 to 84 months, depending on the lender and the plan you choose.</p>
+  <p><strong>Do I need a guarantor or co-applicant?</strong> Most salaried applicants with a healthy credit score can apply solo. In some cases, the lender may suggest a co-applicant based on eligibility.</p>
+  <p><strong>Can I get a loan for a used car?</strong> Currently, Zymo&rsquo;s loan flow is set up for new-car financing. For used-car loans, contact <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a>.</p>
+  </section>
+  
+  <section>
+  <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">Pair the Loan With an Extended Test Drive</h2>
+  <p>Before you commit to a car loan, take an Extended Test Drive of the model you&rsquo;re considering. Spending a full day or longer with the car on your daily routes is the most effective way to validate your purchase decision. <a href="/extended-test-drive" style="color:#4F7BFF;text-decoration:none">See the Extended Test Drive page</a> for how to book.</p>
+  </section>
+  </article>
+---
+
