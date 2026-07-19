@@ -161,8 +161,9 @@ const modifiers = defineCollection({
     citySlug: z.string(),
     title: z.string(),
     description: z.string(),
-    intro: z.string(),
-    priceHighlight: z.string().optional(),
+    canonical: z.string().url(),
+    intro: z.string().optional(),
+    bodyHtml: z.string(),
     faqs: z.array(FaqItem).optional(),
   }),
 });

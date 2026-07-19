@@ -1,0 +1,15 @@
+---
+import { getCollection } from 'astro:content';
+import ModifierCity from '../layouts/ModifierCity.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('modifiers', ({ data }) => data.modifierSlug === 'weekend');
+  return all.map((entry) => ({
+    params: { city: entry.data.citySlug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+---
+<ModifierCity entry={entry} />

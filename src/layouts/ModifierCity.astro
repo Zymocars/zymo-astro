@@ -1,0 +1,124 @@
+---
+// ModifierCity.astro — shared layout for the 4 modifier×city dynamic routes:
+//   /cheap-car-rental-in-{city}
+//   /airport-car-rental-in-{city}
+//   /weekend-car-rental-in-{city}
+//   /monthly-car-rental-in-{city}
+//
+// Called with `entry` prop from each per-modifier dynamic page. Renders the
+// migrated bodyHtml verbatim + adds a search widget island + JSON-LD schemas.
+
+import SeoPage from './SeoPage.astro';
+import '../components/SearchWidget/search-widget.css';
+
+export interface Props {
+  entry: {
+    data: {
+      modifierSlug: 'cheap' | 'airport' | 'weekend' | 'monthly';
+      citySlug: string;
+      title: string;
+      description: string;
+      canonical: string;
+      intro?: string;
+      bodyHtml: string;
+      faqs?: Array<{ q: string; a: string }>;
+    };
+  };
+}
+
+const { entry } = Astro.props;
+const { modifierSlug, citySlug, title, description, canonical, bodyHtml, faqs } = entry.data;
+
+const cityDisplay = citySlug.split('-').map((s) => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
+const modifierDisplay = ({ cheap: 'Cheap', airport: 'Airport', weekend: 'Weekend', monthly: 'Monthly' } as const)[modifierSlug];
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://zymo.app/' },
+    { '@type': 'ListItem', position: 2, name: cityDisplay, item: `https://zymo.app/self-drive-car-rental-in-${citySlug}` },
+    { '@type': 'ListItem', position: 3, name: `${modifierDisplay} rentals`, item: canonical },
+  ],
+};
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+  speakable: { '@type': 'SpeakableSpecification', cssSelector: ['[data-speakable]'] },
+};
+
+const jsonLd: unknown[] = [webPageSchema, breadcrumbSchema];
+
+if (faqs && faqs.length > 0) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+---
+
+<SeoPage
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogType="website"
+  jsonLd={jsonLd}
+>
+  <article class="z-modifier-city">
+    <nav class="z-breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li aria-hidden="true">›</li>
+        <li><a href={`/self-drive-car-rental-in-${citySlug}`}>{cityDisplay}</a></li>
+        <li aria-hidden="true">›</li>
+        <li aria-current="page">{modifierDisplay} rentals</li>
+      </ol>
+    </nav>
+
+    <Fragment set:html={bodyHtml} />
+
+    <div class="z-modifier-search z-container">
+      <zymo-search city={citySlug}></zymo-search>
+    </div>
+  </article>
+
+  <script>
+    import '../components/SearchWidget/search-widget.ts';
+  </script>
+</SeoPage>
+
+<style>
+  .z-modifier-city {
+    max-width: var(--z-container-max);
+    margin: 0 auto;
+    padding: var(--z-space-4);
+  }
+  .z-breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--z-space-2);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--z-space-4);
+    font-size: var(--z-text-sm);
+    color: var(--z-fg-muted);
+  }
+  .z-breadcrumb a { color: var(--z-fg-muted); }
+  .z-modifier-search {
+    max-width: var(--z-container-max);
+    padding: var(--z-space-4);
+    margin: var(--z-space-4) auto;
+  }
+</style>
