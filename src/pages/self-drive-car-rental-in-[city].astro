@@ -1,16 +1,13 @@
 ---
-// Phase 1 PoC page — Mumbai only.
+// Dynamic city page — one Astro template renders every city in the
+// `cities` content collection at build time via getStaticPaths().
 //
-// In Phase 2 this becomes `[city].astro` with `getStaticPaths()` reading from
-// the `cities` collection. For Phase 1 we hardcode Mumbai so we can prove the
-// content-collection → page render round-trip against real production content
-// before generalizing.
-//
-// Data source: src/content/cities/mumbai.md (migrated via
-// scripts/migrate-city-content.mjs from
-// zymo-backend/functions/seo/cityContent.js CITY_SEO_CONTENT.mumbai).
+// Phase 2: promoted from the Mumbai-only PoC at
+// self-drive-car-rental-in-mumbai.astro (Phase 1). Same structural render,
+// generalized to read the { city } param and load the matching content
+// entry.
 
-import { getEntry } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 import SeoPage from '../layouts/SeoPage.astro';
 
 // Import the search widget CSS at build time — CSS is fine on the server side,
@@ -20,12 +17,25 @@ import SeoPage from '../layouts/SeoPage.astro';
 // NOT via a top-level Astro-frontmatter import.
 import '../components/SearchWidget/search-widget.css';
 
-const city = await getEntry('cities', 'mumbai');
-if (!city) {
-  throw new Error('cities/mumbai.md not found — run scripts/migrate-city-content.mjs first');
+// -----------------------------------------------------------------------------
+// Static path generation — one params entry per city in the collection.
+// -----------------------------------------------------------------------------
+export async function getStaticPaths() {
+  const cities = await getCollection('cities');
+  return cities.map((entry) => ({
+    params: { city: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props as { entry: Awaited<ReturnType<typeof getEntry<'cities', string>>> };
+
+if (!entry) {
+  throw new Error(`No city entry for param city="${Astro.params.city}"`);
 }
 
 const {
+  slug,
   cityName,
   title,
   description,
@@ -42,13 +52,13 @@ const {
   howItWorks,
   priceNote,
   faqs,
-} = city.data;
+} = entry.data;
 
 // -----------------------------------------------------------------------------
 // JSON-LD schemas
 // LocalBusiness — no AggregateRating attached (legal-cleanup 2026-04-27 per
 // zymo-backend/functions/seo/cityContent.js:11-15). Only individual Reviews
-// stay elsewhere on the page (not injected here for Phase 1 — added in Phase 2
+// stay elsewhere on the page (not injected here for Phase 2 — added in Phase 3
 // once reviewData.js migration ships).
 // -----------------------------------------------------------------------------
 const localBusinessSchema = {
@@ -84,7 +94,7 @@ const breadcrumbSchema = {
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: faqs.map((f: any) => ({
+  mainEntity: faqs.map((f) => ({
     '@type': 'Question',
     name: f.q,
     acceptedAnswer: { '@type': 'Answer', text: f.a },
@@ -114,8 +124,8 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
       </ol>
     </nav>
 
-    {/* Hero image — same asset as production per
-        zymo-backend/functions/seo/cityContent.js:1128 (mumbai.webp). */}
+    {/* Hero image — same per-city asset as production per
+        zymo-backend/functions/seo/cityContent.js:1128 (city-slug.webp). */}
     <img
       src={heroImage}
       alt={heroAlt}
@@ -133,17 +143,17 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
     <p class="z-answer-block" data-speakable="true">{answerBlock}</p>
 
     {/* Search widget — vanilla custom element */}
-    <zymo-search city="mumbai"></zymo-search>
+    <zymo-search city={slug}></zymo-search>
 
-    {/* City intro (from cityContent.js:99) */}
+    {/* City intro (from cityContent.js CITY_SEO_CONTENT[slug].intro) */}
     <p>{intro}</p>
 
     <section>
       <h2>Compare Car Rental Options in {cityName}</h2>
       <p>
         Looking for a self drive car in {cityName} or thinking of how to book a car for a
-        weekend trip? Whether you need self drive cars {cityName} for a quick city errand, a
-        longer rental car for outstation travel, or a one-way {cityName} car rental for an
+        weekend trip? Whether you need self drive cars in {cityName} for a quick city errand,
+        a longer rental car for outstation travel, or a one-way {cityName} car rental for an
         inter-city trip — Zymo aggregates inventory from multiple rental partners.
       </p>
     </section>
@@ -157,7 +167,7 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
       <h2>Road Trips from {cityName}</h2>
       <p>Popular destinations you can drive to from {cityName}:</p>
       <ul>
-        {nearbyDestinations.map((dest: string) => <li>{dest}</li>)}
+        {nearbyDestinations.map((dest) => <li>{dest}</li>)}
       </ul>
     </section>
 
@@ -189,7 +199,7 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
     <section>
       <h2>Frequently Asked Questions — Car Rental in {cityName}</h2>
       <dl class="z-faq">
-        {faqs.map((f: any) => (
+        {faqs.map((f) => (
           <>
             <dt>{f.q}</dt>
             <dd>{f.a}</dd>
@@ -237,8 +247,15 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
   .z-hero-img {
     width: 100%;
     height: auto;
+    /* Reserve layout box before the image bytes arrive — prevents CLS.
+       Attributes width=800 height=400 give the browser the 2:1 ratio, but
+       older browsers ignore intrinsic ratios unless `aspect-ratio` is set
+       explicitly here. Session 95 Lighthouse audit found the hero image
+       was Zymo's dominant CLS contributor (0.138 of 0.139 total). */
+    aspect-ratio: 800 / 400;
     border-radius: var(--z-radius-md);
     margin: 0 0 var(--z-space-4);
+    background: var(--z-bg-soft);
   }
 
   .z-answer-block {

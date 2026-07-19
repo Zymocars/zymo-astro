@@ -92,6 +92,12 @@ const CITY_DISPLAY_NAMES = {
   rishikesh: 'Rishikesh',
   dombivli: 'Dombivli',
   palava: 'Palava',
+  pondicherry: 'Pondicherry',
+  manipal: 'Manipal',
+  calicut: 'Calicut',
+  mahabalipuram: 'Mahabalipuram',
+  thiruvananthapuram: 'Thiruvananthapuram',
+  bangalore: 'Bangalore',
 };
 
 function formatCityName(slug) {
