@@ -1,0 +1,121 @@
+---
+// Dynamic answer page — /answers/{slug}
+//
+// Answer pages are the AEO (answer-engine) surface that ranks for
+// question-shaped queries in Google's SGE, voice assistants, ChatGPT,
+// Perplexity. Content is migrated from
+// zymo-backend/functions/seo/answersContent.js and rendered raw via
+// <Fragment set:html>.
+
+import { getCollection, getEntry } from 'astro:content';
+import SeoPage from '../../layouts/SeoPage.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('answers');
+  return all.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props as {
+  entry: Awaited<ReturnType<typeof getEntry<'answers', string>>>;
+};
+
+if (!entry) throw new Error(`No answer entry for slug="${Astro.params.slug}"`);
+
+const { title, description, canonical, h1, publishedDate, modifiedDate, bodyHtml, faqs } = entry.data;
+
+// JSON-LD — Article + Breadcrumb + FAQPage (if faqs)
+const articleSchema: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: h1,
+  description,
+  inLanguage: 'en-IN',
+  articleSection: 'Self-Drive Car Rental Q&A',
+  keywords: 'self-drive car rental india, aeo, zymo answers',
+  about: { '@type': 'Thing', name: 'Self-Drive Car Rental in India' },
+  audience: {
+    '@type': 'Audience',
+    geographicArea: { '@type': 'Country', name: 'India' },
+  },
+  author: {
+    '@type': 'Person',
+    name: 'Manish Pratik',
+    url: 'https://zymo.app/about-us',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Zymo',
+    logo: { '@type': 'ImageObject', url: 'https://zymo.app/AppLogo/zymo-logo.png' },
+  },
+  mainEntityOfPage: canonical,
+};
+if (publishedDate) articleSchema.datePublished = publishedDate;
+if (modifiedDate) articleSchema.dateModified = modifiedDate;
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://zymo.app/' },
+    { '@type': 'ListItem', position: 2, name: 'Answers', item: 'https://zymo.app/guides/self-drive-car-rental-india' },
+    { '@type': 'ListItem', position: 3, name: h1, item: canonical },
+  ],
+};
+
+const jsonLd: unknown[] = [articleSchema, breadcrumbSchema];
+if (faqs && faqs.length > 0) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+---
+
+<SeoPage
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <article class="z-answer">
+    <nav class="z-breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li aria-hidden="true">›</li>
+        <li><a href="/guides/self-drive-car-rental-india">Answers</a></li>
+        <li aria-hidden="true">›</li>
+        <li aria-current="page">{h1}</li>
+      </ol>
+    </nav>
+
+    <Fragment set:html={bodyHtml} />
+  </article>
+</SeoPage>
+
+<style>
+  .z-answer {
+    max-width: var(--z-container-max);
+    margin: 0 auto;
+    padding: var(--z-space-4);
+  }
+  .z-breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--z-space-2);
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--z-space-4);
+    font-size: var(--z-text-sm);
+    color: var(--z-fg-muted);
+  }
+  .z-breadcrumb a { color: var(--z-fg-muted); }
+</style>

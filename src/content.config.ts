@@ -138,15 +138,14 @@ const answers = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/answers' }),
   schema: z.object({
     slug: z.string(),
-    question: z.string(),
+    title: z.string(),
     description: z.string(),
-    canonical: z.string().url().optional(),
-    answerBlock: z.string(),
-    supportingSections: z.array(z.object({
-      heading: z.string(),
-      body: z.string(),
-    })).optional(),
-    relatedAnswers: z.array(z.string()).optional(),
+    canonical: z.string().url(),
+    h1: z.string(),
+    publishedDate: z.string().optional(),
+    modifiedDate: z.string().optional(),
+    bodyHtml: z.string(),
+    faqs: z.array(FaqItem).optional(),
   }),
 });
 
