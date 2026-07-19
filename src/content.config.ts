@@ -104,7 +104,8 @@ const cities = defineCollection({
 
 // -----------------------------------------------------------------------------
 // Guides — /guides/{slug}
-// Source: zymo-backend/functions/seo/guideContent.js
+// Source: zymo-backend/functions/seo/guideContent.js + metaConfigs.js
+//         GUIDE_PAGE_CONFIGS
 // -----------------------------------------------------------------------------
 const guides = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/guides' }),
@@ -112,12 +113,20 @@ const guides = defineCollection({
     slug: z.string(),
     title: z.string(),
     description: z.string(),
-    canonical: z.string().url().optional(),
+    canonical: z.string().url(),
+    h1: z.string(),
+    // "pillar" = long-form comprehensive guide; "spoke" = comparison / narrow topic
+    type: z.enum(['pillar', 'spoke']),
+    publishedDate: z.string(),               // YYYY-MM-DD
+    modifiedDate: z.string(),                // YYYY-MM-DD
     heroImage: z.string().optional(),
     heroAlt: z.string().optional(),
-    tocLabel: z.string().optional(),         // e.g. "Complete Guide"
+    // Raw HTML body from guideContent.js generators — rendered via Fragment set:html
+    // in the Astro template. Includes inline styles matching the SSR shell.
+    bodyHtml: z.string(),
     faqs: z.array(FaqItem).optional(),
-    updatedAt: z.string().optional(),
+    articleSection: z.string().optional(),
+    keywords: z.string().optional(),
   }),
 });
 

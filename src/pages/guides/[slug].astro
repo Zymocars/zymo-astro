@@ -1,0 +1,205 @@
+---
+// Dynamic guide page — /guides/{slug}
+//
+// One Astro template renders every guide in the `guides` content collection
+// at build time via getStaticPaths(). Body content is stored as raw HTML in
+// the collection front-matter (bodyHtml) — rendered via <Fragment set:html>.
+// Inline styles inside the HTML come straight from the original SSR generator
+// at zymo-backend/functions/seo/guideContent.js.
+
+import { getCollection, getEntry } from 'astro:content';
+import SeoPage from '../../layouts/SeoPage.astro';
+
+import '../../components/SearchWidget/search-widget.css';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props as {
+  entry: Awaited<ReturnType<typeof getEntry<'guides', string>>>;
+};
+
+if (!entry) {
+  throw new Error(`No guide entry for param slug="${Astro.params.slug}"`);
+}
+
+const {
+  slug,
+  title,
+  description,
+  canonical,
+  h1,
+  publishedDate,
+  modifiedDate,
+  bodyHtml,
+  faqs,
+  articleSection,
+  keywords,
+} = entry.data;
+
+// -----------------------------------------------------------------------------
+// JSON-LD schemas — Article + Breadcrumb + FAQPage
+// Mirrors zymo-backend/functions/seo/metaConfigs.js:1276-1310 getGuideSchemas
+// -----------------------------------------------------------------------------
+const articleSchema: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: h1,
+  description,
+  inLanguage: 'en-IN',
+  articleSection: articleSection || 'Self-Drive Car Rental Guides',
+  keywords: keywords || 'self-drive car rental india, car rental aggregator, zymo',
+  about: { '@type': 'Thing', name: 'Self-Drive Car Rental in India' },
+  audience: {
+    '@type': 'Audience',
+    geographicArea: { '@type': 'Country', name: 'India' },
+  },
+  author: {
+    '@type': 'Person',
+    name: 'Manish Pratik',
+    url: 'https://zymo.app/about-us',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Zymo',
+    logo: {
+      '@type': 'ImageObject',
+      url: 'https://zymo.app/AppLogo/zymo-logo.png',
+    },
+  },
+  datePublished: publishedDate,
+  dateModified: modifiedDate,
+  mainEntityOfPage: canonical,
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://zymo.app/' },
+    { '@type': 'ListItem', position: 2, name: 'Guides', item: 'https://zymo.app/guides/self-drive-car-rental-india' },
+    { '@type': 'ListItem', position: 3, name: h1, item: canonical },
+  ],
+};
+
+const jsonLd: unknown[] = [articleSchema, breadcrumbSchema];
+
+if (faqs && faqs.length > 0) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
+---
+
+<SeoPage
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <article class="z-guide">
+    <nav class="z-breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li aria-hidden="true">›</li>
+        <li><a href="/guides/self-drive-car-rental-india">Guides</a></li>
+        <li aria-hidden="true">›</li>
+        <li aria-current="page">{h1}</li>
+      </ol>
+    </nav>
+
+    {/*
+      Body content — rendered raw from the migrated HTML. Inline styles from
+      the SSR generator are preserved verbatim. `set:html` is safe here
+      because the source is our own content pipeline, not user input.
+    */}
+    <Fragment set:html={bodyHtml} />
+  </article>
+
+  {/* Related-guides footer — every guide gets an internal-link cluster to
+      strengthen topic-authority signalling and cross-recommendation click paths.
+      Fed by the plan's 9-guide list, deduped so the current guide is excluded. */}
+  <aside class="z-guide-related z-container">
+    <h2>Other guides you may find useful</h2>
+    <ul>
+      {slug !== 'self-drive-car-rental-india' && <li><a href="/guides/self-drive-car-rental-india">Self-Drive Car Rental in India: The Complete Guide</a></li>}
+      {slug !== 'best-self-drive-car-rental-apps-india' && <li><a href="/guides/best-self-drive-car-rental-apps-india">Best Self-Drive Car Rental Apps in India</a></li>}
+      {slug !== 'zymo-vs-zoomcar' && <li><a href="/guides/zymo-vs-zoomcar">Zymo vs ZoomCar</a></li>}
+      {slug !== 'zymo-vs-revv-car-rental' && <li><a href="/guides/zymo-vs-revv-car-rental">Zymo vs Revv</a></li>}
+      {slug !== 'zymo-vs-mychoize' && <li><a href="/guides/zymo-vs-mychoize">Zymo vs MyChoize</a></li>}
+      {slug !== 'zymo-vs-drivezy' && <li><a href="/guides/zymo-vs-drivezy">Zymo vs Drivezy</a></li>}
+      {slug !== 'best-cars-road-trips-india' && <li><a href="/guides/best-cars-road-trips-india">Best Cars for Long Drives in India</a></li>}
+      {slug !== 'rent-before-you-buy' && <li><a href="/guides/rent-before-you-buy">Extended Test Drive: Drive Before You Buy</a></li>}
+      {slug !== 'start-car-rental-business' && <li><a href="/guides/start-car-rental-business">How to Start a Car Rental Business in India</a></li>}
+    </ul>
+  </aside>
+
+  {/* Browser-only registration of <zymo-search>. Not rendered in the guide
+      body itself — search widget only mounts on city pages. */}
+</SeoPage>
+
+<style>
+  .z-guide {
+    /* Guide bodies come in as raw HTML with inline styles that already set
+       max-width, padding, colors. We just center + let the inline styles win. */
+    max-width: var(--z-container-max);
+    margin: 0 auto;
+    padding: var(--z-space-4);
+  }
+
+  .z-breadcrumb {
+    margin: 0 0 var(--z-space-4);
+  }
+
+  .z-breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--z-space-2);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: var(--z-text-sm);
+    color: var(--z-fg-muted);
+  }
+
+  .z-breadcrumb a {
+    color: var(--z-fg-muted);
+  }
+
+  .z-guide-related {
+    max-width: var(--z-container-max);
+    padding: var(--z-space-6) var(--z-space-4);
+    border-top: 1px solid var(--z-bg-hover);
+    margin-top: var(--z-space-8);
+  }
+
+  .z-guide-related h2 {
+    color: var(--z-fg-strong);
+    margin-bottom: var(--z-space-4);
+  }
+
+  .z-guide-related ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--z-space-2);
+  }
+
+  .z-guide-related a {
+    color: var(--z-brand-blue);
+  }
+</style>
