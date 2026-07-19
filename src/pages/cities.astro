@@ -1,0 +1,72 @@
+---
+// /cities — hub page listing every migrated city.
+// Reads from the `cities` content collection at build time.
+
+import { getCollection } from 'astro:content';
+import SeoPage from '../layouts/SeoPage.astro';
+
+const cities = (await getCollection('cities'))
+  .sort((a, b) => a.data.cityName.localeCompare(b.data.cityName));
+
+const title = 'Self-Drive Car Rental in 50+ Cities Across India | Zymo';
+const description = `Zymo covers self-drive car rentals in ${cities.length}+ cities across India — Mumbai, Delhi, Bangalore, and 47 more. Compare rates from multiple partners with no platform fee.`;
+const canonical = 'https://zymo.app/cities';
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+  numberOfItems: cities.length,
+};
+---
+
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={[collectionSchema]}>
+  <article class="z-hub z-container">
+    <h1>Self-Drive Car Rental Cities</h1>
+    <p>Zymo aggregates self-drive car rentals from multiple rental partners across
+    {cities.length}+ Indian cities. Compare prices, filter by car type, and book
+    in under 2 minutes — no platform fee.</p>
+
+    <ul class="z-city-grid">
+      {cities.map((c) => (
+        <li>
+          <a href={`/self-drive-car-rental-in-${c.data.slug}`}>
+            {c.data.cityName}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </article>
+</SeoPage>
+
+<style>
+  .z-hub {
+    max-width: var(--z-container-max);
+    padding: var(--z-space-4);
+  }
+  .z-city-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: var(--z-space-2);
+    list-style: none;
+    padding: 0;
+    margin: var(--z-space-4) 0;
+  }
+  .z-city-grid a {
+    display: block;
+    padding: var(--z-space-3);
+    background: var(--z-bg-soft);
+    border-radius: var(--z-radius-md);
+    color: var(--z-fg-strong);
+    text-decoration: none;
+    transition: background var(--z-motion-fast);
+  }
+  .z-city-grid a:hover {
+    background: var(--z-bg-hover);
+  }
+</style>

@@ -1,0 +1,43 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import SeoPage from '../../layouts/SeoPage.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('research');
+  return all.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props as {
+  entry: Awaited<ReturnType<typeof getEntry<'research', string>>>;
+};
+if (!entry) throw new Error(`No research entry for slug="${Astro.params.slug}"`);
+
+const { title, description, canonical, bodyHtml } = entry.data;
+
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  inLanguage: 'en-IN',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Zymo',
+    logo: { '@type': 'ImageObject', url: 'https://zymo.app/AppLogo/zymo-logo.png' },
+  },
+  mainEntityOfPage: canonical,
+}];
+---
+
+<SeoPage title={title} description={description} canonical={canonical} ogType="article" jsonLd={jsonLd}>
+  <article class="z-research">
+    <Fragment set:html={bodyHtml} />
+  </article>
+</SeoPage>
+
+<style>
+  .z-research { max-width: var(--z-container-max); margin: 0 auto; padding: var(--z-space-4); }
+</style>

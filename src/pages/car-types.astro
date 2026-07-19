@@ -1,0 +1,108 @@
+---
+// /car-types — hub page listing available car types with links to modifier
+// pages that dive deeper. Purely static — no external data source needed for
+// the top-level categorisation.
+
+import SeoPage from '../layouts/SeoPage.astro';
+
+const title = 'Self-Drive Car Types Available in India | Zymo';
+const description = 'Hatchbacks, sedans, SUVs, and premium cars — see what self-drive car types you can book on Zymo. Compare pricing patterns, use cases, and best fit per trip.';
+const canonical = 'https://zymo.app/car-types';
+
+const carTypes = [
+  {
+    name: 'Hatchbacks',
+    description: 'Most economical option. Best for city driving, short trips, and solo/couple bookings. Includes Maruti Swift, Baleno, i20, Tiago.',
+    priceRange: '₹1,200–1,800 per day',
+  },
+  {
+    name: 'Sedans',
+    description: 'Balanced comfort + fuel economy. Best for expressway drives, corporate travel, and airport pickups. Includes Honda City, Verna, Ciaz.',
+    priceRange: '₹1,800–2,500 per day',
+  },
+  {
+    name: 'SUVs',
+    description: 'Ground clearance + luggage space. Best for ghat drives, monsoon travel, and family/group trips. Includes Creta, XUV 700, Seltos, Nexon.',
+    priceRange: '₹2,500–4,000 per day',
+  },
+  {
+    name: '7-Seaters',
+    description: 'Extended family + group bookings. Best for weddings, cross-city family trips, and 6-8 person travel. Includes Innova Crysta, Ertiga, Carens.',
+    priceRange: '₹3,000–5,500 per day',
+  },
+  {
+    name: 'Premium/Luxury',
+    description: 'Occasion drives — weddings, events, executive travel. Includes Toyota Fortuner, MG Hector, upper-trim SUVs.',
+    priceRange: '₹4,500–7,500 per day',
+  },
+  {
+    name: 'EVs',
+    description: 'Emerging category — best for city driving where charging is convenient. Includes Tata Tiago EV, Nexon EV.',
+    priceRange: '₹1,500–2,800 per day',
+  },
+];
+
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+  numberOfItems: carTypes.length,
+}];
+---
+
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={jsonLd}>
+  <article class="z-hub z-container">
+    <h1>Self-Drive Car Types on Zymo</h1>
+    <p>
+      Zymo aggregates listings from multiple rental partners across every major
+      car type. Filter by type in any city search to see the exact inventory
+      and per-day pricing on your dates.
+    </p>
+
+    <dl class="z-car-types">
+      {carTypes.map((t) => (
+        <>
+          <dt>{t.name} <span class="z-price">{t.priceRange}</span></dt>
+          <dd>{t.description}</dd>
+        </>
+      ))}
+    </dl>
+  </article>
+</SeoPage>
+
+<style>
+  .z-hub {
+    max-width: var(--z-container-max);
+    padding: var(--z-space-4);
+  }
+  .z-car-types {
+    display: flex;
+    flex-direction: column;
+    gap: var(--z-space-4);
+    margin: var(--z-space-6) 0;
+  }
+  .z-car-types dt {
+    font-weight: 700;
+    color: var(--z-fg-strong);
+    font-size: var(--z-text-lg);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: var(--z-space-2);
+  }
+  .z-price {
+    font-size: var(--z-text-sm);
+    font-weight: 500;
+    color: var(--z-brand-blue);
+  }
+  .z-car-types dd {
+    margin: 0 0 var(--z-space-2);
+    color: var(--z-fg);
+  }
+</style>

@@ -243,11 +243,8 @@ const research = defineCollection({
     slug: z.string(),
     title: z.string(),
     description: z.string(),
-    heroImage: z.string().optional(),
-    summary: z.string(),
-    body: z.string(),
-    pdfHref: z.string().optional(),
-    publishedAt: z.string(),
+    canonical: z.string().url(),
+    bodyHtml: z.string(),
   }),
 });
 

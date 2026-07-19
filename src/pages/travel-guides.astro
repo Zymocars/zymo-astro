@@ -1,0 +1,78 @@
+---
+// /travel-guides — hub page listing all guides + all routes.
+// Reads from `guides` and `routes` content collections at build time.
+
+import { getCollection } from 'astro:content';
+import SeoPage from '../layouts/SeoPage.astro';
+
+const guides = (await getCollection('guides'))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+const routes = (await getCollection('routes'))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const title = 'Travel Guides for Self-Drive Rentals in India | Zymo';
+const description = `Deep-dive travel + rental guides — self-drive car rental in India, comparison guides, road trip curations, and ${routes.length} intercity route breakdowns.`;
+const canonical = 'https://zymo.app/travel-guides';
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: title,
+  description,
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': 'https://zymo.app/#website' },
+  numberOfItems: guides.length + routes.length,
+};
+---
+
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={[collectionSchema]}>
+  <article class="z-hub z-container">
+    <h1>Travel Guides &amp; Route Breakdowns</h1>
+    <p>Long-form guides on renting, driving, and buying cars in India, plus
+    detailed intercity route breakdowns with distances, tolls, drive times,
+    and cost comparisons.</p>
+
+    <section>
+      <h2>Guides ({guides.length})</h2>
+      <ul class="z-list">
+        {guides.map((g) => (
+          <li>
+            <a href={`/guides/${g.data.slug}`}>{g.data.h1 || g.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Intercity Route Breakdowns ({routes.length})</h2>
+      <ul class="z-list">
+        {routes.map((r) => (
+          <li>
+            <a href={`/self-drive-${r.data.slug}`}>{r.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </article>
+</SeoPage>
+
+<style>
+  .z-hub {
+    max-width: var(--z-container-max);
+    padding: var(--z-space-4);
+  }
+  .z-list {
+    list-style: none;
+    padding: 0;
+    margin: var(--z-space-4) 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--z-space-2);
+  }
+  .z-list a {
+    color: var(--z-brand-blue);
+    font-size: var(--z-text-base);
+  }
+</style>
