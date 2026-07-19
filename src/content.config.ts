@@ -209,11 +209,10 @@ const zoomcarClusters = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/zoomcar-clusters' }),
   schema: z.object({
     slug: z.string(),
-    citySlug: z.string(),
     title: z.string(),
     description: z.string(),
-    body: z.string(),
-    priceNote: z.string().optional(),
+    canonical: z.string().url(),
+    bodyHtml: z.string(),
     faqs: z.array(FaqItem).optional(),
   }),
 });
