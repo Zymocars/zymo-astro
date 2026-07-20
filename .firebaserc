@@ -1,6 +1,23 @@
 {
   "projects": {
-    "default": "zymo-analytics-prod",
+    "default": "letzrent-5f5a3",
+    "prod": "letzrent-5f5a3",
     "staging": "zymo-analytics-prod"
+  },
+  "targets": {
+    "letzrent-5f5a3": {
+      "hosting": {
+        "astro-prod": [
+          "zymo-astro"
+        ]
+      }
+    },
+    "zymo-analytics-prod": {
+      "hosting": {
+        "astro-staging": [
+          "zymo-astro-staging"
+        ]
+      }
+    }
   }
 }
