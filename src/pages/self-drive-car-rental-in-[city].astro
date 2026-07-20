@@ -1,25 +1,13 @@
 ---
 // Dynamic city page — one Astro template renders every city in the
 // `cities` content collection at build time via getStaticPaths().
-//
-// Phase 2: promoted from the Mumbai-only PoC at
-// self-drive-car-rental-in-mumbai.astro (Phase 1). Same structural render,
-// generalized to read the { city } param and load the matching content
-// entry.
+// Ported to DS 2.0 chrome (gradient H1, overline, dark cards) to match
+// zymo-web/src/pages/CityLandingScreenZ2.tsx while keeping zero React.
 
 import { getCollection, getEntry } from 'astro:content';
 import SeoPage from '../layouts/SeoPage.astro';
-
-// Import the search widget CSS at build time — CSS is fine on the server side,
-// it just gets emitted as a stylesheet. The .ts file that DEFINES the custom
-// element uses `HTMLElement`, a browser global that does not exist in Node —
-// so that file is loaded via a browser <script> block near the end of the page,
-// NOT via a top-level Astro-frontmatter import.
 import '../components/SearchWidget/search-widget.css';
 
-// -----------------------------------------------------------------------------
-// Static path generation — one params entry per city in the collection.
-// -----------------------------------------------------------------------------
 export async function getStaticPaths() {
   const cities = await getCollection('cities');
   return cities.map((entry) => ({
@@ -40,8 +28,6 @@ const {
   title,
   description,
   canonical,
-  heroImage,
-  heroAlt,
   answerBlock,
   intro,
   popularAreas,
@@ -54,20 +40,13 @@ const {
   faqs,
 } = entry.data;
 
-// -----------------------------------------------------------------------------
-// JSON-LD schemas
-// LocalBusiness — no AggregateRating attached (legal-cleanup 2026-04-27 per
-// zymo-backend/functions/seo/cityContent.js:11-15). Only individual Reviews
-// stay elsewhere on the page (not injected here for Phase 2 — added in Phase 3
-// once reviewData.js migration ships).
-// -----------------------------------------------------------------------------
 const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   '@id': canonical,
   name: `Zymo self-drive car rental — ${cityName}`,
   url: canonical,
-  image: `https://zymo.app${heroImage}`,
+  image: 'https://zymo.app/images/AppLogo/zymo-logo.png',
   description,
   priceRange: '₹₹',
   address: {
@@ -108,125 +87,129 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
   title={title}
   description={description}
   canonical={canonical}
-  ogImage={`https://zymo.app${heroImage}`}
+  ogImage="https://zymo.app/images/AppLogo/zymo-logo.png"
   ogType="website"
   jsonLd={jsonLd}
 >
-  <article class="z-seo-article z-container">
-    {/* Breadcrumb */}
-    <nav class="z-breadcrumb" aria-label="Breadcrumb">
-      <ol>
-        <li><a href="/">Home</a></li>
-        <li aria-hidden="true">›</li>
-        <li><a href="/self-drive-car-rental-india">Self-Drive</a></li>
-        <li aria-hidden="true">›</li>
-        <li aria-current="page">{cityName}</li>
-      </ol>
-    </nav>
+  <main class="z-city-main">
+    <section class="z-city-hero z-container">
+      <nav class="z-breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li aria-hidden="true">›</li>
+          <li><a href="/self-drive-car-rental-india">Self-Drive</a></li>
+          <li aria-hidden="true">›</li>
+          <li aria-current="page">{cityName}</li>
+        </ol>
+      </nav>
 
-    {/* Hero image — same per-city asset as production per
-        zymo-backend/functions/seo/cityContent.js:1128 (city-slug.webp). */}
-    <img
-      src={heroImage}
-      alt={heroAlt}
-      width="800"
-      height="400"
-      fetchpriority="high"
-      decoding="async"
-      class="z-hero-img"
-    />
+      <p class="z-overline">Self-drive car rental in {cityName}</p>
 
-    <h1>Self-Drive Car Rental in {cityName}</h1>
+      <h1 class="z-hero-h1">
+        Book self-drive car rentals in <span class="z-grad">{cityName}</span> with Zymo.
+      </h1>
 
-    {/* AEO answer block — 40-60 words, first text content, data-speakable
-        for Google Assistant / voice */}
-    <p class="z-answer-block" data-speakable="true">{answerBlock}</p>
+      <div class="z-chips">
+        <span class="z-chip"><span class="z-chip-dot">✓</span> Compare multiple providers</span>
+        <span class="z-chip"><span class="z-chip-dot">✓</span> No hidden Zymo fees</span>
+        <span class="z-chip"><span class="z-chip-dot">✓</span> Book in 60 seconds</span>
+      </div>
 
-    {/* Search widget — vanilla custom element */}
-    <zymo-search city={slug}></zymo-search>
+      <div class="z-search-card">
+        <p class="z-search-title">Great deals, Smooth drives</p>
+        <zymo-search city={slug}></zymo-search>
+      </div>
 
-    {/* City intro (from cityContent.js CITY_SEO_CONTENT[slug].intro) */}
-    <p>{intro}</p>
-
-    <section>
-      <h2>Compare Car Rental Options in {cityName}</h2>
-      <p>
-        Looking for a self drive car in {cityName} or thinking of how to book a car for a
-        weekend trip? Whether you need self drive cars in {cityName} for a quick city errand,
-        a longer rental car for outstation travel, or a one-way {cityName} car rental for an
-        inter-city trip — Zymo aggregates inventory from multiple rental partners.
-      </p>
+      <p class="z-answer-block" data-speakable="true">{answerBlock}</p>
     </section>
 
-    <section>
-      <h2>Pickup Areas in {cityName}</h2>
-      <p><strong>Popular pickup neighbourhoods:</strong> {popularAreas.join(', ')}.</p>
+    <section class="z-container z-card">
+      <h2>Self-drive car rentals in {cityName} with Zymo</h2>
+      <p>{intro}</p>
+      <div class="z-two-col">
+        <div>
+          <h3>Why book self-drive cars in {cityName} with Zymo?</h3>
+          <ul>
+            <li>Compare multiple rental partners in one place</li>
+            <li>Transparent pricing with no hidden Zymo fees</li>
+            <li>Options for low or zero security deposit (depending on partner)</li>
+            <li>App available on Android and iOS for easy booking</li>
+            <li>Support for outstation, local and airport trips</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Popular pickup areas in {cityName}</h3>
+          <p>{popularAreas.join(' • ')}</p>
+        </div>
+      </div>
     </section>
 
-    <section>
-      <h2>Road Trips from {cityName}</h2>
+    <section class="z-container z-card">
+      <h2>Road trips from {cityName}</h2>
       <p>Popular destinations you can drive to from {cityName}:</p>
       <ul>
         {nearbyDestinations.map((dest) => <li>{dest}</li>)}
       </ul>
-    </section>
-
-    <section>
-      <h2>Driving Tips for {cityName}</h2>
+      <h3>Driving tips for {cityName}</h3>
       <p>{tips}</p>
     </section>
 
-    <section>
-      <h2>Best Cars to Book in {cityName}</h2>
+    <section class="z-container z-card">
+      <h2>Best cars to book in {cityName}</h2>
       <p>{carTypes}</p>
-    </section>
-
-    <section>
-      <h2>Why Book from Zymo in {cityName}?</h2>
+      <h3>Why book from Zymo in {cityName}?</h3>
       <p>{whyZymo}</p>
-    </section>
-
-    <section>
-      <h2>How to Book a Self-Drive Car in {cityName}</h2>
+      <h3>How to book a self-drive car in {cityName}</h3>
       <p>{howItWorks}</p>
     </section>
 
-    <section>
-      <h2 id="prices">{cityName} Self-Drive Car Rental Prices</h2>
+    <section class="z-container z-card">
+      <h2 id="prices">{cityName} self-drive car rental prices</h2>
       <p>{priceNote}</p>
     </section>
 
-    <section>
-      <h2>Frequently Asked Questions — Car Rental in {cityName}</h2>
-      <dl class="z-faq">
+    <section class="z-container z-card">
+      <h2>Frequently asked questions about self-drive cars in {cityName}</h2>
+      <div class="z-faq">
         {faqs.map((f) => (
-          <>
-            <dt>{f.q}</dt>
-            <dd>{f.a}</dd>
-          </>
+          <details class="z-faq-item">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
         ))}
-      </dl>
+      </div>
     </section>
-  </article>
+  </main>
 
-  {/* Browser-only: register the <zymo-search> custom element. Astro processes
-      this <script> block through Vite, bundles it, and ships it as a module
-      to the browser. Because it references `HTMLElement`, it MUST live inside
-      this <script> and NOT in the Astro frontmatter. */}
   <script>
     import '../components/SearchWidget/search-widget.ts';
   </script>
 </SeoPage>
 
 <style>
-  .z-seo-article {
-    max-width: var(--z-container-max);
-    padding-top: var(--z-space-4);
-    padding-bottom: var(--z-space-4);
+  .z-city-main {
+    background: var(--z-bg);
+    color: var(--z-fg);
+    padding: var(--z-space-8) 0 var(--z-space-12);
   }
 
-  .z-breadcrumb {
-    margin: 0 0 var(--z-space-4);
+  .z-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: var(--z-space-4);
+    padding-right: var(--z-space-4);
+  }
+
+  @media (min-width: 640px) {
+    .z-container { padding-left: var(--z-space-6); padding-right: var(--z-space-6); }
+  }
+  @media (min-width: 1024px) {
+    .z-container { padding-left: var(--z-space-8); padding-right: var(--z-space-8); }
+  }
+
+  .z-city-hero {
+    padding-top: var(--z-space-6);
+    padding-bottom: var(--z-space-8);
   }
 
   .z-breadcrumb ol {
@@ -235,62 +218,164 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
     gap: var(--z-space-2);
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 0 0 var(--z-space-4);
     font-size: var(--z-text-sm);
     color: var(--z-fg-muted);
   }
+  .z-breadcrumb a { color: var(--z-fg-muted); text-decoration: none; }
+  .z-breadcrumb a:hover { color: var(--z-fg); }
 
-  .z-breadcrumb a {
-    color: var(--z-fg-muted);
+  .z-overline {
+    font-size: var(--z-text-xs);
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #c4b5fd;
+    margin: 0 0 var(--z-space-4);
+    font-weight: 600;
+  }
+
+  .z-hero-h1 {
+    font-size: 2rem;
+    line-height: 1.15;
+    font-weight: 700;
+    color: var(--z-fg-strong);
+    max-width: 48rem;
+    margin: 0 0 var(--z-space-6);
+  }
+  @media (min-width: 768px) {
+    .z-hero-h1 { font-size: 2.5rem; }
+  }
+  @media (min-width: 1024px) {
+    .z-hero-h1 { font-size: 3rem; }
+  }
+
+  .z-grad {
+    background: linear-gradient(90deg, #60a5fa 0%, #c084fc 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .z-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--z-space-3);
+    margin: 0 0 var(--z-space-6);
+  }
+  .z-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--z-space-2);
+    padding: var(--z-space-2) var(--z-space-4);
+    background: #0b1220;
+    border: 1px solid #1f2937;
+    border-radius: var(--z-radius-full);
+    font-size: var(--z-text-sm);
+    font-weight: 600;
+    color: var(--z-fg-strong);
+  }
+  .z-chip-dot {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px; height: 18px;
+    background: #10b981;
+    color: #04121a;
+    border-radius: var(--z-radius-full);
+    font-size: 12px;
+    font-weight: 800;
+  }
+
+  .z-search-card {
+    background: rgba(2, 6, 23, 0.6);
+    border: 1px solid #1f2937;
+    border-radius: 20px;
+    box-shadow: 0 0 40px rgba(0,0,0,0.6);
+    padding: var(--z-space-6);
+    margin: 0 0 var(--z-space-6);
+  }
+  .z-search-title {
+    text-align: center;
+    font-weight: 600;
+    color: var(--z-fg-strong);
+    margin: 0 0 var(--z-space-4);
+  }
+
+  .z-answer-block {
+    font-size: var(--z-text-base);
+    color: var(--z-fg);
+    line-height: 1.8;
+    margin: 0 0 var(--z-space-6);
+    max-width: 56rem;
   }
 
   .z-hero-img {
     width: 100%;
     height: auto;
-    /* Reserve layout box before the image bytes arrive — prevents CLS.
-       Attributes width=800 height=400 give the browser the 2:1 ratio, but
-       older browsers ignore intrinsic ratios unless `aspect-ratio` is set
-       explicitly here. Session 95 Lighthouse audit found the hero image
-       was Zymo's dominant CLS contributor (0.138 of 0.139 total). */
-    aspect-ratio: 800 / 400;
-    border-radius: var(--z-radius-md);
+    aspect-ratio: 1200 / 600;
+    border-radius: 20px;
     margin: 0 0 var(--z-space-4);
     background: var(--z-bg-soft);
   }
 
-  .z-answer-block {
-    font-size: var(--z-text-md);
+  .z-card {
+    background: rgba(2, 6, 23, 0.7);
+    border: 1px solid #1f2937;
+    border-radius: 20px;
+    padding: var(--z-space-8);
+    margin-top: var(--z-space-8);
+  }
+  .z-card h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
     color: var(--z-fg-strong);
-    line-height: 1.8;
     margin: 0 0 var(--z-space-4);
   }
-
-  section {
-    margin: var(--z-space-6) 0;
+  @media (min-width: 768px) {
+    .z-card h2 { font-size: 1.875rem; }
   }
-
-  section ul {
+  .z-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--z-fg-strong);
+    margin: var(--z-space-6) 0 var(--z-space-2);
+  }
+  .z-card p, .z-card li {
+    color: #d1d5db;
+    line-height: 1.7;
+  }
+  .z-card ul {
     padding-left: var(--z-space-6);
   }
+  .z-card li { margin-bottom: var(--z-space-2); }
 
-  section li {
-    margin-bottom: var(--z-space-2);
+  .z-two-col {
+    display: grid;
+    gap: var(--z-space-6);
+    margin-top: var(--z-space-4);
+  }
+  @media (min-width: 768px) {
+    .z-two-col { grid-template-columns: 1fr 1fr; }
   }
 
   .z-faq {
     display: flex;
     flex-direction: column;
-    gap: var(--z-space-4);
+    gap: var(--z-space-3);
   }
-
-  .z-faq dt {
-    font-weight: 700;
+  .z-faq-item {
+    border: 1px solid #1f2937;
+    border-radius: 12px;
+    padding: var(--z-space-4);
+    background: rgba(2,6,23,0.6);
+  }
+  .z-faq-item summary {
+    font-weight: 600;
     color: var(--z-fg-strong);
-    margin-bottom: var(--z-space-2);
+    cursor: pointer;
+    list-style: none;
   }
-
-  .z-faq dd {
-    margin: 0 0 var(--z-space-4);
-    color: var(--z-fg);
-  }
+  .z-faq-item summary::-webkit-details-marker { display: none; }
+  .z-faq-item[open] summary { margin-bottom: var(--z-space-3); }
+  .z-faq-item p { margin: 0; color: #d1d5db; }
 </style>

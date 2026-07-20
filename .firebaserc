@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "zymo-analytics-prod",
+    "staging": "zymo-analytics-prod"
+  }
+}

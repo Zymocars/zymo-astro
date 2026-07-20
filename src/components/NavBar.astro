@@ -2,10 +2,10 @@
 // NavBar.astro — static top nav for the SEO surface.
 // Verified port of the nav-link set and logo asset from
 // zymo-web/src/components/NavBar.tsx:20-26, 66-81 (read this session).
-// The React-only bits (auth listener, chat bubble timer, ThemeToggle, profile
-// state, city bubble prop) are intentionally omitted — SEO pages ship with no
-// auth-aware chrome. Mobile toggle uses the native <details> element instead of
-// useState so there is zero JS on the SEO surface.
+// Auth-aware bits (chat bubble, ThemeToggle, profile state, city bubble)
+// intentionally omitted — SEO pages ship no auth chrome.
+// Uses a hidden-checkbox + <label> toggle pattern so nav links are
+// visible on desktop without any JS.
 ---
 
 <nav aria-label="Main navigation" class="z-nav">
@@ -20,38 +20,37 @@
       />
     </a>
 
-    <details class="z-nav-menu">
-      <summary class="z-nav-menu-toggle" aria-label="Toggle navigation menu">
-        <svg
-          width="28"
-          height="28"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          aria-hidden="true"
-        >
-          <line x1="4" y1="6" x2="20" y2="6" />
-          <line x1="4" y1="12" x2="20" y2="12" />
-          <line x1="4" y1="18" x2="20" y2="18" />
-        </svg>
-      </summary>
+    <input type="checkbox" id="z-nav-toggle" class="z-nav-toggle-input" hidden />
+    <label for="z-nav-toggle" class="z-nav-toggle" aria-label="Toggle navigation menu">
+      <svg
+        width="28"
+        height="28"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <line x1="4" y1="6" x2="20" y2="6" />
+        <line x1="4" y1="12" x2="20" y2="12" />
+        <line x1="4" y1="18" x2="20" y2="18" />
+      </svg>
+    </label>
 
-      <ul class="z-nav-links">
-        <li><a href="/">Home</a></li>
-        <li><a href="/about-us">About Us</a></li>
-        <li><a href="/blogs">Blogs</a></li>
-        <li><a href="/career">Career</a></li>
-        <li><a href="/contact-us">Contact Us</a></li>
-        <li>
-          <a href="https://partner.zymo.app/homepage" target="_blank" rel="noreferrer">
-            Partner with Us
-          </a>
-        </li>
-      </ul>
-    </details>
+    <ul class="z-nav-links">
+      <li><a href="/">Home</a></li>
+      <li><a href="/about-us">About Us</a></li>
+      <li><a href="/blogs">Blogs</a></li>
+      <li><a href="/career">Career</a></li>
+      <li><a href="/contact-us">Contact Us</a></li>
+      <li>
+        <a href="https://partner.zymo.app/homepage" target="_blank" rel="noreferrer">
+          Partner with Us
+        </a>
+      </li>
+    </ul>
   </div>
 </nav>
 
@@ -81,15 +80,11 @@
   }
 
   .z-nav-logo img {
-    height: 40px;
+    height: 48px;
     width: auto;
   }
 
-  .z-nav-menu {
-    position: relative;
-  }
-
-  .z-nav-menu-toggle {
+  .z-nav-toggle {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -100,67 +95,69 @@
     border: 0;
     cursor: pointer;
     color: var(--z-fg-strong);
-    list-style: none;
-  }
-
-  .z-nav-menu-toggle::-webkit-details-marker {
-    display: none;
   }
 
   .z-nav-links {
-    position: absolute;
-    right: 0;
-    top: calc(100% + var(--z-space-2));
-    background: var(--z-bg-soft);
-    border: 1px solid var(--z-bg-hover);
-    border-radius: var(--z-radius-md);
-    box-shadow: var(--z-shadow-card);
+    display: none;
     list-style: none;
     margin: 0;
-    padding: var(--z-space-2);
-    min-width: 220px;
+    padding: 0;
   }
 
-  .z-nav-links li {
-    margin: 0;
+  .z-nav-toggle-input:checked ~ .z-nav-links {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    background: var(--z-bg);
+    border-top: 1px solid var(--z-bg-hover);
+    box-shadow: var(--z-shadow-card);
+    padding: var(--z-space-3);
+    gap: var(--z-space-2);
   }
 
   .z-nav-links a {
     display: block;
-    padding: var(--z-space-3);
+    padding: var(--z-space-2) var(--z-space-3);
     color: var(--z-fg-strong);
     font-weight: 600;
+    text-decoration: none;
     border-radius: var(--z-radius-sm);
-    transition: background var(--z-motion-fast);
+    transition: color var(--z-motion-fast), background var(--z-motion-fast);
   }
 
   .z-nav-links a:hover {
+    color: #00CCFF;
     background: var(--z-bg-hover);
-    text-decoration: none;
   }
 
   @media (min-width: 768px) {
-    .z-nav-menu {
-      position: static;
-    }
-
-    .z-nav-menu-toggle {
+    .z-nav-toggle {
       display: none;
     }
 
-    .z-nav-menu > .z-nav-links {
-      position: static;
+    .z-nav-links,
+    .z-nav-toggle-input:checked ~ .z-nav-links {
       display: flex;
-      gap: var(--z-space-3);
+      flex-direction: row;
+      position: static;
       background: transparent;
       border: 0;
       box-shadow: none;
       padding: 0;
-      min-width: auto;
+      gap: var(--z-space-5);
+      align-items: center;
     }
 
     .z-nav-links a {
-      padding: var(--z-space-2) var(--z-space-3);
+      padding: var(--z-space-2);
+      background: transparent;
+    }
+
+    .z-nav-links a:hover {
+      background: transparent;
     }
   }
 </style>

@@ -29,8 +29,8 @@ const cities = defineCollection({
     title: z.string(),
     description: z.string(),
     canonical: z.string().url().optional(),
-    heroImage: z.string(),                    // /images/CityCars&Price/{slug}.webp
-    heroAlt: z.string(),
+    heroImage: z.string().optional(),         // deprecated 2026-07-19 — cartoon hero images killed for brand + CWV
+    heroAlt: z.string().optional(),
 
     // Answer block — spoken/AEO
     answerBlock: z.string(),

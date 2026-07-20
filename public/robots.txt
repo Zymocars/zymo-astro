@@ -1,0 +1,7 @@
+# Astro staging deployment — do NOT index (duplicate of prod zymo.app).
+# When Astro flips to prod at zymo.app root, replace this file with:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://zymo.app/sitemap-index.xml
+User-agent: *
+Disallow: /
