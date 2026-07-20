@@ -137,6 +137,23 @@ const finalRobots = robots ?? (noindex ? 'noindex, nofollow' : 'index, follow');
       })();
     </script>
 
+    {/* Global schemas — Organization (with app-rating AggregateRating) */}
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Organization',
+      '@id': 'https://zymo.app/#organization',
+      name: 'Zymo',
+      url: 'https://zymo.app/',
+      logo: 'https://zymo.app/images/AppLogo/zymo-logo.png',
+      sameAs: [
+        'https://www.instagram.com/zymo.app/',
+        'https://twitter.com/zymoapp',
+        'https://www.linkedin.com/company/zymoapp/',
+        'https://www.facebook.com/zymo.official/',
+        'https://www.youtube.com/@zymoapp',
+      ],
+    })} />
+
     {/* Structured data — JSON-LD */}
     {jsonLd.map((schema) => (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />

@@ -38,56 +38,83 @@ const {
   howItWorks,
   priceNote,
   faqs,
+  h1: h1Override,
+  bodyHtml,
+  schemas: prebuiltSchemas,
+  ogImageFile,
 } = entry.data;
 
-const localBusinessSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
-  '@id': canonical,
-  name: `Zymo self-drive car rental — ${cityName}`,
-  url: canonical,
-  image: 'https://zymo.app/images/AppLogo/zymo-logo.png',
-  description,
-  priceRange: '₹₹',
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: cityName,
-    addressCountry: 'IN',
-  },
-  areaServed: {
-    '@type': 'City',
-    name: cityName,
-  },
-};
+const h1Text = h1Override || `Self-Drive Car Rental in ${cityName}`;
+const ogImage = ogImageFile
+  ? `https://zymo.app/images/CityCars%26Price/${ogImageFile}`
+  : 'https://zymo.app/images/AppLogo/zymo-logo.png';
 
-const breadcrumbSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://zymo.app/' },
-    { '@type': 'ListItem', position: 2, name: 'Self-Drive Car Rentals', item: 'https://zymo.app/self-drive-car-rental-india' },
-    { '@type': 'ListItem', position: 3, name: cityName, item: canonical },
-  ],
-};
+// If backend-migrated schemas are present, use them for byte-parity with prod SSR.
+// Otherwise fall back to the minimal inline 3-schema stack.
+let jsonLd: any[];
+if (prebuiltSchemas && prebuiltSchemas.length > 0) {
+  jsonLd = prebuiltSchemas as any[];
+} else {
+  const localBusinessSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'LocalBusiness',
+    '@id': `${canonical}#carrental`,
+    name: `Zymo self-drive car rental — ${cityName}`,
+    url: canonical,
+    image: ogImage,
+    description,
+    priceRange: '₹₹',
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: cityName,
+      addressCountry: 'IN',
+    },
+    areaServed: {
+      '@type': 'City',
+      name: cityName,
+    },
+  };
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://zymo.app/' },
+      { '@type': 'ListItem', position: 2, name: 'Self-Drive Car Rentals', item: 'https://zymo.app/self-drive-car-rental-india' },
+      { '@type': 'ListItem', position: 3, name: cityName, item: canonical },
+    ],
+  };
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: (faqs || []).map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  };
+  jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
+}
 
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: faqs.map((f) => ({
-    '@type': 'Question',
-    name: f.q,
-    acceptedAnswer: { '@type': 'Answer', text: f.a },
-  })),
-};
-
-const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
+// Always emit FAQPage schema from front-matter faqs if not already in prebuiltSchemas
+const hasFaqPage = jsonLd.some((s: any) => s && s['@type'] === 'FAQPage');
+if (!hasFaqPage && faqs && faqs.length > 0) {
+  jsonLd = [...jsonLd, {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  }];
+}
 ---
 
 <SeoPage
   title={title}
   description={description}
   canonical={canonical}
-  ogImage="https://zymo.app/images/AppLogo/zymo-logo.png"
+  ogImage={ogImage}
   ogType="website"
   jsonLd={jsonLd}
 >
@@ -105,9 +132,7 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
 
       <p class="z-overline">Self-drive car rental in {cityName}</p>
 
-      <h1 class="z-hero-h1">
-        Book self-drive car rentals in <span class="z-grad">{cityName}</span> with Zymo.
-      </h1>
+      <h1 class="z-hero-h1">{h1Text}</h1>
 
       <div class="z-chips">
         <span class="z-chip"><span class="z-chip-dot">✓</span> Compare multiple providers</span>
@@ -123,62 +148,68 @@ const jsonLd = [localBusinessSchema, breadcrumbSchema, faqSchema];
       <p class="z-answer-block" data-speakable="true">{answerBlock}</p>
     </section>
 
-    <section class="z-container z-card">
-      <h2>Self-drive car rentals in {cityName} with Zymo</h2>
-      <p>{intro}</p>
-      <div class="z-two-col">
-        <div>
-          <h3>Why book self-drive cars in {cityName} with Zymo?</h3>
+    {bodyHtml ? (
+      <div class="z-container z-body-html" set:html={bodyHtml} />
+    ) : (
+      <>
+        <section class="z-container z-card">
+          <h2>Self-drive car rentals in {cityName} with Zymo</h2>
+          <p>{intro}</p>
+          <div class="z-two-col">
+            <div>
+              <h3>Why book self-drive cars in {cityName} with Zymo?</h3>
+              <ul>
+                <li>Compare multiple rental partners in one place</li>
+                <li>Transparent pricing with no hidden Zymo fees</li>
+                <li>Options for low or zero security deposit (depending on partner)</li>
+                <li>App available on Android and iOS for easy booking</li>
+                <li>Support for outstation, local and airport trips</li>
+              </ul>
+            </div>
+            <div>
+              <h3>Popular pickup areas in {cityName}</h3>
+              <p>{popularAreas.join(' • ')}</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="z-container z-card">
+          <h2>Road trips from {cityName}</h2>
+          <p>Popular destinations you can drive to from {cityName}:</p>
           <ul>
-            <li>Compare multiple rental partners in one place</li>
-            <li>Transparent pricing with no hidden Zymo fees</li>
-            <li>Options for low or zero security deposit (depending on partner)</li>
-            <li>App available on Android and iOS for easy booking</li>
-            <li>Support for outstation, local and airport trips</li>
+            {nearbyDestinations.map((dest) => <li>{dest}</li>)}
           </ul>
-        </div>
-        <div>
-          <h3>Popular pickup areas in {cityName}</h3>
-          <p>{popularAreas.join(' • ')}</p>
-        </div>
-      </div>
-    </section>
+          <h3>Driving tips for {cityName}</h3>
+          <p>{tips}</p>
+        </section>
 
-    <section class="z-container z-card">
-      <h2>Road trips from {cityName}</h2>
-      <p>Popular destinations you can drive to from {cityName}:</p>
-      <ul>
-        {nearbyDestinations.map((dest) => <li>{dest}</li>)}
-      </ul>
-      <h3>Driving tips for {cityName}</h3>
-      <p>{tips}</p>
-    </section>
+        <section class="z-container z-card">
+          <h2>Best cars to book in {cityName}</h2>
+          <p>{carTypes}</p>
+          <h3>Why book from Zymo in {cityName}?</h3>
+          <p>{whyZymo}</p>
+          <h3>How to book a self-drive car in {cityName}</h3>
+          <p>{howItWorks}</p>
+        </section>
 
-    <section class="z-container z-card">
-      <h2>Best cars to book in {cityName}</h2>
-      <p>{carTypes}</p>
-      <h3>Why book from Zymo in {cityName}?</h3>
-      <p>{whyZymo}</p>
-      <h3>How to book a self-drive car in {cityName}</h3>
-      <p>{howItWorks}</p>
-    </section>
+        <section class="z-container z-card">
+          <h2 id="prices">{cityName} self-drive car rental prices</h2>
+          <p>{priceNote}</p>
+        </section>
 
-    <section class="z-container z-card">
-      <h2 id="prices">{cityName} self-drive car rental prices</h2>
-      <p>{priceNote}</p>
-    </section>
-
-    <section class="z-container z-card">
-      <h2>Frequently asked questions about self-drive cars in {cityName}</h2>
-      <div class="z-faq">
-        {faqs.map((f) => (
-          <details class="z-faq-item">
-            <summary>{f.q}</summary>
-            <p>{f.a}</p>
-          </details>
-        ))}
-      </div>
-    </section>
+        <section class="z-container z-card">
+          <h2>Frequently asked questions about self-drive cars in {cityName}</h2>
+          <div class="z-faq">
+            {faqs.map((f) => (
+              <details class="z-faq-item">
+                <summary>{f.q}</summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      </>
+    )}
   </main>
 
   <script>

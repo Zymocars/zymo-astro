@@ -16,6 +16,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { createRequire } from 'node:module';
+import yaml from 'js-yaml';
 
 const require = createRequire(import.meta.url);
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -172,8 +173,14 @@ function toYamlValue(v, indent = 0) {
 }
 
 function toFrontMatter(obj) {
-  const lines = Object.entries(obj).map(([k, v]) => `${k}: ${toYamlValue(v, 1)}`);
-  return `---\n${lines.join('\n')}\n---\n`;
+  // Use js-yaml for reliable serialization — handles @-keys, unicode, block scalars, nesting.
+  const body = yaml.dump(obj, {
+    lineWidth: -1,       // never fold lines
+    noRefs: true,
+    quotingType: '"',
+    forceQuotes: false,
+  });
+  return `---\n${body}---\n`;
 }
 
 // -----------------------------------------------------------------------------
@@ -183,6 +190,10 @@ async function main() {
   const args = process.argv.slice(2);
   const cityContent = require(path.join(ZYMO_BACKEND, 'cityContent.js'));
   const cityData = require(path.join(ZYMO_BACKEND, 'cityData.json'));
+  const metaConfigs = require(path.join(ZYMO_BACKEND, 'metaConfigs.js'));
+  const reviewData = require(path.join(ZYMO_BACKEND, 'reviewData.js'));
+  const routeConfigs = require(path.join(ZYMO_BACKEND, 'routeConfigs.js'));
+  const answersMod = require(path.join(ZYMO_BACKEND, 'answersContent.js'));
   const { CITY_SEO_CONTENT } = cityContent;
 
   if (!CITY_SEO_CONTENT) {
@@ -212,14 +223,118 @@ async function main() {
     // cityData has per-city structured airport/pickup/road-trip info
     const cd = cityData?.[slug] || {};
 
+    // Backend-generated meta (title override + description override + og image URL)
+    const cityMeta = metaConfigs.getCityMeta(slug);
+
+    // Full JSON-LD schema stack from backend (LocalBusiness, HowTo, Place, WebPage, ImageObject, BreadcrumbList)
+    const schemas = metaConfigs.getCityPageSchemas(slug, cityName);
+
+    // FAQ merge via SSOT helper (accessed through getCityFAQSchema which internally
+    // calls buildCityFAQs). Returns schema shape { mainEntity: [{name, acceptedAnswer.text}] }
+    // — unwrap to {q,a} for the collection.
+    let mergedFaqs = null;
+    if (typeof cityContent.getCityFAQSchema === 'function') {
+      const faqSchema = cityContent.getCityFAQSchema(slug);
+      if (faqSchema && faqSchema.mainEntity) {
+        mergedFaqs = faqSchema.mainEntity.map(e => ({
+          q: e.name,
+          a: e.acceptedAnswer?.text || '',
+        }));
+      }
+    }
+
+    // Pre-rendered body HTML (all 7 sections prod emits)
+    let bodyHtml = null;
+    try {
+      bodyHtml = cityContent.generateCityContentHtml(slug, cityName);
+    } catch (e) {
+      console.warn(`[warn] generateCityContentHtml failed for ${slug}: ${e.message}`);
+    }
+
+    // Reviews (real GBP-sourced testimonials — never invented).
+    // Backend shape: {name, rating, text, date, source} — normalize to zod schema
+    // {name, stars, body, date?, source?}.
+    const reviewsRaw = typeof reviewData.getReviewsForCity === 'function'
+      ? (reviewData.getReviewsForCity(slug, 5) || [])
+      : [];
+    const reviews = reviewsRaw.map(r => ({
+      name: r.name,
+      stars: r.rating ?? r.stars ?? 5,
+      body: r.text ?? r.body ?? '',
+      ...(r.date ? { date: r.date } : {}),
+      ...(r.source ? { source: r.source } : {}),
+    })).filter(r => r.name && r.body);
+
+    // Route links (up to 4) — filter ROUTE_DATA for keys matching `${slug}-to-*`
+    const routeLinks = [];
+    if (routeConfigs.ROUTE_DATA) {
+      for (const routeSlug of Object.keys(routeConfigs.ROUTE_DATA)) {
+        if (routeLinks.length >= 4) break;
+        if (routeSlug.startsWith(`${slug}-to-`)) {
+          const dest = routeSlug.slice(`${slug}-to-`.length).split('-')
+            .map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+          routeLinks.push({ label: `${cityName} to ${dest}`, path: `/self-drive-${routeSlug}` });
+        }
+      }
+    }
+
+    // Nearby cities from backend helper
+    let internalLinks;
+    if (typeof cityContent.getNearbyCityLinks === 'function') {
+      const nearby = cityContent.getNearbyCityLinks(slug) || [];
+      if (nearby.length) {
+        internalLinks = nearby.map(n => ({
+          label: n.label || formatCityName(n.slug || n),
+          path: n.path || `/self-drive-car-rental-in-${n.slug || n}`,
+        }));
+      }
+    }
+
+    // Static modifier options — 4 links per city
+    const moreOptions = [
+      { label: `Cheap car rental in ${cityName}`, path: `/cheap-car-rental-in-${slug}` },
+      { label: `Airport car rental in ${cityName}`, path: `/airport-car-rental-in-${slug}` },
+      { label: `Weekend car rental in ${cityName}`, path: `/weekend-car-rental-in-${slug}` },
+      { label: `Monthly car rental in ${cityName}`, path: `/monthly-car-rental-in-${slug}` },
+    ];
+
+    // HowTo schema — global 4-step, same for all city pages
+    const howToSteps = (metaConfigs.getRentalHowToSchema()?.step || []).map(s => ({
+      name: s.name,
+      text: s.text,
+      ...(s.url ? { url: s.url } : {}),
+    }));
+
+    // Citation sources for the corresponding answer slug (optional)
+    const answerSlug = `self-drive-car-rental-${slug}`;
+    const citationSources = answersMod.CITATION_SOURCES?.[answerSlug];
+
+    // Extract geo from LocalBusiness schema (avoids relying on unexported CITY_GEO map)
+    let geo;
+    const localBusiness = schemas.find(s => s['@type'] === 'LocalBusiness');
+    if (localBusiness?.geo && localBusiness?.address?.addressRegion) {
+      geo = {
+        lat: localBusiness.geo.latitude,
+        lng: localBusiness.geo.longitude,
+        state: localBusiness.address.addressRegion,
+      };
+    }
+
+    // Extract og image URL parts to a filename (or use as-is)
+    let ogImageFile;
+    const ogUrl = cityMeta?.og?.image || '';
+    const ogMatch = ogUrl.match(/CityCars%26Price\/([^\/]+)$/);
+    if (ogMatch) ogImageFile = ogMatch[1];
+
     const frontMatter = {
       slug,
       cityName,
-      title: metaTitleFor(cityName),
-      description: metaDescriptionFor(cityName),
-      canonical: `https://zymo.app/self-drive-car-rental-in-${slug}`,
+      title: cityMeta.title,
+      description: cityMeta.description,
+      canonical: cityMeta.canonical,
       heroImage,
       heroAlt: heroAltFor(cityName),
+      h1: `Self-Drive Car Rental in ${cityName}`,
       answerBlock: buildAnswerBlock(slug, cityName),
       intro: content.intro,
       popularAreas: content.popularAreas,
@@ -229,14 +344,28 @@ async function main() {
       whyZymo: content.whyZymo,
       howItWorks: content.howItWorks,
       priceNote: content.priceNote,
-      faqs: content.faqs,
+      faqs: (mergedFaqs && mergedFaqs.length > 0) ? mergedFaqs : content.faqs,
     };
 
-    // Optional cityData extras
+    if (geo) frontMatter.geo = geo;
+    if (ogImageFile) frontMatter.ogImageFile = ogImageFile;
+    if (howToSteps.length) frontMatter.howToSteps = howToSteps;
+    frontMatter.speakableSelectors = ['[data-speakable]'];
+    if (routeLinks.length) frontMatter.routeLinks = routeLinks;
+    if (internalLinks) frontMatter.internalLinks = internalLinks;
+    frontMatter.moreOptions = moreOptions;
+    if (citationSources) frontMatter.citationSources = citationSources;
+    if (reviews.length) frontMatter.reviews = reviews;
+
+    // cityData structured fields (may already exist per prior migration)
     if (cd.airportInfo) frontMatter.airportInfo = cd.airportInfo;
     if (cd.pickupAreas) frontMatter.pickupAreas = cd.pickupAreas;
     if (cd.roadTripsTable) frontMatter.roadTripsTable = cd.roadTripsTable;
-    if (cd.internalLinks) frontMatter.internalLinks = cd.internalLinks;
+    if (cd.pricing) frontMatter.pricing = cd.pricing;
+
+    // Byte-parity safety net — pre-rendered body + schemas
+    if (bodyHtml) frontMatter.bodyHtml = bodyHtml;
+    frontMatter.schemas = schemas;
 
     const body = `<!--
 This file was migrated from zymo-backend/functions/seo/cityContent.js

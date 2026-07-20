@@ -96,6 +96,78 @@ const cities = defineCollection({
       count: z.number(),
     }).optional(),
 
+    // -----------------------------------------------------------------------
+    // Extended fields (Session 96 — Astro parity closure with prod)
+    // -----------------------------------------------------------------------
+
+    // H1 override — template falls back to `Self-Drive Car Rental in ${cityName}` if absent
+    h1: z.string().optional(),
+
+    // Geo coordinates for LocalBusiness + Place schemas — from metaConfigs.CITY_GEO
+    geo: z.object({
+      lat: z.number(),
+      lng: z.number(),
+      state: z.string(),
+    }).optional(),
+
+    // Pricing per class — from cityData.json .pricing — used for AggregateOffer schema
+    pricing: z.object({
+      hatchback: z.string().optional(),
+      sedan: z.string().optional(),
+      suv: z.string().optional(),
+    }).partial().optional(),
+
+    // HowTo schema steps — from metaConfigs.HOWTO_SCHEMAS[`self-drive-car-rental-${slug}`].step
+    howToSteps: z.array(z.object({
+      name: z.string(),
+      text: z.string(),
+      url: z.string().optional(),
+    })).optional(),
+
+    // SpeakableSpecification selectors for WebPage schema
+    speakableSelectors: z.array(z.string()).optional(),
+
+    // OG image filename (path relative to /images/CityCars&Price/) — from metaConfigs.CITY_OG_IMAGES
+    ogImageFile: z.string().optional(),
+
+    // Route links for "Drive from {city}" section (max 4) — from ROUTE_DATA filtered on citySlug-to-*
+    routeLinks: z.array(z.object({
+      label: z.string(),
+      path: z.string(),
+    })).max(4).optional(),
+
+    // Useful resources for "Useful Resources for Driving in {city}" section — from CITY_RESOURCES
+    usefulResources: z.array(z.object({
+      label: z.string(),
+      url: z.string(),
+    })).optional(),
+
+    // Modifier internal-link block for "More Car Rental Options in {city}"
+    moreOptions: z.array(z.object({
+      label: z.string(),
+      path: z.string(),
+    })).optional(),
+
+    // Citation sources from answersContent.js CITATION_SOURCES
+    citationSources: z.array(z.object({
+      label: z.string(),
+      url: z.string(),
+    })).optional(),
+
+    // -----------------------------------------------------------------------
+    // Byte-parity safety net (Session 96)
+    // -----------------------------------------------------------------------
+
+    // Pre-rendered HTML body from cityContent.generateCityContentHtml(slug).
+    // Emitted via <Fragment set:html={bodyHtml}> — guarantees byte-parity with prod
+    // while structured fields above allow future template-driven rewrite.
+    bodyHtml: z.string().optional(),
+
+    // Pre-computed JSON-LD schema array from metaConfigs.getCityPageSchemas(slug, cityName).
+    // Each entry is a plain object; template emits <script type="application/ld+json">
+    // for each. Same reason as bodyHtml — guaranteed schema parity.
+    schemas: z.array(z.unknown()).optional(),
+
     // Deprecated on prod (fake ratings pulled 2026-04-27) — keep field to catch
     // any migration that accidentally re-introduces booking-count claims.
     __denyBookingCountClaims: z.literal(true).default(true),
