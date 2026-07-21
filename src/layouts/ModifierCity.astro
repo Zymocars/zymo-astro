@@ -9,7 +9,7 @@
 // migrated bodyHtml verbatim + adds a search widget island + JSON-LD schemas.
 
 import SeoPage from './SeoPage.astro';
-import '../components/SearchWidget/search-widget.css';
+import NewRSBIsland from '../components/react-island/NewRSBIsland';
 
 export interface Props {
   entry: {
@@ -90,13 +90,10 @@ if (faqs && faqs.length > 0) {
     <Fragment set:html={bodyHtml} />
 
     <div class="z-modifier-search z-container">
-      <zymo-search city={citySlug}></zymo-search>
+      <NewRSBIsland client:only="react" urlcity={citySlug} />
     </div>
   </article>
 
-  <script>
-    import '../components/SearchWidget/search-widget.ts';
-  </script>
 </SeoPage>
 
 <style>

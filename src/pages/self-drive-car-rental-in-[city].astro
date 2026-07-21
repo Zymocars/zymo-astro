@@ -6,7 +6,7 @@
 
 import { getCollection, getEntry } from 'astro:content';
 import SeoPage from '../layouts/SeoPage.astro';
-import '../components/SearchWidget/search-widget.css';
+import NewRSBIsland from '../components/react-island/NewRSBIsland';
 
 export async function getStaticPaths() {
   const cities = await getCollection('cities');
@@ -142,7 +142,7 @@ if (!hasFaqPage && faqs && faqs.length > 0) {
 
       <div class="z-search-card">
         <p class="z-search-title">Great deals, Smooth drives</p>
-        <zymo-search city={slug}></zymo-search>
+        <NewRSBIsland client:only="react" urlcity={slug} />
       </div>
 
       <p class="z-answer-block" data-speakable="true">{answerBlock}</p>
@@ -212,9 +212,6 @@ if (!hasFaqPage && faqs && faqs.length > 0) {
     )}
   </main>
 
-  <script>
-    import '../components/SearchWidget/search-widget.ts';
-  </script>
 </SeoPage>
 
 <style>

@@ -11,7 +11,7 @@
 
 import { getEntry } from 'astro:content';
 import SeoPage from './SeoPage.astro';
-import '../components/SearchWidget/search-widget.css';
+import NewRSBIsland from '../components/react-island/NewRSBIsland';
 
 export interface Props {
   slug: string;
@@ -93,13 +93,10 @@ if (faqs && faqs.length > 0) {
     {/* Search widget for landings that funnel to booking. Passing city="mumbai"
         as the default; users can change on the widget. */}
     <div class="z-landing-search z-container">
-      <zymo-search city="mumbai"></zymo-search>
+      <NewRSBIsland client:only="react" />
     </div>
   </article>
 
-  <script>
-    import '../components/SearchWidget/search-widget.ts';
-  </script>
 </SeoPage>
 
 <style>

@@ -112,6 +112,17 @@ const finalRobots = robots ?? (noindex ? 'noindex, nofollow' : 'index, follow');
         or a 5s fallback so bounces still get counted. */}
     <script is:inline>
       (function () {
+        // EAGER: initialize dataLayer + a stub gtag() immediately so any code
+        // (React island NewRSB via ga4Analytics.ts) firing analytics BEFORE
+        // user interaction queues events into dataLayer instead of dropping them.
+        // The real gtag.js script (which reads dataLayer + sends to GA4) is
+        // deferred to first interaction below to preserve LCP.
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+        window.gtag('js', new Date());
+        window.gtag('config', 'G-ZBYWHYQNXB', { send_page_view: true });
+        window.gtag('config', 'AW-11464217393');
+
         var loaded = false;
         function loadGtag() {
           if (loaded) return; loaded = true;
@@ -119,11 +130,6 @@ const finalRobots = robots ?? (noindex ? 'noindex, nofollow' : 'index, follow');
           s.async = true;
           s.src = 'https://www.googletagmanager.com/gtag/js?id=G-ZBYWHYQNXB';
           document.head.appendChild(s);
-          window.dataLayer = window.dataLayer || [];
-          window.gtag = function () { window.dataLayer.push(arguments); };
-          window.gtag('js', new Date());
-          window.gtag('config', 'G-ZBYWHYQNXB', { send_page_view: true });
-          window.gtag('config', 'AW-11464217393');
         }
         var opts = { once: true, passive: true };
         ['scroll', 'click', 'touchstart', 'keydown'].forEach(function (e) {
