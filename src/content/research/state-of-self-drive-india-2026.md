@@ -1,16 +1,16 @@
 ---
-slug: "state-of-self-drive-india-2026"
-title: "State of Self-Drive India 2026 — Research Report | Zymo"
-description: "Complete 2026 research report on India's self-drive car rental market — trends, city penetration, demand shifts, competitive landscape. Free PDF download."
-canonical: "https://zymo.app/research/state-of-self-drive-india-2026"
-bodyHtml: |
+slug: state-of-self-drive-india-2026
+title: State of Self-Drive India 2026 — Research Report | Zymo
+description: Complete 2026 research report on India's self-drive car rental market — trends, city penetration, demand shifts, competitive landscape. Free PDF download.
+canonical: https://zymo.app/research/state-of-self-drive-india-2026
+bodyHtml: |-
   <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:840px;margin:0 auto;line-height:1.8;font-size:0.95rem" itemscope itemtype="https://schema.org/Dataset">
-  
+
   <h1 style="color:#FFFFFF;font-size:1.7rem;margin-bottom:0.5rem;line-height:1.3" itemprop="name">The State of Self-Drive Car Rental in India 2026</h1>
   <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Published by <a href="https://zymo.app" style="color:#4F7BFF;text-decoration:none" itemprop="publisher">Zymo</a> &middot; <span itemprop="datePublished">May 2, 2026</span> &middot; Market analysis &middot; <a href="#methodology" style="color:#4F7BFF;text-decoration:none">Methodology</a> &middot; <a href="#cite" style="color:#4F7BFF;text-decoration:none">Cite this report</a> &middot; <a href="/research/state-of-self-drive-india-2026.pdf" style="color:#4F7BFF;text-decoration:none" download>Download PDF</a></p>
-  
+
   <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem" itemprop="description">India's car rental market is worth over USD 3 billion in 2026, with the self-drive segment growing faster than the broader market. This report analyzes the size, growth, and shifting use cases of self-drive car rental across 60+ Indian cities — including the emerging Extended Test Drive trend that has become a meaningful and growing share of bookings. Data sources: Mordor Intelligence, IMARC Group, Grand View Research, Statista, and Zymo platform observations across multiple partners.</p>
-  
+
   <nav style="background:#16222E;padding:1rem 1.5rem;border-radius:8px;margin:1.5rem 0">
   <strong style="color:#FFFFFF">Sections in this report:</strong>
   <ol style="margin:0.5rem 0 0;padding-left:1.2rem">
@@ -25,10 +25,10 @@ bodyHtml: |
   <li><a href="#cite" style="color:#4F7BFF;text-decoration:none">How to cite this report</a></li>
   </ol>
   </nav>
-  
+
   <h2 id="market-size" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Market size and growth</h2>
   <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">India's car rental industry is projected to reach USD 4.48 billion by 2030, growing at a CAGR in the 7-14% range across leading market-research firms (Mordor Intelligence, IMARC Group, Grand View Research). Within that, self-drive is the fastest-growing segment. The majority of rentals are now booked online — a digital-first market.</p>
-  
+
   <table style="width:100%;border-collapse:collapse;margin:1rem 0;font-size:0.9rem">
   <thead><tr>
   <th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Metric</th>
@@ -44,7 +44,7 @@ bodyHtml: |
   </tbody>
   </table>
   <p style="font-size:0.8rem;color:#8A94A6;margin-top:0.25rem;font-style:italic">Sources: Mordor Intelligence (2025); IMARC Group (2025); Grand View Research (2025).</p>
-  
+
   <figure style="margin:1.5rem 0;background:#0B1320;border-radius:12px;padding:1rem">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="chart1-title chart1-desc" style="display:block;max-width:100%;height:auto;background:#05070E;border-radius:10px">
   <title id="chart1-title">India Car Rental Market Size — 2025 to 2030 (USD Billions)</title>
@@ -73,7 +73,7 @@ bodyHtml: |
   <code style="display:block;background:#05070E;padding:8px 10px;border-radius:4px;color:#B3B7C3;font-family:monospace;font-size:0.75rem;word-break:break-all">&lt;iframe src="https://zymo.app/embed/market-trajectory" width="100%" height="400" frameborder="0" loading="lazy" title="Zymo Research chart" style="max-width:640px"&gt;&lt;/iframe&gt;</code>
   </details>
   </figure>
-  
+
   <figure style="margin:1.5rem 0;background:#0B1320;border-radius:12px;padding:1rem">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img" aria-labelledby="chart2-title chart2-desc" style="display:block;max-width:100%;height:auto;background:#05070E;border-radius:10px">
   <title id="chart2-title">India Self-Drive Market CAGR — Estimate range across leading research firms</title>
@@ -103,20 +103,20 @@ bodyHtml: |
   <code style="display:block;background:#05070E;padding:8px 10px;border-radius:4px;color:#B3B7C3;font-family:monospace;font-size:0.75rem;word-break:break-all">&lt;iframe src="https://zymo.app/embed/cagr-range" width="100%" height="400" frameborder="0" loading="lazy" title="Zymo Research chart" style="max-width:640px"&gt;&lt;/iframe&gt;</code>
   </details>
   </figure>
-  
+
   <p>Three forces are driving the shift to self-drive:</p>
   <ol>
   <li><strong style="color:#FFFFFF">Urbanization plus weekend culture.</strong> Urban Indian households plan 2-3 weekend getaways per quarter on average. Self-drive is the most flexible option for these short, high-volume trips.</li>
   <li><strong style="color:#FFFFFF">Highway infrastructure.</strong> Expressways connecting major city pairs (Delhi-Jaipur, Mumbai-Pune, Bangalore-Mysore, Bangalore-Chennai) have made long-distance driving safer and faster, opening previously avoided routes.</li>
   <li><strong style="color:#FFFFFF">Digital-first booking.</strong> Most rentals now happen through online platforms — customers compare prices and inventory before committing.</li>
   </ol>
-  
+
   <h2 id="use-cases" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How Indians actually use self-drive cars</h2>
   <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive bookings in India fall into four categories: weekend getaways (the largest segment), extended test drives (the fastest-growing emerging use case), monthly rentals for relocation or project work, and short city commutes. Pattern from Zymo platform observation: most bookings cluster at 100-600 km distances and 1-3 day durations.</p>
-  
+
   <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Weekend getaways: the biggest segment</h3>
   <p>Weekend bookings account for the majority of self-drive trips. The most popular routes share a clear pattern — short-to-medium distances on scenic, well-maintained highways:</p>
-  
+
   <table style="width:100%;border-collapse:collapse;margin:1rem 0;font-size:0.9rem">
   <thead><tr>
   <th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Route</th>
@@ -134,7 +134,7 @@ bodyHtml: |
   </tbody>
   </table>
   <p>The pattern is consistent: short-to-medium distances (100-600 km), scenic routes, 1-3 day trips. Self-drive wins these trips because travelers need a car at the destination, not just transport to it.</p>
-  
+
   <figure style="margin:1.5rem 0;background:#0B1320;border-radius:12px;padding:1rem">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-labelledby="chart5-title chart5-desc" style="display:block;max-width:100%;height:auto;background:#05070E;border-radius:10px">
   <title id="chart5-title">Popular Self-Drive Routes Across India — Distance in Kilometers</title>
@@ -167,12 +167,12 @@ bodyHtml: |
   <code style="display:block;background:#05070E;padding:8px 10px;border-radius:4px;color:#B3B7C3;font-family:monospace;font-size:0.75rem;word-break:break-all">&lt;iframe src="https://zymo.app/embed/popular-routes" width="100%" height="400" frameborder="0" loading="lazy" title="Zymo Research chart" style="max-width:640px"&gt;&lt;/iframe&gt;</code>
   </details>
   </figure>
-  
+
   <h2 id="etd" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Extended Test Drives — the emerging category</h2>
   <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An unexpected use case has emerged: a meaningful and growing share of self-drive bookings in India are now from prospective buyers testing a car before purchase, not for travel. The Extended Test Drive (ETD) — booking a specific car model for 2-7 days to drive through real daily life before committing to a Rs 10-15 lakh purchase — is one of the fastest-growing categories on aggregator platforms, expanding rapidly year over year.</p>
-  
+
   <p>These users book a specific car model — a Hyundai Creta, a Tata Nexon, a Maruti Swift, a Honda City — and drive it through their actual conditions: their commute, their parking spot, their family's luggage, their weekend highway run. They learn things a short test drive cannot reveal:</p>
-  
+
   <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:14px 18px;margin:1.5rem 0;border-radius:0 8px 8px 0;font-size:0.95rem">
   <strong style="color:#FFFFFF">What customers report discovering during an Extended Test Drive:</strong>
   <ul style="margin-top:0.5rem">
@@ -183,23 +183,23 @@ bodyHtml: |
   <li>Parking-spot fit and turning radius matter much more than maximum dimensions suggest</li>
   </ul>
   </div>
-  
+
   <p>The economics make sense: spend Rs 3,000-5,000 to evaluate a car for 3 days before committing Rs 15 lakh. That's less than 0.5% of the purchase price for a substantially better-informed decision.</p>
-  
+
   <p>This category is concentrated in metros where car-buying volumes are highest. Average evaluation booking length is approximately 3-4 days.</p>
-  
+
   <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:14px 18px;margin:1.5rem 0;border-radius:0 8px 8px 0;font-size:0.95rem">
   <strong style="color:#FFFFFF">Most popular cars used for Extended Test Drives:</strong>
   <p style="margin-top:0.5rem">Hyundai Creta, Kia Seltos, Maruti Swift, Honda City, Tata Nexon — concentrated in the Rs 10-15 lakh segment, the sweet spot of Indian family car purchases.</p>
   <strong style="color:#FFFFFF">Top cities for Extended Test Drives:</strong>
   <p style="margin-top:0.5rem">Bangalore, Mumbai, Pune, Hyderabad, Delhi NCR — the high-volume car-buying metros.</p>
   </div>
-  
+
   <p>The behavior is most pronounced in the Rs 10-15 lakh segment. <a href="/extended-test-drive" style="color:#4F7BFF;text-decoration:none">Read more about Extended Test Drives</a>.</p>
-  
+
   <h2 id="tier2" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The Tier-2 opportunity</h2>
   <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Tier-2 and Tier-3 cities now account for a significant and rising share of new car rental demand in India — a meaningful shift from metro-only patterns five years ago. Cities like Indore, Kochi, Jaipur, Nashik, Mysore, Coimbatore, and Visakhapatnam are seeing growing self-drive demand, driven by improved highway connectivity, limited public transport for outstation routes, and rising disposable income outside metros.</p>
-  
+
   <p>Four reasons this shift is happening:</p>
   <ul>
   <li><strong style="color:#FFFFFF">Improved road infrastructure</strong> connects Tier-2 cities to nearby tourist destinations within drivable distances</li>
@@ -207,12 +207,12 @@ bodyHtml: |
   <li><strong style="color:#FFFFFF">Rising disposable income</strong> and weekend travel culture spreading beyond metros</li>
   <li><strong style="color:#FFFFFF">Digital adoption</strong> — online booking is no longer a metro-only behavior</li>
   </ul>
-  
+
   <p>Zymo operates across 60+ Indian cities, many of them Tier-2 and Tier-3. Some of the strongest engagement comes from cities national operators have not prioritized.</p>
-  
+
   <h2 id="economics" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Self-drive vs other transport: the economics</h2>
   <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive consistently wins on cost for groups of 2 or more people. The break-even is clear: solo travelers benefit from buses or trains, but the moment a trip has two or more passengers, self-drive becomes the most economical mode while also offering something no other mode does — a car at the destination.</p>
-  
+
   <table style="width:100%;border-collapse:collapse;margin:1rem 0;font-size:0.9rem">
   <thead><tr>
   <th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Transport mode</th>
@@ -228,7 +228,7 @@ bodyHtml: |
   </tbody>
   </table>
   <p style="font-size:0.8rem;color:#8A94A6;margin-top:0.25rem;font-style:italic">Sources: Live pricing from Zymo platform (May 2026); IRCTC fares; airline aggregator average fares.</p>
-  
+
   <figure style="margin:1.5rem 0;background:#0B1320;border-radius:12px;padding:1rem">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="chart3-title chart3-desc" style="display:block;max-width:100%;height:auto;background:#05070E;border-radius:10px">
   <title id="chart3-title">Mumbai → Goa Cost Comparison (2 travelers)</title>
@@ -261,7 +261,7 @@ bodyHtml: |
   <code style="display:block;background:#05070E;padding:8px 10px;border-radius:4px;color:#B3B7C3;font-family:monospace;font-size:0.75rem;word-break:break-all">&lt;iframe src="https://zymo.app/embed/mumbai-goa-cost" width="100%" height="400" frameborder="0" loading="lazy" title="Zymo Research chart" style="max-width:640px"&gt;&lt;/iframe&gt;</code>
   </details>
   </figure>
-  
+
   <figure style="margin:1.5rem 0;background:#0B1320;border-radius:12px;padding:1rem">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="chart4-title chart4-desc" style="display:block;max-width:100%;height:auto;background:#05070E;border-radius:10px">
   <title id="chart4-title">Delhi → Jaipur Cost Comparison (2 travelers)</title>
@@ -294,38 +294,38 @@ bodyHtml: |
   <code style="display:block;background:#05070E;padding:8px 10px;border-radius:4px;color:#B3B7C3;font-family:monospace;font-size:0.75rem;word-break:break-all">&lt;iframe src="https://zymo.app/embed/delhi-jaipur-cost" width="100%" height="400" frameborder="0" loading="lazy" title="Zymo Research chart" style="max-width:640px"&gt;&lt;/iframe&gt;</code>
   </details>
   </figure>
-  
+
   <p>Self-drive is approximately 50-60% cheaper than an equivalent intercity cab, comparable to flights for two travelers, and adds the option to use the car freely at the destination. <a href="/self-drive-mumbai-to-goa" style="color:#4F7BFF;text-decoration:none">See detailed route cost breakdowns</a> for major Indian routes.</p>
-  
+
   <h2 id="aggregator" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The aggregator shift</h2>
   <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">India's self-drive market is structurally fragmented. National operators, regional fleet owners, and local providers coexist with different pricing, fleet, and policies — the same fragmentation that existed in travel before MakeMyTrip, in insurance before PolicyBazaar, in food before Zomato. Aggregators solve this by surfacing all available options in one search, with transparent comparable pricing.</p>
-  
+
   <p>The aggregator model creates a flywheel:</p>
   <ul>
   <li>More partners → more options for customers</li>
   <li>More customers → more value for partners</li>
   <li>More data → better pricing transparency for everyone</li>
   </ul>
-  
+
   <p>Zymo is built on this model. Customers compare self-drive cars from multiple partners across 60+ cities in one search — pricing, fleet, and features visible side-by-side.</p>
-  
+
   <h2 id="predictions" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Three predictions for 2026–2030</h2>
-  
+
   <div style="background:#16222E;border-left:3px solid #7A5CFF;padding:14px 18px;margin:1rem 0;border-radius:0 8px 8px 0;font-size:0.95rem">
   <strong style="color:#FFFFFF">Prediction 1: Extended Test Drives become mainstream.</strong>
   Within 3-5 years, multi-day evaluation of a car before purchase will be as routine as reading reviews before booking a hotel. The showroom test drive will not disappear, but it will become the starting point of the buying process, not the final step.
   </div>
-  
+
   <div style="background:#16222E;border-left:3px solid #7A5CFF;padding:14px 18px;margin:1rem 0;border-radius:0 8px 8px 0;font-size:0.95rem">
   <strong style="color:#FFFFFF">Prediction 2: Highway expansion unlocks new self-drive corridors.</strong>
   Major projects under construction or recently completed — Delhi-Mumbai Expressway (1,350 km), Bangalore-Chennai Expressway, multiple state highway upgrades — will create new viable self-drive routes. Each new expressway is a new market segment.
   </div>
-  
+
   <div style="background:#16222E;border-left:3px solid #7A5CFF;padding:14px 18px;margin:1rem 0;border-radius:0 8px 8px 0;font-size:0.95rem">
   <strong style="color:#FFFFFF">Prediction 3: Electric self-drive emerges for intercity trips.</strong>
   EV charging infrastructure along Indian highways is improving year-over-year. Early adopters are already booking EVs for city commutes through self-drive platforms. Intercity EV self-drive viability is approximately 2-3 years out, and likely inevitable.
   </div>
-  
+
   <h2 id="methodology" style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Methodology and sources</h2>
   <p>This report combines third-party market research with platform-level observations from Zymo across 60+ Indian cities and multiple rental partners.</p>
   <ul>
@@ -335,14 +335,14 @@ bodyHtml: |
   <li><strong style="color:#FFFFFF">Predictions:</strong> Extrapolation from current behavior trends, infrastructure announcements (Ministry of Road Transport & Highways), and broader Indian mobility patterns.</li>
   </ul>
   <p>This report does not publish revenue, profit, or specific booking-count numbers. Aggregator-level percentages are based on directional observations, not audited financials.</p>
-  
+
   <div id="cite" style="background:#1C2B36;border:1px solid #4F7BFF;padding:1.25rem 1.5rem;margin:2rem 0;border-radius:10px">
   <strong style="color:#FFFFFF;font-size:1.05rem">How to cite this report</strong>
   <p style="margin-top:0.5rem">If you reference data from this page in an article, blog post, research report, or social-media analysis, please attribute as follows:</p>
   <code style="font-family:monospace;background:#05070E;padding:8px 12px;border-radius:6px;display:block;margin-top:0.5rem;color:#B3B7C3;font-size:0.85rem;word-break:break-word">Zymo (2026). The State of Self-Drive Car Rental in India 2026. Available at https://zymo.app/research/state-of-self-drive-india-2026</code>
   <p style="margin-top:0.5rem;font-size:0.9rem">For media inquiries or to request the underlying data: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a></p>
   </div>
-  
+
   <section style="margin-top:2rem;padding:1.5rem;background:#16222E;border-radius:10px">
   <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem;margin-top:0">Compare self-drive prices across India</h3>
   <p style="margin-bottom:0.5rem"><strong style="color:#FFFFFF">Metros:</strong>
@@ -366,7 +366,7 @@ bodyHtml: |
   <a href="/self-drive-car-rental-in-coimbatore" style="color:#4F7BFF;text-decoration:none">Coimbatore</a> &middot;
   <a href="/self-drive-car-rental-in-visakhapatnam" style="color:#4F7BFF;text-decoration:none">Visakhapatnam</a></p>
   </section>
-  
+
   <section style="margin-top:1.5rem;padding:1.5rem;background:#16222E;border-radius:10px">
   <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem;margin-top:0">Related guides on Zymo</h3>
   <ul style="list-style:none;padding:0;margin:0">
@@ -375,11 +375,106 @@ bodyHtml: |
   <li style="margin-bottom:8px"><a href="/guides/best-cars-road-trips-india" style="color:#4F7BFF;text-decoration:none">Best Cars for Road Trips in India</a></li>
   </ul>
   </section>
-  
+
   <p style="margin-top:1.5rem;font-size:0.85rem;color:#8A94A6">
   Published by <a href="https://zymo.app" style="color:#4F7BFF;text-decoration:none">Zymo</a>, India's largest self-drive car rental aggregator across 60+ cities with 30,000+ cars from multiple partners. Zymo pioneered <a href="/extended-test-drive" style="color:#4F7BFF;text-decoration:none">Extended Test Drives</a> in India.
   </p>
-  
+
   </article>
+schemas:
+  - "@context": https://schema.org
+    "@type": BreadcrumbList
+    itemListElement:
+      - "@type": ListItem
+        position: 1
+        name: Home
+        item: https://zymo.app/
+      - "@type": ListItem
+        position: 2
+        name: Research
+        item: https://zymo.app/research/state-of-self-drive-india-2026
+      - "@type": ListItem
+        position: 3
+        name: The State of Self-Drive Car Rental in India 2026
+        item: https://zymo.app/research/state-of-self-drive-india-2026
+  - "@context": https://schema.org
+    "@type": Dataset
+    name: The State of Self-Drive Car Rental in India 2026
+    description: Market size, growth, and use cases of self-drive car rental in India. USD 3.14B market, 7-14% CAGR, Extended Test Drive a fast-growing use case.
+    url: https://zymo.app/research/state-of-self-drive-india-2026
+    creator:
+      "@type": Organization
+      "@id": https://zymo.app/#organization
+      name: Zymo
+      url: https://zymo.app
+    publisher:
+      "@type": Organization
+      "@id": https://zymo.app/#organization
+      name: Zymo
+      logo:
+        "@type": ImageObject
+        url: https://zymo.app/images/AppLogo/zymo-logo.png
+    datePublished: "2026-05-02"
+    dateModified: "2026-05-02"
+    spatialCoverage:
+      "@type": Place
+      name: India
+      geo:
+        "@type": GeoShape
+        addressCountry: IN
+    temporalCoverage: 2025-01/2030-12
+    variableMeasured:
+      - India car rental market size (USD)
+      - Self-drive segment CAGR estimates
+      - Online booking share trends
+      - Self-drive vs cab/flight/bus/train cost (Mumbai-Goa, Delhi-Jaipur)
+      - Popular self-drive route distances
+    distribution:
+      - "@type": DataDownload
+        encodingFormat: application/pdf
+        contentUrl: https://zymo.app/research/state-of-self-drive-india-2026.pdf
+        name: The State of Self-Drive Car Rental in India 2026 (PDF)
+      - "@type": DataDownload
+        encodingFormat: text/html
+        contentUrl: https://zymo.app/research/state-of-self-drive-india-2026
+        name: The State of Self-Drive Car Rental in India 2026 (Web)
+    isAccessibleForFree: true
+    inLanguage: en-IN
+    citation: Zymo (2026). The State of Self-Drive Car Rental in India 2026. Available at https://zymo.app/research/state-of-self-drive-india-2026
+  - "@context": https://schema.org
+    "@type": ScholarlyArticle
+    headline: The State of Self-Drive Car Rental in India 2026
+    description: Market size, growth, and use cases of self-drive car rental in India. USD 3.14B market, 7-14% CAGR, Extended Test Drive a fast-growing use case.
+    url: https://zymo.app/research/state-of-self-drive-india-2026
+    author:
+      "@type": Person
+      name: Manish Pratik
+      url: https://zymo.app/about-us
+      affiliation:
+        "@type": Organization
+        "@id": https://zymo.app/#organization
+        name: Zymo
+    publisher:
+      "@type": Organization
+      "@id": https://zymo.app/#organization
+      name: Zymo
+      logo:
+        "@type": ImageObject
+        url: https://zymo.app/images/AppLogo/zymo-logo.png
+    datePublished: "2026-05-02"
+    dateModified: "2026-05-02"
+    image: https://zymo.app/images/AppLogo/zymo-logo.png
+    inLanguage: en-IN
+    mainEntityOfPage:
+      "@type": WebPage
+      "@id": https://zymo.app/research/state-of-self-drive-india-2026
+    isAccessibleForFree: true
+  - "@context": https://schema.org
+    "@type": WebPage
+    url: https://zymo.app/research/state-of-self-drive-india-2026
+    speakable:
+      "@type": SpeakableSpecification
+      cssSelector:
+        - "[data-speakable]"
 ---
 

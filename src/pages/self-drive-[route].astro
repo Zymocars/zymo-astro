@@ -21,7 +21,7 @@ const { entry } = Astro.props as {
 };
 if (!entry) throw new Error(`No route entry for slug="${Astro.params.route}"`);
 
-const { title, description, canonical, bodyHtml, faqs } = entry.data;
+const { title, description, canonical, bodyHtml, faqs, schemas: prebuiltSchemas } = entry.data;
 
 const webPageSchema = {
   '@context': 'https://schema.org',
@@ -34,17 +34,27 @@ const webPageSchema = {
   isPartOf: { '@id': 'https://zymo.app/#website' },
   speakable: { '@type': 'SpeakableSpecification', cssSelector: ['[data-speakable]'] },
 };
-const jsonLd: unknown[] = [webPageSchema];
-if (faqs && faqs.length > 0) {
-  jsonLd.push({
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: faqs.map((f) => ({
-      '@type': 'Question',
-      name: f.q,
-      acceptedAnswer: { '@type': 'Answer', text: f.a },
-    })),
-  });
+
+// If backend-migrated schemas are present, emit them verbatim alongside WebPage
+// to match prod's byte-for-byte JSON-LD stack (BreadcrumbList + TouristTrip +
+// ItemList + TouristDestinations + AggregateOffer + Speakable + FAQPage).
+// Otherwise fall back to minimal WebPage + FAQPage from faqs array.
+let jsonLd: unknown[];
+if (prebuiltSchemas && prebuiltSchemas.length > 0) {
+  jsonLd = [webPageSchema, ...(prebuiltSchemas as unknown[])];
+} else {
+  jsonLd = [webPageSchema];
+  if (faqs && faqs.length > 0) {
+    jsonLd.push({
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    });
+  }
 }
 ---
 

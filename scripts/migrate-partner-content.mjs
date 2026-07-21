@@ -12,6 +12,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { createRequire } from 'node:module';
+import yaml from 'js-yaml';
 
 const require = createRequire(import.meta.url);
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -59,6 +60,7 @@ function toYaml(v) {
 
 async function main() {
   const partner = require(path.join(ZYMO_BACKEND, 'partnerContent.js'));
+  const metaConfigs = require(path.join(ZYMO_BACKEND, 'metaConfigs.js'));
   await fs.mkdir(OUT_DIR, { recursive: true });
 
   let written = 0;
@@ -73,15 +75,33 @@ async function main() {
       console.warn(`[skip] ${page.urlSlug} — generator returned empty`);
       continue;
     }
-    const front = `---
-slug: "${page.fileSlug}"
-kind: "${page.kind}"
-title: ${toYaml(page.title)}
-description: ${toYaml(page.description)}
-canonical: "${page.canonical}"
-bodyHtml: ${toYaml(bodyHtml)}
----\n\n`;
-    await fs.writeFile(path.join(OUT_DIR, `${page.fileSlug}.md`), front, 'utf8');
+
+    // Pull the schema stack from backend based on page kind.
+    let schemas = [];
+    try {
+      if (page.kind === 'faq' && typeof metaConfigs.getPartnerFAQSchema === 'function') {
+        const faqSchema = metaConfigs.getPartnerFAQSchema();
+        if (faqSchema) schemas.push(faqSchema);
+      }
+      if ((page.kind === 'landing' || page.kind === 'earn') && typeof metaConfigs.getPartnerHowToSchema === 'function') {
+        const howToSchema = metaConfigs.getPartnerHowToSchema();
+        if (howToSchema) schemas.push(howToSchema);
+      }
+    } catch (e) {
+      console.warn(`[warn] partner schema fetch failed for ${page.urlSlug}: ${e.message}`);
+    }
+
+    const frontMatter = {
+      slug: page.fileSlug,
+      kind: page.kind,
+      title: page.title,
+      description: page.description,
+      canonical: page.canonical,
+      bodyHtml,
+      schemas,
+    };
+    const body = yaml.dump(frontMatter, { lineWidth: -1, noRefs: true, quotingType: '"', forceQuotes: false });
+    await fs.writeFile(path.join(OUT_DIR, `${page.fileSlug}.md`), `---\n${body}---\n\n`, 'utf8');
     written++;
   }
   console.log(`Migrated ${written}/${PARTNER_PAGES.length} partner pages`);

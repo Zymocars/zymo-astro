@@ -14,7 +14,7 @@ const { slug } = Astro.props;
 const entry = await getEntry('partner', slug);
 if (!entry) throw new Error(`No partner entry for slug="${slug}"`);
 
-const { title, description, canonical, bodyHtml } = entry.data;
+const { title, description, canonical, bodyHtml, schemas: prebuiltSchemas } = entry.data;
 
 const webPageSchema = {
   '@context': 'https://schema.org',
@@ -26,9 +26,15 @@ const webPageSchema = {
   inLanguage: 'en-IN',
   isPartOf: { '@id': 'https://zymo.app/#website' },
 };
+
+// If backend-migrated schemas are present, emit them verbatim (partner FAQ
+// carries Service[] + Offer[] + Question[] + Country[] + Place stack on prod).
+const jsonLd: unknown[] = (prebuiltSchemas && prebuiltSchemas.length > 0)
+  ? [webPageSchema, ...(prebuiltSchemas as unknown[])]
+  : [webPageSchema];
 ---
 
-<SeoPage title={title} description={description} canonical={canonical} jsonLd={[webPageSchema]}>
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={jsonLd}>
   <article class="z-partner">
     <Fragment set:html={bodyHtml} />
   </article>

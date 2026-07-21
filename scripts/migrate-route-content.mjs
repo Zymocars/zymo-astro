@@ -9,6 +9,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { createRequire } from 'node:module';
+import yaml from 'js-yaml';
 
 const require = createRequire(import.meta.url);
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -49,7 +50,14 @@ function toYamlValue(v, indent = 0) {
 }
 
 function toFrontMatter(obj) {
-  return `---\n${Object.entries(obj).map(([k, v]) => `${k}: ${toYamlValue(v, 1)}`).join('\n')}\n---\n`;
+  // Use js-yaml for reliable serialization — handles @-keys, unicode, block scalars, nesting.
+  const body = yaml.dump(obj, {
+    lineWidth: -1,
+    noRefs: true,
+    quotingType: '"',
+    forceQuotes: false,
+  });
+  return `---\n${body}---\n`;
 }
 
 function unwrapFaqSchema(schema) {
@@ -61,7 +69,7 @@ function unwrapFaqSchema(schema) {
 }
 
 async function main() {
-  const { ROUTE_SLUGS, getRouteMeta, generateRouteContentHtml, getRouteFAQSchema } =
+  const { ROUTE_SLUGS, getRouteMeta, generateRouteContentHtml, getRouteFAQSchema, getRouteSchemas } =
     require(path.join(ZYMO_BACKEND, 'routeConfigs.js'));
 
   await fs.mkdir(OUT_DIR, { recursive: true });
@@ -73,6 +81,20 @@ async function main() {
     const meta = getRouteMeta(slug);
     const faqs = unwrapFaqSchema(getRouteFAQSchema(slug));
 
+    // Pull full schema stack: BreadcrumbList + TouristTrip (with ItemList +
+    // TouristDestinations + AggregateOffer nested) + Speakable. Store verbatim
+    // for template emission — guarantees byte-parity with prod SSR.
+    let schemas = [];
+    try {
+      const routeSchemas = getRouteSchemas(slug) || [];
+      schemas.push(...routeSchemas);
+    } catch (e) {
+      console.warn(`[warn] getRouteSchemas failed for ${slug}: ${e.message}`);
+    }
+    // Also include FAQPage schema so template emits it verbatim from same source.
+    const faqSchema = getRouteFAQSchema(slug);
+    if (faqSchema) schemas.push(faqSchema);
+
     const frontMatter = {
       slug,
       title: meta.title,
@@ -80,6 +102,7 @@ async function main() {
       canonical: meta.canonical,
       bodyHtml,
       faqs,
+      schemas,
     };
     const outFile = path.join(OUT_DIR, `${slug}.md`);
     await fs.writeFile(outFile, toFrontMatter(frontMatter) + '\n', 'utf8');

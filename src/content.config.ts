@@ -270,6 +270,10 @@ const routes = defineCollection({
     canonical: z.string().url(),
     bodyHtml: z.string(),
     faqs: z.array(FaqItem).optional(),
+    // Pre-computed JSON-LD schemas from routeConfigs.getRouteSchemas + getRouteFAQSchema
+    // (BreadcrumbList + TouristTrip with nested ItemList + TouristDestinations + AggregateOffer + Speakable + FAQPage).
+    // Template emits verbatim to guarantee byte-parity with prod SSR route pages.
+    schemas: z.array(z.unknown()).optional(),
   }),
 });
 
@@ -302,6 +306,10 @@ const partner = defineCollection({
     description: z.string(),
     canonical: z.string().url(),
     bodyHtml: z.string(),
+    // Pre-computed JSON-LD schemas from partnerContent.js + metaConfigs.js
+    // (FAQPage with Question/Answer + Service[] + Offer[] on /partner/faq;
+    // HowTo + landing schemas on /partner).
+    schemas: z.array(z.unknown()).optional(),
   }),
 });
 
@@ -317,6 +325,9 @@ const research = defineCollection({
     description: z.string(),
     canonical: z.string().url(),
     bodyHtml: z.string(),
+    // Pre-computed JSON-LD schemas from metaConfigs.getResearchSchemas
+    // (ScholarlyArticle + DataDownload[] + WebPage + Speakable + Place + ListItem).
+    schemas: z.array(z.unknown()).optional(),
   }),
 });
 

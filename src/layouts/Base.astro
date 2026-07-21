@@ -137,21 +137,104 @@ const finalRobots = robots ?? (noindex ? 'noindex, nofollow' : 'index, follow');
       })();
     </script>
 
-    {/* Global schemas — Organization (with app-rating AggregateRating) */}
+    {/* Global schemas — Organization (rich shape mirrors zymo-web
+        functions/seo/metaConfigs.js:getOrganizationSchema — foundingLocation,
+        makesOffer, hasOfferCatalog, contactPoint, etc.). Ships Service + Offer
+        + Country + Place + PostalAddress + QuantitativeValue + OpeningHours
+        signals on every page globally. */}
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Organization',
       '@id': 'https://zymo.app/#organization',
       name: 'Zymo',
+      legalName: 'Zeptepi Technologies Pvt. Ltd.',
       url: 'https://zymo.app/',
-      logo: 'https://zymo.app/images/AppLogo/zymo-logo.png',
+      logo: {
+        '@type': 'ImageObject',
+        '@id': 'https://zymo.app/#logo',
+        url: 'https://zymo.app/images/AppLogo/zymo-logo.png',
+        width: 512,
+        height: 512,
+      },
+      description: "Zymo is India's largest self-drive car rental aggregator. Compare prices from multiple rental partners across 60+ cities with 30,000+ cars. Book hatchbacks, sedans, SUVs instantly. Zero platform fees.",
+      foundingDate: '2023',
+      founder: {
+        '@type': 'Person',
+        '@id': 'https://zymo.app/#manish-pratik',
+        name: 'Manish Pratik',
+        jobTitle: 'Founder & CEO',
+        url: 'https://zymo.app/about-us',
+      },
+      foundingLocation: {
+        '@type': 'Place',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'Mumbai',
+          addressRegion: 'Maharashtra',
+          addressCountry: 'IN',
+        },
+      },
+      numberOfEmployees: {
+        '@type': 'QuantitativeValue',
+        value: 10,
+        unitText: 'employees',
+      },
+      areaServed: {
+        '@type': 'Country',
+        name: 'India',
+      },
+      knowsAbout: [
+        'self-drive car rental', 'car rental aggregation', 'extended test drive',
+        'car rental Mumbai', 'car rental Delhi', 'car rental Bangalore', 'car rental Hyderabad',
+        'car rental Chennai', 'car rental Pune', 'car rental Kolkata', 'car rental India',
+        'self-drive cars', 'car comparison platform', 'rent before you buy',
+      ],
+      makesOffer: {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: 'Self-Drive Car Rental Aggregation',
+          description: 'Compare and book self-drive car rentals from multiple partners across 60+ Indian cities.',
+          areaServed: { '@type': 'Country', name: 'India' },
+          provider: { '@id': 'https://zymo.app/#organization' },
+        },
+      },
+      hasOfferCatalog: {
+        '@type': 'OfferCatalog',
+        name: 'Self-Drive Car Rental Categories',
+        itemListElement: [
+          { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Hatchback Rentals', description: 'Maruti Swift, Hyundai i20, Baleno, Tata Altroz' } },
+          { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Sedan Rentals', description: 'Honda City, Hyundai Verna, Maruti Dzire' } },
+          { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'SUV Rentals', description: 'Hyundai Creta, Kia Seltos, Tata Nexon, Mahindra Thar, XUV700' } },
+          { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'MPV Rentals', description: 'Toyota Innova, Maruti Ertiga, Renault Triber' } },
+          { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Luxury Car Rentals', description: 'Premium vehicles for special occasions' } },
+          { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Extended Test Drives', description: '2-7 day self-drive rentals for car buyers testing before purchase' } },
+        ],
+      },
       sameAs: [
         'https://www.instagram.com/zymo.app/',
         'https://twitter.com/zymoapp',
         'https://www.linkedin.com/company/zymoapp/',
         'https://www.facebook.com/zymo.official/',
         'https://www.youtube.com/@zymoapp',
+        'https://www.wikidata.org/wiki/Q138778818',
+        'https://www.crunchbase.com/organization/zymo-36ee',
+        'https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew',
+        'https://apps.apple.com/in/app/zymo/id1547829759',
       ],
+      contactPoint: {
+        '@type': 'ContactPoint',
+        contactType: 'customer service',
+        email: 'hello@zymo.app',
+        url: 'https://zymo.app/contact-us',
+        availableLanguage: ['English', 'Hindi'],
+        hoursAvailable: {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+          opens: '10:00',
+          closes: '19:00',
+        },
+      },
     })} />
 
     {/* Structured data — JSON-LD */}

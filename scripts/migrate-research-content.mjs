@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { createRequire } from 'node:module';
+import yaml from 'js-yaml';
 
 const require = createRequire(import.meta.url);
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -35,6 +36,7 @@ const RESEARCH_META = {
 async function main() {
   const { getResearchSlugs, generateResearchContentHtml } =
     require(path.join(ZYMO_BACKEND, 'researchContent.js'));
+  const metaConfigs = require(path.join(ZYMO_BACKEND, 'metaConfigs.js'));
 
   await fs.mkdir(OUT_DIR, { recursive: true });
 
@@ -43,14 +45,26 @@ async function main() {
     const bodyHtml = generateResearchContentHtml(slug);
     if (!bodyHtml) continue;
     const meta = RESEARCH_META[slug] || { title: slug, description: '' };
-    const front = `---
-slug: "${slug}"
-title: ${toYaml(meta.title)}
-description: ${toYaml(meta.description)}
-canonical: "https://zymo.app/research/${slug}"
-bodyHtml: ${toYaml(bodyHtml)}
----\n\n`;
-    await fs.writeFile(path.join(OUT_DIR, `${slug}.md`), front, 'utf8');
+
+    // Pull full schema stack from backend (ScholarlyArticle + DataDownload +
+    // WebPage + Speakable + Place + ListItem) — mirrors prod SSR emission.
+    let schemas = [];
+    try {
+      schemas = metaConfigs.getResearchSchemas(slug) || [];
+    } catch (e) {
+      console.warn(`[warn] getResearchSchemas failed for ${slug}: ${e.message}`);
+    }
+
+    const frontMatter = {
+      slug,
+      title: meta.title,
+      description: meta.description,
+      canonical: `https://zymo.app/research/${slug}`,
+      bodyHtml,
+      schemas,
+    };
+    const body = yaml.dump(frontMatter, { lineWidth: -1, noRefs: true, quotingType: '"', forceQuotes: false });
+    await fs.writeFile(path.join(OUT_DIR, `${slug}.md`), `---\n${body}---\n\n`, 'utf8');
     written++;
   }
   console.log(`Migrated ${written}/${getResearchSlugs().length} research pages`);
