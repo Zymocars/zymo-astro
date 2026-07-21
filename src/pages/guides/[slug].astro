@@ -10,8 +10,6 @@
 import { getCollection, getEntry } from 'astro:content';
 import SeoPage from '../../layouts/SeoPage.astro';
 
-import '../../components/SearchWidget/search-widget.css';
-
 export async function getStaticPaths() {
   const guides = await getCollection('guides');
   return guides.map((entry) => ({
@@ -146,8 +144,6 @@ if (faqs && faqs.length > 0) {
     </ul>
   </aside>
 
-  {/* Browser-only registration of <zymo-search>. Not rendered in the guide
-      body itself — search widget only mounts on city pages. */}
 </SeoPage>
 
 <style>

@@ -1,8 +1,8 @@
 ---
 // Homepage — /
 // Renders the migrated SSR content from zymo-backend/functions/seo/
-// homeContent.js generateHomepageContentHtml + mounts the <zymo-search>
-// island above the fold.
+// homeContent.js generateHomepageContentHtml + mounts the NewRSB search
+// widget as a React island above the fold.
 
 import { getEntry } from 'astro:content';
 import SeoPage from '../layouts/SeoPage.astro';
@@ -86,5 +86,10 @@ const jsonLd = (prebuiltSchemas && prebuiltSchemas.length > 0)
 
 <style>
   .z-home { max-width: var(--z-container-max); margin: 0 auto; padding: var(--z-space-4); }
-  .z-home-search { max-width: var(--z-container-max); padding: var(--z-space-4); margin: 0 auto var(--z-space-6); }
+  .z-home-search {
+    max-width: var(--z-container-max);
+    padding: var(--z-space-4);
+    margin: 0 auto var(--z-space-6);
+    min-height: 520px;
+  }
 </style>
