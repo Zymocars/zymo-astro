@@ -357,6 +357,10 @@ const homepage = defineCollection({
     description: z.string(),
     canonical: z.string().url(),
     bodyHtml: z.string(),
+    // Pre-computed JSON-LD schemas from metaConfigs (getHomepageFAQSchema,
+    // getRentalHowToSchema, getWebSiteSchema, getMobileAppSchema).
+    // Template emits verbatim to match prod schema-type set on `/`.
+    schemas: z.array(z.unknown()).optional(),
   }),
 });
 

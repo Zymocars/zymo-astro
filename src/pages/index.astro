@@ -6,12 +6,12 @@
 
 import { getEntry } from 'astro:content';
 import SeoPage from '../layouts/SeoPage.astro';
-import '../components/SearchWidget/search-widget.css';
+import NewRSBIsland from '../components/react-island/NewRSBIsland';
 
 const entry = await getEntry('homepage', 'index');
 if (!entry) throw new Error('No homepage entry — run scripts/migrate-homepage-content.mjs');
 
-const { title, description, canonical, bodyHtml } = entry.data;
+const { title, description, canonical, bodyHtml, schemas: prebuiltSchemas } = entry.data;
 
 const orgSchema = {
   '@context': 'https://schema.org',
@@ -65,19 +65,23 @@ const webPageSchema = {
   isPartOf: { '@id': 'https://zymo.app/#website' },
   speakable: { '@type': 'SpeakableSpecification', cssSelector: ['[data-speakable]'] },
 };
+
+// Emit prebuilt schemas from backend (FAQPage + HowTo + WebSite + MobileApp x2)
+// alongside the local Org/WebSite/WebPage triple. Backend schemas match prod
+// rich-result-eligible types (Question x16, Answer x16, HowToStep x4,
+// MobileApplication x2 with AggregateRating x2, WebSite SearchAction).
+const jsonLd = (prebuiltSchemas && prebuiltSchemas.length > 0)
+  ? [orgSchema, websiteSchema, webPageSchema, ...(prebuiltSchemas as unknown[])]
+  : [orgSchema, websiteSchema, webPageSchema];
 ---
 
-<SeoPage title={title} description={description} canonical={canonical} jsonLd={[orgSchema, websiteSchema, webPageSchema]}>
+<SeoPage title={title} description={description} canonical={canonical} jsonLd={jsonLd}>
   <article class="z-home">
     <div class="z-home-search z-container">
-      <zymo-search city="mumbai"></zymo-search>
+      <NewRSBIsland client:only="react" />
     </div>
     <Fragment set:html={bodyHtml} />
   </article>
-
-  <script>
-    import '../components/SearchWidget/search-widget.ts';
-  </script>
 </SeoPage>
 
 <style>
