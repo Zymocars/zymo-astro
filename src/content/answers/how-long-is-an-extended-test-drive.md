@@ -12,11 +12,11 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">How long is an Extended Test Drive?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive runs one day minimum. Most buyers book a weekend (2-3 days) or a week-long trial (5-7 days). One day covers commute and parking fit. Three days adds a weekend road trip. Seven days reveals the day-five fatigue test — ergonomic annoyances after the novelty fades. EVs need 4-7 days minimum.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive runs one day minimum. Most buyers book a weekend (2-3 days) or a week-long trial (3-5 days). One day covers commute and parking fit. Three days adds a weekend road trip. Seven days reveals the day-five fatigue test — ergonomic annoyances after the novelty fades. EVs need 4-7 days minimum.</p>
     <ul>
     <li><strong>1 day:</strong> commute reality, parking fit, seat comfort, infotainment usability</li>
     <li><strong>2-3 days (weekend):</strong> above + weekend road trip, family seating, boot fit for real loads</li>
-    <li><strong>5-7 days:</strong> above + day-five fatigue test — ergonomic annoyances emerge after novelty fades</li>
+    <li><strong>3-5 days:</strong> above + day-five fatigue test — ergonomic annoyances emerge after novelty fades</li>
     <li><strong>EV (4-7 days minimum):</strong> real-world range across two charge cycles, AC-on impact, home-charging time</li>
     </ul>
     
@@ -27,7 +27,7 @@ bodyHtml: |
     <tbody>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">1 day</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Commute reality, parking fit, basic seat comfort, infotainment usability</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">2-3 days (weekend)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Above plus weekend road trip, family seating, boot fit for typical loads</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">5-7 days</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Above plus the day-five test — small annoyances after novelty wears off (rear visibility on parallel parking, gear lever ergonomics, climate control quirks)</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">3-5 days</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Above plus the day-five test — small annoyances after novelty wears off (rear visibility on parallel parking, gear lever ergonomics, climate control quirks)</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">EV (4-7 days minimum)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Real-world range vs claimed range across two charge cycles, home/office charging time, AC-on range impact</td></tr>
     </tbody></table>
     </section>

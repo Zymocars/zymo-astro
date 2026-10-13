@@ -38,7 +38,7 @@ bodyHtml: |
     <dd>A compact SUV (Nexon, Creta) or premium SUV (XUV700, Scorpio N) is best for Jharkhand's mixed road quality. Forest track access near Betla and Palamu requires decent ground clearance.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents are needed for self-drive rental in Ranchi?</dt>
-    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age 21. Jharkhand's state highways vary — confirm road conditions for specific outstation routes with the Zymo partner before booking.</dd>
+    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. Jharkhand's state highways vary — confirm road conditions for specific outstation routes with the Zymo partner before booking.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive a Ranchi self-drive car to Jamshedpur?</dt>
     <dd>Jamshedpur is 130 km from Ranchi (2.5 hours via NH33). Most Zymo Ranchi partners allow Jharkhand outstation. Confirm km allowance — 300 km/day should comfortably cover the round trip.</dd>
@@ -90,7 +90,8 @@ faqs:
   - q: "What is the best car for Ranchi waterfalls road trips?"
     a: "A compact SUV (Nexon, Creta) or premium SUV (XUV700, Scorpio N) is best for Jharkhand's mixed road quality. Forest track access near Betla and Palamu requires decent ground clearance."
   - q: "What documents are needed for self-drive rental in Ranchi?"
-    a: "Valid Indian driving licence + Aadhaar or passport. Minimum age 21. Jharkhand's state highways vary — confirm road conditions for specific outstation routes with the Zymo partner before booking."
+    a: |
+        Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. Jharkhand's state highways vary — confirm road conditions for specific outstation routes with the Zymo partner before booking.
   - q: "Can I drive a Ranchi self-drive car to Jamshedpur?"
     a: "Jamshedpur is 130 km from Ranchi (2.5 hours via NH33). Most Zymo Ranchi partners allow Jharkhand outstation. Confirm km allowance — 300 km/day should comfortably cover the round trip."
   - q: "Is Ranchi a good base for a Jharkhand road trip?"

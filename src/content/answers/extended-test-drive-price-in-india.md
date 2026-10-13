@@ -19,7 +19,7 @@ bodyHtml: |
     <p>Three components decide what you pay:</p>
     <ul>
     <li><strong>Daily or hourly rental rate.</strong> Set by the partner, varies by car class. A hatchback costs materially less per day than a full-size SUV. Multi-day brackets (3, 5, 7 days) typically carry better per-day rates than single-day.</li>
-    <li><strong>Refundable security deposit.</strong> Held during the trip, refunded within 5-7 working days after return. Typically ₹3,000 to ₹15,000 depending on car class. Some partners offer low or zero-deposit options on specific cars — visible on the booking page.</li>
+    <li><strong>Refundable security deposit.</strong> Held during the trip, refunded within 3-5 working days after return. Typically ₹3,000 to ₹15,000 depending on car class. Some partners offer low or zero-deposit options on specific cars — visible on the booking page.</li>
     <li><strong>Fuel.</strong> You return the car at the fuel level the partner specified at pickup. You pay for fuel you use during the trip.</li>
     </ul>
     </section>

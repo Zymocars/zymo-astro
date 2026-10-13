@@ -38,7 +38,7 @@ bodyHtml: |
     <dd>Vaishali is 56 km (1.5 hours) from Patna. The NH322 is a reasonable state highway — any hatchback handles it fine. Add Muzaffarpur (76 km from Vaishali) for a round day trip.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents are needed for self-drive in Patna?</dt>
-    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age 21. Road conditions in Bihar vary — check NH vs state highway designations for outstation routes.</dd>
+    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. Road conditions in Bihar vary — check NH vs state highway designations for outstation routes.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive a Patna self-drive car to Jharkhand?</dt>
     <dd>Some Zymo Patna partners allow Jharkhand outstation (Ranchi is 335 km, 5.5 hours). Confirm cross-state permission explicitly at booking.</dd>
@@ -90,7 +90,8 @@ faqs:
   - q: "Is the Patna to Vaishali road trip good by self-drive?"
     a: "Vaishali is 56 km (1.5 hours) from Patna. The NH322 is a reasonable state highway — any hatchback handles it fine. Add Muzaffarpur (76 km from Vaishali) for a round day trip."
   - q: "What documents are needed for self-drive in Patna?"
-    a: "Valid Indian driving licence + Aadhaar or passport. Minimum age 21. Road conditions in Bihar vary — check NH vs state highway designations for outstation routes."
+    a: |
+        Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. Road conditions in Bihar vary — check NH vs state highway designations for outstation routes.
   - q: "Can I drive a Patna self-drive car to Jharkhand?"
     a: "Some Zymo Patna partners allow Jharkhand outstation (Ranchi is 335 km, 5.5 hours). Confirm cross-state permission explicitly at booking."
   - q: "Are the roads in Bihar suitable for self-drive road trips?"

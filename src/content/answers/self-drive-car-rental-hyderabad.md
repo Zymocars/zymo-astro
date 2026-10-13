@@ -12,19 +12,14 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-drive car rental in Hyderabad — complete guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Based on partner policies across the Zymo network</p>
     
-    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo trust rating summary">
-    <div style="display:flex;align-items:center;gap:1rem;margin-bottom:0.75rem;flex-wrap:wrap">
-    <span aria-hidden="true" style="color:#FFD700;font-size:1.75rem;line-height:1;letter-spacing:2px">★★★★★</span>
-    <span style="color:#FFFFFF;font-size:1.75rem;font-weight:700;line-height:1">4.2</span>
-    <span style="color:#FFFFFF;font-size:0.95rem;font-weight:500">Trusted by thousands of verified reviewers across India</span>
-    </div>
-    <div style="display:flex;flex-wrap:wrap;gap:0.6rem 1.2rem;font-size:0.85rem;color:#B3B7C3;margin-bottom:0.75rem">
-    <span>▸ <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.1 on Google Play (800+ reviews)</a></span>
-    <span>▸ <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.4 on Apple App Store (270+ reviews)</a></span>
-    <span>▸ Verified on Google Business Profile across 30+ Indian cities</span>
+    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app ratings summary">
+    <p style="margin:0 0 0.75rem;line-height:1.3"><span style="color:#FFFFFF;font-size:1.75rem;font-weight:700">1,000+</span> <span style="color:#B3B7C3;font-size:0.95rem">ratings on Google Play and the App Store</span></p>
+    <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-bottom:0.75rem">
+    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play — 800+ ratings ↗</a>
+    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store — 270+ ratings ↗</a>
     </div>
     <p style="margin:0 0 0.35rem;font-size:0.85rem;color:#B3B7C3">Serving <strong style="color:#FFFFFF">Hyderabad</strong> across HITEC City, Gachibowli, Banjara Hills, Jubilee Hills, Madhapur, Kukatpally, Secunderabad.</p>
-    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:none">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
+    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:underline;display:inline-block;padding:0.3rem 0">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
     </div>
     
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in Hyderabad starts from ₹1,100 per day for hatchbacks. Zymo shows prices from multiple Hyderabad partners covering Hitech City, Gachibowli, Banjara Hills, Jubilee Hills, Secunderabad, Miyapur, and near Rajiv Gandhi International Airport (RGIA) — compare and book at zymo.app. Popular trips: Warangal (145 km, 2.5 hours), Nagarjunasagar (165 km, 3 hours), Srisailam (215 km, 4 hours). No Zymo booking fee.</p>
@@ -57,7 +52,7 @@ bodyHtml: |
     <dd>Yes. Hyderabad to Araku is 600 km via NH16, approximately 10-12 hours. The Borra Guhalu ghat section requires an SUV. Most Zymo Hyderabad partners allow Andhra Pradesh outstation. Book 4-5 days minimum for a comfortable Araku round trip.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the minimum rental duration for a self-drive car in Hyderabad?</dt>
-    <dd>Most Hyderabad partners offer a 4-hour or half-day minimum for city use. Outstation bookings typically require a full-day minimum. Hourly booking from ₹45-55 per hour is available on select Zymo partners for city-only use.</dd>
+    <dd>Most Hyderabad partners offer a 4-hour or half-day minimum for city use. Outstation bookings typically require a full-day minimum. Hourly booking from ₹45 per hour is available on select Zymo partners for city-only use.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Are EV self-drive cars available in Hyderabad?</dt>
     <dd>Yes. Zymo Hyderabad partners list Tata Nexon EV on select dates — book 3-5 days in advance. The Hyderabad ORR and arterials have adequate fast-chargers for city use. Plan charging carefully before outstation EV trips from Hyderabad.</dd>
@@ -117,7 +112,7 @@ faqs:
         Yes. Hyderabad to Araku is 600 km via NH16, approximately 10-12 hours. The Borra Guhalu ghat section requires an SUV. Most Zymo Hyderabad partners allow Andhra Pradesh outstation. Book 4-5 days minimum for a comfortable Araku round trip.
   - q: "What is the minimum rental duration for a self-drive car in Hyderabad?"
     a: |
-        Most Hyderabad partners offer a 4-hour or half-day minimum for city use. Outstation bookings typically require a full-day minimum. Hourly booking from ₹45-55 per hour is available on select Zymo partners for city-only use.
+        Most Hyderabad partners offer a 4-hour or half-day minimum for city use. Outstation bookings typically require a full-day minimum. Hourly booking from ₹45 per hour is available on select Zymo partners for city-only use.
   - q: "Are EV self-drive cars available in Hyderabad?"
     a: |
         Yes. Zymo Hyderabad partners list Tata Nexon EV on select dates — book 3-5 days in advance. The Hyderabad ORR and arterials have adequate fast-chargers for city use. Plan charging carefully before outstation EV trips from Hyderabad.

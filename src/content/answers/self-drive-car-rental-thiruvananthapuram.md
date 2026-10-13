@@ -12,19 +12,14 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-drive car rental in Thiruvananthapuram — complete guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Based on partner policies across the Zymo network</p>
     
-    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo trust rating summary">
-    <div style="display:flex;align-items:center;gap:1rem;margin-bottom:0.75rem;flex-wrap:wrap">
-    <span aria-hidden="true" style="color:#FFD700;font-size:1.75rem;line-height:1;letter-spacing:2px">★★★★★</span>
-    <span style="color:#FFFFFF;font-size:1.75rem;font-weight:700;line-height:1">4.2</span>
-    <span style="color:#FFFFFF;font-size:0.95rem;font-weight:500">Trusted by thousands of verified reviewers across India</span>
-    </div>
-    <div style="display:flex;flex-wrap:wrap;gap:0.6rem 1.2rem;font-size:0.85rem;color:#B3B7C3;margin-bottom:0.75rem">
-    <span>▸ <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.1 on Google Play (800+ reviews)</a></span>
-    <span>▸ <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.4 on Apple App Store (270+ reviews)</a></span>
-    <span>▸ Verified on Google Business Profile across 30+ Indian cities</span>
+    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app ratings summary">
+    <p style="margin:0 0 0.75rem;line-height:1.3"><span style="color:#FFFFFF;font-size:1.75rem;font-weight:700">1,000+</span> <span style="color:#B3B7C3;font-size:0.95rem">ratings on Google Play and the App Store</span></p>
+    <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-bottom:0.75rem">
+    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play — 800+ ratings ↗</a>
+    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store — 270+ ratings ↗</a>
     </div>
     <p style="margin:0 0 0.35rem;font-size:0.85rem;color:#B3B7C3">Serving <strong style="color:#FFFFFF">Thiruvananthapuram</strong> across Pattom, Kowdiar, Vazhuthacaud, Sasthamangalam, Kazhakootam, Technopark, Vellayambalam.</p>
-    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:none">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
+    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:underline;display:inline-block;padding:0.3rem 0">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
     </div>
     
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in Thiruvananthapuram (Trivandrum) starts from ₹1,100 per day for hatchbacks. Zymo shows prices from multiple Trivandrum partners across Pattom, Kazhakuttom, Technopark, Thampanoor (near Central Railway Station), and near Trivandrum International Airport — compare and book at zymo.app. Popular routes: Trivandrum-Kovalam (16 km), Trivandrum-Varkala (51 km), Trivandrum-Kanyakumari (90 km). No Zymo booking fee.</p>
@@ -51,7 +46,7 @@ bodyHtml: |
     <dd>Munnar is 185 km from Trivandrum (4.5 hours via Kottayam). The route involves the Neriamangalam ghat — SUV or manual hatchback with good hill start needed. Stunning route, best in dry season.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents are needed for self-drive in Thiruvananthapuram?</dt>
-    <dd>Valid Indian driving licence + Aadhaar or passport. Kerala Motor Vehicle Department requires original DL (not just digital). Minimum age 21. Some partners may ask for a security cheque for luxury cars.</dd>
+    <dd>Valid Indian driving licence + Aadhaar or passport. Kerala Motor Vehicle Department requires original DL (not just digital). Minimum age depends on the partner — usually 21, some accept 18. Some partners may ask for a security cheque for luxury cars.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I book a self-drive car in Trivandrum for a Kerala road trip?</dt>
     <dd>Yes. Trivandrum makes an excellent starting point for a South Kerala circuit: Kovalam → Varkala → Alleppey → Kochi (420 km total). Book a 3-day package with outstation permission.</dd>
@@ -104,7 +99,7 @@ faqs:
     a: "Munnar is 185 km from Trivandrum (4.5 hours via Kottayam). The route involves the Neriamangalam ghat — SUV or manual hatchback with good hill start needed. Stunning route, best in dry season."
   - q: "What documents are needed for self-drive in Thiruvananthapuram?"
     a: |
-        Valid Indian driving licence + Aadhaar or passport. Kerala Motor Vehicle Department requires original DL (not just digital). Minimum age 21. Some partners may ask for a security cheque for luxury cars.
+        Valid Indian driving licence + Aadhaar or passport. Kerala Motor Vehicle Department requires original DL (not just digital). Minimum age depends on the partner — usually 21, some accept 18. Some partners may ask for a security cheque for luxury cars.
   - q: "Can I book a self-drive car in Trivandrum for a Kerala road trip?"
     a: "Yes. Trivandrum makes an excellent starting point for a South Kerala circuit: Kovalam → Varkala → Alleppey → Kochi (420 km total). Book a 3-day package with outstation permission."
   - q: "Are FASTag tolls applicable in Kerala?"

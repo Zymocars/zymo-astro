@@ -23,7 +23,7 @@ bodyHtml: |
     <p>Aadhaar is the most widely accepted. Passport, voter ID, and PAN card also work. The ID name must match the booking and the driving licence.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">3. Payment card for security deposit</h3>
-    <p>Credit or debit card under the booking name. The deposit is held — not charged — for the rental period, and refunded within 5-7 working days after return. Deposit amounts typically range from ₹3,000 to ₹15,000 depending on car class and partner.</p>
+    <p>Credit or debit card under the booking name. The deposit is held — not charged — for the rental period, and refunded within 3-5 working days after return. Deposit amounts typically range from ₹3,000 to ₹15,000 depending on car class and partner.</p>
     </section>
     
     <section>

@@ -12,24 +12,19 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-drive car rental in Pune — complete guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Based on partner policies across the Zymo network</p>
     
-    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo trust rating summary">
-    <div style="display:flex;align-items:center;gap:1rem;margin-bottom:0.75rem;flex-wrap:wrap">
-    <span aria-hidden="true" style="color:#FFD700;font-size:1.75rem;line-height:1;letter-spacing:2px">★★★★★</span>
-    <span style="color:#FFFFFF;font-size:1.75rem;font-weight:700;line-height:1">4.2</span>
-    <span style="color:#FFFFFF;font-size:0.95rem;font-weight:500">Trusted by thousands of verified reviewers across India</span>
-    </div>
-    <div style="display:flex;flex-wrap:wrap;gap:0.6rem 1.2rem;font-size:0.85rem;color:#B3B7C3;margin-bottom:0.75rem">
-    <span>▸ <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.1 on Google Play (800+ reviews)</a></span>
-    <span>▸ <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.4 on Apple App Store (270+ reviews)</a></span>
-    <span>▸ Verified on Google Business Profile across 30+ Indian cities</span>
+    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app ratings summary">
+    <p style="margin:0 0 0.75rem;line-height:1.3"><span style="color:#FFFFFF;font-size:1.75rem;font-weight:700">1,000+</span> <span style="color:#B3B7C3;font-size:0.95rem">ratings on Google Play and the App Store</span></p>
+    <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-bottom:0.75rem">
+    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play — 800+ ratings ↗</a>
+    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store — 270+ ratings ↗</a>
     </div>
     <p style="margin:0 0 0.35rem;font-size:0.85rem;color:#B3B7C3">Serving <strong style="color:#FFFFFF">Pune</strong> across Kothrud, Hinjewadi, Viman Nagar, Koregaon Park, Baner, Aundh, Wakad.</p>
-    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:none">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
+    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:underline;display:inline-block;padding:0.3rem 0">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
     </div>
     
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune has an active self-drive rental market with Zymo partners across Hinjewadi, Wakad, Baner (IT hub), Kothrud, Koregaon Park, and Viman Nagar near the airport. Hatchbacks from ₹1,100/day; compact SUVs from ₹2,000/day. Popular outstation routes: Pune-Mumbai (149 km, 2.5 hrs on Expressway), Pune-Mahabaleshwar (120 km, 2.5 hrs), Pune-Lonavala (65 km, 1 hr), Pune-Goa (455 km, 8 hrs).</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup areas and partner locations in Pune</h2><p>Hinjewadi Phase 1-3 partners are convenient for the IT corridor workforce who want a weekend car without the depot. Baner and Wakad are the dense residential zones with multiple partners within 5 km. Koregaon Park partners suit the central Pune and Kalyani Nagar area. Viman Nagar has partners close to Pune International Airport for arriving travellers. Kothrud and Deccan are well-served for west Pune. Search your area on Zymo for live availability.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup areas and partner locations in Pune</h2><p>Partners in Hinjewadi Phases 1, 2, and 3 are convenient for the IT corridor workforce who want a weekend car without the depot. Baner and Wakad are the dense residential zones with multiple partners within a 5 km radius. Koregaon Park partners suit the central Pune and Kalyani Nagar area. Viman Nagar has partners close to Pune International Airport for arriving travellers. Kothrud and Deccan are well-served for west Pune. Search your area on Zymo for live availability.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for a Pune self-drive trip</h2><p>Hatchbacks (Swift, i20, Altroz): ₹1,100-1,500 per day. Compact SUV (Creta, Seltos, Nexon): ₹2,000-2,600 per day. 2-day Pune-Mahabaleshwar booking: car ₹2,200-4,000 + fuel ₹900 (240 km round trip at petrol prices, June 2026) + tolls ₹160 + security deposit (refundable). Pune-Mumbai Expressway FASTag toll: ₹310 one-way for hatchback. FASTag pre-fitted on most Zymo Pune fleet cars.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Outstation driving from Pune</h2><p>Pune-Lonavala (65 km, 1 hr): quickest hill station from Pune, ideal for a half-day or overnight. Pune-Mahabaleshwar (120 km, 2.5 hrs): most popular long weekend destination — book accommodation well in advance May and December. Pune-Goa (455 km, 7-8 hrs via NH48 + NH66): weekend road trip — departure before 6 AM avoids Satara and Kolhapur traffic. Pune-Mumbai (149 km, 2-2.5 hrs on Expressway): the fastest inter-metro road in India.</p></section>
     

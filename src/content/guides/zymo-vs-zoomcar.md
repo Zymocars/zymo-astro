@@ -129,7 +129,7 @@ bodyHtml: |
     <dd>Zymo is an aggregator that compares prices from multiple rental partners. The same car class on the same dates can be priced differently across providers. By showing every partner's price on one screen, Zymo surfaces the lowest available rate. Zymo also charges zero platform fee, unlike most single-brand operators.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Does Zymo show ZoomCar cars?</dt>
-    <dd>Zymo partners with multiple rental providers but does not aggregate ZoomCar's own inventory. Zymo and ZoomCar are two separate platforms — users choose between the aggregator (Zymo) and the single-brand operator (ZoomCar) based on whether they value selection and price comparison or a specific single-brand pickup model.</dd>
+    <dd>Yes. Zymo shows ZoomCar cars alongside cars from its other rental partners, so you can compare a ZoomCar listing with other operators' prices for the same dates in one search and book either through Zymo.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which has more cities — Zymo or ZoomCar?</dt>
     <dd>Zymo operates in 60+ Indian cities including all metros and many Tier-2 and Tier-3 destinations. ZoomCar operates in major metros and select Tier-2 cities. For Tier-2 and Tier-3 city booking, Zymo's aggregator network typically has wider coverage.</dd>
@@ -184,7 +184,7 @@ faqs:
         Zymo is an aggregator that compares prices from multiple rental partners. The same car class on the same dates can be priced differently across providers. By showing every partner's price on one screen, Zymo surfaces the lowest available rate. Zymo also charges zero platform fee, unlike most single-brand operators.
   - q: "Does Zymo show ZoomCar cars?"
     a: |
-        Zymo partners with multiple rental providers but does not aggregate ZoomCar's own inventory. Zymo and ZoomCar are two separate platforms — users choose between the aggregator (Zymo) and the single-brand operator (ZoomCar) based on whether they value selection and price comparison or a specific single-brand pickup model.
+        Yes. Zymo shows ZoomCar cars alongside cars from its other rental partners, so you can compare a ZoomCar listing with other operators' prices for the same dates in one search and book either through Zymo.
   - q: "Which has more cities — Zymo or ZoomCar?"
     a: |
         Zymo operates in 60+ Indian cities including all metros and many Tier-2 and Tier-3 destinations. ZoomCar operates in major metros and select Tier-2 cities. For Tier-2 and Tier-3 city booking, Zymo's aggregator network typically has wider coverage.
@@ -195,7 +195,7 @@ faqs:
 <!--
 This file was migrated from zymo-backend/functions/seo/guideContent.js
 + zymo-backend/functions/seo/metaConfigs.js by
-scripts/migrate-guide-content.mjs on 2026-07-19T09:28:58.762Z.
+scripts/migrate-guide-content.mjs on 2026-10-13T10:01:48.347Z.
 Do NOT hand-edit the bodyHtml front-matter — the raw HTML is what the
 Astro guide template renders verbatim.
 -->

@@ -47,7 +47,7 @@ bodyHtml: |
     <dd>Yes, when you use a vetted platform. On Zymo, partners are onboarded through a vetting process and cars inspected before listing. Do a walk-around inspection and photograph existing scratches at pickup — a clear handover form keeps damage liability documented.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I rent a self-drive car for just a few hours in India?</dt>
-    <dd>Yes. Hourly self-drive is available in major metro cities from a 2-hour minimum. On Zymo, hourly bookings start from ₹45-65 per hour depending on city and car class, with a km cap per hour (extra-km charges apply beyond the cap).</dd>
+    <dd>Yes. Hourly self-drive is available in major metro cities from a 2-hour minimum. On Zymo, hourly bookings start from ₹45 per hour, with a km cap per hour (extra-km charges apply beyond the cap).</dd>
     </dl>
     </section>
     
@@ -106,7 +106,6 @@ faqs:
     a: |
         Yes, when you use a vetted platform. On Zymo, partners are onboarded through a vetting process and cars inspected before listing. Do a walk-around inspection and photograph existing scratches at pickup — a clear handover form keeps damage liability documented.
   - q: "Can I rent a self-drive car for just a few hours in India?"
-    a: |
-        Yes. Hourly self-drive is available in major metro cities from a 2-hour minimum. On Zymo, hourly bookings start from ₹45-65 per hour depending on city and car class, with a km cap per hour (extra-km charges apply beyond the cap).
+    a: "Yes. Hourly self-drive is available in major metro cities from a 2-hour minimum. On Zymo, hourly bookings start from ₹45 per hour, with a km cap per hour (extra-km charges apply beyond the cap)."
 ---
 

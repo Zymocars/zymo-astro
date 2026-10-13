@@ -13,7 +13,7 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-Drive Car Rental in India: The Complete Guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">By Manish Pratik, Founder of Zymo &middot; Updated May 2026</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India lets you book a car and drive it yourself — no driver, no fixed schedule. Zymo is India's largest self-drive car rental aggregator, comparing prices from multiple rental partners across 60+ cities with 30,000+ cars. Hatchbacks start from Rs.55/hour in metros. Book online, pick up the car, and drive.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India lets you book a car and drive it yourself — no driver, no fixed schedule. Zymo is India's largest self-drive car rental aggregator, comparing prices from multiple rental partners across 60+ cities with 30,000+ cars. Hatchbacks start from Rs.45/hour. Book online, pick up the car, and drive.</p>
     
     <p>This guide covers everything you need to know: how self-drive rental works in India, what it costs, what documents you need, which cars to choose, and how to book. It draws on observations from real self-drive activity across multiple partners on the Zymo platform.</p>
     
@@ -43,14 +43,14 @@ bodyHtml: |
     
     <section id="cost">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How Much Does Self-Drive Car Rental Cost in India?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India costs Rs.55-200/hour depending on the car type and city. Hatchbacks like Maruti Swift start from Rs.55/hour in metros. Sedans like Honda City cost Rs.70/hour. SUVs like Hyundai Creta cost Rs.100/hour. Longer rentals get discounts of 5-20%.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India costs Rs.45-200/hour depending on the car type and city. Hatchbacks like Maruti Swift start from Rs.45/hour. Sedans like Honda City start from Rs.60/hour. SUVs like Hyundai Creta start from Rs.85/hour. Longer rentals get discounts of 5-20%.</p>
     
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
-    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car Type</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Metro Rate</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Tier 2 Rate</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Daily (24hr)</th></tr></thead>
+    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car Type</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Hourly (from)</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Daily (24hr)</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hatchback (Swift, i20)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.55/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.47/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.1,000-1,800</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan (City, Verna)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.70/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.60/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.1,800-2,500</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">SUV (Creta, Seltos)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.100/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.85/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.2,500-4,000</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hatchback (Swift, i20)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.1,000-1,800</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan (City, Verna)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.60/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.1,800-2,500</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">SUV (Creta, Seltos)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.85/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.2,500-4,000</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">MPV (Ertiga, Innova)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.95/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.81/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.2,200-3,500</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Luxury (Fortuner, BMW)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.180/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.153/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.4,500-8,000</td></tr>
     </tbody></table></div>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li><strong>Driving license</strong> — original, valid, at least 1 year old. International Driving Permit (IDP) accepted for foreign nationals.</li>
     <li><strong>Government ID</strong> — Aadhaar card, passport, or voter ID. Must match the name on the driving license.</li>
     <li><strong>Security deposit</strong> — typically Rs.2,000-10,000 depending on car type. Refunded after trip. Some providers offer zero-deposit options for a small convenience fee (Rs.299-500).</li>
-    <li><strong>Age requirement</strong> — minimum 21 years for most providers. Some luxury cars require 25+.</li>
+    <li><strong>Age requirement</strong> — depends on the provider: usually 21, some accept 18. Some luxury cars require 25+.</li>
     </ul>
     </section>
     
@@ -126,13 +126,13 @@ bodyHtml: |
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Metro Cities</h3>
     <ul>
-    <li><a href="/self-drive-car-rental-in-mumbai" style="color:#4F7BFF;text-decoration:none"><strong>Mumbai</strong></a> — Gateway to Lonavala, Alibaug, Mahabaleshwar. From Rs.45/hr.</li>
-    <li><a href="/self-drive-car-rental-in-delhi" style="color:#4F7BFF;text-decoration:none"><strong>Delhi NCR</strong></a> — Covers Noida, Gurugram, Ghaziabad. From Rs.80/hr. Best for Jaipur, Rishikesh trips.</li>
-    <li><a href="/self-drive-car-rental-in-bangalore" style="color:#4F7BFF;text-decoration:none"><strong>Bangalore</strong></a> — Coorg, Mysore, Ooty within reach. From Rs.46/hr.</li>
-    <li><a href="/self-drive-car-rental-in-hyderabad" style="color:#4F7BFF;text-decoration:none"><strong>Hyderabad</strong></a> — Easiest ORR in India. From Rs.75/hr.</li>
-    <li><a href="/self-drive-car-rental-in-chennai" style="color:#4F7BFF;text-decoration:none"><strong>Chennai</strong></a> — ECR to Pondicherry is a must-drive. From Rs.46/hr.</li>
-    <li><a href="/self-drive-car-rental-in-pune" style="color:#4F7BFF;text-decoration:none"><strong>Pune</strong></a> — Maharashtra's road trip capital. From Rs.41/hr.</li>
-    <li><a href="/self-drive-car-rental-in-kolkata" style="color:#4F7BFF;text-decoration:none"><strong>Kolkata</strong></a> — Darjeeling, Digha, Shantiniketan. From Rs.56/hr.</li>
+    <li><a href="/self-drive-car-rental-in-mumbai" style="color:#4F7BFF;text-decoration:none"><strong>Mumbai</strong></a> — Gateway to Lonavala, Alibaug, Mahabaleshwar.</li>
+    <li><a href="/self-drive-car-rental-in-delhi" style="color:#4F7BFF;text-decoration:none"><strong>Delhi NCR</strong></a> — Covers Noida, Gurugram, Ghaziabad. Best for Jaipur, Rishikesh trips.</li>
+    <li><a href="/self-drive-car-rental-in-bangalore" style="color:#4F7BFF;text-decoration:none"><strong>Bangalore</strong></a> — Coorg, Mysore, Ooty within reach.</li>
+    <li><a href="/self-drive-car-rental-in-hyderabad" style="color:#4F7BFF;text-decoration:none"><strong>Hyderabad</strong></a> — Easiest ORR in India.</li>
+    <li><a href="/self-drive-car-rental-in-chennai" style="color:#4F7BFF;text-decoration:none"><strong>Chennai</strong></a> — ECR to Pondicherry is a must-drive.</li>
+    <li><a href="/self-drive-car-rental-in-pune" style="color:#4F7BFF;text-decoration:none"><strong>Pune</strong></a> — Maharashtra's road trip capital.</li>
+    <li><a href="/self-drive-car-rental-in-kolkata" style="color:#4F7BFF;text-decoration:none"><strong>Kolkata</strong></a> — Darjeeling, Digha, Shantiniketan.</li>
     </ul>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Popular Tier 2 Cities</h3>
@@ -251,7 +251,7 @@ bodyHtml: |
 faqs: 
   - q: "How much does self-drive car rental cost in India?"
     a: |
-        Self-drive car rental in India starts from Rs.55/hour for hatchbacks in metro cities. Sedans cost Rs.70/hour, SUVs Rs.100/hour. Daily rates range from Rs.1,000 for hatchbacks to Rs.4,000+ for SUVs. Prices vary by city, car type, and duration. Longer bookings get discounts of 5-20%.
+        Self-drive car rental in India starts from Rs.45/hour for hatchbacks. Sedans start from Rs.60/hour, SUVs from Rs.85/hour. Daily rates range from Rs.1,000 for hatchbacks to Rs.4,000+ for SUVs. Prices vary by city, car type, and duration. Longer bookings get discounts of 5-20%.
   - q: "What documents do I need to book a self-drive car in India?"
     a: |
         You need a valid driving license (at least 1 year old), a government-issued photo ID (Aadhaar or passport), and a credit or debit card for the security deposit. The deposit is fully refundable after the trip.
@@ -268,7 +268,7 @@ faqs:
 <!--
 This file was migrated from zymo-backend/functions/seo/guideContent.js
 + zymo-backend/functions/seo/metaConfigs.js by
-scripts/migrate-guide-content.mjs on 2026-07-19T09:28:58.735Z.
+scripts/migrate-guide-content.mjs on 2026-10-13T10:01:48.341Z.
 Do NOT hand-edit the bodyHtml front-matter — the raw HTML is what the
 Astro guide template renders verbatim.
 -->

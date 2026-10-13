@@ -41,7 +41,7 @@ bodyHtml: |
     <dd>Sigra, Nadesar, Lanka, Orderly Bazar, and Cantonment are the primary zones. Lal Bahadur Shastri Airport (IATA: VNS) delivery is available from select partners.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do I need for self-drive rental in Varanasi?</dt>
-    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age 21. For international visitors: IDP (International Driving Permit) required alongside home country licence.</dd>
+    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. For international visitors: IDP (International Driving Permit) required alongside home country licence.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I book a self-drive car for the Varanasi Ghat sunrise tour?</dt>
     <dd>Yes. Many Zymo Varanasi partners offer 4-6 hour early morning slots. This covers Dashashwamedh → Assi Ghat → Manikarnika → Harishchandra Ghat circuit with time to park near each ghat.</dd>
@@ -92,7 +92,8 @@ faqs:
   - q: "What pickup areas in Varanasi have self-drive cars?"
     a: "Sigra, Nadesar, Lanka, Orderly Bazar, and Cantonment are the primary zones. Lal Bahadur Shastri Airport (IATA: VNS) delivery is available from select partners."
   - q: "What documents do I need for self-drive rental in Varanasi?"
-    a: "Valid Indian driving licence + Aadhaar or passport. Minimum age 21. For international visitors: IDP (International Driving Permit) required alongside home country licence."
+    a: |
+        Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. For international visitors: IDP (International Driving Permit) required alongside home country licence.
   - q: "Can I book a self-drive car for the Varanasi Ghat sunrise tour?"
     a: "Yes. Many Zymo Varanasi partners offer 4-6 hour early morning slots. This covers Dashashwamedh → Assi Ghat → Manikarnika → Harishchandra Ghat circuit with time to park near each ghat."
 ---

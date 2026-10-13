@@ -12,7 +12,7 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">How does self-drive car rental work in India?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Step-by-step guide to booking, pickup, driving, and return</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India works in five steps: search cars by city and dates, compare options across rental partners, book and pay online, complete identity verification, then pick up the car (or get doorstep delivery). You drive yourself, return at the same point with the same fuel level, and get your security deposit back in 5-7 days.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India works in five steps: search cars by city and dates, compare options across rental partners, book and pay online, complete identity verification, then pick up the car (or get doorstep delivery). You drive yourself, return at the same point with the same fuel level, and get your security deposit back in 3-5 days.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The five steps in detail</h2>
@@ -30,7 +30,7 @@ bodyHtml: |
     <p>Complete the Aadhaar OTP verification step (a link sent to your WhatsApp or email). Pick up the car from the partner's hub or designated zone, OR receive it at your address (if doorstep delivery is enabled). Photograph the car at handover, sign the partner's handover form, collect the keys.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Step 5 — Drive and return</h3>
-    <p>Drive normally. Refuel as needed (most partners use full-to-full or same-to-same fuel policies). On return, the partner inspects the car, verifies fuel level, and processes the security deposit refund (typically credited to your original payment method within 5-7 working days).</p>
+    <p>Drive normally. Refuel as needed (most partners use full-to-full or same-to-same fuel policies). On return, the partner inspects the car, verifies fuel level, and processes the security deposit refund (typically credited to your original payment method within 3-5 working days).</p>
     </section>
     
     <section>
@@ -78,7 +78,7 @@ bodyHtml: |
     <dd>The base price includes vehicle rental, mandatory insurance, and a set kilometre limit per day (typically 100-300 km depending on partner). Fuel, tolls, parking, and any extra-km charges are billed separately. The booking page shows the full fare breakdown before payment.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I return the car?</dt>
-    <dd>Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car, checks fuel level, then refunds the security deposit within 5-7 working days.</dd>
+    <dd>Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car, checks fuel level, then refunds the security deposit within 3-5 working days.</dd>
     </dl>
     </section>
     
@@ -129,6 +129,6 @@ faqs:
         The base price includes vehicle rental, mandatory insurance, and a set kilometre limit per day (typically 100-300 km depending on partner). Fuel, tolls, parking, and any extra-km charges are billed separately. The booking page shows the full fare breakdown before payment.
   - q: "How do I return the car?"
     a: |
-        Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car, checks fuel level, then refunds the security deposit within 5-7 working days.
+        Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car, checks fuel level, then refunds the security deposit within 3-5 working days.
 ---
 

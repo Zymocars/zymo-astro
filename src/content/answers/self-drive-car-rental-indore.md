@@ -12,19 +12,14 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-drive car rental in Indore — complete guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Based on partner policies across the Zymo network</p>
     
-    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo trust rating summary">
-    <div style="display:flex;align-items:center;gap:1rem;margin-bottom:0.75rem;flex-wrap:wrap">
-    <span aria-hidden="true" style="color:#FFD700;font-size:1.75rem;line-height:1;letter-spacing:2px">★★★★★</span>
-    <span style="color:#FFFFFF;font-size:1.75rem;font-weight:700;line-height:1">4.2</span>
-    <span style="color:#FFFFFF;font-size:0.95rem;font-weight:500">Trusted by thousands of verified reviewers across India</span>
-    </div>
-    <div style="display:flex;flex-wrap:wrap;gap:0.6rem 1.2rem;font-size:0.85rem;color:#B3B7C3;margin-bottom:0.75rem">
-    <span>▸ <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.1 on Google Play (800+ reviews)</a></span>
-    <span>▸ <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="color:#4F7BFF;text-decoration:none">4.4 on Apple App Store (270+ reviews)</a></span>
-    <span>▸ Verified on Google Business Profile across 30+ Indian cities</span>
+    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app ratings summary">
+    <p style="margin:0 0 0.75rem;line-height:1.3"><span style="color:#FFFFFF;font-size:1.75rem;font-weight:700">1,000+</span> <span style="color:#B3B7C3;font-size:0.95rem">ratings on Google Play and the App Store</span></p>
+    <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-bottom:0.75rem">
+    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play — 800+ ratings ↗</a>
+    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store — 270+ ratings ↗</a>
     </div>
     <p style="margin:0 0 0.35rem;font-size:0.85rem;color:#B3B7C3">Serving <strong style="color:#FFFFFF">Indore</strong> across Vijay Nagar, Palasia, Sapna Sangeeta, AB Road, Bhawarkuan, Rajendra Nagar, Nipania.</p>
-    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:none">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
+    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:underline;display:inline-block;padding:0.3rem 0">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
     </div>
     
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in Indore starts from ₹1,100 per day for hatchbacks. Zymo shows prices from multiple Indore partners across Vijay Nagar, Palasia, Rau, Bicholi Mardana, and near Devi Ahilyabai Holkar Airport — compare and book at zymo.app. Popular routes: Indore-Mandu (100 km, 2.5 hrs), Indore-Omkareshwar (75 km, 1.5 hrs), Indore-Ujjain (55 km, 1 hr). No Zymo booking fee.</p>
@@ -51,7 +46,7 @@ bodyHtml: |
     <dd>Ujjain is only 55 km (1 hour) from Indore — any car works. For the popular round trip including Omkareshwar and Maheshwar (200 km total), a compact sedan (Dzire, Amaze) or hatchback is sufficient.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do I need for Indore self-drive rental?</dt>
-    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age 21. Zymo completes DL verification digitally at booking — no photocopies needed at pickup for verified profiles.</dd>
+    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. Zymo completes DL verification digitally at booking — no photocopies needed at pickup for verified profiles.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I rent a self-drive car in Indore for a day trip to Maheshwar?</dt>
     <dd>Yes. Maheshwar is 100 km (2 hours) from Indore. A day rental (8-hour, 150-200 km cap) covers the round trip comfortably. Book an early morning slot to reach before peak crowds.</dd>
@@ -103,7 +98,8 @@ faqs:
   - q: "What is the best car for Indore to Mahakaleshwar Ujjain?"
     a: "Ujjain is only 55 km (1 hour) from Indore — any car works. For the popular round trip including Omkareshwar and Maheshwar (200 km total), a compact sedan (Dzire, Amaze) or hatchback is sufficient."
   - q: "What documents do I need for Indore self-drive rental?"
-    a: "Valid Indian driving licence + Aadhaar or passport. Minimum age 21. Zymo completes DL verification digitally at booking — no photocopies needed at pickup for verified profiles."
+    a: |
+        Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. Zymo completes DL verification digitally at booking — no photocopies needed at pickup for verified profiles.
   - q: "Can I rent a self-drive car in Indore for a day trip to Maheshwar?"
     a: "Yes. Maheshwar is 100 km (2 hours) from Indore. A day rental (8-hour, 150-200 km cap) covers the round trip comfortably. Book an early morning slot to reach before peak crowds."
   - q: "Are FASTag tolls applicable on Indore outstation trips?"
