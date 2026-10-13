@@ -30,7 +30,7 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How refunds are processed</h2>
-    <p>Refunds for partner-side cancellations are credited back to your original payment method within 5-7 working days, plus 2-3 days of bank processing depending on your card or UPI provider. Total time from cancellation to money-in-account typically ranges 7-10 days.</p>
+    <p>Refunds for partner-side cancellations are credited back to your original payment method within 3-5 working days, plus 2-3 days of bank processing depending on your card or UPI provider. Total time from cancellation to money-in-account typically ranges 5-8 days.</p>
     <p>For Zymo bookings, the refund flow goes through Cashfree (the payment gateway). Track the status in your Zymo booking history — when the partner approves the cancellation, the refund is initiated automatically.</p>
     </section>
     
@@ -57,7 +57,7 @@ bodyHtml: |
     <dd>Cancellation policies vary by rental partner — Zymo aggregates partners, each setting their own policy. Most partners offer free cancellation up to 24-48 hours before pickup. Cancellations within 24 hours of pickup typically incur a fee. The exact policy is visible on the booking page before payment.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">When will I get my refund?</dt>
-    <dd>Refunds are typically credited to your original payment method within 5-7 working days for partner-side cancellations. Security deposit refunds are processed similarly. Bank processing time may add 2-3 days depending on your card or UPI provider.</dd>
+    <dd>Refunds are typically credited to your original payment method within 3-5 working days for partner-side cancellations. Security deposit refunds are processed similarly. Bank processing time may add 2-3 days depending on your card or UPI provider.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What if I'm running late and miss my pickup time?</dt>
     <dd>If you don't arrive within 2 hours of the scheduled pickup time without prior notice, most partners treat the booking as a no-show and forfeit the booking amount. If you anticipate a delay, message the partner via Zymo to extend the pickup window — most accommodate reasonable delays.</dd>
@@ -105,7 +105,7 @@ faqs:
         Cancellation policies vary by rental partner — Zymo aggregates partners, each setting their own policy. Most partners offer free cancellation up to 24-48 hours before pickup. Cancellations within 24 hours of pickup typically incur a fee. The exact policy is visible on the booking page before payment.
   - q: "When will I get my refund?"
     a: |
-        Refunds are typically credited to your original payment method within 5-7 working days for partner-side cancellations. Security deposit refunds are processed similarly. Bank processing time may add 2-3 days depending on your card or UPI provider.
+        Refunds are typically credited to your original payment method within 3-5 working days for partner-side cancellations. Security deposit refunds are processed similarly. Bank processing time may add 2-3 days depending on your card or UPI provider.
   - q: "What if I'm running late and miss my pickup time?"
     a: |
         If you don't arrive within 2 hours of the scheduled pickup time without prior notice, most partners treat the booking as a no-show and forfeit the booking amount. If you anticipate a delay, message the partner via Zymo to extend the pickup window — most accommodate reasonable delays.

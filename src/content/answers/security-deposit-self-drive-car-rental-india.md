@@ -14,10 +14,10 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Security deposit on a self-drive car rental in India ranges from ₹3,000 to ₹15,000 depending on the car class, partner, and trip duration. The deposit is held (not charged) on your credit or debit card for the rental period and refunded within 5-7 working days after the car is returned without damage and with the correct fuel level. Some partners offer no-deposit or low-deposit bookings on specific cars.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Security deposit on a self-drive car rental in India ranges from ₹3,000 to ₹15,000 depending on the car class, partner, and trip duration. The deposit is held (not charged) on your credit or debit card for the rental period and refunded within 3-5 working days after the car is returned without damage and with the correct fuel level. Some partners offer no-deposit or low-deposit bookings on specific cars.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Typical deposit ranges by car class</h2><p>Hatchback (Swift, i20, WagonR): ₹3,000-5,000. Sedan (Dzire, Aura, Verna): ₹5,000-8,000. Compact SUV (Brezza, Nexon, Punch): ₹6,000-10,000. Tier-1 SUV (Creta, Seltos, XUV700): ₹8,000-15,000. Premium/luxury cars: ₹15,000-30,000. Outstation and inter-state bookings carry a higher deposit than city-only bookings on the same car.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How the hold works</h2><p>Most partners place a pre-authorisation hold on your card at pickup — the amount is reserved but not actually charged. The hold is released back automatically after the rental period if the car is returned without issues. Some partners debit the deposit and refund within 5-7 days; the booking page lists the exact policy before you confirm.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How the hold works</h2><p>Most partners place a pre-authorisation hold on your card at pickup — the amount is reserved but not actually charged. The hold is released back automatically after the rental period if the car is returned without issues. Some partners debit the deposit and refund within 3-5 days; the booking page lists the exact policy before you confirm.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What can be deducted from the deposit</h2><p>Visible damage caused during the rental (verified against the pre-pickup damage report), missing fuel below the agreed return level, late return penalty if you exceed the booked time, and any unpaid traffic fines or toll evasions during the rental. The deposit is refunded in full when none of these apply, which is the case on most bookings.</p></section>
     
     
@@ -26,7 +26,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How long does it take to get the security deposit back?</dt>
-    <dd>5-7 working days from the time of return. Some partners refund within 24-48 hours if the car was returned without damage. The exact refund timeline is on the booking confirmation page and the partner's return policy.</dd>
+    <dd>3-5 working days from the time of return. Some partners refund within 24-48 hours if the car was returned without damage. The exact refund timeline is on the booking confirmation page and the partner's return policy.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the security deposit charged or just held?</dt>
     <dd>Most partners pre-authorise a hold on your card without actually charging. The hold is released back automatically after the rental period if there are no issues. Some partners debit and refund — confirm the model on the booking page.</dd>
@@ -77,7 +77,7 @@ bodyHtml: |
 faqs: 
   - q: "How long does it take to get the security deposit back?"
     a: |
-        5-7 working days from the time of return. Some partners refund within 24-48 hours if the car was returned without damage. The exact refund timeline is on the booking confirmation page and the partner's return policy.
+        3-5 working days from the time of return. Some partners refund within 24-48 hours if the car was returned without damage. The exact refund timeline is on the booking confirmation page and the partner's return policy.
   - q: "Is the security deposit charged or just held?"
     a: |
         Most partners pre-authorise a hold on your card without actually charging. The hold is released back automatically after the rental period if there are no issues. Some partners debit and refund — confirm the model on the booking page.

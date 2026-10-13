@@ -14,7 +14,7 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">I pioneered the extended test drive category in India through Zymo. The concept: rent the exact car you are planning to buy for 3-7 days and live with it before committing. After running this at scale across 60+ cities and tens of thousands of extended drives, here is the definitive guide to doing it right.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">I pioneered the extended test drive category in India through Zymo. The concept: rent the exact car you are planning to buy for 3-7 days and live with it before committing. After running extended test drives across 60+ cities, here is the guide to doing it right.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The 5-day evaluation framework</h2><p>Day 1 — your daily commute: morning rush and evening return on your actual route to your actual parking. Day 2 — family day: weekend errand run with all passengers, grocery load in the boot. Day 3 — highway drive: 150 km on a highway at 100 km/h — wind noise, ride quality, stability at speed. Day 4 — city efficiency: full urban day with AC running — fuel consumption vs claimed, infotainment in daily use. Day 5 — final evaluation: every friction point you noticed on days 1-4, one more time to confirm whether it is a deal-breaker or something you adapt to. By day 5, you are driving the car on autopilot — that is how you will drive it for the next 7 years.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What showrooms deliberately cannot show you</h2><p>The real view from the rear seat: most showroom demos happen from the front seat. In your extended test drive, ask your family to sit in the rear for a 30-minute highway stretch. The reversing visibility: your housing society parking is a different challenge from the dealer's open lot. Infotainment in direct sunlight: the screen that looked sharp in a dim showroom may be unreadable at noon. Highway wind noise above 100 km/h: a 30-minute test drive that peaks at 60 km/h in city traffic never surfaces this. The boot usability: loading it with your actual luggage is the test, not looking at the number in the brochure.</p></section>
@@ -26,7 +26,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How long should an extended test drive be before buying a car?</dt>
-    <dd>Minimum 3 days (72 hours) to expose yourself to your daily commute both ways, highway driving, family use, parking in your usual spots, and at least one unplanned situation. 5-7 days is ideal — by day 5 you are using the car on autopilot, which is exactly how you will use it for the next 7 years.</dd>
+    <dd>Minimum 3 days (72 hours) to expose yourself to your daily commute both ways, highway driving, family use, parking in your usual spots, and at least one unplanned situation. 3-5 days is ideal — by day 5 you are using the car on autopilot, which is exactly how you will use it for the next 7 years.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does an extended test drive cost in India?</dt>
     <dd>A 3-day extended test drive of a compact SUV on Zymo costs approximately ₹6,000-8,000 plus fuel. A 7-day drive costs ₹12,000-18,000 plus fuel. This is the cost of making a ₹12-15 lakh decision correctly — compare to one month's EMI on the wrong car at ₹15,000-20,000 for 7 years.</dd>
@@ -68,7 +68,7 @@ bodyHtml: |
 faqs: 
   - q: "How long should an extended test drive be before buying a car?"
     a: |
-        Minimum 3 days (72 hours) to expose yourself to your daily commute both ways, highway driving, family use, parking in your usual spots, and at least one unplanned situation. 5-7 days is ideal — by day 5 you are using the car on autopilot, which is exactly how you will use it for the next 7 years.
+        Minimum 3 days (72 hours) to expose yourself to your daily commute both ways, highway driving, family use, parking in your usual spots, and at least one unplanned situation. 3-5 days is ideal — by day 5 you are using the car on autopilot, which is exactly how you will use it for the next 7 years.
   - q: "How much does an extended test drive cost in India?"
     a: |
         A 3-day extended test drive of a compact SUV on Zymo costs approximately ₹6,000-8,000 plus fuel. A 7-day drive costs ₹12,000-18,000 plus fuel. This is the cost of making a ₹12-15 lakh decision correctly — compare to one month's EMI on the wrong car at ₹15,000-20,000 for 7 years.

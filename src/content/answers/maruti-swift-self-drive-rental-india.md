@@ -29,7 +29,7 @@ bodyHtml: |
     <dd>Yes. The Maruti Swift is one of the most listed cars on Zymo — available across Mumbai, Bangalore, Delhi, Pune, Hyderabad, Chennai, Kochi, Ahmedabad, and 50+ more cities. Hatchback demand is high; check availability in your city.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does a Maruti Swift self-drive rental cost?</dt>
-    <dd>₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly rates start from ₹45-55/hour in metro cities. Multi-day rates offer better per-day pricing.</dd>
+    <dd>₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly rates start from ₹45/hour. Multi-day rates offer better per-day pricing.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the fuel economy of the Maruti Swift in self-drive use?</dt>
     <dd>The Swift petrol (1.2L K12N) returns 22-25 km/l on highways and 15-18 km/l in city traffic. The Swift Diesel has been discontinued as of 2024. At ₹100/litre petrol, expect ₹450-650 in fuel for a 100 km highway trip one-way.</dd>
@@ -82,7 +82,7 @@ faqs:
     a: |
         Yes. The Maruti Swift is one of the most listed cars on Zymo — available across Mumbai, Bangalore, Delhi, Pune, Hyderabad, Chennai, Kochi, Ahmedabad, and 50+ more cities. Hatchback demand is high; check availability in your city.
   - q: "How much does a Maruti Swift self-drive rental cost?"
-    a: "₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly rates start from ₹45-55/hour in metro cities. Multi-day rates offer better per-day pricing."
+    a: "₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly rates start from ₹45/hour. Multi-day rates offer better per-day pricing."
   - q: "What is the fuel economy of the Maruti Swift in self-drive use?"
     a: |
         The Swift petrol (1.2L K12N) returns 22-25 km/l on highways and 15-18 km/l in city traffic. The Swift Diesel has been discontinued as of 2024. At ₹100/litre petrol, expect ₹450-650 in fuel for a 100 km highway trip one-way.

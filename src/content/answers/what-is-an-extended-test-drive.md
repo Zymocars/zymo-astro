@@ -26,7 +26,7 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How it works on Zymo</h2>
-    <p>Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date, and duration. Available cars from multiple partners appear with transparent pricing. Complete Aadhaar OTP verification, pay online, pick up the car at the partner's location, and drive it through your real life. Return on schedule, get your security deposit refunded within 5-7 working days.</p>
+    <p>Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date, and duration. Available cars from multiple partners appear with transparent pricing. Complete Aadhaar OTP verification, pay online, pick up the car at the partner's location, and drive it through your real life. Return on schedule, get your security deposit refunded within 3-5 working days.</p>
     </section>
     
     <section>

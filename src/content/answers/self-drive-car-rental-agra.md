@@ -41,7 +41,7 @@ bodyHtml: |
     <dd>The Yamuna Expressway (165 km) is one of India's smoothest 6-lane highways — excellent for self-drive. Speed cameras are active (limit 100 km/h). Allow 2.5-3 hours including the Mathura exit.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do I need for self-drive rental in Agra?</dt>
-    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age 21. International visitors need an IDP (International Driving Permit) alongside their home country licence.</dd>
+    <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. International visitors need an IDP (International Driving Permit) alongside their home country licence.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I do the Agra-Jaipur Golden Triangle by self-drive?</dt>
     <dd>Yes. Agra to Jaipur is 240 km (4 hours via NH21). Many Zymo Agra partners allow Rajasthan outstation. Book the Creta or Seltos for the family-friendly version of this classic route.</dd>
@@ -92,7 +92,8 @@ faqs:
   - q: "Is the Delhi-Agra Yamuna Expressway safe for self-drive?"
     a: "The Yamuna Expressway (165 km) is one of India's smoothest 6-lane highways — excellent for self-drive. Speed cameras are active (limit 100 km/h). Allow 2.5-3 hours including the Mathura exit."
   - q: "What documents do I need for self-drive rental in Agra?"
-    a: "Valid Indian driving licence + Aadhaar or passport. Minimum age 21. International visitors need an IDP (International Driving Permit) alongside their home country licence."
+    a: |
+        Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. International visitors need an IDP (International Driving Permit) alongside their home country licence.
   - q: "Can I do the Agra-Jaipur Golden Triangle by self-drive?"
     a: "Yes. Agra to Jaipur is 240 km (4 hours via NH21). Many Zymo Agra partners allow Rajasthan outstation. Book the Creta or Seltos for the family-friendly version of this classic route."
 ---

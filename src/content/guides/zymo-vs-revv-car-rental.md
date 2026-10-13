@@ -160,7 +160,7 @@ faqs:
 <!--
 This file was migrated from zymo-backend/functions/seo/guideContent.js
 + zymo-backend/functions/seo/metaConfigs.js by
-scripts/migrate-guide-content.mjs on 2026-07-19T09:28:58.751Z.
+scripts/migrate-guide-content.mjs on 2026-10-13T10:01:48.345Z.
 Do NOT hand-edit the bodyHtml front-matter — the raw HTML is what the
 Astro guide template renders verbatim.
 -->

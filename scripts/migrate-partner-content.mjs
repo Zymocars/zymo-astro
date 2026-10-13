@@ -26,7 +26,7 @@ const PARTNER_PAGES = [
     urlSlug: 'earn-from-your-car',
     kind: 'earn',
     canonical: 'https://zymo.app/earn-from-your-car',
-    title: 'Earn ₹9K–₹50K/mo From Your Car — List with Zymo | Zymo Partner',
+    title: 'Earn ₹10K–₹40K/mo From Your Car — List with Zymo | Zymo Partner',
     description: 'Turn your idle car into monthly income. List with Zymo — India\'s largest self-drive car rental aggregator. Owner keeps 75% of every booking. Weekly payouts.',
     generatorFn: 'generateEarnPageContentHtml',
   },

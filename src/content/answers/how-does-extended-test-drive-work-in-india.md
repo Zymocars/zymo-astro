@@ -24,7 +24,7 @@ bodyHtml: |
     <li><strong>Verify and pay.</strong> Complete Aadhaar OTP verification (via WhatsApp or email link), pay online by card, UPI, or net banking.</li>
     <li><strong>Pick up the car.</strong> Reach the partner location at your start time. Carry your driving licence original. The partner does a handover inspection — you photograph the car for your records.</li>
     <li><strong>Drive your life.</strong> Take it on your commute. Park it in your society. Take it to a weekend trip. Use it the way you would use it if you owned it.</li>
-    <li><strong>Return.</strong> Drop the car back at the partner location on time, refuelled to the level the partner specified. Security deposit refunds in 5-7 working days.</li>
+    <li><strong>Return.</strong> Drop the car back at the partner location on time, refuelled to the level the partner specified. Security deposit refunds in 3-5 working days.</li>
     </ol>
     </section>
     
