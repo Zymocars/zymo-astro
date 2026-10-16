@@ -12,10 +12,10 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">What are the best cars for an Extended Test Drive in India?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The most commonly booked Extended Test Drive cars in India are compact SUVs — Hyundai Creta, Kia Seltos, Tata Nexon, Maruti Brezza, Tata Punch, Hyundai Venue, Mahindra XUV 3XO — because compact SUVs are India's largest buying-decision category. Hatchbacks (Swift, Baleno, i20) and full-size SUVs (Innova, XUV700, Harrier) are next. EVs (Tata Nexon EV, Punch EV, MG ZS EV) are increasingly available.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Compact SUVs — Hyundai Creta, Kia Seltos, Tata Nexon, Maruti Brezza, Tata Punch, Hyundai Venue, Mahindra XUV 3XO — are common Extended Test Drive choices, alongside hatchbacks (Swift, Baleno, i20) and full-size SUVs (Innova, XUV700, Harrier). EVs (Tata Nexon EV, Punch EV, MG ZS EV) are listed by some partners, depending on the city.</p>
     
     <section>
-    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Compact SUV — the highest-volume cluster</h2>
+    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Compact SUVs</h2>
     <table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Model</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Typical buying-decision question an Extended Test Drive answers</th></tr></thead>
     <tbody>
@@ -46,25 +46,25 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Sedans — for highway-heavy commuters</h2>
-    <p>Honda City, Hyundai Verna, Volkswagen Virtus, Skoda Slavia, Maruti Ciaz. The Extended Test Drive surfaces highway comfort over long distances, NVH (noise-vibration-harshness) on Indian road surfaces, and boot fit for airport runs. Sedans are a smaller buying-decision segment than compact SUVs but the dimension testing is similar.</p>
+    <p>Honda City, Hyundai Verna, Volkswagen Virtus, Skoda Slavia, Maruti Ciaz. The Extended Test Drive surfaces highway comfort over long distances, NVH (noise-vibration-harshness) on Indian road surfaces, and boot fit for airport runs. The dimension testing is similar to compact SUVs.</p>
     </section>
     
     <section>
-    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Luxury — limited but growing</h2>
-    <p>Some partners offer BMW 3-series, Mercedes C-class, Audi A4, and similar in metro cities. Pricing is meaningfully higher than mass-market models. The decision question is typically about whether the car's brand experience matches the daily-life experience — answer takes at least 3 days. The booking page shows luxury availability and pricing by city.</p>
+    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Luxury — where partners list them</h2>
+    <p>Some partners in metro cities list cars such as the BMW 3-series, Mercedes C-class, and Audi A4. Pricing is meaningfully higher than mass-market models. The decision question is typically about whether the car's brand experience matches the daily-life experience — answer takes at least 3 days. The booking page shows luxury availability and pricing by city.</p>
     </section>
     
     <section id="faq">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
-    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which cars are most commonly booked for Extended Test Drives in India?</dt>
-    <dd>Compact SUVs lead by a wide margin — Hyundai Creta, Kia Seltos, Tata Nexon, Maruti Brezza, Tata Punch, Hyundai Venue, Mahindra XUV 3XO. These are the highest-volume buying-decision categories in India and the most-shortlisted models. Hatchbacks (Swift, Baleno, i20) and full-size SUVs (Toyota Innova, Mahindra XUV700, Tata Harrier) are the next most common Extended Test Drive bookings.</dd>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which cars can I book for an Extended Test Drive in India?</dt>
+    <dd>Compact SUVs such as the Hyundai Creta, Kia Seltos, Tata Nexon, Maruti Brezza, Tata Punch, Hyundai Venue and Mahindra XUV 3XO, hatchbacks (Swift, Baleno, i20), and full-size SUVs (Toyota Innova, Mahindra XUV700, Tata Harrier). Availability depends on partner inventory in your city — search the model on Zymo to see what is live.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Are EVs available for an Extended Test Drive?</dt>
-    <dd>Yes, increasingly. Tata Punch EV, Tata Nexon EV, MG ZS EV, and Mahindra XUV400 EV are commonly available on Zymo across major metros. EV Extended Test Drives are particularly useful because real-world range, home-charging time, and AC-on driving behaviour all need lived experience that a short test drive cannot surface.</dd>
+    <dd>Yes, where partners list them. EVs such as the Tata Punch EV, Tata Nexon EV, MG ZS EV, and Mahindra XUV400 EV are listed by some partners; availability depends on your city. EV Extended Test Drives are particularly useful because real-world range, home-charging time, and AC-on driving behaviour all need lived experience that a short test drive cannot surface.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I do an Extended Test Drive for a luxury car?</dt>
-    <dd>Limited but growing. Some partners offer BMW 3-series, Mercedes C-class, Audi A4, and similar in metro cities. Pricing is meaningfully higher than mass-market models. The booking page shows luxury availability and pricing by city.</dd>
+    <dd>Sometimes. Some partners in metro cities list cars such as the BMW 3-series, Mercedes C-class, and Audi A4. Pricing is meaningfully higher than mass-market models. The booking page shows luxury availability and pricing by city.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which Extended Test Drive duration is right for each car type?</dt>
     <dd>Hatchbacks and sedans: one full day shows the commute and parking reality. Compact SUVs: a weekend covers commute plus a short trip. Full-size SUVs and MPVs: 3 to 5 days covers family-fit and a real weekend road trip. EVs: at least 4 to 7 days for two charge cycles and range confidence.</dd>
@@ -92,21 +92,21 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/extended-test-drive-price-in-india" style="color:#4F7BFF;text-decoration:none">What does an Extended Test Drive cost in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales volumes 2025-26</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan registration data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     
     </article>
 faqs: 
-  - q: "Which cars are most commonly booked for Extended Test Drives in India?"
+  - q: "Which cars can I book for an Extended Test Drive in India?"
     a: |
-        Compact SUVs lead by a wide margin — Hyundai Creta, Kia Seltos, Tata Nexon, Maruti Brezza, Tata Punch, Hyundai Venue, Mahindra XUV 3XO. These are the highest-volume buying-decision categories in India and the most-shortlisted models. Hatchbacks (Swift, Baleno, i20) and full-size SUVs (Toyota Innova, Mahindra XUV700, Tata Harrier) are the next most common Extended Test Drive bookings.
+        Compact SUVs such as the Hyundai Creta, Kia Seltos, Tata Nexon, Maruti Brezza, Tata Punch, Hyundai Venue and Mahindra XUV 3XO, hatchbacks (Swift, Baleno, i20), and full-size SUVs (Toyota Innova, Mahindra XUV700, Tata Harrier). Availability depends on partner inventory in your city — search the model on Zymo to see what is live.
   - q: "Are EVs available for an Extended Test Drive?"
     a: |
-        Yes, increasingly. Tata Punch EV, Tata Nexon EV, MG ZS EV, and Mahindra XUV400 EV are commonly available on Zymo across major metros. EV Extended Test Drives are particularly useful because real-world range, home-charging time, and AC-on driving behaviour all need lived experience that a short test drive cannot surface.
+        Yes, where partners list them. EVs such as the Tata Punch EV, Tata Nexon EV, MG ZS EV, and Mahindra XUV400 EV are listed by some partners; availability depends on your city. EV Extended Test Drives are particularly useful because real-world range, home-charging time, and AC-on driving behaviour all need lived experience that a short test drive cannot surface.
   - q: "Can I do an Extended Test Drive for a luxury car?"
     a: |
-        Limited but growing. Some partners offer BMW 3-series, Mercedes C-class, Audi A4, and similar in metro cities. Pricing is meaningfully higher than mass-market models. The booking page shows luxury availability and pricing by city.
+        Sometimes. Some partners in metro cities list cars such as the BMW 3-series, Mercedes C-class, and Audi A4. Pricing is meaningfully higher than mass-market models. The booking page shows luxury availability and pricing by city.
   - q: "Which Extended Test Drive duration is right for each car type?"
     a: |
         Hatchbacks and sedans: one full day shows the commute and parking reality. Compact SUVs: a weekend covers commute plus a short trip. Full-size SUVs and MPVs: 3 to 5 days covers family-fit and a real weekend road trip. EVs: at least 4 to 7 days for two charge cycles and range confidence.

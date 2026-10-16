@@ -19,7 +19,7 @@ bodyHtml: |
     <p>Three components decide what you pay:</p>
     <ul>
     <li><strong>Daily or hourly rental rate.</strong> Set by the partner, varies by car class. A hatchback costs materially less per day than a full-size SUV. Multi-day brackets (3, 5, 7 days) typically carry better per-day rates than single-day.</li>
-    <li><strong>Refundable security deposit.</strong> Held during the trip, refunded within 3-5 working days after return. Typically ₹3,000 to ₹15,000 depending on car class. Some partners offer low or zero-deposit options on specific cars — visible on the booking page.</li>
+    <li><strong>Refundable security deposit.</strong> Paid online with the booking, held by Zymo during the trip, and refunded by Zymo within 5–7 working days after the trip. Typically ₹3,000 to ₹15,000 depending on car class. Some partners set a low or zero deposit; the amount is shown on the listing.</li>
     <li><strong>Fuel.</strong> You return the car at the fuel level the partner specified at pickup. You pay for fuel you use during the trip.</li>
     </ul>
     </section>
@@ -35,7 +35,7 @@ bodyHtml: |
     </section>
     
     <section>
-    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How to find the best price for your trip</h2>
+    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How to pay less for your trip</h2>
     <ul>
     <li><strong>Compare partners.</strong> The booking page shows multiple partners offering the same car for the same dates. Same model, different prices — pick the option that fits.</li>
     <li><strong>Check multi-day brackets.</strong> A 3-day booking is often priced better per day than three 1-day bookings. Many partners offer further discounts at 5 and 7 days.</li>
@@ -79,7 +79,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/documents-for-extended-test-drive" style="color:#4F7BFF;text-decoration:none">What documents do I need for an Extended Test Drive?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales volumes</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     

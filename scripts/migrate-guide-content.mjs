@@ -1,13 +1,12 @@
 #!/usr/bin/env node
-// One-shot migration: reads guide SEO data from
+// Regenerates guide SEO content from
 // zymo-backend/functions/seo/guideContent.js + metaConfigs.js and emits one
 // markdown file per guide at src/content/guides/{slug}.md.
 //
 // Guide content is HTML-first (each generator returns a big HTML string).
 // This migration stores the raw HTML in the `bodyHtml` front-matter field so
-// the Astro page can render it via <Fragment set:html={bodyHtml}>. Inline
-// styles from the original SSR generator are preserved (a follow-up Phase 3.5
-// cleanup can extract them into CSS classes if useful, but not blocking).
+// the Astro page can render it via <Fragment set:html={bodyHtml}>, inline
+// styles included.
 //
 // Usage:
 //   node scripts/migrate-guide-content.mjs [slug...]
@@ -26,9 +25,7 @@ const ZYMO_BACKEND = path.resolve(__dirname, '../../zymo-backend/functions/seo')
 const OUT_DIR = path.resolve(__dirname, '../src/content/guides');
 
 // -----------------------------------------------------------------------------
-// YAML block-scalar helpers (shared with migrate-city-content.mjs — kept
-// inline here to avoid a shared-utils module until the third migration script
-// is written).
+// YAML block-scalar helpers.
 // -----------------------------------------------------------------------------
 function toYamlValue(v, indent = 0) {
   const pad = '  '.repeat(indent);
@@ -94,20 +91,9 @@ async function main() {
   const { getGuideSlugs, generateGuideContentHtml, getGuideFAQSchema } = guideContent;
   const { getGuideMeta } = metaConfigs;
 
-  // metaConfigs.js has GUIDE_PAGE_CONFIGS as a private const — re-require via
-  // module cache to reach it. Fall back to parsing the meta objects returned
-  // by getGuideMeta if not exposed.
-  let GUIDE_PAGE_CONFIGS = null;
-  try {
-    const cached = require.cache[require.resolve(path.join(ZYMO_BACKEND, 'metaConfigs.js'))];
-    // The consts inside metaConfigs.js are module-private. Rather than rely on
-    // internal cache introspection (fragile), we synthesize the needed fields
-    // by calling getGuideMeta + reading title/description/canonical from its
-    // return value. `h1`, `type`, `publishedDate`, `modifiedDate` are not
-    // exposed by getGuideMeta so we re-read the source file for them below.
-  } catch (_) { /* ignore */ }
-
-  // Re-read the metaConfigs source to extract the four private fields per slug.
+  // getGuideMeta exposes title/description/canonical only. `h1`, `type`,
+  // `publishedDate` and `modifiedDate` live in metaConfigs.js's module-private
+  // GUIDE_PAGE_CONFIGS, so they are read from the source text per slug.
   // Cheap regex — works because the config block is a flat literal object.
   const metaSource = await fs.readFile(path.join(ZYMO_BACKEND, 'metaConfigs.js'), 'utf8');
   function extractPrivate(slug, field) {
@@ -167,7 +153,7 @@ async function main() {
     const body = `<!--
 This file was migrated from zymo-backend/functions/seo/guideContent.js
 + zymo-backend/functions/seo/metaConfigs.js by
-scripts/migrate-guide-content.mjs on ${new Date().toISOString()}.
+scripts/migrate-guide-content.mjs.
 Do NOT hand-edit the bodyHtml front-matter — the raw HTML is what the
 Astro guide template renders verbatim.
 -->

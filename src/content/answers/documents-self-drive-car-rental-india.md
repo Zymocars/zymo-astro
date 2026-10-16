@@ -12,11 +12,11 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">What documents do I need to book a self-drive car in India?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Based on partner policies across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">To book a self-drive car in India you need three documents: a valid Indian driving licence (non-learner, at least one year old), a government photo ID (Aadhaar, passport, or voter ID), and a credit or debit card for the refundable security deposit. Carry originals at pickup. Foreign nationals also need an International Driving Permit.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">To book a self-drive car in India you need two documents — a valid Indian driving licence (non-learner, at least one year old) and a government photo ID (Aadhaar, passport, or voter ID) — plus the refundable security deposit, paid online with your booking. Carry originals at pickup. Foreign nationals also need an International Driving Permit.</p>
     <ul>
     <li><strong>Driving licence:</strong> full (non-learner) Indian licence, valid, at least one year old</li>
     <li><strong>Government photo ID:</strong> Aadhaar preferred; passport or voter ID also accepted</li>
-    <li><strong>Payment card:</strong> credit or debit card for refundable security deposit (₹3,000–₹15,000 depending on car class)</li>
+    <li><strong>Security deposit:</strong> paid online with your booking and refunded by Zymo after the trip (₹3,000–₹15,000 depending on car class)</li>
     <li><strong>Carry originals:</strong> physical documents at pickup — digital copies alone are typically not accepted</li>
     </ul>
     
@@ -29,8 +29,8 @@ bodyHtml: |
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">2. Government photo ID</h3>
     <p>Aadhaar is the most widely accepted. Passport, voter ID, and PAN card also work for most partners. The ID must match the name on your driving licence and the booking. If your booking name and licence name don't match (e.g., post-marriage name change), bring proof of the change (marriage certificate or affidavit).</p>
     
-    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">3. Payment card for security deposit</h3>
-    <p>Credit or debit card under the booking name. The deposit is held (not charged) for the rental period and refunded within 3-5 working days after return, provided the car is returned without damage and with the correct fuel level. Deposit amounts typically range from ₹3,000 to ₹15,000 depending on the car class. Some partners offer no-deposit or low-deposit bookings on specific cars — visible on the booking page.</p>
+    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">3. Security deposit (paid online)</h3>
+    <p>The refundable security deposit is paid online with your booking and held by Zymo, not by the partner. Zymo refunds it within 5–7 working days after the trip, provided the car is returned without damage and with the correct fuel level. Deposit amounts typically range from ₹3,000 to ₹15,000 depending on the car class. Some partners set a low or zero deposit; the amount is shown on the listing.</p>
     </section>
     
     <section>
@@ -73,8 +73,8 @@ bodyHtml: |
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Are digital copies of documents accepted?</dt>
     <dd>Carry originals at pickup. Most rental partners require original physical documents for verification — digital copies alone are typically not enough. Photos saved in DigiLocker may be accepted by some partners; check the booking page.</dd>
     
-    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Do I need a credit card for the security deposit?</dt>
-    <dd>Most partners accept credit OR debit cards. A few accept UPI deposits. Cash deposits are uncommon. The deposit is fully refundable after the trip, typically within 3-5 working days.</dd>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I pay the security deposit?</dt>
+    <dd>Online, with your booking, through Zymo's payment gateway — not in cash and not to the partner at pickup. Zymo holds the deposit and refunds it within 5–7 working days after the trip.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do foreign nationals need?</dt>
     <dd>International Driving Permit (IDP) plus your home-country licence, your passport, and a copy of your Indian visa proving period of stay. Some partners require additional address proof in India.</dd>
@@ -108,7 +108,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/cancellation-policy-self-drive-rental" style="color:#4F7BFF;text-decoration:none">What is the cancellation policy for self-drive car rentals?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH driving licence rules</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Motor Vehicles Act 1988</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan vehicle portal</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -122,8 +122,8 @@ faqs:
   - q: "Are digital copies of documents accepted?"
     a: |
         Carry originals at pickup. Most rental partners require original physical documents for verification — digital copies alone are typically not enough. Photos saved in DigiLocker may be accepted by some partners; check the booking page.
-  - q: "Do I need a credit card for the security deposit?"
-    a: "Most partners accept credit OR debit cards. A few accept UPI deposits. Cash deposits are uncommon. The deposit is fully refundable after the trip, typically within 3-5 working days."
+  - q: "How do I pay the security deposit?"
+    a: "Online, with your booking, through Zymo's payment gateway — not in cash and not to the partner at pickup. Zymo holds the deposit and refunds it within 5–7 working days after the trip."
   - q: "What documents do foreign nationals need?"
     a: "International Driving Permit (IDP) plus your home-country licence, your passport, and a copy of your Indian visa proving period of stay. Some partners require additional address proof in India."
 ---

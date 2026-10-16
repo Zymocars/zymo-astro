@@ -9,17 +9,17 @@ body: |
     <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Cheap Car Rental in India</h1>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Cheap self-drive car rentals in India start from ₹45/hour for hatchbacks. Daily rates typically range ₹1,000-1,500 for economy cars. Booking 1-2 weeks ahead, choosing weekday pickups, and selecting hatchbacks instead of SUVs are the simplest ways to lower your rental cost. Compare partner prices on Zymo to find the lowest available rate.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Cheap self-drive car rentals in India start from ₹45/hour for hatchbacks. Daily rates typically range ₹1,100-1,500 for economy cars. Booking 1-2 weeks ahead, choosing weekday pickups, and selecting hatchbacks instead of SUVs are the simplest ways to lower your rental cost. Compare partner prices on Zymo for your dates.</p>
     
-    <p>&ldquo;Cheap&rdquo; rarely means one fixed lowest number — it varies by city, season, day of week, and how far ahead you book. The aggregator model on Zymo surfaces price differences across rental partners for the same car category, so you can pick the cheapest option for your dates without switching between apps.</p>
+    <p>&ldquo;Cheap&rdquo; rarely means one fixed lowest number — it varies by city, season, day of week, and how far ahead you book. The aggregator model on Zymo surfaces price differences across rental partners for the same car category, so you can pick the price that suits your dates without switching between apps.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How to Find the Cheapest Self-Drive Rental</h2>
     <ol>
-    <li><strong>Compare partners side-by-side:</strong> the same car category often varies ₹200-500/day across partners on the same dates. Zymo shows them in one search.</li>
-    <li><strong>Book 1-2 weeks ahead:</strong> last-minute rates are typically 10-25% higher than booking ahead.</li>
-    <li><strong>Pick weekday pickups:</strong> Monday-Thursday rates are usually 10-15% lower than weekends.</li>
-    <li><strong>Choose a hatchback:</strong> for city driving and short trips, hatchbacks are 30-50% cheaper than SUVs and use less fuel.</li>
+    <li><strong>Compare partners side-by-side:</strong> the same car category can be priced differently across partners on the same dates. Zymo shows them in one search.</li>
+    <li><strong>Book 1-2 weeks ahead:</strong> last-minute rates are usually higher than booking ahead.</li>
+    <li><strong>Pick weekday pickups:</strong> Monday-Thursday rates are usually lower than weekends.</li>
+    <li><strong>Choose a hatchback:</strong> for city driving and short trips, hatchbacks cost less than SUVs and use less fuel.</li>
     <li><strong>Check kilometre allocation:</strong> a slightly higher base price with more included KMs is often cheaper than paying per extra KM.</li>
     </ol>
     </section>
@@ -29,11 +29,11 @@ body: |
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car Class</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Hourly From</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Daily Range</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Example Models</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Economy hatchback</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹900-1,400</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Maruti Swift, Hyundai i20, Tata Tiago</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹70/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,300-2,000</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Honda City, Hyundai Verna</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Compact SUV</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹100/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,700-2,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hyundai Creta, Kia Seltos, Tata Nexon</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Economy hatchback</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,100-1,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Maruti Swift, Hyundai i20, Tata Tiago</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹60/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,500-2,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Honda City, Hyundai Verna</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">SUV</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹85/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,800-2,800</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hyundai Creta, Kia Seltos, Tata Nexon</td></tr>
     </tbody></table></div>
-    <p>Tier-2 cities (Indore, Jaipur, Coimbatore) typically run 5-15% cheaper than metros for the same car class. Off-peak months (June-August, mid-week) are also cheaper.</p>
+    <p>Tier-2 cities (Indore, Jaipur, Coimbatore) often cost less than metros for the same car class. Off-peak months (June-August, mid-week) are also cheaper.</p>
     </section>
     
     <section>

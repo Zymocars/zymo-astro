@@ -19,14 +19,14 @@ bodyHtml: |
     <tbody>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Driving Licence (LMV class)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mandatory</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Original required; DigiLocker digital licence accepted under MV Amendment Act 2019</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Government Photo ID (Aadhaar / Passport / Voter ID)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mandatory (one)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Aadhaar can be DigiLocker; Passport and Voter ID must be original</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Aadhaar for OTP verification</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Recommended</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Speeds up Zymo's KYC — unlocks first booking faster. Not mandatory if using another ID.</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Aadhaar for OTP verification</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Recommended</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Speeds up Zymo's KYC after booking, before pickup. Not mandatory if using another ID.</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">International Driving Permit (IDP)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">International tourists only</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">IDP must cover India. Carry alongside original country licence and passport.</td></tr>
     </tbody></table></div>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Age requirements</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The minimum age to rent on ZoomCar is typically 21 years. Some premium cars (large SUVs, luxury models) require the driver to be 23+. The age requirement for your specific car is shown on the listing page. Drivers under the minimum age will not be permitted to pick up the car even with valid documents.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The minimum age depends on the car and is shown on the listing page; some premium cars (large SUVs, luxury models) may need a higher age. Drivers under the minimum age will not be permitted to pick up the car even with valid documents.</p>
     </section>
     
     <section>
@@ -45,7 +45,7 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Zymo OTP verification — what it is and why it helps</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">When booking a ZoomCar (or any car) through Zymo, Zymo's Aadhaar OTP verification completes your KYC in under 2 minutes. This is a one-time step on first booking. It uses your Aadhaar number to generate an OTP from UIDAI — no document upload is required. Once completed, subsequent bookings on Zymo are faster as verification is already on file.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">When booking a ZoomCar (or any car) through Zymo, Zymo's Aadhaar OTP verification completes your KYC after you book, before pickup. It is a one-time step. It uses your Aadhaar number to generate an OTP from UIDAI — no document upload is required. Once completed, subsequent bookings on Zymo are faster as verification is already on file.</p>
     </section>
     
     <section>

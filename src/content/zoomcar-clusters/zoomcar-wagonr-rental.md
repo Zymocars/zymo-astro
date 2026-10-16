@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-wagonr-rental"
 title: "ZoomCar WagonR Rental — Maruti WagonR Self-Drive Price India | Zymo"
-description: "Rent a Maruti WagonR on ZoomCar: 1.0L and 1.2L petrol, 341L boot, AMT available, one of ZoomCar's most affordable hatchbacks. Compare WagonR across self-drive partners on Zymo."
+description: "Rent a Maruti WagonR on ZoomCar: 1.0L and 1.2L petrol, 341L boot, AMT available. Compare WagonR across self-drive partners on Zymo."
 canonical: "https://zymo.app/zoomcar-wagonr-rental"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -10,7 +10,7 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Maruti WagonR self-drive availability and pricing guide</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Is the Maruti WagonR available on ZoomCar?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Maruti WagonR is one of ZoomCar's most affordable and widely available hatchbacks across India. Its tall-boy design, spacious cabin, and practical boot make it a popular choice for city rentals and short outstation trips. Zymo shows WagonR listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Maruti WagonR is listed on ZoomCar in multiple cities. Its tall-boy design, spacious cabin, and practical boot suit city rentals and short outstation trips. Zymo shows WagonR listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Maruti WagonR — key specs for self-drive</h2>
@@ -26,13 +26,12 @@ bodyHtml: |
     </section>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What does a ZoomCar WagonR cost?</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The WagonR is in the hatchback class — expect rates from approximately ₹45/hr in major metros, making it one of ZoomCar's most affordable options. Security deposits for hatchbacks typically run ₹3,000–5,000, refunded after trip close. Confirm the exact rate on the listing page before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rates and deposits vary by city and date — the listing page shows the exact figures before you book.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When the WagonR is the right choice</h2>
     <ul>
     <li><strong>City rentals:</strong> the WagonR's tight turning radius and small footprint make it easiest to park in metro congestion</li>
-    <li><strong>Head room:</strong> the tall-boy design provides more vertical space than most hatchbacks — comfortable for taller passengers on longer drives</li>
-    <li><strong>Budget-first booking:</strong> the WagonR is typically the most affordable compact option on ZoomCar for daily or hourly city use</li>
+    <li><strong>Head room:</strong> the tall-boy design gives generous vertical space — comfortable for taller passengers on longer drives</li>
     <li><strong>AMT availability:</strong> the AMT variant eliminates gear changing — ideal for stop-and-go traffic in metros</li>
     </ul>
     
@@ -48,16 +47,14 @@ bodyHtml: |
     <p style="margin:0"><a href="/" style="color:#4F7BFF;text-decoration:none;font-weight:600">Browse cars on Zymo →</a></p>
     </section>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; ZoomCar pricing guide by car class</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; How ZoomCar pricing works</a></p>
     
     </article>
 faqs: 
   - q: "Is the Maruti WagonR available on ZoomCar?"
-    a: |
-        Yes. The WagonR is one of ZoomCar's most affordable and widely available hatchbacks across India. It is available in 1.0L and 1.2L petrol variants with manual and AMT options at rates starting from approximately ₹45/hr.
+    a: "Yes. The WagonR is listed on ZoomCar in multiple cities, in 1.0L and 1.2L petrol variants with manual and AMT options."
   - q: "How much does a ZoomCar WagonR rental cost?"
-    a: |
-        The WagonR is in the hatchback class — expect rates from approximately ₹45/hr in major metros. Security deposits typically run ₹3,000–5,000, refunded after trip close. It is one of the most affordable rental options on ZoomCar.
+    a: "Rates and deposits vary by city and date — the listing page shows the exact figures before you book."
   - q: "Does the ZoomCar WagonR come in automatic?"
     a: |
         Yes. The WagonR AMT (Automated Manual Transmission) is available on ZoomCar in select listings. The AMT is practical for city traffic. Confirm the transmission type on the specific listing before booking.

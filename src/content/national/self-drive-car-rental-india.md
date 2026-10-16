@@ -9,7 +9,7 @@ body: |
     <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-Drive Car Rental in India</h1>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India lets you book a car and drive yourself — no driver, no fixed schedule. Zymo aggregates self-drive cars from multiple rental partners across 60+ cities. Hatchbacks start from ₹45/hour; SUVs from ₹100/hour. Pick up the car, drive at your own pace, and return.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India lets you book a car and drive yourself — no driver, no fixed schedule. Zymo aggregates self-drive cars from multiple rental partners across 60+ cities. Hatchbacks start from ₹45/hour, sedans from ₹60/hour and SUVs from ₹85/hour. Pick up the car, drive at your own pace, and return.</p>
     
     <p>Rental needs differ — a Mumbai weekend trip to Lonavala, a Delhi-to-Agra day drive, an Extended Test Drive of a car you&rsquo;re considering buying, or a month-long subscription while shifting cities. Zymo&rsquo;s aggregator model surfaces options across rental partners in a single search, so you compare base fare, kilometre limits, fuel policy, and security deposit before booking.</p>
     
@@ -18,7 +18,7 @@ body: |
     <ol>
     <li><strong>Search:</strong> enter your city and pickup/drop dates.</li>
     <li><strong>Compare:</strong> see real-time prices from multiple rental partners side-by-side. Filter by car type, transmission, fuel.</li>
-    <li><strong>Book:</strong> verify your details, complete the Aadhaar OTP step (via WhatsApp or email link), pay securely.</li>
+    <li><strong>Book:</strong> pay securely. After booking, complete the Aadhaar OTP step (via WhatsApp or email link) before pickup.</li>
     <li><strong>Pick up or get delivery:</strong> some partners offer doorstep delivery; others have designated pickup points.</li>
     <li><strong>Drive + return:</strong> drive on your schedule. Return at the same point with the same fuel level.</li>
     </ol>
@@ -45,7 +45,7 @@ body: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What You Need to Book a Self-Drive Car</h2>
-    <p>To book a self-drive car in India you need three documents: a valid Indian driving licence (non-learner, at least one year old), a government photo ID (Aadhaar, passport, or voter ID), and a credit or debit card for the refundable security deposit. Foreign nationals additionally need an International Driving Permit. <a href="/answers/documents-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">See the documents guide</a>.</p>
+    <p>To book a self-drive car in India you need three documents: a valid Indian driving licence (non-learner, at least one year old), a government photo ID (Aadhaar, passport, or voter ID), and a payment method for the refundable security deposit, which is paid online with the booking. Foreign nationals additionally need an International Driving Permit. <a href="/answers/documents-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">See the documents guide</a>.</p>
     </section>
     
     <section>
@@ -53,13 +53,12 @@ body: |
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car Type</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Hourly From</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Daily Range</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Best For</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hatchback (Swift, i20)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,000-1,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">City driving, short trips</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan (City, Verna)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹70/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,400-2,200</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Highway road trips</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Compact SUV (Creta, Seltos)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹100/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,800-2,800</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mixed terrain, weekend trips</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Full-size SUV (Thar, XUV700)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹110/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹2,400-3,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mountain, off-road</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">MPV (Innova, Ertiga)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹95/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹2,200-3,200</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Family, group travel</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hatchback (Swift, i20)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,100-1,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">City driving, short trips</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan (City, Verna)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹60/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,500-2,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Highway road trips</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">SUV (Creta, Seltos, Thar, XUV700)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹85/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,800-2,800 (compact)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mixed terrain, weekend and mountain trips</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">MPV (Innova, Ertiga)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">See listing</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹2,200-3,200</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Family, group travel</td></tr>
     </tbody></table></div>
-    <p>Prices vary by city, partner, dates, and demand. Compare partner rates on Zymo before booking — the same car category is often priced ₹200-500/day apart for the same dates.</p>
+    <p>Prices vary by city, partner, dates, and demand. Compare partner rates on Zymo before booking — the same car category can be priced differently across partners for the same dates.</p>
     </section>
     
     <section>
@@ -67,9 +66,9 @@ body: |
     <ul>
     <li><strong>One search across multiple partners:</strong> see all available options in your city without switching apps.</li>
     <li><strong>Transparent pricing:</strong> base fare, deposit, KM limits, fuel policy visible before payment. No hidden Zymo platform fee.</li>
-    <li><strong>30,000+ cars from multiple partners:</strong> hatchback to luxury, manual to automatic, fuel and electric.</li>
+    <li><strong>Cars from multiple partners:</strong> hatchback to luxury, manual to automatic, fuel and electric.</li>
     <li><strong>Doorstep delivery available:</strong> select partners deliver to your address in major cities.</li>
-    <li><strong>Extended Test Drive option:</strong> book a 2-7 day rental of a car you&rsquo;re considering buying. <a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">Read the ETD guide</a>.</li>
+    <li><strong>Extended Test Drive option:</strong> book the car you&rsquo;re considering buying for anywhere from one day to a month. <a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">Read the ETD guide</a>.</li>
     </ul>
     </section>
     

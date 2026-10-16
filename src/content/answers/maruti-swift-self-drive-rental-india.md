@@ -14,11 +14,11 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Maruti Swift is the most commonly available self-drive rental car in India — available across 60+ cities on Zymo from multiple partners. Price: ₹1,100-1,500 per day depending on city, partner, and dates. Seats 5. Petrol engine (1.2L DualJet). Ideal for city trips, expressway runs, and routes where parking is tight. Not recommended for mountain ghats in monsoon.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Maruti Swift is a hatchback listed by partners on Zymo. Price: ₹1,100-1,500 per day depending on city, partner, and dates. Seats 5. Petrol engine (1.2L DualJet). Ideal for city trips, expressway runs, and routes where parking is tight. Not recommended for mountain ghats in monsoon.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Swift specs for self-drive rental context</h2><p>Engine: 1.2L DualJet petrol, 89 PS. Fuel economy: 13-17 km/L in real-world Indian driving (city: 13-14 km/L, highway: 16-17 km/L). Boot: 268 litres — fits 2 large cabin bags or 1 large check-in bag. Ground clearance: 163mm — handles speed bumps and moderate broken road; not suited for deep off-road. Seating: 5 passengers, comfortable for 4 on long routes (5th passenger in rear-middle is tight for adults). FASTag-fitted in all Zymo rental Swift units.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Swift specs for self-drive rental context</h2><p>Engine: 1.2L DualJet petrol, 90 PS. Fuel economy: about 16-20 km/L in real-world Indian driving (ARAI rating 24.8 km/L). Boot: 268 litres — fits 2 large cabin bags or 1 large check-in bag. Ground clearance: 163mm — handles speed bumps and moderate broken road; not suited for deep off-road. Seating: 5 passengers, comfortable for 4 on long routes (5th passenger in rear-middle is tight for adults). Partner cars come fitted with FASTag; confirm the balance at pickup.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which routes is a Swift best for?</h2><p>City sightseeing: Swift's compact body fits easily into Mumbai, Delhi, Bangalore bazaar parking and narrow gali approaches. Expressway runs (Delhi-Agra, Mumbai-Pune, Bangalore-Mysore): good fuel economy, comfortable ride at 100-110 km/h. Short-medium outstation (up to 400 km round trip, flat roads): comfortable for 2-3 passengers. Ghat roads in dry season: manageable — adequate for Lonavala, Khandala, and low-difficulty ghats. Not recommended: Manali (December-April snow), very steep ghats in monsoon, 5-passenger trips over 3+ hours on mountain routes.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Swift self-drive rental price and booking on Zymo</h2><p>Daily rate: ₹1,100-1,500/day (city and partner dependent). 7-day bracket: ₹900-1,100/day — better per-day rate for longer bookings. Security deposit: ₹3,000-5,000 (refundable on return). Fuel: Swift on petrol, ₹105/L (June 2026 PPAC). 200 km day trip fuel cost: approximately ₹1,470. Compare Swift prices from all Zymo partners in your city on the booking page — prices vary by partner, day of week, and advance booking.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Swift self-drive rental price and booking on Zymo</h2><p>Daily rate: ₹1,100-1,500/day (city and partner dependent). 7-day bracket: ₹900-1,100/day — better per-day rate for longer bookings. Security deposit: ₹3,000-5,000 (refunded by Zymo after the trip). Fuel: Swift on petrol, ₹105/L (June 2026 PPAC). 200 km day trip fuel cost: approximately ₹1,050-1,300. Compare Swift prices from all Zymo partners in your city on the booking page — prices vary by partner, day of week, and advance booking.</p></section>
     
     
     
@@ -26,22 +26,22 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the Maruti Swift available on self-drive rental in India?</dt>
-    <dd>Yes. The Maruti Swift is one of the most listed cars on Zymo — available across Mumbai, Bangalore, Delhi, Pune, Hyderabad, Chennai, Kochi, Ahmedabad, and 50+ more cities. Hatchback demand is high; check availability in your city.</dd>
+    <dd>Yes, where partners list it. Search your city on Zymo to see Swift availability for your dates.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does a Maruti Swift self-drive rental cost?</dt>
-    <dd>₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly rates start from ₹45/hour. Multi-day rates offer better per-day pricing.</dd>
+    <dd>₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly hatchback bookings on Zymo start from ₹45/hour. Multi-day rates offer better per-day pricing.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the fuel economy of the Maruti Swift in self-drive use?</dt>
-    <dd>The Swift petrol (1.2L K12N) returns 22-25 km/l on highways and 15-18 km/l in city traffic. The Swift Diesel has been discontinued as of 2024. At ₹100/litre petrol, expect ₹450-650 in fuel for a 100 km highway trip one-way.</dd>
+    <dd>The Swift petrol (1.2L) is ARAI-rated at 24.8 km/l; real-world economy is about 16-20 km/l. The Swift Diesel has been discontinued. At ₹100/litre petrol, expect about ₹500-650 in fuel for a 100 km trip one-way.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the Swift suitable for long road trips?</dt>
     <dd>The Swift handles highways well for 2-3 people with light luggage. Boot space is 268 litres — sufficient for weekend bags but tight for 4 people on a multi-day trip. For 4 people or heavy luggage, upgrade to a compact SUV.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which routes suit the Maruti Swift for self-drive?</dt>
-    <dd>Best routes: Bangalore-Mysore (145 km), Mumbai-Lonavala (83 km), Delhi-Agra (205 km), Chennai-Mahabalipuram (55 km), Pune-Nashik (210 km). Any flat highway up to 300 km is comfortable in the Swift.</dd>
+    <dd>Best routes: Bangalore-Mysore (about 145 km), Mumbai-Lonavala (about 85 km), Delhi-Agra (about 230 km), Chennai-Mahabalipuram (55 km), Pune-Nashik (210 km). Any flat highway up to 300 km is comfortable in the Swift.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Does the Maruti Swift come with automatic transmission for self-drive?</dt>
-    <dd>Yes. Zymo partners list both manual and automatic Swift variants. The AMT (Automated Manual Transmission) version is available and recommended for city-heavy routes. Filter by transmission at booking.</dd>
+    <dd>Some partners list the AMT (Automated Manual Transmission) Swift alongside the manual — it suits city-heavy routes. Filter by transmission at booking.</dd>
     </dl>
     </section>
     
@@ -72,26 +72,26 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM vehicle production data</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration stats</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "Is the Maruti Swift available on self-drive rental in India?"
-    a: |
-        Yes. The Maruti Swift is one of the most listed cars on Zymo — available across Mumbai, Bangalore, Delhi, Pune, Hyderabad, Chennai, Kochi, Ahmedabad, and 50+ more cities. Hatchback demand is high; check availability in your city.
+    a: "Yes, where partners list it. Search your city on Zymo to see Swift availability for your dates."
   - q: "How much does a Maruti Swift self-drive rental cost?"
-    a: "₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly rates start from ₹45/hour. Multi-day rates offer better per-day pricing."
+    a: "₹1,100-1,500 per day for the Swift on Zymo, depending on city and partner. Hourly hatchback bookings on Zymo start from ₹45/hour. Multi-day rates offer better per-day pricing."
   - q: "What is the fuel economy of the Maruti Swift in self-drive use?"
     a: |
-        The Swift petrol (1.2L K12N) returns 22-25 km/l on highways and 15-18 km/l in city traffic. The Swift Diesel has been discontinued as of 2024. At ₹100/litre petrol, expect ₹450-650 in fuel for a 100 km highway trip one-way.
+        The Swift petrol (1.2L) is ARAI-rated at 24.8 km/l; real-world economy is about 16-20 km/l. The Swift Diesel has been discontinued. At ₹100/litre petrol, expect about ₹500-650 in fuel for a 100 km trip one-way.
   - q: "Is the Swift suitable for long road trips?"
     a: |
         The Swift handles highways well for 2-3 people with light luggage. Boot space is 268 litres — sufficient for weekend bags but tight for 4 people on a multi-day trip. For 4 people or heavy luggage, upgrade to a compact SUV.
   - q: "Which routes suit the Maruti Swift for self-drive?"
-    a: "Best routes: Bangalore-Mysore (145 km), Mumbai-Lonavala (83 km), Delhi-Agra (205 km), Chennai-Mahabalipuram (55 km), Pune-Nashik (210 km). Any flat highway up to 300 km is comfortable in the Swift."
+    a: |
+        Best routes: Bangalore-Mysore (about 145 km), Mumbai-Lonavala (about 85 km), Delhi-Agra (about 230 km), Chennai-Mahabalipuram (55 km), Pune-Nashik (210 km). Any flat highway up to 300 km is comfortable in the Swift.
   - q: "Does the Maruti Swift come with automatic transmission for self-drive?"
-    a: "Yes. Zymo partners list both manual and automatic Swift variants. The AMT (Automated Manual Transmission) version is available and recommended for city-heavy routes. Filter by transmission at booking."
+    a: "Some partners list the AMT (Automated Manual Transmission) Swift alongside the manual — it suits city-heavy routes. Filter by transmission at booking."
 ---
 

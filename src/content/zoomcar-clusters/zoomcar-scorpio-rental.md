@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-scorpio-rental"
 title: "ZoomCar Scorpio Rental — Mahindra Scorpio Self-Drive India | Zymo"
-description: "Rent a Mahindra Scorpio on ZoomCar: 2.2L diesel, 7-seater, Scorpio Classic and Scorpio-N in select metros for tough terrain and group outstation drives. Compare pricing on Zymo."
+description: "Rent a Mahindra Scorpio on ZoomCar: 2.2L diesel, 7-seater, Scorpio Classic and Scorpio-N for tough terrain and group outstation drives. Compare pricing on Zymo."
 canonical: "https://zymo.app/zoomcar-scorpio-rental"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -10,7 +10,7 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Mahindra Scorpio self-drive availability and booking guide</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Is the Mahindra Scorpio available on ZoomCar?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Mahindra Scorpio — both the Scorpio Classic and the newer Scorpio-N — is available on ZoomCar in select cities. A ladder-frame 7-seater diesel SUV built for rough terrain and long-distance drives, the Scorpio is a popular choice for group outstation trips and routes through rural India. Zymo shows Scorpio listings from ZoomCar alongside other partners where available.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Mahindra Scorpio — both the Scorpio Classic and the newer Scorpio-N — is available on ZoomCar in select cities. A ladder-frame 7-seater diesel SUV built for rough terrain and long-distance drives, the Scorpio suits group outstation trips and routes through rural India. Zymo shows Scorpio listings from ZoomCar alongside other partners where available.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mahindra Scorpio — key specs for self-drive</h2>
@@ -26,13 +26,13 @@ bodyHtml: |
     </section>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What does a ZoomCar Scorpio cost?</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Scorpio is in the SUV/MPV class — expect rates from approximately ₹90/hr and above. Security deposits typically run ₹8,000–12,000 for this class. Confirm the exact rate, variant (Classic vs Scorpio-N), and pickup hub on the listing page.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rates and deposits vary by city and date — the listing page shows the exact figures before you book.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When the Scorpio is the right choice</h2>
     <ul>
     <li><strong>Rough terrain confidence:</strong> ladder-frame construction and diesel torque handle rural roads, broken tarmac, and unpaved tracks better than monocoque SUVs</li>
     <li><strong>Group of 6–7 on outstation:</strong> the Scorpio's diesel engine and long-range fuel tank make it economical for 300–600 km outstation drives</li>
-    <li><strong>Scorpio-N AWD:</strong> the top-trim Scorpio-N with AWD rivals the Fortuner for moderate off-road capability at a lower rental rate</li>
+    <li><strong>Scorpio-N AWD:</strong> the top-trim Scorpio-N offers 4WD for moderate off-road routes</li>
     </ul>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to verify before booking a ZoomCar Scorpio</h2>
@@ -47,16 +47,14 @@ bodyHtml: |
     <p style="margin:0"><a href="/" style="color:#4F7BFF;text-decoration:none;font-weight:600">Browse cars on Zymo →</a></p>
     </section>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; ZoomCar pricing guide by car class</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; How ZoomCar pricing works</a></p>
     
     </article>
 faqs: 
   - q: "Is the Mahindra Scorpio available on ZoomCar?"
-    a: |
-        Yes. The Mahindra Scorpio — both Classic and Scorpio-N — is available on ZoomCar in select cities. A ladder-frame 7-seater diesel SUV, it is a popular choice for group outstation trips and routes through rural India.
+    a: "Yes. The Mahindra Scorpio — both Classic and Scorpio-N — is available on ZoomCar in select cities. A ladder-frame 7-seater diesel SUV, it suits group outstation trips and routes through rural India."
   - q: "How much does a ZoomCar Scorpio rental cost?"
-    a: |
-        The Scorpio is in the SUV class — expect rates from approximately ₹90/hr and above. Security deposits typically run ₹8,000–12,000 for this class. Confirm the variant (Classic vs Scorpio-N) and rate on the listing page.
+    a: "Rates and deposits vary by city and date — the listing page shows the exact figures before you book."
   - q: "Does the Scorpio-N on ZoomCar have AWD?"
     a: |
         The Scorpio-N AWD is available on top trims (Z8 L and above). Not all Scorpio-N listings include AWD — base and mid-spec variants are 2WD only. Confirm the variant and drivetrain on the specific listing before booking.

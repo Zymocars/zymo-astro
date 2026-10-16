@@ -10,7 +10,7 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Kempegowda International Airport Bengaluru (BLR) — approximately 35 km from city centre</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How does ZoomCar airport pickup work at Bangalore?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Kempegowda International Airport Bengaluru (BLR). The car is parked at a designated hub zone on the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact zone location. Because BLR is approximately 35 km from central Bangalore (MG Road, Koramangala, Whitefield), an airport pickup is one of the most convenient ZoomCar use cases — you drive directly to your destination rather than taking a cab into the city and then picking up a car.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Kempegowda International Airport Bengaluru (BLR). The car is parked at a designated hub zone on the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact zone location. Because BLR is approximately 35 km from central Bangalore (MG Road, Koramangala, Whitefield), an airport pickup lets you drive directly to your destination rather than taking a cab into the city and then picking up a car.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Planning for BLR's distance from the city</h2>
@@ -33,9 +33,9 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to do if the car is not at the BLR pickup zone</h2>
     <ol>
     <li><strong>Do not leave the zone.</strong> Document your presence before doing anything else.</li>
-    <li><strong>Use in-app SOS immediately</strong> after waiting 10–15 minutes without the car.</li>
+    <li><strong>Use in-app SOS immediately</strong> after waiting a few minutes without the car.</li>
     <li><strong>Photograph the empty bay</strong> with a timestamped photo from your phone.</li>
-    <li><strong>Request refund or replacement:</strong> if unresolved within 1 hour, request a full refund — car non-availability at pickup entitles you to one.</li>
+    <li><strong>Request a refund or replacement:</strong> ask ZoomCar support for a replacement car or a refund in the SOS chat.</li>
     </ol>
     </section>
     
@@ -51,7 +51,7 @@ bodyHtml: |
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0">
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Zymo tip — Bangalore airport alternatives</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside Zip cars and other partner vehicles in Bangalore. If ZoomCar is unavailable for your exact BLR pickup dates, alternatives appear in the same search. Search Zymo for "Bangalore airport pickup" to compare across all partners.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside ZIP cars and other partner vehicles in Bangalore. If ZoomCar is unavailable for your exact BLR pickup dates, alternatives appear in the same search. Search Zymo for "Bangalore airport pickup" to compare across multiple partners.</p>
     </section>
     
     <section>
@@ -61,7 +61,7 @@ bodyHtml: |
     <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Kempegowda International Airport (BLR) is approximately 35 km from central Bangalore. Factor this into your arrival planning — add 45–75 minutes from MG Road or Koramangala depending on traffic.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Does ZoomCar have cars at BLR Kempegowda Airport?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar has hub zones at BLR Airport. The specific pickup point is shown in the app. Given BLR's distance from the city, an airport pickup is one of the most convenient ZoomCar use cases — you avoid a cab into town and drive directly to your destination.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the ZoomCar app for the pickup point for your booking. Given BLR's distance from the city, an airport pickup lets you avoid a cab into town and drive directly to your destination.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -80,7 +80,6 @@ faqs:
   - q: "How far is ZoomCar's Bangalore airport zone from the city?"
     a: "Kempegowda International Airport (BLR) is approximately 35 km from central Bangalore. Factor this into your arrival planning — add 45–75 minutes from MG Road or Koramangala depending on traffic."
   - q: "Does ZoomCar have cars at BLR Kempegowda Airport?"
-    a: |
-        ZoomCar has hub zones at BLR Airport. The specific pickup point is shown in the app. Given BLR's distance from the city, an airport pickup is one of the most convenient ZoomCar use cases — you avoid a cab into town and drive directly to your destination.
+    a: "Check the ZoomCar app for the pickup point for your booking. Given BLR's distance from the city, an airport pickup lets you avoid a cab into town and drive directly to your destination."
 ---
 

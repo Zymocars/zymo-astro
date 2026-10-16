@@ -14,11 +14,11 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Kia Seltos is a premium compact SUV in the Zymo rental network, available in metro cities across India. Price: ₹2,500-3,500 per day. 5 seats. Available in 1.5L petrol NA, 1.4L petrol turbo, and 1.5L diesel. Excellent cabin quality, large 10.25-inch infotainment, panoramic sunroof on higher variants. Best suited for highway long-haul trips with 4-5 adults.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Kia Seltos is a premium compact SUV listed by partners on Zymo. Price: ₹2,500-3,500 per day. 5 seats. Available in 1.5L petrol NA, 1.5L petrol turbo, and 1.5L diesel. Excellent cabin quality, large 10.25-inch infotainment, panoramic sunroof on higher variants. Best suited for highway long-haul trips with 4-5 adults.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Seltos specs for self-drive rental context</h2><p>Engine options in rental fleet: 1.5L petrol NA (113 PS) or 1.5L diesel (113 PS). Real-world highway fuel economy: petrol 13-15 km/L, diesel 16-19 km/L. Boot: 433 litres — equal to Creta. Ground clearance: 190mm. Wheelbase: 2,610mm — longer than Nexon and Creta, resulting in more rear legroom (best in class for tall passengers). Infotainment: 10.25-inch Bose-powered system on higher trims. Seating: 5 passengers with category-leading rear legroom.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Seltos specs for self-drive rental context</h2><p>Engine options in rental fleet: 1.5L petrol NA (115 PS) or 1.5L diesel (116 PS). Real-world highway fuel economy: petrol about 14-17 km/L, diesel about 16-19 km/L. Boot: 433 litres — equal to Creta. Ground clearance: 190mm. Wheelbase: 2,610mm — the same as its twin, the Creta. Infotainment: 10.25-inch Bose-powered system on higher trims. Seating: 5 passengers with generous rear legroom.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which routes is a Seltos best for?</h2><p>Long highway trips (Delhi-Jaipur, Delhi-Agra, Mumbai-Goa): the Seltos's highway NVH refinement makes 5-7 hour drives noticeably more comfortable than entry-level compact SUVs. Family of 4 adults: rear legroom is the Seltos's standout advantage — adults do not feel cramped on 4-5 hour journeys. Seltos buyers considering Extended Test Drive: the Seltos is a significant purchase; renting for 3-5 days on your actual commute will reveal real-world NVH, infotainment ergonomics, and fuel consumption.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Seltos self-drive rental price and booking on Zymo</h2><p>Daily rate: ₹2,500-3,500/day (partner and city dependent). 7-day bracket: ₹2,000-3,000/day. Security deposit: ₹10,000-15,000 (refundable). Fuel: petrol at ₹105/L; 400 km highway day cost approximately ₹2,800. Seltos availability is lower than Creta in smaller cities — best availability in Bangalore, Hyderabad, Pune, Delhi, and Mumbai. Book 3-5 days ahead for weekend and peak season availability.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Seltos self-drive rental price and booking on Zymo</h2><p>Daily rate: ₹2,500-3,500/day (partner and city dependent). 7-day bracket: ₹2,000-3,000/day. Security deposit: ₹10,000-15,000 (refundable). Fuel: petrol at ₹105/L; 400 km highway day cost approximately ₹2,800. Availability varies by city — check the booking page. Book 3-5 days ahead for weekend and peak season availability.</p></section>
     
     
     
@@ -26,22 +26,22 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the Kia Seltos available for self-drive rental in India?</dt>
-    <dd>Yes. The Kia Seltos is listed on Zymo across Bangalore, Mumbai, Delhi, Hyderabad, Pune, Chennai, and 30+ cities. The Seltos is popular for its premium interior and strong turbo-petrol performance.</dd>
+    <dd>Yes, where partners list it — search your city on Zymo. The Seltos is known for its premium interior and strong turbo-petrol performance.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does a Kia Seltos self-drive rental cost?</dt>
-    <dd>₹2,000-2,800/day for the Seltos on Zymo, depending on variant (HTX, GTX+, X Line) and city. The X Line and GTX+ variants command a 10-20% premium.</dd>
+    <dd>₹2,500-3,500/day for the Seltos on Zymo, depending on variant (HTX, GTX+, X Line) and city. The X Line and GTX+ variants cost more.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What makes the Kia Seltos ideal for self-drive road trips?</dt>
-    <dd>The 1.5L Turbo-GDi (160 PS) has the strongest engine in the compact SUV segment — effortless highway overtakes. 433L boot. Premium Bose sound system on higher trims. 7-speed DCT is smooth for long stretches.</dd>
+    <dd>The 1.5L Turbo-GDi (160 PS, shared with the Creta turbo) makes highway overtakes effortless. 433L boot. Premium Bose sound system on higher trims. 7-speed DCT is smooth for long stretches.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How does the Seltos compare to the Creta for self-drive?</dt>
-    <dd>Seltos pros: stronger turbo-petrol engine, classier interior, better audio. Creta pros: slightly better fuel efficiency on petrol, wider service network, and more diesel options. For road trips: Seltos if performance matters, Creta for pure value.</dd>
+    <dd>Seltos pros: classier interior, better audio. Creta pros: slightly better ARAI fuel efficiency and a wider service network. Both share the same engines. For road trips: Seltos if cabin and audio matter, Creta for value.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which road trips is the Kia Seltos best for?</dt>
-    <dd>The Seltos excels on long highway drives: Delhi-Jaipur (280 km), Mumbai-Goa (580 km), Bangalore-Hyderabad (570 km), Pune-Goa (450 km). The turbo engine makes overtaking on 2-lane highways effortless.</dd>
+    <dd>The Seltos excels on long highway drives: Delhi-Jaipur (280 km), Mumbai-Goa (about 560 km), Bangalore-Hyderabad (570 km), Pune-Goa (about 430 km). The turbo engine makes overtaking on 2-lane highways effortless.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is diesel Seltos available for self-drive?</dt>
-    <dd>Yes. The 1.5L diesel Seltos (115 PS) is available on Zymo in select cities — better suited for 400 km+ highway trips. Diesel returns 19-21 km/l on highways.</dd>
+    <dd>Yes. The 1.5L diesel Seltos (116 PS) is available on Zymo in select cities — better suited for 400 km+ highway trips. Diesel returns about 16-19 km/l on highways.</dd>
     </dl>
     </section>
     
@@ -72,25 +72,25 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM vehicle production data</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration stats</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "Is the Kia Seltos available for self-drive rental in India?"
-    a: "Yes. The Kia Seltos is listed on Zymo across Bangalore, Mumbai, Delhi, Hyderabad, Pune, Chennai, and 30+ cities. The Seltos is popular for its premium interior and strong turbo-petrol performance."
+    a: "Yes, where partners list it — search your city on Zymo. The Seltos is known for its premium interior and strong turbo-petrol performance."
   - q: "How much does a Kia Seltos self-drive rental cost?"
-    a: "₹2,000-2,800/day for the Seltos on Zymo, depending on variant (HTX, GTX+, X Line) and city. The X Line and GTX+ variants command a 10-20% premium."
+    a: "₹2,500-3,500/day for the Seltos on Zymo, depending on variant (HTX, GTX+, X Line) and city. The X Line and GTX+ variants cost more."
   - q: "What makes the Kia Seltos ideal for self-drive road trips?"
-    a: |
-        The 1.5L Turbo-GDi (160 PS) has the strongest engine in the compact SUV segment — effortless highway overtakes. 433L boot. Premium Bose sound system on higher trims. 7-speed DCT is smooth for long stretches.
+    a: "The 1.5L Turbo-GDi (160 PS, shared with the Creta turbo) makes highway overtakes effortless. 433L boot. Premium Bose sound system on higher trims. 7-speed DCT is smooth for long stretches."
   - q: "How does the Seltos compare to the Creta for self-drive?"
     a: |
-        Seltos pros: stronger turbo-petrol engine, classier interior, better audio. Creta pros: slightly better fuel efficiency on petrol, wider service network, and more diesel options. For road trips: Seltos if performance matters, Creta for pure value.
+        Seltos pros: classier interior, better audio. Creta pros: slightly better ARAI fuel efficiency and a wider service network. Both share the same engines. For road trips: Seltos if cabin and audio matter, Creta for value.
   - q: "Which road trips is the Kia Seltos best for?"
-    a: "The Seltos excels on long highway drives: Delhi-Jaipur (280 km), Mumbai-Goa (580 km), Bangalore-Hyderabad (570 km), Pune-Goa (450 km). The turbo engine makes overtaking on 2-lane highways effortless."
+    a: |
+        The Seltos excels on long highway drives: Delhi-Jaipur (280 km), Mumbai-Goa (about 560 km), Bangalore-Hyderabad (570 km), Pune-Goa (about 430 km). The turbo engine makes overtaking on 2-lane highways effortless.
   - q: "Is diesel Seltos available for self-drive?"
-    a: "Yes. The 1.5L diesel Seltos (115 PS) is available on Zymo in select cities — better suited for 400 km+ highway trips. Diesel returns 19-21 km/l on highways."
+    a: "Yes. The 1.5L diesel Seltos (116 PS) is available on Zymo in select cities — better suited for 400 km+ highway trips. Diesel returns about 16-19 km/l on highways."
 ---
 

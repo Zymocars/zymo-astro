@@ -1,7 +1,7 @@
 ---
 slug: "car-buying-mistakes-india-2026"
 title: "Self-Drive Car Rental India from ₹45/hr | 60+ Cities | Zymo"
-description: "No Zymo fee. India's largest self-drive car rental aggregator. Compare prices from multiple partners across 60+ cities. Cars from ₹45/hr. Book in 2 minutes."
+description: "No Zymo fee. Zymo is a self-drive car rental aggregator across 60+ Indian cities, comparing cars from multiple partners. Cars from ₹45/hr. Book in 2 minutes."
 canonical: "https://zymo.app/"
 h1: "Self-Drive Car Rental India from ₹45/hr | 60+ Cities | Zymo"
 publishedDate: ""
@@ -9,16 +9,16 @@ modifiedDate: ""
 bodyHtml: |
     <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
     
-    <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">7 car buying mistakes Indian buyers make — from the founder who pioneered extended test drives in India</h1>
-    <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">By <a href="/founder" style="color:#4F7BFF;text-decoration:none">Manish Pratik</a>, Automotive Industry Expert &middot; June 2026</p>
+    <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">7 car buying mistakes Indian buyers make — from the founder of Zymo</h1>
+    <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">By <a href="/founder" style="color:#4F7BFF;text-decoration:none">Manish Pratik</a>, Founder of Zymo &middot; June 2026</p>
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">I have watched Indian car buyers make the same mistakes over and over. Running Zymo's extended test drives across 60+ cities gives me a view most automotive commentators do not have: I know what buyers discover on day 3 and day 5 of a real test drive that they completely missed in the showroom. The pattern is consistent across cities and budget segments.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">I have watched Indian car buyers make the same mistakes over and over. Running Zymo's extended test drives across 60+ cities gives me a view most automotive commentators do not have: I know what buyers discover on day 3 and day 5 of a real test drive that they completely missed in the showroom.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 1: The 30-minute showroom drive is not enough data</h2><p>A showroom drive is 30 minutes on a fixed route the dealer controls. You drive through familiar lanes, the sales team is watching, and you are never in your own parking lot at 9 PM or stuck in a school-run traffic jam. The 5 things that bother buyers most about their new car — gear lever ergonomics, infotainment lag, rear seat AC strength, parking visibility, and boot usability — are impossible to evaluate in 30 minutes. The solution: an extended test drive of 3-7 days on your actual routes before you sign.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 2: EMI anchoring bias</h2><p>Most Indian car buyers start the conversation with 'what is the EMI?' instead of 'what is the total cost of ownership?' The difference matters enormously. On a ₹12 lakh car (₹2L down, ₹10L financed at 8.5% over 7 years), total repayment is ₹21.2 lakh. Buyers who anchor on ₹15,000/month EMI do not compute that they are paying ₹21.2 lakh total for a ₹12 lakh car. Calculate the total on-road cost plus total loan repayment first — that is the real number. Then decide.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 3: Trusting ARAI mileage figures</h2><p>ARAI certified mileage is irrelevant to the Indian urban driver. The Grand i10 Nios claims 20.7 km/l ARAI; real-world on Mumbai roads is 13-15 km/l. On a 10,000 km/year usage at ₹105/litre, the difference between ARAI and real is ₹12,000-18,000 in annual fuel costs. Buyers compare ARAI mileage between two cars and make financial decisions on data that does not apply to their actual driving. Use owner forums and YouTube owner reviews from your specific city for real-world numbers.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 1: The 30-minute showroom drive is not enough data</h2><p>A showroom drive is 30 minutes on a fixed route the dealer controls. You drive through familiar lanes, the sales team is watching, and you are never in your own parking lot at 9 PM or stuck in a school-run traffic jam. Five things that often bother buyers about a new car — gear lever ergonomics, infotainment lag, rear seat AC strength, parking visibility, and boot usability — are impossible to evaluate in 30 minutes. The solution: an extended test drive of one day to a month on your actual routes before you sign.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 2: EMI anchoring bias</h2><p>Most Indian car buyers start the conversation with 'what is the EMI?' instead of 'what is the total cost of ownership?' The difference matters enormously. On a ₹12 lakh car (₹2L down, ₹10L financed at 8.5% over 7 years), the EMI is about ₹15,800 and total loan repayment is about ₹13.3 lakh — about ₹15.3 lakh with the down payment. Buyers who anchor on the EMI do not compute that they are paying about ₹15.3 lakh in total for a ₹12 lakh car. Calculate the total on-road cost plus total loan repayment first — that is the real number. Then decide.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 3: Trusting ARAI mileage figures</h2><p>ARAI certified mileage is irrelevant to the Indian urban driver. The Grand i10 Nios claims 20.7 km/l ARAI; real-world on Mumbai roads is 13-15 km/l. On a 10,000 km/year usage at ₹105/litre, the difference between ARAI and real is about ₹19,000-30,000 in annual fuel costs. Buyers compare ARAI mileage between two cars and make financial decisions on data that does not apply to their actual driving. Use owner forums and YouTube owner reviews from your specific city for real-world numbers.</p></section>
     
     
     
@@ -29,7 +29,7 @@ bodyHtml: |
     <dd>Taking a 30-minute showroom test drive and treating it as sufficient data. Showroom drives are designed by the dealer — preset route, salesperson present, car in peak condition. The car's real behaviour on your commute, your parking lot, and your highway shows up by day 3 of an extended drive, not in 30 minutes.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I avoid EMI anchoring when buying a car in India?</dt>
-    <dd>Calculate the total on-road cost first — ex-showroom + road tax + insurance + accessories. Then compute total loan repayment over your tenure: principal + total interest. That is the real number. On a ₹12 lakh car with ₹10L financed at 8.5% over 7 years, total repayment is ₹21.2 lakh. Starting with the EMI and working backwards is how buyers overpay.</dd>
+    <dd>Calculate the total on-road cost first — ex-showroom + road tax + insurance + accessories. Then compute total loan repayment over your tenure: principal + total interest. That is the real number. On a ₹12 lakh car with ₹10L financed at 8.5% over 7 years, the EMI is about ₹15,800 and total loan repayment is about ₹13.3 lakh. Starting with the EMI and working backwards is how buyers overpay.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is ARAI mileage accurate for Indian driving conditions?</dt>
     <dd>No. ARAI tests run in lab conditions — no traffic, consistent speed, optimal temperature, no air conditioning. Indian urban driving returns 25-40% less than ARAI figures. The Grand i10 Nios claims 20.7 km/l ARAI; real-world Mumbai returns 13-15 km/l. Use owner forums and YouTube owner reviews from your city for real numbers.</dd>
@@ -80,7 +80,7 @@ faqs:
         Taking a 30-minute showroom test drive and treating it as sufficient data. Showroom drives are designed by the dealer — preset route, salesperson present, car in peak condition. The car's real behaviour on your commute, your parking lot, and your highway shows up by day 3 of an extended drive, not in 30 minutes.
   - q: "How do I avoid EMI anchoring when buying a car in India?"
     a: |
-        Calculate the total on-road cost first — ex-showroom + road tax + insurance + accessories. Then compute total loan repayment over your tenure: principal + total interest. That is the real number. On a ₹12 lakh car with ₹10L financed at 8.5% over 7 years, total repayment is ₹21.2 lakh. Starting with the EMI and working backwards is how buyers overpay.
+        Calculate the total on-road cost first — ex-showroom + road tax + insurance + accessories. Then compute total loan repayment over your tenure: principal + total interest. That is the real number. On a ₹12 lakh car with ₹10L financed at 8.5% over 7 years, the EMI is about ₹15,800 and total loan repayment is about ₹13.3 lakh. Starting with the EMI and working backwards is how buyers overpay.
   - q: "Is ARAI mileage accurate for Indian driving conditions?"
     a: |
         No. ARAI tests run in lab conditions — no traffic, consistent speed, optimal temperature, no air conditioning. Indian urban driving returns 25-40% less than ARAI figures. The Grand i10 Nios claims 20.7 km/l ARAI; real-world Mumbai returns 13-15 km/l. Use owner forums and YouTube owner reviews from your city for real numbers.

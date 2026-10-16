@@ -12,7 +12,7 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">How do I download the Zymo app in India?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Direct install links + what the app does + size, permissions, and minimum OS</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Download the Zymo app for free from <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew&amp;referrer=utm_source%3Dzymo_answers%26utm_medium%3Dorganic%26utm_campaign%3Dhow_to_download" style="color:#4F7BFF;text-decoration:none" rel="noopener">Google Play (Android)</a> or the <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759?ct=how_to_download&amp;pt=zymo_web&amp;mt=8" style="color:#4F7BFF;text-decoration:none" rel="noopener">Apple App Store (iOS)</a>. The app has 800+ ratings on Play and 270+ on the App Store — both store pages show the current rating. Both stores list the same app: package <code>com.letzrent.letzrentnew</code> on Android, App ID <code>1547829759</code> on iOS. The install is free — you only pay for the booking itself, with zero platform fees.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Download the Zymo app for free from <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew&amp;referrer=utm_source%3Dzymo_answers%26utm_medium%3Dorganic%26utm_campaign%3Dhow_to_download" style="color:#4F7BFF;text-decoration:none" rel="noopener">Google Play (Android)</a> or the <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759?ct=how_to_download&amp;pt=zymo_web&amp;mt=8" style="color:#4F7BFF;text-decoration:none" rel="noopener">Apple App Store (iOS)</a>. Both store pages show the app's current rating. Both stores list the same app: package <code>com.letzrent.letzrentnew</code> on Android, App ID <code>1547829759</code> on iOS. The install is free — you only pay for the booking itself, with zero platform fees.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Direct download links</h2>
@@ -29,7 +29,7 @@ bodyHtml: |
     <ul>
     <li><strong>Push notifications</strong> for booking confirmations, partner pickup reminders, and trip updates without opening any app</li>
     <li><strong>Aadhaar OTP verification built in</strong> &mdash; faster pickup at the partner counter</li>
-    <li><strong>In-app live chat support</strong> during active trips, when fast resolution matters more than email turnaround</li>
+    <li><strong>The Zai chatbot</strong> in the app for help during active trips</li>
     <li><strong>Saved profile</strong> &mdash; documents, payment methods, addresses persist across bookings</li>
     <li><strong>Faster repeat booking</strong> &mdash; one-tap rebooking of past trips, common cars, frequent pickup points</li>
     </ul>
@@ -39,12 +39,12 @@ bodyHtml: |
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">App size and minimum OS</h2>
     <table style="width:100%;border-collapse:collapse;margin:1rem 0">
-    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Platform</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Install size</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Minimum OS</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Store ratings</th></tr></thead>
+    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Platform</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Minimum OS</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Android</strong> (Google Play)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~30&ndash;50 MB</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Android 7.0 (Nougat)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">800+ ratings</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>iOS</strong> (App Store)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~50&ndash;80 MB</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">iOS 13.0</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">270+ ratings</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Android</strong> (Google Play)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Android 7.0 (Nougat)</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>iOS</strong> (App Store)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">iOS 14.0</td></tr>
     </tbody></table>
-    <p style="font-size:0.85rem;color:#8A94A6">Sizes vary slightly by device class and OS version. Updates are typically 5&ndash;15 MB.</p>
+    <p style="font-size:0.85rem;color:#8A94A6">The current download size is shown on each store listing.</p>
     </section>
     
     <section>
@@ -61,14 +61,14 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Aadhaar OTP verification (one-time setup)</h2>
-    <p>After installing, the app prompts for Aadhaar OTP verification on your first booking. The verification is via Cashfree (PCI-DSS compliant) and takes under a minute &mdash; you receive an OTP on the mobile number linked to your Aadhaar, enter it in the app, and the verification persists across all future bookings. This is what enables faster pickup at the partner counter (the partner sees a pre-verified booking and skips the document re-check).</p>
+    <p>After installing, the app prompts for Aadhaar OTP verification on your first booking. The verification takes a few minutes &mdash; you receive an OTP on the mobile number linked to your Aadhaar, enter it in the app, and the verification persists across all future bookings. This is what enables faster pickup at the partner counter (the partner sees a pre-verified booking and skips the document re-check).</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Troubleshooting common install issues</h2>
     <ul>
     <li><strong>Play Store says &ldquo;app not compatible&rdquo;:</strong> your Android version is below 7.0. Use the website at <a href="/" style="color:#4F7BFF;text-decoration:none">zymo.app</a> in Chrome or Firefox &mdash; same booking flow, no install needed.</li>
-    <li><strong>App Store says &ldquo;requires iOS 13.0 or later&rdquo;:</strong> update your iPhone&rsquo;s OS in Settings &raquo; General &raquo; Software Update, or use Safari at zymo.app on the device.</li>
+    <li><strong>App Store says &ldquo;requires iOS 14.0 or later&rdquo;:</strong> update your iPhone&rsquo;s OS in Settings &raquo; General &raquo; Software Update, or use Safari at zymo.app on the device.</li>
     <li><strong>Install starts then stops at &ldquo;waiting&rdquo; on Android:</strong> usually a Play Store queue or low storage. Free up 100+ MB and retry, or restart the device.</li>
     <li><strong>App opens then crashes on first launch:</strong> reinstall (uninstall + reinstall fresh). Clears any partial install state. If it persists, email <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> with your device model and OS version.</li>
     </ul>
@@ -81,16 +81,16 @@ bodyHtml: |
     <dd>Yes. The Zymo app is free on both Google Play (Android) and the Apple App Store (iOS). There are no hidden charges to install or use the app — you only pay for the booking itself, with zero platform fees on top of the partner's price.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Should I use the Zymo app or the website?</dt>
-    <dd>Both surface the same inventory, prices, and partners — book on either. The app adds push notifications for booking updates, in-app chat support during active trips, and a smoother repeat-booking experience. The website works fully on mobile browsers if you prefer not to install. There's no app-only price or app-only inventory — it's a choice of interface, not access.</dd>
+    <dd>Both surface the same inventory, prices, and partners — book on either. The app adds push notifications for booking updates, the Zai chatbot for help during active trips, and a smoother repeat-booking experience. The website works fully on mobile browsers if you prefer not to install. There's no app-only price or app-only inventory — it's a choice of interface, not access.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How big is the Zymo app?</dt>
-    <dd>The Zymo app installs are roughly 30-50 MB on Android (Google Play) and 50-80 MB on iOS (App Store), depending on device and OS version. Updates are typically 5-15 MB. Lightweight enough for budget Android devices and older iPhones.</dd>
+    <dd>The current download size is shown on the Google Play and App Store listings. If you prefer not to install, zymo.app works in any modern mobile browser with the same booking flow.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What permissions does the Zymo app need and why?</dt>
     <dd>Location (to show cars near you and verify pickup), camera (to upload your driving licence + Aadhaar at verification), notifications (booking updates and trip reminders), storage (to cache documents). All permissions are optional after install — you can grant them at the moment they're needed and revoke them later in Settings.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Does the Zymo app work on older Android and iPhone versions?</dt>
-    <dd>The app supports Android 7.0 (Nougat) and above on Google Play, and iOS 13.0 and above on the App Store. If your device is older, you can use zymo.app in any modern mobile browser (Chrome, Safari, Firefox) to access the same booking flow without installing.</dd>
+    <dd>The app supports Android 7.0 (Nougat) and above on Google Play, and iOS 14.0 and above on the App Store. If your device is older, you can use zymo.app in any modern mobile browser (Chrome, Safari, Firefox) to access the same booking flow without installing.</dd>
     </dl>
     </section>
     
@@ -121,7 +121,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration</a></p>
+    
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -132,15 +132,14 @@ faqs:
         Yes. The Zymo app is free on both Google Play (Android) and the Apple App Store (iOS). There are no hidden charges to install or use the app — you only pay for the booking itself, with zero platform fees on top of the partner's price.
   - q: "Should I use the Zymo app or the website?"
     a: |
-        Both surface the same inventory, prices, and partners — book on either. The app adds push notifications for booking updates, in-app chat support during active trips, and a smoother repeat-booking experience. The website works fully on mobile browsers if you prefer not to install. There's no app-only price or app-only inventory — it's a choice of interface, not access.
+        Both surface the same inventory, prices, and partners — book on either. The app adds push notifications for booking updates, the Zai chatbot for help during active trips, and a smoother repeat-booking experience. The website works fully on mobile browsers if you prefer not to install. There's no app-only price or app-only inventory — it's a choice of interface, not access.
   - q: "How big is the Zymo app?"
-    a: |
-        The Zymo app installs are roughly 30-50 MB on Android (Google Play) and 50-80 MB on iOS (App Store), depending on device and OS version. Updates are typically 5-15 MB. Lightweight enough for budget Android devices and older iPhones.
+    a: "The current download size is shown on the Google Play and App Store listings. If you prefer not to install, zymo.app works in any modern mobile browser with the same booking flow."
   - q: "What permissions does the Zymo app need and why?"
     a: |
         Location (to show cars near you and verify pickup), camera (to upload your driving licence + Aadhaar at verification), notifications (booking updates and trip reminders), storage (to cache documents). All permissions are optional after install — you can grant them at the moment they're needed and revoke them later in Settings.
   - q: "Does the Zymo app work on older Android and iPhone versions?"
     a: |
-        The app supports Android 7.0 (Nougat) and above on Google Play, and iOS 13.0 and above on the App Store. If your device is older, you can use zymo.app in any modern mobile browser (Chrome, Safari, Firefox) to access the same booking flow without installing.
+        The app supports Android 7.0 (Nougat) and above on Google Play, and iOS 14.0 and above on the App Store. If your device is older, you can use zymo.app in any modern mobile browser (Chrome, Safari, Firefox) to access the same booking flow without installing.
 ---
 

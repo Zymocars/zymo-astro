@@ -14,9 +14,9 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Start with your actual daily use, not the spec sheet. The right car depends on your commute length, family size, parking constraints, the roads you drive, and your fuel preference — not on a comparison table. Most buyers shortlist 2-3 models correctly but make the final decision after a 30-minute showroom test drive that cannot replicate any of those conditions. The better approach: live with each shortlisted model for 2-3 days before you sign.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Start with your actual daily use, not the spec sheet. The right car depends on your commute length, family size, parking constraints, the roads you drive, and your fuel preference — not on a comparison table. A short showroom test drive cannot replicate any of those conditions. The better approach: live with each shortlisted model for 2-3 days before you sign.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Define your use before you shortlist</h2><p>Daily commute distance and road type (under 20 km city-only vs 50+ km highway mix changes the diesel/petrol math significantly). Family size in the second row. Parking: basement slot with a height restriction? Tight society gate? Weekend trips — do you drive on ghats or broken rural roads where ground clearance matters? Fuel budget — city real-world economy is often 30-40% below ARAI numbers. Answer these first; let the answers shrink your shortlist before you visit a single showroom.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Define your use before you shortlist</h2><p>Daily commute distance and road type (under 20 km city-only vs 50+ km highway mix changes the diesel/petrol math significantly). Family size in the second row. Parking: basement slot with a height restriction? Tight society gate? Weekend trips — do you drive on ghats or broken rural roads where ground clearance matters? Fuel budget — city real-world economy is often well below ARAI numbers. Answer these first; let the answers shrink your shortlist before you visit a single showroom.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Questions the showroom test drive cannot answer for you</h2><p>Whether the NVH is tolerable over 40 minutes of daily commute. Whether the infotainment lag bothers you by week two when the novelty is gone. Whether your father-in-law can comfortably exit from the second row on a 3-hour trip. Whether the car fits in your parking slot with enough room to open the doors. What the real-world fuel economy is on your commute. Whether the diesel clatter bothers you in the morning when the engine is cold.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How to use an Extended Test Drive to decide between shortlisted models</h2><p>Book 2-3 days on Zymo for each shortlisted model. Drive both on the same routes — your commute, your parking slot, your weekend trip. The differences that show up in real-world driving are more useful than any comparison article. A Creta and a Nexon drive differently on your actual potholed daily route than they do on a smooth media launch circuit. If you can only afford one Extended Test Drive, pick the model you are less certain about and book 3-5 days.</p></section>
     
@@ -38,7 +38,7 @@ bodyHtml: |
     <dd>Drive both on the same route in the same conditions — your commute, your parking slot, your family in the car. Spec sheets and comparison articles compare cars in ideal conditions; your route is not ideal conditions. An Extended Test Drive of 2-3 days on each shortlisted model gives real data that a 30-minute showroom drive cannot.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How can I try a car properly before buying it in India?</dt>
-    <dd>Book an Extended Test Drive on Zymo for the model you are evaluating. Choose 2-7 days and drive on your own routes and conditions. This costs around ₹2,200 per day for a compact SUV and gives you real ownership data before committing to a 15-20 lakh purchase.</dd>
+    <dd>Book an Extended Test Drive on Zymo for the model you are evaluating. Choose anywhere from one day to a month and drive on your own routes and conditions. This costs around ₹2,200 per day for a compact SUV and gives you real ownership data before committing to a 15-20 lakh purchase.</dd>
     </dl>
     </section>
     
@@ -60,7 +60,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/extended-test-drive-price-in-india" style="color:#4F7BFF;text-decoration:none">What does an Extended Test Drive cost in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales volumes 2025-26</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan registration data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     
@@ -80,6 +80,6 @@ faqs:
         Drive both on the same route in the same conditions — your commute, your parking slot, your family in the car. Spec sheets and comparison articles compare cars in ideal conditions; your route is not ideal conditions. An Extended Test Drive of 2-3 days on each shortlisted model gives real data that a 30-minute showroom drive cannot.
   - q: "How can I try a car properly before buying it in India?"
     a: |
-        Book an Extended Test Drive on Zymo for the model you are evaluating. Choose 2-7 days and drive on your own routes and conditions. This costs around ₹2,200 per day for a compact SUV and gives you real ownership data before committing to a 15-20 lakh purchase.
+        Book an Extended Test Drive on Zymo for the model you are evaluating. Choose anywhere from one day to a month and drive on your own routes and conditions. This costs around ₹2,200 per day for a compact SUV and gives you real ownership data before committing to a 15-20 lakh purchase.
 ---
 

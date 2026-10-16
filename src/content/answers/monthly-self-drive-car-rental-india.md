@@ -14,10 +14,10 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Monthly self-drive car rentals on Zymo run from one to twelve months, charged at a per-month rate that is meaningfully lower than the equivalent daily rate. Starting around ₹18,000-25,000 per month for a hatchback and ₹30,000-45,000 per month for an SUV depending on city and car. Common use cases: relocated professionals waiting on permanent housing, long-term consultants, and ride-share drivers in Tier-1 cities.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Monthly self-drive car rentals on Zymo run from one to twelve months, charged at a per-month rate that is meaningfully lower than the equivalent daily rate. Starting around ₹18,000-25,000 per month for a hatchback and ₹30,000-45,000 per month for an SUV depending on city and car. Common use cases: relocated professionals waiting on permanent housing, long-term consultants, and families between car purchases.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What a monthly booking includes</h2><p>Monthly bookings include the car, comprehensive insurance, and either an unlimited or capped kilometre allowance (typically 1,500-3,000 km per month, with extra-km charges if exceeded). Fuel, tolls, parking, and traffic fines are paid by you. Maintenance and standard service are handled by the partner — if the car needs service mid-month, the partner arranges replacement.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which cities have monthly inventory</h2><p>Tier-1 metros (Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Pune, Kolkata) have the deepest monthly inventory across multiple partners. Tier-2 cities (Ahmedabad, Jaipur, Indore, Chandigarh) have monthly options on fewer partners. For full city coverage, check the monthly hub at /monthly-car-rental.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which cities have monthly inventory</h2><p>Monthly options vary by city and by partner, and change with the season. Search your city and dates on Zymo to see the monthly cars listed, or start from the monthly hub at /monthly-car-rental.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup, return, and renewal</h2><p>Pickup is from a partner location, same as a daily booking. Return is at the end of the booked month at the same partner. Renewal is at the partner's monthly rate at the time of renewal — confirm renewal terms at pickup. Mid-month termination policies vary by partner; many offer pro-rata refunds for unused days minus a small fee.</p></section>
     
     
@@ -26,7 +26,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is monthly cheaper than a daily booking for 30 days?</dt>
-    <dd>Yes, meaningfully. A 30-day monthly booking averages around ₹600-800 per day for a hatchback vs ₹1,100-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.</dd>
+    <dd>Yes, meaningfully. A 30-day monthly booking works out to about ₹600-800 per day for a hatchback vs ₹1,100-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive the monthly rental outstation?</dt>
     <dd>Yes, subject to the partner's outstation policy. Most partners allow outstation use on monthly bookings within the agreed km allowance. Inter-state surcharges and tolls are paid by you. Confirm the outstation policy on the booking page.</dd>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -77,7 +77,7 @@ bodyHtml: |
 faqs: 
   - q: "Is monthly cheaper than a daily booking for 30 days?"
     a: |
-        Yes, meaningfully. A 30-day monthly booking averages around ₹600-800 per day for a hatchback vs ₹1,100-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.
+        Yes, meaningfully. A 30-day monthly booking works out to about ₹600-800 per day for a hatchback vs ₹1,100-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.
   - q: "Can I drive the monthly rental outstation?"
     a: |
         Yes, subject to the partner's outstation policy. Most partners allow outstation use on monthly bookings within the agreed km allowance. Inter-state surcharges and tolls are paid by you. Confirm the outstation policy on the booking page.

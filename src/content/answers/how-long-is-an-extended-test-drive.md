@@ -1,7 +1,7 @@
 ---
 slug: "how-long-is-an-extended-test-drive"
 title: "How Long Is an Extended Test Drive? | Zymo"
-description: "One full day minimum, two-to-three days for a weekend, five-to-seven days to surface fatigue and family-fit signals. EVs need at least 4-7 days for two charge cycles."
+description: "Book anywhere from one day to a month. As a guide: two to three days for a weekend, five to seven to surface fatigue and family-fit signals, and four to seven for an EV's two charge cycles."
 canonical: "https://zymo.app/answers/how-long-is-an-extended-test-drive"
 h1: "How long is an Extended Test Drive?"
 publishedDate: "2026-05-21"
@@ -12,12 +12,12 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">How long is an Extended Test Drive?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive runs one day minimum. Most buyers book a weekend (2-3 days) or a week-long trial (3-5 days). One day covers commute and parking fit. Three days adds a weekend road trip. Seven days reveals the day-five fatigue test — ergonomic annoyances after the novelty fades. EVs need 4-7 days minimum.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive can be booked for anywhere from one day to a month. A weekend (2-3 days) or a longer trial (5-7 days) are common choices. One day covers commute and parking fit. Three days adds a weekend road trip. Seven days reveals the day-five fatigue test — ergonomic annoyances after the novelty fades. For an EV, plan 4-7 days.</p>
     <ul>
     <li><strong>1 day:</strong> commute reality, parking fit, seat comfort, infotainment usability</li>
     <li><strong>2-3 days (weekend):</strong> above + weekend road trip, family seating, boot fit for real loads</li>
-    <li><strong>3-5 days:</strong> above + day-five fatigue test — ergonomic annoyances emerge after novelty fades</li>
-    <li><strong>EV (4-7 days minimum):</strong> real-world range across two charge cycles, AC-on impact, home-charging time</li>
+    <li><strong>5-7 days:</strong> above + day-five fatigue test — ergonomic annoyances emerge after novelty fades</li>
+    <li><strong>EV (4-7 days):</strong> real-world range across two charge cycles, AC-on impact, home-charging time</li>
     </ul>
     
     <section>
@@ -27,8 +27,8 @@ bodyHtml: |
     <tbody>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">1 day</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Commute reality, parking fit, basic seat comfort, infotainment usability</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">2-3 days (weekend)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Above plus weekend road trip, family seating, boot fit for typical loads</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">3-5 days</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Above plus the day-five test — small annoyances after novelty wears off (rear visibility on parallel parking, gear lever ergonomics, climate control quirks)</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">EV (4-7 days minimum)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Real-world range vs claimed range across two charge cycles, home/office charging time, AC-on range impact</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">5-7 days</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Above plus the day-five test — small annoyances after novelty wears off (rear visibility on parallel parking, gear lever ergonomics, climate control quirks)</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">EV (4-7 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Real-world range vs claimed range across two charge cycles, home/office charging time, AC-on range impact</td></tr>
     </tbody></table>
     </section>
     
@@ -44,17 +44,17 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Is there a maximum?</h2>
-    <p>Most partners allow up to 30 days for a single Extended Test Drive booking. For trials longer than 30 days, a monthly self-drive subscription is a better fit — typically with discounted daily rates. The booking page on Zymo shows the partner-specific maximum duration and any monthly pricing for the model and city you choose.</p>
+    <p>An Extended Test Drive can run for up to a month. For anything longer, a monthly self-drive rental is a better fit. The booking page on Zymo shows the durations and any monthly pricing available for the model and city you choose.</p>
     </section>
     
     <section id="faq">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
-    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the minimum Extended Test Drive duration?</dt>
-    <dd>One full day across most Zymo partners. A weekend (Friday evening to Sunday evening) is the most common booking pattern because it covers a real commute morning, a weekend trip, and a Monday-morning sense-check before you reach a buying decision.</dd>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How short or long can an Extended Test Drive be?</dt>
+    <dd>Anywhere from one day to a month. A weekend (Friday evening to Sunday evening) is a good starting point because it covers a real commute morning, a weekend trip, and a Monday-morning sense-check before you reach a buying decision.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is a realistic Extended Test Drive length?</dt>
-    <dd>Two to seven days. One day shows you commute and parking. Three days adds a weekend trip and family fit. Seven days adds the morning-of-day-five fatigue test — the small annoyances that only surface after the novelty wears off. For EVs, seven days lets you see real-world range across charge cycles.</dd>
+    <dd>Most buyers find two days to a week enough, and bookings run anywhere from one day to a month. One day shows you commute and parking. Three days adds a weekend trip and family fit. Seven days adds the morning-of-day-five fatigue test — the small annoyances that only surface after the novelty wears off. For EVs, seven days lets you see real-world range across charge cycles.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I extend an Extended Test Drive booking mid-trip?</dt>
     <dd>Yes, subject to car availability. Most partners on Zymo allow extension requests through the booking page or partner support — typically free of penalty if the car is not already booked for the next slot. Confirm before the original return time to avoid late-return fees.</dd>
@@ -85,18 +85,18 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/documents-for-extended-test-drive" style="color:#4F7BFF;text-decoration:none">What documents do I need for an Extended Test Drive?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales volumes 2025-26</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH consumer guidelines</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     
     </article>
 faqs: 
-  - q: "What is the minimum Extended Test Drive duration?"
+  - q: "How short or long can an Extended Test Drive be?"
     a: |
-        One full day across most Zymo partners. A weekend (Friday evening to Sunday evening) is the most common booking pattern because it covers a real commute morning, a weekend trip, and a Monday-morning sense-check before you reach a buying decision.
+        Anywhere from one day to a month. A weekend (Friday evening to Sunday evening) is a good starting point because it covers a real commute morning, a weekend trip, and a Monday-morning sense-check before you reach a buying decision.
   - q: "What is a realistic Extended Test Drive length?"
     a: |
-        Two to seven days. One day shows you commute and parking. Three days adds a weekend trip and family fit. Seven days adds the morning-of-day-five fatigue test — the small annoyances that only surface after the novelty wears off. For EVs, seven days lets you see real-world range across charge cycles.
+        Most buyers find two days to a week enough, and bookings run anywhere from one day to a month. One day shows you commute and parking. Three days adds a weekend trip and family fit. Seven days adds the morning-of-day-five fatigue test — the small annoyances that only surface after the novelty wears off. For EVs, seven days lets you see real-world range across charge cycles.
   - q: "Can I extend an Extended Test Drive booking mid-trip?"
     a: |
         Yes, subject to car availability. Most partners on Zymo allow extension requests through the booking page or partner support — typically free of penalty if the car is not already booked for the next slot. Confirm before the original return time to avoid late-return fees.

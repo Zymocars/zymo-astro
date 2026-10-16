@@ -17,8 +17,8 @@ bodyHtml: |
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in Agra starts from ₹1,100 per day for hatchbacks. Zymo shows prices from multiple Agra partners near Taj Mahal, Fatehabad Road, Sikandra, and Agra Cantonment Railway Station — compare and book at zymo.app. Agra is the hub for the Golden Triangle (Delhi-Agra-Jaipur) and Vrindavan-Mathura circuit. No Zymo booking fee.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup locations in Agra</h2><p>Fatehabad Road partners (the hotel strip closest to the Taj Mahal's south gate) are the most convenient for Taj Mahal visits and city sightseeing. Sikandra area partners suit those arriving from Delhi via Yamuna Expressway. Agra Cantt Railway Station area has partners for train-arriving travellers. All Agra partners are within 30 minutes of the Taj Mahal. Taj Mahal east gate (Shilpgram parking) and west gate both have large parking lots for self-drive visitors.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Popular routes and cost breakdown from Agra</h2><p>Agra-Fatehpur Sikri (40 km, 1 hr via NH19): Akbar's deserted capital, UNESCO site — easy half-day add-on from Agra. Agra-Mathura-Vrindavan (55-65 km, 1.5 hrs): Krishna pilgrimage circuit. Agra-Jaipur (250 km, 4 hrs via NH21): Golden Triangle second leg — 4-lane state highway, reasonable surface. Agra-Delhi (250 km, 3.5 hrs via Yamuna Expressway): 6-lane FASTag highway, fastest route. Day-trip Agra-Fatehpur Sikri: car ₹1,100 + fuel ₹280 (80 km return) + Yamuna Expressway toll (if applicable) + Fatehpur Sikri entry ₹50.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Agra driving and parking tips</h2><p>Diesel vehicles and large commercial trucks are banned within 500 metres of the Taj Mahal's main gates — rental petrol cars are allowed. Park at Shilpgram (east gate lot, ₹100/car) or the large south gate parking area. Taj Mahal entry is by timed ticket only — book online at asi.payumoney.com before arrival. Fatehabad Road traffic is light on weekday mornings. Yamuna Expressway from Delhi: FASTag toll at Jewar (₹225 one-way for hatchback). Agra roads inside the old city are narrow — park near hotel and take an e-rickshaw for monument visits.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Popular routes and cost breakdown from Agra</h2><p>Agra-Fatehpur Sikri (40 km, 1 hr via NH21): Akbar's deserted capital, UNESCO site — easy half-day add-on from Agra. Agra-Mathura-Vrindavan (55-65 km, 1.5 hrs): Krishna pilgrimage circuit. Agra-Jaipur (about 240 km, 4 hrs via NH21): Golden Triangle second leg — a 4-lane national highway. Agra-Delhi (about 230 km, 3.5-4 hrs via Yamuna Expressway): 6-lane FASTag highway, fastest route. Day-trip Agra-Fatehpur Sikri: car ₹1,100 + fuel about ₹500 (80 km return at 16 km/L and ₹100/L) + Yamuna Expressway toll (if applicable) + Fatehpur Sikri entry ₹50.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Agra driving and parking tips</h2><p>Fuel-driven vehicles are not allowed within 500 metres of the Taj Mahal — park at the Shilpgram (east gate) or west gate lots and take the electric shuttle or walk. Book Taj Mahal entry tickets online on the official ASI ticketing site before arrival. Fatehabad Road traffic is light on weekday mornings. Yamuna Expressway from Delhi: tolls are paid via FASTag. Agra roads inside the old city are narrow — park near hotel and take an e-rickshaw for monument visits.</p></section>
     
     
     
@@ -29,12 +29,12 @@ bodyHtml: |
     <dd>Hatchbacks cost ₹1,100-1,500/day, compact SUVs ₹1,800-2,400/day in Agra. Agra also has strong half-day and 4-hour rental options given the city's tourism demand.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I take an Agra self-drive car to Fatehpur Sikri or Mathura?</dt>
-    <dd>Yes. Fatehpur Sikri is 40 km (1 hour), Mathura is 55 km (1 hour), and Vrindavan is 65 km — all well within standard Zymo Agra partner outstation permits. Confirm km limit for multi-stop days.</dd>
+    <dd>Yes. Fatehpur Sikri is 40 km (1 hour), Mathura is 55 km (1 hour), and Vrindavan is 65 km. Confirm at booking that the partner allows the trip, and check the km limit for multi-stop days.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What are the parking options near the Taj Mahal?</dt>
-    <dd>Shilpgram parking complex (500m from East Gate) and Taj Nagri Scheme parking are the closest lots. No private vehicles within 500m of the Taj gates. Parking costs ₹100-150/day for cars.</dd>
+    <dd>Shilpgram parking complex (500m from East Gate) and Taj Nagri Scheme parking are the closest lots. No fuel-driven vehicles within 500m of the Taj gates — take the electric shuttle or walk from the lot.</dd>
     
-    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which pickup areas in Agra have the most self-drive options?</dt>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which are the common self-drive pickup areas in Agra?</dt>
     <dd>Civil Lines, Sanjay Place, Dayal Bagh, MG Road, and Kamla Nagar are the primary zones. Agra Cantonment railway station and Agra Airport pickup is available from select partners.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the Delhi-Agra Yamuna Expressway safe for self-drive?</dt>
@@ -44,7 +44,7 @@ bodyHtml: |
     <dd>Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. International visitors need an IDP (International Driving Permit) alongside their home country licence.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I do the Agra-Jaipur Golden Triangle by self-drive?</dt>
-    <dd>Yes. Agra to Jaipur is 240 km (4 hours via NH21). Many Zymo Agra partners allow Rajasthan outstation. Book the Creta or Seltos for the family-friendly version of this classic route.</dd>
+    <dd>Yes. Agra to Jaipur is 240 km (4 hours via NH21). Confirm at booking that the partner allows Rajasthan outstation. Book the Creta or Seltos for the family-friendly version of this classic route.</dd>
     </dl>
     </section>
     
@@ -75,7 +75,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI yamuna expressway data</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle stats</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -84,10 +84,11 @@ faqs:
   - q: "How much does self-drive car rental in Agra cost?"
     a: "Hatchbacks cost ₹1,100-1,500/day, compact SUVs ₹1,800-2,400/day in Agra. Agra also has strong half-day and 4-hour rental options given the city's tourism demand."
   - q: "Can I take an Agra self-drive car to Fatehpur Sikri or Mathura?"
-    a: "Yes. Fatehpur Sikri is 40 km (1 hour), Mathura is 55 km (1 hour), and Vrindavan is 65 km — all well within standard Zymo Agra partner outstation permits. Confirm km limit for multi-stop days."
+    a: "Yes. Fatehpur Sikri is 40 km (1 hour), Mathura is 55 km (1 hour), and Vrindavan is 65 km. Confirm at booking that the partner allows the trip, and check the km limit for multi-stop days."
   - q: "What are the parking options near the Taj Mahal?"
-    a: "Shilpgram parking complex (500m from East Gate) and Taj Nagri Scheme parking are the closest lots. No private vehicles within 500m of the Taj gates. Parking costs ₹100-150/day for cars."
-  - q: "Which pickup areas in Agra have the most self-drive options?"
+    a: |
+        Shilpgram parking complex (500m from East Gate) and Taj Nagri Scheme parking are the closest lots. No fuel-driven vehicles within 500m of the Taj gates — take the electric shuttle or walk from the lot.
+  - q: "Which are the common self-drive pickup areas in Agra?"
     a: "Civil Lines, Sanjay Place, Dayal Bagh, MG Road, and Kamla Nagar are the primary zones. Agra Cantonment railway station and Agra Airport pickup is available from select partners."
   - q: "Is the Delhi-Agra Yamuna Expressway safe for self-drive?"
     a: "The Yamuna Expressway (165 km) is one of India's smoothest 6-lane highways — excellent for self-drive. Speed cameras are active (limit 100 km/h). Allow 2.5-3 hours including the Mathura exit."
@@ -95,6 +96,6 @@ faqs:
     a: |
         Valid Indian driving licence + Aadhaar or passport. Minimum age depends on the partner — usually 21, some accept 18. International visitors need an IDP (International Driving Permit) alongside their home country licence.
   - q: "Can I do the Agra-Jaipur Golden Triangle by self-drive?"
-    a: "Yes. Agra to Jaipur is 240 km (4 hours via NH21). Many Zymo Agra partners allow Rajasthan outstation. Book the Creta or Seltos for the family-friendly version of this classic route."
+    a: "Yes. Agra to Jaipur is 240 km (4 hours via NH21). Confirm at booking that the partner allows Rajasthan outstation. Book the Creta or Seltos for the family-friendly version of this classic route."
 ---
 

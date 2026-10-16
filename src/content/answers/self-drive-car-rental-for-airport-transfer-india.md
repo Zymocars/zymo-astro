@@ -14,12 +14,12 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental for airport pickup and drop is available across all major Indian airports through Zymo's partner network. Hatchbacks from ₹1,100/day. Partners near Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Pune, and Kolkata airports offer doorstep delivery to terminals or partner pickup within 15-20 minutes of the terminal. No Zymo booking fee.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental for airport pickup and drop is available on Zymo where a partner offers airport pickup or delivery. Hatchbacks from ₹1,100/day. Some partners deliver to the terminal; others hand over at a pickup point near the airport. No Zymo booking fee.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How to use self-drive for an airport transfer</h2><p>Book the car for the duration of your trip — not just the airport-to-destination leg. Most travellers book: Day 1 pickup from city partner → airport drop (return to partner after). Or: arrive at airport → take auto/cab to nearest partner pickup point → pick up car for the rest of the trip. Some Zymo partners offer meet-at-terminal delivery for a small delivery fee — check the partner's delivery option on the booking page.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Why self-drive works well for airport transfers</h2><p>Airport taxi and app cab surge pricing at early morning and late night arrival windows (2-6 AM flights, midnight arrivals) can be 2-3× base fare. A self-drive booking at a fixed daily rate avoids surge. If you are renting a car for 3+ days anyway, the airport transfer cost is effectively zero — the car covers all your city and outstation travel for the duration. Good for: business travellers who need the car for the full trip duration and don't want to depend on app cab availability at the airport.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Best partner zones near major airports</h2><p>Mumbai (CSIA T1/T2): Andheri East and West partners are 10-15 minutes from both terminals. Delhi (IGI T1/T2/T3): Mahipalpur and Dwarka partners are 10-20 minutes from all terminals. Bangalore (Kempegowda): Hebbal and Yelahanka partners are 20-30 minutes from the terminal (pre-NICE Road route). Hyderabad (RGIA): Shamshabad area partners are within 15 minutes of RGIA. Chennai (MAA): Meenambakkam area partners are closest to the international terminal.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Documents needed and Aadhaar OTP for fast pickup</h2><p>Standard self-drive documents apply: valid driving licence, Aadhaar or government ID, card for deposit. Complete Aadhaar OTP verification on the Zymo app before your trip — takes 2-3 minutes, saves 10-15 minutes at pickup. For business travellers: GST invoice available — enter GSTIN at checkout.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Areas close to major airports</h2><p>Mumbai (CSMIA T1/T2): Andheri East and West are 10-15 minutes from both terminals. Delhi (IGI): Mahipalpur and Dwarka are 10-20 minutes from the terminals. Bangalore (Kempegowda): Hebbal and Yelahanka are 20-30 minutes from the terminal. Hyderabad (RGIA): Shamshabad is within 15 minutes of RGIA. Chennai (MAA): Meenambakkam is closest to the terminals. Search these areas on Zymo to see which partners list pickup there for your dates.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Documents needed and Aadhaar OTP for fast pickup</h2><p>Standard self-drive documents apply: valid driving licence and Aadhaar or government ID; the deposit is paid online with the booking. Complete Aadhaar OTP verification on the Zymo app before your trip — takes a few minutes, saves 10-15 minutes at pickup. For business travellers: a GST invoice is available on request — send your booking ID and GSTIN through the Zai chatbot or to hello@zymo.app.</p></section>
     
     
     
@@ -27,13 +27,13 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is self-drive cheaper than a cab for airport transfer?</dt>
-    <dd>Yes, in most cases. A self-drive car in Mumbai costs ₹1,200-1,800/day vs ₹800-1,200 for a one-way cab from Bandra to Terminal 2. But self-drive includes both-way flexibility, airport parking, and no surge pricing — better value for early morning or late night flights.</dd>
+    <dd>Not for a single one-way ride: a self-drive car in Mumbai costs ₹1,200-1,800/day, while a one-way cab from Bandra to the airport usually costs less. Self-drive is better value when you need the car for the rest of the day or trip, and it avoids surge pricing on early-morning and late-night flights.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I return the self-drive car at the airport?</dt>
-    <dd>Depends on the partner. Some Zymo partners offer airport drop-off as a return point — confirm at booking. Others require return to the pickup point. If no airport drop is available, plan for short-term parking at the airport (₹50-80/hour at major airports).</dd>
+    <dd>Depends on the partner. Some Zymo partners offer airport drop-off as a return point — confirm at booking. Others require return to the pickup point. If no airport drop is available, plan for paid short-term parking at the airport.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which airports in India have Zymo partner pickup?</dt>
-    <dd>Zymo has partners near major international airports: Mumbai (CSIA T2), Bangalore (KIAL), Delhi (IGI T3), Hyderabad (RGIA), Chennai (MAA), Pune (PNQ), Kochi (COK), Jaipur (JAI). Confirm airport delivery with the specific partner at booking.</dd>
+    <dd>Partners in several cities offer airport pickup or delivery. Search your airport city on Zymo and confirm airport delivery with the specific partner at booking.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the advantage of self-drive over Ola/Uber for airport transfers?</dt>
     <dd>No surge pricing (self-drive rate is fixed), no cancellations (you own the booking), and more luggage flexibility. For international arrivals with heavy bags and a family, a self-drive SUV offers more control than hoping for a large cab.</dd>
@@ -76,7 +76,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://aai.aero" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">AAI airport traffic data</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle stats</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://aai.aero" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Airports Authority of India (AAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -84,13 +84,12 @@ bodyHtml: |
 faqs: 
   - q: "Is self-drive cheaper than a cab for airport transfer?"
     a: |
-        Yes, in most cases. A self-drive car in Mumbai costs ₹1,200-1,800/day vs ₹800-1,200 for a one-way cab from Bandra to Terminal 2. But self-drive includes both-way flexibility, airport parking, and no surge pricing — better value for early morning or late night flights.
+        Not for a single one-way ride: a self-drive car in Mumbai costs ₹1,200-1,800/day, while a one-way cab from Bandra to the airport usually costs less. Self-drive is better value when you need the car for the rest of the day or trip, and it avoids surge pricing on early-morning and late-night flights.
   - q: "Can I return the self-drive car at the airport?"
     a: |
-        Depends on the partner. Some Zymo partners offer airport drop-off as a return point — confirm at booking. Others require return to the pickup point. If no airport drop is available, plan for short-term parking at the airport (₹50-80/hour at major airports).
+        Depends on the partner. Some Zymo partners offer airport drop-off as a return point — confirm at booking. Others require return to the pickup point. If no airport drop is available, plan for paid short-term parking at the airport.
   - q: "Which airports in India have Zymo partner pickup?"
-    a: |
-        Zymo has partners near major international airports: Mumbai (CSIA T2), Bangalore (KIAL), Delhi (IGI T3), Hyderabad (RGIA), Chennai (MAA), Pune (PNQ), Kochi (COK), Jaipur (JAI). Confirm airport delivery with the specific partner at booking.
+    a: "Partners in several cities offer airport pickup or delivery. Search your airport city on Zymo and confirm airport delivery with the specific partner at booking."
   - q: "What is the advantage of self-drive over Ola/Uber for airport transfers?"
     a: |
         No surge pricing (self-drive rate is fixed), no cancellations (you own the booking), and more luggage flexibility. For international arrivals with heavy bags and a family, a self-drive SUV offers more control than hoping for a large cab.

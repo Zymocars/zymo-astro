@@ -19,19 +19,19 @@ bodyHtml: |
     <tbody>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Seating</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">5 adults</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Boot space</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">311 litres</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Fuel type</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">1.2L i-VTEC petrol (most listings)</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Fuel type</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">1.2L i-VTEC petrol — the listing shows the variant</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Transmission</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Manual and IVT (CVT) available</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Best for</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">City drives, flat highway day trips, comfortable hatchback for 4 adults</td></tr>
     </tbody></table></div>
     </section>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What does a ZoomCar i20 cost?</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The i20 is in the premium hatchback class — expect rates slightly above the standard hatchback starting from approximately ₹50–55/hr in major metros. Security deposits typically run ₹3,000–5,000 for this class. Confirm the exact rate on the listing page before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rates and deposits vary by city and date — the listing page shows the exact figures before you book.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Why choose the i20 over a standard hatchback?</h2>
     <ul>
     <li><strong>Premium cabin:</strong> better interior quality, rear AC vents, and connected infotainment compared to entry hatchbacks</li>
-    <li><strong>IVT option:</strong> the Hyundai IVT CVT is one of the smoothest automatic transmissions in the hatchback class</li>
+    <li><strong>IVT option:</strong> the IVT automatic suits stop-and-go city traffic</li>
     <li><strong>Boot space:</strong> 311 L is adequate for 3 adults with weekend bags — more than some entry hatchbacks</li>
     <li><strong>Highway comfort:</strong> slightly heavier build than entry hatchbacks reduces fatigue on 200–300 km highway drives</li>
     </ul>
@@ -40,7 +40,7 @@ bodyHtml: |
     <ul>
     <li>Manual vs IVT — the IVT automatic is significantly more comfortable in city traffic; confirm before booking</li>
     <li>KM allowance — check the daily cap before booking highway trips</li>
-    <li>Pickup hub — i20 availability is concentrated in metro IT corridors and commercial zones; confirm the location</li>
+    <li>Pickup hub — confirm the pickup location on the listing</li>
     </ul>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -48,7 +48,7 @@ bodyHtml: |
     <p style="margin:0"><a href="/" style="color:#4F7BFF;text-decoration:none;font-weight:600">Browse cars on Zymo →</a></p>
     </section>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; ZoomCar pricing guide by car class</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; How ZoomCar pricing works</a></p>
     
     </article>
 faqs: 
@@ -56,10 +56,8 @@ faqs:
     a: |
         Yes. The Hyundai i20 is available on ZoomCar in select cities. It is a premium hatchback with 311 L boot space, 1.2L petrol engine, and IVT automatic option — a step above standard hatchbacks in comfort and features.
   - q: "How much does a ZoomCar i20 rental cost?"
-    a: |
-        The i20 is in the premium hatchback class — expect rates from approximately ₹50–55/hr in major metros, slightly above standard hatchbacks. Security deposits typically run ₹3,000–5,000, refunded after trip close.
+    a: "Rates and deposits vary by city and date — the listing page shows the exact figures before you book."
   - q: "Is the i20 automatic available on ZoomCar?"
-    a: |
-        The Hyundai IVT (CVT) automatic i20 is available on ZoomCar in select listings. The IVT is one of the smoothest automatic transmissions in the hatchback class. Confirm availability on the specific listing before booking.
+    a: "The IVT automatic i20 is available on ZoomCar in select listings and suits stop-and-go city traffic. Confirm availability on the specific listing before booking."
 ---
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// One-shot migration: reads city SEO data from zymo-backend/functions/seo/cityContent.js
+// Regenerates city SEO content from zymo-backend/functions/seo/cityContent.js
 // and emits per-city markdown files at src/content/cities/{slug}.md.
 //
 // Usage:
@@ -7,10 +7,7 @@
 //   node scripts/migrate-city-content.mjs           # migrates all cities in CITY_SEO_CONTENT
 //   node scripts/migrate-city-content.mjs mumbai    # migrates only mumbai
 //
-// Source of truth: C:/Users/91982/zymo-backend/functions/seo/cityContent.js
-// Data structure per city (per cityContent.js:94):
-//   { intro, popularAreas, nearbyDestinations, tips, carTypes, whyZymo,
-//     howItWorks, priceNote, faqs: [{q, a}] }
+// Source of truth: CITY_SEO_CONTENT in zymo-backend/functions/seo/cityContent.js.
 
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
@@ -25,10 +22,8 @@ const ZYMO_BACKEND = path.resolve(__dirname, '../../zymo-backend/functions/seo')
 const OUT_DIR = path.resolve(__dirname, '../src/content/cities');
 
 // -----------------------------------------------------------------------------
-// Static per-city mapping — display name + hero image + answer-block string.
-// These are hard-coded in the generator (cityContent.js:1123-1131 CITY_IMAGES,
-// getAnswerBlock in same file). Duplicating the data here avoids importing the
-// full render pipeline; we cross-check via CITY_SEO_CONTENT which is authoritative.
+// Static per-city mapping — display name + hero image. CITY_SEO_CONTENT decides
+// which cities exist.
 // -----------------------------------------------------------------------------
 const HERO_IMAGES = {
   mumbai: 'mumbai.webp',
@@ -109,14 +104,12 @@ function formatCityName(slug) {
     .join(' ');
 }
 
-// Build the answer block string (mirrors cityContent.js:50-91 ANSWER_BLOCKS map,
-// or falls back to the generic template).
+// The generator's getAnswerBlock when exported, else a generic template.
 function buildAnswerBlock(citySlug, cityName) {
   const generator = require(path.join(ZYMO_BACKEND, 'cityContent.js'));
   if (typeof generator.getAnswerBlock === 'function') {
     return generator.getAnswerBlock(citySlug, cityName);
   }
-  // Fallback template — matches the generator's default at cityContent.js:29-48
   return `Self-drive car rental in ${cityName} starts from ₹45/hr on Zymo. Compare prices from multiple rental partners with doorstep delivery, no platform fee, and both hourly and daily rentals. Book in under 2 minutes.`;
 }
 
@@ -369,7 +362,7 @@ async function main() {
 
     const body = `<!--
 This file was migrated from zymo-backend/functions/seo/cityContent.js
-by scripts/migrate-city-content.mjs on ${new Date().toISOString()}.
+by scripts/migrate-city-content.mjs.
 Do NOT hand-edit the front-matter without also updating the migration script
 or the source generator — a re-run of the migration will overwrite changes.
 Body markdown below is free-form and safe to edit.
