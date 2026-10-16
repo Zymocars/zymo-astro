@@ -1,7 +1,7 @@
 ---
 slug: "how-does-extended-test-drive-work-in-india"
 title: "How Does an Extended Test Drive Work in India? | Zymo"
-description: "Search the model on Zymo, tap Try and Decide, pick city, date, duration, verify Aadhaar, pay online, pick up from the partner. Full 8-step booking flow."
+description: "Search the model on Zymo, tap Try and Decide, pick city, date, duration, pay online, verify Aadhaar before pickup, pick up from the partner. Full 8-step booking flow."
 canonical: "https://zymo.app/answers/how-does-extended-test-drive-work-in-india"
 h1: "How does an Extended Test Drive work in India?"
 publishedDate: "2026-05-21"
@@ -12,19 +12,19 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">How does an Extended Test Drive work in India?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">In India, an Extended Test Drive runs through self-drive rental platforms — primarily Zymo, which aggregates rental partners across 60+ cities. You book the exact model you are considering buying, pick it up from a partner location, drive it on your real routes for one to seven days, and return it. Same mechanics as a self-drive rental. You still purchase the car through your OEM dealer.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">In India, an Extended Test Drive runs through self-drive rental platforms such as Zymo, which aggregates rental partners across 60+ cities. You book the exact model you are considering buying, pick it up from a partner location, drive it on your real routes for anywhere from one day to a month, and return it. Same mechanics as a self-drive rental. You still purchase the car through your OEM dealer.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The full booking flow on Zymo</h2>
     <ol>
     <li><strong>Search.</strong> Open the Buy Car section on zymo.app or the Zymo app. Enter the model you are considering — Creta, Nexon, Seltos, XUV700, whichever is in your shortlist.</li>
     <li><strong>Try and Decide.</strong> Tap the Try and Decide button on the model page. The flow switches to Extended Test Drive search.</li>
-    <li><strong>Choose city, location, dates, duration.</strong> Pick your pickup city, a location near you, your start date and time, and the duration (one full day minimum).</li>
+    <li><strong>Choose city, location, dates, duration.</strong> Pick your pickup city, a location near you, your start date and time, and the duration (one day to a month).</li>
     <li><strong>Compare cars.</strong> Available cars from multiple Zymo partners appear with transparent partner-by-partner pricing. Same model, different partners — pick the option that fits your needs.</li>
-    <li><strong>Verify and pay.</strong> Complete Aadhaar OTP verification (via WhatsApp or email link), pay online by card, UPI, or net banking.</li>
+    <li><strong>Pay, then verify.</strong> Pay online by card, UPI, or net banking. After booking, complete Aadhaar OTP verification (via WhatsApp or email link) before pickup.</li>
     <li><strong>Pick up the car.</strong> Reach the partner location at your start time. Carry your driving licence original. The partner does a handover inspection — you photograph the car for your records.</li>
     <li><strong>Drive your life.</strong> Take it on your commute. Park it in your society. Take it to a weekend trip. Use it the way you would use it if you owned it.</li>
-    <li><strong>Return.</strong> Drop the car back at the partner location on time, refuelled to the level the partner specified. Security deposit refunds in 3-5 working days.</li>
+    <li><strong>Return.</strong> Drop the car back at the partner location on time, refuelled to the level the partner specified. Zymo refunds the security deposit within 5–7 working days after the trip.</li>
     </ol>
     </section>
     
@@ -52,7 +52,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I start an Extended Test Drive booking on Zymo?</dt>
-    <dd>Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date and time, and duration (minimum one full day). You see available cars from multiple Zymo partners, select one, complete Aadhaar OTP verification, and pay online.</dd>
+    <dd>Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date and time, and duration (minimum one full day). You see available cars from multiple Zymo partners, select one, and pay online; after booking, complete Aadhaar OTP verification before pickup.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Where is the Extended Test Drive available?</dt>
     <dd>Across all 60+ Indian cities where Zymo operates self-drive rentals. If a city has self-drive cars on Zymo, the Extended Test Drive option is available subject to partner inventory for the specific model you want.</dd>
@@ -86,7 +86,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/documents-for-extended-test-drive" style="color:#4F7BFF;text-decoration:none">What documents do I need for an Extended Test Drive?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales data 2025-26</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH consumer guidelines</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     
@@ -94,7 +94,7 @@ bodyHtml: |
 faqs: 
   - q: "How do I start an Extended Test Drive booking on Zymo?"
     a: |
-        Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date and time, and duration (minimum one full day). You see available cars from multiple Zymo partners, select one, complete Aadhaar OTP verification, and pay online.
+        Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date and time, and duration (minimum one full day). You see available cars from multiple Zymo partners, select one, and pay online; after booking, complete Aadhaar OTP verification before pickup.
   - q: "Where is the Extended Test Drive available?"
     a: |
         Across all 60+ Indian cities where Zymo operates self-drive rentals. If a city has self-drive cars on Zymo, the Extended Test Drive option is available subject to partner inventory for the specific model you want.

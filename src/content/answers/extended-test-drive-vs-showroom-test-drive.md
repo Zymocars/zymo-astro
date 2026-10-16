@@ -17,9 +17,9 @@ bodyHtml: |
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Side-by-side comparison</h2>
     <table style="width:100%;border-collapse:collapse;margin:1rem 0">
-    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Dimension</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">30-min showroom test drive</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Extended Test Drive</th></tr></thead>
+    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Dimension</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Short showroom test drive</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Extended Test Drive</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Duration</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">A short drive on a chosen route</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">1 to 7+ days</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Duration</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">A short drive on a chosen route</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">One day to a month</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Route</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Dealer-chosen, typically smooth arterial</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Your real commute, your parking, your weekend</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Accompaniment</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Salesperson rides along</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">You alone, or your family</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Cost</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Free</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Standard self-drive rental rate</td></tr>
@@ -45,7 +45,7 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Does it harm the dealer relationship?</h2>
-    <p>No. You still purchase the car through the dealer. The Extended Test Drive is a decision tool, not a transaction channel. Dealers prefer informed buyers who close quickly to undecided buyers who linger. Many buyers who do an Extended Test Drive return to their dealer with more confidence and close faster, which is good for both sides.</p>
+    <p>No. You still purchase the car through the dealer. The Extended Test Drive is a decision tool, not a transaction channel. You go back to the dealer knowing whether the car fits your life.</p>
     </section>
     
     <section id="faq">
@@ -61,7 +61,7 @@ bodyHtml: |
     <dd>By giving you the car on your routes, in your traffic, at your parking, for your weekend trip. You experience the car the way you will own it, not the way it gets shown at the showroom. The decision you make at the end is based on lived experience, not on a short test drive impression.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Should I do both?</dt>
-    <dd>Yes — in that order. Visit the showroom first for the short test drive and to negotiate price. Then book an Extended Test Drive for the shortlisted model (or two) on Zymo. Then return to the dealer to close. Buyers who do this typically close faster and with fewer post-purchase regrets.</dd>
+    <dd>Yes — in that order. Visit the showroom first for the short test drive and to negotiate price. Then book an Extended Test Drive for the shortlisted model (or two) on Zymo. Then return to the dealer to close, knowing how the car fits your routes, parking, and family.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Does the dealer get the credit for the sale if I do an Extended Test Drive on Zymo first?</dt>
     <dd>Yes. You still purchase the car through the dealer. The Extended Test Drive is a decision tool, not a transaction channel. The dealer relationship for the actual purchase remains unchanged.</dd>
@@ -86,7 +86,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/documents-for-extended-test-drive" style="color:#4F7BFF;text-decoration:none">What documents do I need for an Extended Test Drive?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales volumes 2025-26</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     
@@ -103,7 +103,7 @@ faqs:
         By giving you the car on your routes, in your traffic, at your parking, for your weekend trip. You experience the car the way you will own it, not the way it gets shown at the showroom. The decision you make at the end is based on lived experience, not on a short test drive impression.
   - q: "Should I do both?"
     a: |
-        Yes — in that order. Visit the showroom first for the short test drive and to negotiate price. Then book an Extended Test Drive for the shortlisted model (or two) on Zymo. Then return to the dealer to close. Buyers who do this typically close faster and with fewer post-purchase regrets.
+        Yes — in that order. Visit the showroom first for the short test drive and to negotiate price. Then book an Extended Test Drive for the shortlisted model (or two) on Zymo. Then return to the dealer to close, knowing how the car fits your routes, parking, and family.
   - q: "Does the dealer get the credit for the sale if I do an Extended Test Drive on Zymo first?"
     a: "Yes. You still purchase the car through the dealer. The Extended Test Drive is a decision tool, not a transaction channel. The dealer relationship for the actual purchase remains unchanged."
 ---

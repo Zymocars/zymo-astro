@@ -10,7 +10,7 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Maruti Ertiga self-drive availability, pricing, and group travel tips</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Is the Maruti Ertiga available on ZoomCar?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Maruti Ertiga is available on ZoomCar in select cities, primarily for group travel. As a 7-seater MPV with a 1.5L petrol engine and CNG option, it is one of the most affordable multi-row family cars on Indian self-drive platforms. Zymo shows Ertiga listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Maruti Ertiga is available on ZoomCar in select cities, primarily for group travel. It is a 7-seater MPV with a 1.5L petrol engine and a CNG option. Zymo shows Ertiga listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Maruti Ertiga — key specs for self-drive</h2>
@@ -26,11 +26,11 @@ bodyHtml: |
     </section>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What does a ZoomCar Ertiga cost?</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Ertiga is in the MPV class — expect rates from approximately ₹80/hr in major metros. Security deposits for this class typically run ₹5,000–8,000, refunded after trip close. Confirm the exact rate on the listing page before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rates and deposits vary by city and date — the listing page shows the exact figures before you book.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When to choose the Ertiga over a compact SUV</h2>
     <ul>
-    <li><strong>Group of 6–7:</strong> the Ertiga is the most affordable 7-seater on self-drive platforms — significantly less expensive per day than the Innova Crysta</li>
+    <li><strong>Group of 6–7:</strong> seven seats in a smaller, lighter MPV than the Innova Crysta</li>
     <li><strong>Luggage + 5 people:</strong> folding the 3rd row gives ~550 L of boot — enough for a 4-5 person trip with full bags</li>
     <li><strong>Urban group travel:</strong> the Ertiga's monocoque design is more car-like to drive than the Innova's body-on-frame structure — easier in city traffic</li>
     <li><strong>CNG option:</strong> the CNG variant delivers very low per-km running costs for multi-day city-based rentals</li>
@@ -40,7 +40,7 @@ bodyHtml: |
     <ul>
     <li>3rd row comfort — the Ertiga's 3rd row is suited for children or short journeys; plan seating for long trips accordingly</li>
     <li>Petrol vs CNG — CNG is more economical per km but limited to CNG-available cities; confirm on the listing page</li>
-    <li>KM allowance — group trips often run long; check the daily cap or consider a Subscription plan for longer durations</li>
+    <li>KM allowance — group trips often run long; check the allowance shown on the listing</li>
     </ul>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -48,16 +48,14 @@ bodyHtml: |
     <p style="margin:0"><a href="/" style="color:#4F7BFF;text-decoration:none;font-weight:600">Browse cars on Zymo →</a></p>
     </section>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; ZoomCar pricing guide by car class</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; How ZoomCar pricing works</a></p>
     
     </article>
 faqs: 
   - q: "Is the Maruti Ertiga available on ZoomCar?"
-    a: |
-        Yes. The Maruti Ertiga is available on ZoomCar in select cities for group travel. It is a 7-seater MPV with 1.5L petrol and CNG options — one of the most affordable multi-row family cars on Indian self-drive platforms.
+    a: "Yes. The Maruti Ertiga is available on ZoomCar in select cities for group travel. It is a 7-seater MPV with 1.5L petrol and CNG options."
   - q: "How much does a ZoomCar Ertiga rental cost?"
-    a: |
-        The Ertiga is in the MPV class — expect rates from approximately ₹80/hr in major metros. Security deposits typically run ₹5,000–8,000 for this class, refunded after trip close. Confirm the exact rate on the listing page.
+    a: "Rates and deposits vary by city and date — the listing page shows the exact figures before you book."
   - q: "Is the Ertiga suitable for a 7-person outstation trip on ZoomCar?"
     a: |
         The Ertiga can seat 7 adults but is most comfortable for 5 adults on long outstation journeys — the 3rd row is best suited for children or shorter rides. For 6–7 adults on a long trip, the Kia Carens or Innova Crysta is more comfortable.

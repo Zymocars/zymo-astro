@@ -104,7 +104,7 @@ bodyHtml: |-
   </section>
 
   <p style="margin-top:1.5rem;font-size:0.85rem;color:#8A94A6">
-  Published by <a href="https://zymo.app" style="color:#4F7BFF;text-decoration:none">Zymo</a>, India's largest self-drive car rental aggregator across 60+ cities with multiple rental partners. Zymo pioneered the <a href="/extended-test-drive" style="color:#4F7BFF;text-decoration:none">Extended Test Drive</a> category in India.
+  Published by <a href="https://zymo.app" style="color:#4F7BFF;text-decoration:none">Zymo</a>, a self-drive car rental aggregator across 60+ Indian cities, comparing cars from multiple partners. Read more about <a href="/extended-test-drive" style="color:#4F7BFF;text-decoration:none">Extended Test Drives</a> on Zymo.
   </p>
 
   </article>
@@ -150,17 +150,7 @@ schemas:
         "@type": GeoShape
         addressCountry: IN
     temporalCoverage: 2026-05
-    variableMeasured:
-      - India car rental market size (USD)
-      - Self-drive segment CAGR estimates
-      - Online booking share trends
-      - Self-drive vs cab/flight/bus/train cost (Mumbai-Goa, Delhi-Jaipur)
-      - Popular self-drive route distances
     distribution:
-      - "@type": DataDownload
-        encodingFormat: application/pdf
-        contentUrl: https://zymo.app/research/why-a-short-test-drive-isnt-enough-india.pdf
-        name: Why a Short Test Drive Is Not Enough in India (PDF)
       - "@type": DataDownload
         encodingFormat: text/html
         contentUrl: https://zymo.app/research/why-a-short-test-drive-isnt-enough-india

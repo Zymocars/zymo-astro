@@ -1,7 +1,8 @@
 ---
 slug: "rent-before-you-buy"
 title: "Extended Test Drive: Drive Before You Buy | Zymo"
-description: "Drive a car for 2-7 days before buying. Zymo pioneered Extended Test Drives. A short test drive at the showroom is not enough to validate a multi-lakh decision."
+description: |
+    Drive a car for anywhere from one day to a month before buying. Zymo offers Extended Test Drives at the same price as a normal rental. A short test drive at the showroom is not enough to validate a multi-lakh decision.
 canonical: "https://zymo.app/guides/rent-before-you-buy"
 h1: "Extended Test Drive: Why 30 Minutes Isn't Enough Before Buying a Car"
 type: "spoke"
@@ -15,22 +16,18 @@ bodyHtml: |
     
     <img src="/images/guides/rent-before-you-buy.png" alt="Extended test drive — Indian professional evaluating a car before buying" style="width:100%;border-radius:8px;margin:1rem 0 1.5rem" loading="lazy">
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive (ETD) is a 2-7 day self-drive car rental designed for prospective buyers who want real-world driving experience before purchase. Zymo pioneered ETDs in India. Instead of a short test drive on a pre-planned route, an ETD lets you live with the car on your daily commute, weekend trips, and parking.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive (ETD) is a self-drive car rental of one day to a month, designed for prospective buyers who want real-world driving experience before purchase. It costs the same as a normal self-drive rental, with no surcharge. Instead of a short test drive on a pre-planned route, an ETD lets you live with the car on your daily commute, weekend trips, and parking.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The Problem with Showroom Test Drives</h2>
     <p>A typical showroom test drive is short, on a route the dealer chooses, in controlled conditions. Then you are expected to commit Rs.10-25 lakh based on that experience.</p>
-    
-    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">J.D. Power research:</strong> 78% of car buyers say the test drive was the single most important factor in their purchase decision. Yet the average dealership test drive is just 12 minutes and 4.2 km.</div>
-    
-    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">CDK Global data:</strong> Extended loaner and test drive experiences have an 86% purchase conversion rate — compared to 20-30% for standard showroom visits. When people live with a car, they buy it.</div>
     
     <p>In a short test drive, you cannot evaluate: how the car handles your daily commute in traffic, whether the boot fits your family's luggage, how the AC performs in peak summer, whether the seats are comfortable for a 4-hour highway drive, or how easy it is to park in your building's basement.</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What an Extended Test Drive Covers</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An ETD gives you 2-7 days with the car you're considering buying. Drive it to work, take it on a weekend trip, park it in your building, test the mileage on your actual route. By day 3, you know if this is the car you want to own for the next 5-10 years.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An ETD gives you one day to a month with the car you're considering buying. Drive it to work, take it on a weekend trip, park it in your building, test the mileage on your actual route. By day 3, you know if this is the car you want to own for the next 5-10 years.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">What You'll Discover in an ETD That You Won't in a Showroom</h3>
     <ul>
@@ -54,25 +51,25 @@ bodyHtml: |
     <li>Return the car and make your purchase decision with confidence</li>
     </ol>
     
-    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">Zymo data:</strong> A meaningful and fast-growing share of Zymo customers book Extended Test Drives before purchase. The most-tested models: Hyundai Creta, Tata Nexon, Mahindra Thar, Honda City, and Kia Seltos.</div>
+    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">Same price as a normal rental:</strong> an Extended Test Drive is booked and priced like any other self-drive rental on Zymo, with no surcharge. Zymo does not sell cars; the purchase decision stays entirely yours.</div>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The Math: ETD Cost vs Purchase Risk</h2>
-    <p>A 3-day Hyundai Creta rental on Zymo costs approximately Rs.7,500-10,000. The Creta's ex-showroom price starts at Rs.11 lakh.</p>
-    <p>Spending Rs.10,000 (0.09% of the purchase price) to validate a Rs.11-20 lakh decision is the most rational thing a car buyer can do. If the ETD reveals the car isn't right for you, you've saved yourself from a costly mistake. If it confirms your choice, you buy with 100% confidence.</p>
+    <p>A few days' rental costs a small fraction of what the car itself costs. The live price for your model, city, and dates is shown when you search on Zymo.</p>
+    <p>Spending that to validate a multi-lakh decision is a sensible step for a car buyer. If the ETD reveals the car isn't right for you, you've saved yourself from a costly mistake. If it confirms your choice, you buy with confidence.</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Popular Cars for Extended Test Drives</h2>
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
-    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Price Range</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">ETD Cost (3 days)</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Best For Testing</th></tr></thead>
+    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Best For Testing</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hyundai Creta</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.11-20L</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~Rs.7,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">City comfort, highway stability, tech</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Tata Nexon</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.8-15L</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~Rs.6,000</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Safety, ground clearance, value</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mahindra Thar</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.11-18L</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~Rs.8,000</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Daily drivability, city parking, ride quality</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Honda City</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.12-16L</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~Rs.5,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rear seat comfort, highway refinement</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Kia Seltos</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.11-20L</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~Rs.7,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Tech features, diesel vs petrol</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hyundai Creta</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">City comfort, highway stability, tech</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Tata Nexon</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Safety, ground clearance, value</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mahindra Thar</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Daily drivability, city parking, ride quality</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Honda City</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rear seat comfort, highway refinement</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Kia Seltos</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Tech features, diesel vs petrol</td></tr>
     </tbody></table></div>
     </section>
     
@@ -86,7 +83,7 @@ bodyHtml: |
     <dd>Availability depends on what rental partners have in your city. Search for the specific model on Zymo — filter by fuel type and transmission to find the closest match to the variant you're considering.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How is this different from a dealership test drive?</dt>
-    <dd>A dealership gives you a short test drive on a chosen route. An ETD gives you 2-7 days on your routes: your commute, your parking, your weekend trips. The difference in decision quality is enormous.</dd>
+    <dd>A dealership gives you a short test drive on a chosen route. An ETD gives you one day to a month on your routes: your commute, your parking, your weekend trips. The difference in decision quality is enormous.</dd>
     </dl>
     </section>
     
@@ -129,10 +126,10 @@ bodyHtml: |
 faqs: 
   - q: "What is an extended test drive?"
     a: |
-        An Extended Test Drive (ETD) is a 2-7 day self-drive car rental designed for people who want to experience a car on their real daily routes before making a purchase decision. Zymo pioneered ETDs in India. It costs 0.05-0.1% of the car's price to validate a major purchase.
+        An Extended Test Drive (ETD) is a self-drive car rental of one day to a month, designed for people who want to experience a car on their real daily routes before making a purchase decision. It costs the same as a normal self-drive rental of that car, with no surcharge.
   - q: "How much does an extended test drive cost?"
     a: |
-        An ETD costs approximately Rs.5,000-10,000 for 3 days depending on the car model. A Hyundai Creta ETD costs ~Rs.7,500 for 3 days. This is less than 0.1% of the purchase price — a small investment to validate a Rs.10-20 lakh decision.
+        An ETD is priced the same as a normal self-drive rental of the same car for the same length, with no surcharge. The price depends on the model, city, partner, and dates — search the model on Zymo to see live prices. It is a small cost next to a multi-lakh purchase decision.
   - q: "How is an extended test drive different from a regular self-drive booking?"
     a: |
         Mechanically, it's the same — you book a self-drive rental. The difference is purpose. An ETD is specifically to evaluate a car before purchase. You drive it on your actual daily routes, test features you care about, and make a data-driven buying decision.
@@ -140,7 +137,7 @@ faqs:
 <!--
 This file was migrated from zymo-backend/functions/seo/guideContent.js
 + zymo-backend/functions/seo/metaConfigs.js by
-scripts/migrate-guide-content.mjs on 2026-10-13T10:01:48.344Z.
+scripts/migrate-guide-content.mjs.
 Do NOT hand-edit the bodyHtml front-matter — the raw HTML is what the
 Astro guide template renders verbatim.
 -->

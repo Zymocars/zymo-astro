@@ -1,7 +1,7 @@
 ---
 slug: "security-deposit-self-drive-car-rental-india"
 title: "Security Deposit for Self-Drive Car Rental in India | Zymo"
-description: "Security deposit ranges ₹3,000-15,000 by car class. How the card hold works, refund timeline (5-7 working days), no-deposit booking options on Zymo."
+description: "Security deposit ranges ₹3,000-15,000 by car class, partner and trip duration. Paid online with the booking, held by Zymo, refunded within 5-7 working days after the trip. The partner sets the amount."
 canonical: "https://zymo.app/answers/security-deposit-self-drive-car-rental-india"
 h1: "What is the security deposit for a self-drive car rental in India?"
 publishedDate: "2026-05-27"
@@ -14,11 +14,11 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Security deposit on a self-drive car rental in India ranges from ₹3,000 to ₹15,000 depending on the car class, partner, and trip duration. The deposit is held (not charged) on your credit or debit card for the rental period and refunded within 3-5 working days after the car is returned without damage and with the correct fuel level. Some partners offer no-deposit or low-deposit bookings on specific cars.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Security deposit on a self-drive car rental in India ranges from ₹3,000 to ₹15,000 depending on the car class, partner, and trip duration. The deposit is paid online with your booking, held by Zymo for the rental period, and refunded by Zymo within 5–7 working days after the trip, once the car is returned without damage and with the correct fuel level. The partner sets the amount. Some partners set a low or zero deposit; the amount is shown on the listing.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Typical deposit ranges by car class</h2><p>Hatchback (Swift, i20, WagonR): ₹3,000-5,000. Sedan (Dzire, Aura, Verna): ₹5,000-8,000. Compact SUV (Brezza, Nexon, Punch): ₹6,000-10,000. Tier-1 SUV (Creta, Seltos, XUV700): ₹8,000-15,000. Premium/luxury cars: ₹15,000-30,000. Outstation and inter-state bookings carry a higher deposit than city-only bookings on the same car.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How the hold works</h2><p>Most partners place a pre-authorisation hold on your card at pickup — the amount is reserved but not actually charged. The hold is released back automatically after the rental period if the car is returned without issues. Some partners debit the deposit and refund within 3-5 days; the booking page lists the exact policy before you confirm.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What can be deducted from the deposit</h2><p>Visible damage caused during the rental (verified against the pre-pickup damage report), missing fuel below the agreed return level, late return penalty if you exceed the booked time, and any unpaid traffic fines or toll evasions during the rental. The deposit is refunded in full when none of these apply, which is the case on most bookings.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Typical deposit ranges by car class</h2><p>Hatchback (Swift, i20, WagonR): ₹3,000-5,000. Sedan (Dzire, Aura, Verna): ₹5,000-8,000. Compact SUV (Brezza, Nexon, Punch): ₹6,000-10,000. Tier-1 SUV (Creta, Seltos, XUV700): ₹8,000-15,000. Premium cars: towards the top of the range. The partner sets the exact amount, and the listing shows it before you book.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How the deposit is paid and refunded</h2><p>The deposit is paid online with your booking and held by Zymo — it is not collected by the partner at pickup. After the trip, Zymo refunds it to your original payment method, minus any documented deductions, within 5–7 working days after the trip. The partner sets the deposit amount, which is on the booking page before you confirm.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What can be deducted from the deposit</h2><p>Visible damage caused during the rental (verified against the pre-pickup damage report), missing fuel below the agreed return level, late return penalty if you exceed the booked time, and any unpaid traffic fines or toll evasions during the rental. The deposit is refunded in full when none of these apply.</p></section>
     
     
     
@@ -26,19 +26,19 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How long does it take to get the security deposit back?</dt>
-    <dd>3-5 working days from the time of return. Some partners refund within 24-48 hours if the car was returned without damage. The exact refund timeline is on the booking confirmation page and the partner's return policy.</dd>
+    <dd>Zymo holds the deposit and refunds it to your original payment method within 5–7 working days after the trip.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the security deposit charged or just held?</dt>
-    <dd>Most partners pre-authorise a hold on your card without actually charging. The hold is released back automatically after the rental period if there are no issues. Some partners debit and refund — confirm the model on the booking page.</dd>
+    <dd>It is paid online with your booking and held by Zymo for the trip — not by the partner. Zymo refunds it to your original payment method after the return is checked, minus any documented deductions.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I pay the deposit in cash?</dt>
-    <dd>Most partners require card-based deposits (credit or debit) for fraud protection. Some partners allow UPI hold; cash deposits are unusual on metropolitan partner inventory. Confirm with the partner at booking.</dd>
+    <dd>No. The deposit is paid online with your booking through Zymo's payment gateway — not in cash and not to the partner at pickup.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What if my card limit is below the deposit amount?</dt>
-    <dd>Switch to a card with a higher limit, use a credit card if the deposit was held against a debit card, or pick a partner with a lower deposit on the same car. The deposit amount is visible on the booking page before you confirm.</dd>
+    <dd>Pay with a different card or payment method, or pick a partner with a lower deposit on the same car. The deposit amount is visible on the booking page before you confirm.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Are there no-deposit self-drive bookings?</dt>
-    <dd>Yes. Some partners offer no-deposit or low-deposit (₹1,000-2,000) variants on specific cars. Visible on the booking page as a filter option. The no-deposit variant typically carries a slightly higher daily rate.</dd>
+    <dd>Partners set the deposit amount. Some partners set a low or zero deposit; the amount is shown on the listing. Zymo collects it online with the booking, holds it, and refunds it after the trip.</dd>
     </dl>
     </section>
     
@@ -69,26 +69,21 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH consumer guidelines</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "How long does it take to get the security deposit back?"
-    a: |
-        3-5 working days from the time of return. Some partners refund within 24-48 hours if the car was returned without damage. The exact refund timeline is on the booking confirmation page and the partner's return policy.
+    a: "Zymo holds the deposit and refunds it to your original payment method within 5–7 working days after the trip."
   - q: "Is the security deposit charged or just held?"
-    a: |
-        Most partners pre-authorise a hold on your card without actually charging. The hold is released back automatically after the rental period if there are no issues. Some partners debit and refund — confirm the model on the booking page.
+    a: "It is paid online with your booking and held by Zymo for the trip — not by the partner. Zymo refunds it to your original payment method after the return is checked, minus any documented deductions."
   - q: "Can I pay the deposit in cash?"
-    a: |
-        Most partners require card-based deposits (credit or debit) for fraud protection. Some partners allow UPI hold; cash deposits are unusual on metropolitan partner inventory. Confirm with the partner at booking.
+    a: "No. The deposit is paid online with your booking through Zymo's payment gateway — not in cash and not to the partner at pickup."
   - q: "What if my card limit is below the deposit amount?"
-    a: |
-        Switch to a card with a higher limit, use a credit card if the deposit was held against a debit card, or pick a partner with a lower deposit on the same car. The deposit amount is visible on the booking page before you confirm.
+    a: "Pay with a different card or payment method, or pick a partner with a lower deposit on the same car. The deposit amount is visible on the booking page before you confirm."
   - q: "Are there no-deposit self-drive bookings?"
-    a: |
-        Yes. Some partners offer no-deposit or low-deposit (₹1,000-2,000) variants on specific cars. Visible on the booking page as a filter option. The no-deposit variant typically carries a slightly higher daily rate.
+    a: "Partners set the deposit amount. Some partners set a low or zero deposit; the amount is shown on the listing. Zymo collects it online with the booking, holds it, and refunds it after the trip."
 ---
 

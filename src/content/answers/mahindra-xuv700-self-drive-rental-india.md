@@ -14,11 +14,11 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Mahindra XUV700 is a premium 5 or 7-seat large SUV available in select Zymo partner locations. Price: ₹3,500-5,500 per day. 2.0L turbo petrol (197 PS) or 2.2L diesel (185 PS). Features ADAS (adaptive cruise, lane-keep assist, auto-braking), panoramic sunroof, Harman Kardon audio. The strongest powertrain in its class — ideal for long highway trips and mountain drives.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Mahindra XUV700 is a premium 5 or 7-seat large SUV available in select Zymo partner locations. Price: ₹3,500-5,500 per day. 2.0L turbo petrol (200 PS) or 2.2L diesel (185 PS). Features ADAS (adaptive cruise, lane-keep assist, auto-braking) on higher trims, panoramic sunroof, and a Sony 3D sound system. Its powerful engines suit long highway trips and mountain drives.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">XUV700 specs for self-drive rental context</h2><p>Engine options: 2.0L mStallion turbo petrol (197 PS, 380 Nm) or 2.2L mHawk diesel (185 PS, 420 Nm). Fuel economy: petrol 12-14 km/L highway, diesel 14-17 km/L. Boot: 750 litres (5-seater) — largest boot in the class. Wheelbase: 2,750mm. Ground clearance: 200mm — better than Creta and Seltos. ADAS: adaptive cruise control, lane departure warning, automatic emergency braking — works on Indian highways. Best feature for self-drive: highway ADAS (adaptive cruise) dramatically reduces fatigue on 5-7 hour runs.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which routes is an XUV700 best for?</h2><p>Long highway drives (Delhi-Manali, Bangalore-Goa, Hyderabad-Araku): the XUV700's 197/185 PS engine handles loaded climbing better than Creta/Nexon; ADAS on flat NHs reduces driver fatigue significantly. Mountain trips with heavy luggage: 750-litre boot and 200mm clearance make it ideal for families bringing camping gear, ski equipment, or multiple large suitcases. XUV700 buyers considering Extended Test Drive: rent before buying to experience ADAS on your own commute, NVH on your road surfaces, and how the digital instrument cluster feels in your daily use.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">XUV700 self-drive rental price and booking on Zymo</h2><p>Daily rate: ₹3,500-5,500/day (diesel; petrol may differ). Security deposit: ₹15,000-25,000 (refundable). Fuel: diesel at ₹92/L; 400 km highway fuel cost approximately ₹2,165 (diesel). XUV700 availability on Zymo is currently in select metros (Bangalore, Hyderabad, Pune, Mumbai, Delhi) — check availability for your dates on the booking page. Book 1-2 weeks ahead for premium models. Verify the specific variant at pickup — higher trims have ADAS, lower trims do not.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">XUV700 specs for self-drive rental context</h2><p>Engine options: 2.0L mStallion turbo petrol (200 PS, 380 Nm) or 2.2L mHawk diesel (185 PS, 420 Nm). Fuel economy: petrol 12-14 km/L highway, diesel 14-17 km/L. Boot: 451 litres (5-seater), 239 litres (7-seater with all rows up). Wheelbase: 2,750mm. Ground clearance: 200mm — better than Creta and Seltos. ADAS: adaptive cruise control, lane departure warning, automatic emergency braking — works on Indian highways. Best feature for self-drive: highway ADAS (adaptive cruise) dramatically reduces fatigue on 5-7 hour runs.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which routes is an XUV700 best for?</h2><p>Long highway drives (Delhi-Manali, Bangalore-Goa, Hyderabad-Araku): the XUV700's 200/185 PS engine handles loaded climbing better than Creta/Nexon; ADAS on flat NHs reduces driver fatigue significantly. Mountain trips with heavy luggage: 451-litre boot (5-seater) and 200mm clearance make it ideal for families bringing camping gear, ski equipment, or multiple large suitcases. XUV700 buyers considering Extended Test Drive: rent before buying to experience ADAS on your own commute, NVH on your road surfaces, and how the digital instrument cluster feels in your daily use.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">XUV700 self-drive rental price and booking on Zymo</h2><p>Daily rate: ₹3,500-5,500/day (diesel; petrol may differ). Security deposit: set by the partner and shown on the listing, typically towards the top of the ₹3,000-15,000 range; paid with the booking and refunded by Zymo after the trip. Fuel: diesel at ₹92/L; 400 km highway fuel cost approximately ₹2,165 (diesel). XUV700 availability varies by city — check availability for your dates on the booking page. Book 1-2 weeks ahead for premium models. Verify the specific variant at pickup — higher trims have ADAS, lower trims do not.</p></section>
     
     
     
@@ -26,22 +26,22 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the Mahindra XUV700 available for self-drive rental in India?</dt>
-    <dd>Yes. The Mahindra XUV700 is listed on Zymo in select cities including Bangalore, Mumbai, Delhi, Hyderabad, and Pune. Supply is more limited than Creta or Nexon — check availability early and book in advance.</dd>
+    <dd>Yes, where partners list it. Availability varies by city — check early and book in advance.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does an XUV700 self-drive rental cost?</dt>
-    <dd>₹2,800-4,000/day for the XUV700 on Zymo depending on variant (MX5, AX5, AX7, AX7L) and city. The AX7L with panoramic sunroof commands the highest price.</dd>
+    <dd>₹3,500-5,500/day for the XUV700 on Zymo depending on variant (MX, AX3, AX5, AX7, AX7L) and city. The AX7L with panoramic sunroof commands the highest price.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What makes the XUV700 special for self-drive road trips?</dt>
-    <dd>The XUV700's 2.0L mStallion turbo-petrol (200 PS) or 2.2L mHawk diesel (185 PS) are class-leading engines. The ADAS suite (adaptive cruise control, lane keep assist) reduces fatigue on long drives. 7-seat capacity at a more attainable price than Innova Crysta.</dd>
+    <dd>The XUV700's 2.0L mStallion turbo-petrol (200 PS) or 2.2L mHawk diesel (185 PS) are among the most powerful engines in the class. The ADAS suite (adaptive cruise control, lane keep assist) reduces fatigue on long drives. 7-seat capacity at a more attainable price than Innova Crysta.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the XUV700 suitable for mountain driving?</dt>
-    <dd>Yes — diesel variant is excellent for mountain routes. Delhi-Manali and Bangalore-Coorg are well within its capabilities. The XUV700's ADAS system with terrain management assists on challenging roads.</dd>
+    <dd>Yes — diesel variant is excellent for mountain routes. Delhi-Manali and Bangalore-Coorg are well within its capabilities.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How many people fit in the XUV700?</dt>
-    <dd>The XUV700 seats 5 (AX5 variant) or 7 (AX7 variant). The 7-seat row 3 is tighter than Innova Crysta's but works for short-distance trips or children. Book the AX7 variant for 7-person family trips.</dd>
+    <dd>The XUV700 comes in 5-seat and 7-seat versions. The 7-seat row 3 is tighter than the Innova Crysta's but works for short trips or children. Book a 7-seat version for 7-person family trips.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which road trips suit the Mahindra XUV700?</dt>
-    <dd>The XUV700 is an outstanding highway car: Mumbai-Goa (560 km), Bangalore-Hyderabad (570 km), Delhi-Jaipur-Jodhpur circuit (650 km), Hyderabad-Tirupati (550 km). The diesel variant's torque makes overtaking effortless.</dd>
+    <dd>The XUV700 is an outstanding highway car: Mumbai-Goa (about 560 km), Bangalore-Hyderabad (570 km), Delhi-Jaipur-Jodhpur circuit (about 615 km one way), Hyderabad-Tirupati (550 km). The diesel variant's torque makes overtaking effortless.</dd>
     </dl>
     </section>
     
@@ -72,26 +72,25 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM vehicle production data</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration stats</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "Is the Mahindra XUV700 available for self-drive rental in India?"
-    a: |
-        Yes. The Mahindra XUV700 is listed on Zymo in select cities including Bangalore, Mumbai, Delhi, Hyderabad, and Pune. Supply is more limited than Creta or Nexon — check availability early and book in advance.
+    a: "Yes, where partners list it. Availability varies by city — check early and book in advance."
   - q: "How much does an XUV700 self-drive rental cost?"
-    a: "₹2,800-4,000/day for the XUV700 on Zymo depending on variant (MX5, AX5, AX7, AX7L) and city. The AX7L with panoramic sunroof commands the highest price."
+    a: "₹3,500-5,500/day for the XUV700 on Zymo depending on variant (MX, AX3, AX5, AX7, AX7L) and city. The AX7L with panoramic sunroof commands the highest price."
   - q: "What makes the XUV700 special for self-drive road trips?"
     a: |
-        The XUV700's 2.0L mStallion turbo-petrol (200 PS) or 2.2L mHawk diesel (185 PS) are class-leading engines. The ADAS suite (adaptive cruise control, lane keep assist) reduces fatigue on long drives. 7-seat capacity at a more attainable price than Innova Crysta.
+        The XUV700's 2.0L mStallion turbo-petrol (200 PS) or 2.2L mHawk diesel (185 PS) are among the most powerful engines in the class. The ADAS suite (adaptive cruise control, lane keep assist) reduces fatigue on long drives. 7-seat capacity at a more attainable price than Innova Crysta.
   - q: "Is the XUV700 suitable for mountain driving?"
-    a: "Yes — diesel variant is excellent for mountain routes. Delhi-Manali and Bangalore-Coorg are well within its capabilities. The XUV700's ADAS system with terrain management assists on challenging roads."
+    a: "Yes — diesel variant is excellent for mountain routes. Delhi-Manali and Bangalore-Coorg are well within its capabilities."
   - q: "How many people fit in the XUV700?"
-    a: "The XUV700 seats 5 (AX5 variant) or 7 (AX7 variant). The 7-seat row 3 is tighter than Innova Crysta's but works for short-distance trips or children. Book the AX7 variant for 7-person family trips."
+    a: "The XUV700 comes in 5-seat and 7-seat versions. The 7-seat row 3 is tighter than the Innova Crysta's but works for short trips or children. Book a 7-seat version for 7-person family trips."
   - q: "Which road trips suit the Mahindra XUV700?"
     a: |
-        The XUV700 is an outstanding highway car: Mumbai-Goa (560 km), Bangalore-Hyderabad (570 km), Delhi-Jaipur-Jodhpur circuit (650 km), Hyderabad-Tirupati (550 km). The diesel variant's torque makes overtaking effortless.
+        The XUV700 is an outstanding highway car: Mumbai-Goa (about 560 km), Bangalore-Hyderabad (570 km), Delhi-Jaipur-Jodhpur circuit (about 615 km one way), Hyderabad-Tirupati (550 km). The diesel variant's torque makes overtaking effortless.
 ---
 

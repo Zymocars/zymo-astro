@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "regenerate": "for f in scripts/migrate-*.mjs; do node \"$f\" || exit 1; done"
   },
   "dependencies": {
     "@astrojs/partytown": "^2.1.7",
@@ -29,6 +30,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.5.4",
+    "js-yaml": "^4.1.0",
     "postcss": "^8.5.21",
     "tailwindcss": "^3.4.17"
   }

@@ -14,10 +14,10 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">A 2-day weekend self-drive trip typically costs ₹2,200-6,000 for the car plus fuel and tolls — often cheaper than equivalent train+local cab for a group of 2-4 people. The most popular weekend self-drive bracket is Friday evening pickup to Sunday evening return. From any major Indian city, a 200-400 km radius gives access to a hill station, beach, heritage site, or wildlife reserve.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">A 2-day weekend self-drive trip typically costs ₹2,200-6,000 for the car plus fuel and tolls — often cheaper than equivalent train+local cab for a group of 2-4 people. A common weekend bracket is Friday evening pickup to Sunday evening return. From any major Indian city, a 200-400 km radius gives access to a hill station, beach, heritage site, or wildlife reserve.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Planning a weekend road trip on Zymo</h2><p>Book the car 3-5 days ahead for regular weekends, 1-2 weeks ahead for long weekends (public holiday extensions) — popular models (Creta, Innova, Swift) sell out early. Choose the pickup time: Friday 5-7 PM pickup from a partner near your home gives maximum weekend time. Return: Sunday 7-9 PM (before midnight to stay within 2-day billing). Fuel policy: confirm whether the car must be returned full or at the same level as pickup. Some partners offer unlimited-km weekend brackets.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Top weekend destinations by city with car recommendation</h2><p>From Mumbai: Lonavala (83 km, hatchback), Alibaug (ferry+drive, hatchback), Nashik vineyards (165 km, hatchback), Mahabaleshwar (280 km, SUV for ghat). From Delhi: Agra (250 km Yamuna Expressway, sedan), Jaipur (280 km NH48, sedan), Rishikesh (240 km, hatchback), Mussoorie (290 km, compact SUV). From Bangalore: Mysore (150 km, hatchback), Coorg (250 km, hatchback/SUV), Ooty (295 km, SUV), Hampi (340 km, SUV). From Hyderabad: Warangal (145 km, hatchback), Nagarjunasagar (165 km, hatchback), Srisailam (215 km, hatchback). From Chennai: Mahabalipuram (55 km, hatchback), Pondicherry (155 km, hatchback), Tirupati (135 km, hatchback).</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Planning a weekend road trip on Zymo</h2><p>Book the car 3-5 days ahead for regular weekends, 1-2 weeks ahead for long weekends (public holiday extensions) — popular models (Creta, Innova, Swift) can be booked out early. Choose the pickup time: Friday 5-7 PM pickup from a partner near your home gives maximum weekend time. Return: Sunday evening, 48 hours after pickup, to stay within 2 days of billing. Fuel policy: confirm whether the car must be returned full or at the same level as pickup. Some partners offer unlimited-km weekend brackets.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Top weekend destinations by city with car recommendation</h2><p>From Mumbai: Lonavala (about 85 km, hatchback), Alibaug (ferry+drive, hatchback), Nashik vineyards (165 km, hatchback), Mahabaleshwar (about 220 km, SUV for ghat). From Delhi: Agra (about 230 km via Yamuna Expressway, sedan), Jaipur (280 km NH48, sedan), Rishikesh (240 km, hatchback), Mussoorie (about 250 km, compact SUV). From Bangalore: Mysore (about 145 km, hatchback), Coorg (about 255 km, hatchback/SUV), Ooty (about 295 km, SUV), Hampi (340 km, SUV). From Hyderabad: Warangal (150 km, hatchback), Nagarjunasagar (165 km, hatchback), Srisailam (220 km, hatchback). From Chennai: Mahabalipuram (55 km, hatchback), Pondicherry (about 150 km, hatchback), Tirupati (135 km, hatchback).</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How to maximise the weekend with self-drive</h2><p>Friday departure: leave by 5 PM to reach a 200 km destination by 9-10 PM — avoids Saturday morning traffic from the city. Saturday: full exploration day with the car. Sunday: morning activities, drive back by early afternoon to avoid Sunday evening traffic jam at city limits. Depart destination by 2 PM for a 200 km route; by noon for 300 km+. Pre-booking: book accommodation, activities (safari permits, rafting, cable car), and the car simultaneously — the car anchors the schedule.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Weekend car selection guide</h2><p>2 adults, flat routes: hatchback (Swift, i20) — most fuel-efficient, easiest to park. 2 adults, ghat routes (Ooty, Coorg, Mussoorie): compact SUV (Creta, Nexon) — ground clearance and braking. 4 adults, highway: sedan (Dzire, Verna) or compact SUV — rear comfort for a 4-hour drive matters. 4+ adults, mountain: Innova Crysta or XUV700 — rear space for full group. Group of 5-6: Ertiga (7-seater, affordable) or Innova Crysta (more comfort). Book on Zymo to compare all available models and prices for your specific dates.</p></section>
     
@@ -27,25 +27,25 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What are the best weekend road trips by self-drive from metro cities?</dt>
-    <dd>From Mumbai: Lonavala (83 km), Alibaug (110 km by ferry + 20 km), Kashid Beach (145 km), Igatpuri (130 km). From Bangalore: Coorg (250 km), Ooty (270 km), Hampi (340 km). From Delhi: Agra (205 km), Rishikesh (240 km), Jaipur (280 km).</dd>
+    <dd>From Mumbai: Lonavala (about 85 km), Alibaug (about 95 km by road, or a ferry plus a short drive), Kashid Beach (145 km), Igatpuri (130 km). From Bangalore: Coorg (about 255 km), Ooty (about 295 km), Hampi (340 km). From Delhi: Agra (about 230 km), Rishikesh (240 km), Jaipur (280 km).</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How far should a weekend road trip by self-drive be?</dt>
     <dd>Ideal range: 100-350 km one-way (2-5 hours). Under 100 km: too quick to feel like a trip. Over 350 km one-way: the drive becomes exhausting for a 2-day weekend. The sweet spot is 150-250 km — you arrive refreshed, not tired.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the typical cost of a weekend self-drive trip?</dt>
-    <dd>Typically ₹4,000-10,000 for 2 days: car ₹2,000-4,000 (compact sedan/SUV) + fuel ₹1,000-2,500 (200-400 km round trip) + tolls ₹300-600 + accommodation ₹1,500-4,000. Much cheaper than a similar-distance flight+cab.</dd>
+    <dd>Typically ₹4,700-12,500 for 2 days, plus tolls: car ₹2,200-6,000 (hatchback to SUV) + fuel ₹1,000-2,500 (200-400 km round trip) + accommodation ₹1,500-4,000. Much cheaper than a similar-distance flight+cab.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which car is best for a weekend road trip?</dt>
     <dd>Compact SUV (Creta, Nexon, Seltos) is the most versatile choice — handles ghat roads, 4-5 passengers, and weekend luggage. Hatchback (Swift, i20) for couples wanting lower cost. Innova Crysta for groups of 6+.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Should I book the car on Friday evening or Saturday morning?</dt>
-    <dd>Friday evening pickup is recommended — allows early Saturday morning departure before traffic builds. Book the car for 2 nights (Friday 7 PM to Sunday 8 PM) and cover maximum ground on Day 1.</dd>
+    <dd>Friday evening pickup is recommended — allows early Saturday morning departure before traffic builds. Book the car for 2 nights (Friday 7 PM to Sunday 7 PM) and cover maximum ground on Day 1.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I book a last-minute weekend trip on Zymo?</dt>
-    <dd>Yes. Zymo shows real-time partner availability — many partners have cars available on same-day or next-day notice for weekend trips. Popular routes (Mumbai-Goa, Bangalore-Coorg) book out during long weekends — plan 2+ weeks ahead.</dd>
+    <dd>Yes. Zymo shows live partner availability, and same-day or next-day bookings are often possible. Popular routes (Mumbai-Goa, Bangalore-Coorg) book out during long weekends — plan 2+ weeks ahead.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What should I check before leaving for a weekend self-drive trip?</dt>
-    <dd>Check tyre pressure and fuel level at pickup. Save the partner's phone number. Download offline maps (Google Maps or Maps.me) for the route. Note the car's existing scratches/dents on the Zymo app at pickup. Carry original DL.</dd>
+    <dd>Check tyre pressure and fuel level at pickup. Save the partner's phone number. Download offline maps (Google Maps or Maps.me) for the route. Photograph the car's existing scratches and dents at pickup. Carry original DL.</dd>
     </dl>
     </section>
     
@@ -76,7 +76,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH highway safety data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -84,23 +84,22 @@ bodyHtml: |
 faqs: 
   - q: "What are the best weekend road trips by self-drive from metro cities?"
     a: |
-        From Mumbai: Lonavala (83 km), Alibaug (110 km by ferry + 20 km), Kashid Beach (145 km), Igatpuri (130 km). From Bangalore: Coorg (250 km), Ooty (270 km), Hampi (340 km). From Delhi: Agra (205 km), Rishikesh (240 km), Jaipur (280 km).
+        From Mumbai: Lonavala (about 85 km), Alibaug (about 95 km by road, or a ferry plus a short drive), Kashid Beach (145 km), Igatpuri (130 km). From Bangalore: Coorg (about 255 km), Ooty (about 295 km), Hampi (340 km). From Delhi: Agra (about 230 km), Rishikesh (240 km), Jaipur (280 km).
   - q: "How far should a weekend road trip by self-drive be?"
     a: |
         Ideal range: 100-350 km one-way (2-5 hours). Under 100 km: too quick to feel like a trip. Over 350 km one-way: the drive becomes exhausting for a 2-day weekend. The sweet spot is 150-250 km — you arrive refreshed, not tired.
   - q: "What is the typical cost of a weekend self-drive trip?"
     a: |
-        Typically ₹4,000-10,000 for 2 days: car ₹2,000-4,000 (compact sedan/SUV) + fuel ₹1,000-2,500 (200-400 km round trip) + tolls ₹300-600 + accommodation ₹1,500-4,000. Much cheaper than a similar-distance flight+cab.
+        Typically ₹4,700-12,500 for 2 days, plus tolls: car ₹2,200-6,000 (hatchback to SUV) + fuel ₹1,000-2,500 (200-400 km round trip) + accommodation ₹1,500-4,000. Much cheaper than a similar-distance flight+cab.
   - q: "Which car is best for a weekend road trip?"
     a: |
         Compact SUV (Creta, Nexon, Seltos) is the most versatile choice — handles ghat roads, 4-5 passengers, and weekend luggage. Hatchback (Swift, i20) for couples wanting lower cost. Innova Crysta for groups of 6+.
   - q: "Should I book the car on Friday evening or Saturday morning?"
-    a: "Friday evening pickup is recommended — allows early Saturday morning departure before traffic builds. Book the car for 2 nights (Friday 7 PM to Sunday 8 PM) and cover maximum ground on Day 1."
+    a: "Friday evening pickup is recommended — allows early Saturday morning departure before traffic builds. Book the car for 2 nights (Friday 7 PM to Sunday 7 PM) and cover maximum ground on Day 1."
   - q: "Can I book a last-minute weekend trip on Zymo?"
-    a: |
-        Yes. Zymo shows real-time partner availability — many partners have cars available on same-day or next-day notice for weekend trips. Popular routes (Mumbai-Goa, Bangalore-Coorg) book out during long weekends — plan 2+ weeks ahead.
+    a: "Yes. Zymo shows live partner availability, and same-day or next-day bookings are often possible. Popular routes (Mumbai-Goa, Bangalore-Coorg) book out during long weekends — plan 2+ weeks ahead."
   - q: "What should I check before leaving for a weekend self-drive trip?"
     a: |
-        Check tyre pressure and fuel level at pickup. Save the partner's phone number. Download offline maps (Google Maps or Maps.me) for the route. Note the car's existing scratches/dents on the Zymo app at pickup. Carry original DL.
+        Check tyre pressure and fuel level at pickup. Save the partner's phone number. Download offline maps (Google Maps or Maps.me) for the route. Photograph the car's existing scratches and dents at pickup. Carry original DL.
 ---
 

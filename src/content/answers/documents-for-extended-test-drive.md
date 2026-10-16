@@ -1,7 +1,7 @@
 ---
 slug: "documents-for-extended-test-drive"
 title: "Documents for an Extended Test Drive | Zymo"
-description: "Valid Indian driving licence (full, 1+ year old), government photo ID (Aadhaar preferred), credit or debit card for the refundable security deposit. No dealer paperwork needed."
+description: "Valid Indian driving licence (full, 1+ year old), government photo ID (Aadhaar preferred), online payment of the refundable security deposit. No dealer paperwork needed."
 canonical: "https://zymo.app/answers/documents-for-extended-test-drive"
 h1: "What documents do I need for an Extended Test Drive?"
 publishedDate: "2026-05-21"
@@ -12,7 +12,7 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">What documents do I need for an Extended Test Drive?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">For an Extended Test Drive on Zymo, you need the same documents as a normal self-drive booking — a valid Indian driving licence (full, not learner, at least one year old), a government photo ID (Aadhaar preferred), and a credit or debit card for the refundable security deposit. Aadhaar OTP verification is completed online before pickup. No dealer paperwork or buying-intent proof is required.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">For an Extended Test Drive on Zymo, you need the same documents as a normal self-drive booking — a valid Indian driving licence (full, not learner, at least one year old), and a government photo ID (Aadhaar preferred). The refundable security deposit is paid online with your booking. Aadhaar OTP verification is completed online before pickup. No dealer paperwork or buying-intent proof is required.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The three core documents</h2>
@@ -22,8 +22,8 @@ bodyHtml: |
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">2. Government photo ID</h3>
     <p>Aadhaar is the most widely accepted. Passport, voter ID, and PAN card also work. The ID name must match the booking and the driving licence.</p>
     
-    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">3. Payment card for security deposit</h3>
-    <p>Credit or debit card under the booking name. The deposit is held — not charged — for the rental period, and refunded within 3-5 working days after return. Deposit amounts typically range from ₹3,000 to ₹15,000 depending on car class and partner.</p>
+    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">3. Security deposit (paid online)</h3>
+    <p>The refundable security deposit is paid online with your booking and held by Zymo, not by the partner. Zymo refunds it within 5–7 working days after the trip. Deposit amounts typically range from ₹3,000 to ₹15,000 depending on car class and partner.</p>
     </section>
     
     <section>
@@ -49,7 +49,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do I need for an Extended Test Drive?</dt>
-    <dd>The same documents as a normal Zymo self-drive booking — a valid Indian driving licence (full, not learner, at least one year old), a government photo ID (Aadhaar preferred), and a credit or debit card for the refundable security deposit. There is no separate document requirement for the Extended Test Drive variant.</dd>
+    <dd>The same documents as a normal Zymo self-drive booking — a valid Indian driving licence (full, not learner, at least one year old), and a government photo ID (Aadhaar preferred). The refundable security deposit is paid online with your booking. There is no separate document requirement for the Extended Test Drive variant.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Do I need to prove I am planning to buy a car?</dt>
     <dd>No. The Extended Test Drive is a self-drive booking. You do not need to show dealer paperwork, a loan pre-approval, or any proof of buying intent. Book like any other self-drive trip.</dd>
@@ -80,7 +80,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/extended-test-drive-price-in-india" style="color:#4F7BFF;text-decoration:none">What does an Extended Test Drive cost in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH driving licence rules</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Motor Vehicles Act 1988</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     
@@ -88,7 +88,7 @@ bodyHtml: |
 faqs: 
   - q: "What documents do I need for an Extended Test Drive?"
     a: |
-        The same documents as a normal Zymo self-drive booking — a valid Indian driving licence (full, not learner, at least one year old), a government photo ID (Aadhaar preferred), and a credit or debit card for the refundable security deposit. There is no separate document requirement for the Extended Test Drive variant.
+        The same documents as a normal Zymo self-drive booking — a valid Indian driving licence (full, not learner, at least one year old), and a government photo ID (Aadhaar preferred). The refundable security deposit is paid online with your booking. There is no separate document requirement for the Extended Test Drive variant.
   - q: "Do I need to prove I am planning to buy a car?"
     a: "No. The Extended Test Drive is a self-drive booking. You do not need to show dealer paperwork, a loan pre-approval, or any proof of buying intent. Book like any other self-drive trip."
   - q: "Is Aadhaar OTP verification required?"

@@ -1,24 +1,24 @@
 ---
 slug: "zoomcar-goa-airport"
 title: "ZoomCar Goa Airport Pickup — Dabolim & Mopa Guide | Zymo"
-description: "ZoomCar Goa airport: primarily at Dabolim (GOI). What to know about Mopa, pickup zones, and booking in advance for peak Goa season."
+description: "ZoomCar Goa airport pickup: Dabolim (GOI) and Mopa (GOX), pickup zones, and booking in advance for peak Goa season."
 canonical: "https://zymo.app/zoomcar-goa-airport"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
     
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">ZoomCar Goa Airport Pickup Guide</h1>
-    <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Dabolim (GOI) and Mopa (GOX) — Goa has two airports; ZoomCar primarily at Dabolim</p>
+    <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Dabolim (GOI) and Mopa (GOX) — Goa has two airports</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How does ZoomCar airport pickup work in Goa?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Goa has two airports: Dabolim Airport (GOI) in South Goa, which has been operational for decades, and Mopa Maharaja Sawai Man Singh II Airport (GOX) in North Goa, which opened in 2022. ZoomCar primarily operates at Dabolim (GOI) — the hub zone is shown in your booking confirmation and the ZoomCar app. For Mopa, availability may be limited or growing; confirm your specific pickup location in the ZoomCar app at the time of booking. A self-drive car from either airport is one of the most popular use cases in India — Goa's road network is well-suited for self-drive travel.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Goa has two airports: Dabolim Airport (GOI) in South Goa and Manohar International Airport (GOX) at Mopa in North Goa. Your booking confirmation and the ZoomCar app show the pickup location for your airport — confirm it at the time of booking. Goa's road network is well-suited for self-drive travel.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Dabolim (GOI) vs Mopa (GOX) — what to know</h2>
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
-    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Airport</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Location</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Distance from Panaji</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">ZoomCar availability</th></tr></thead>
+    <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Airport</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Location</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Distance from Panaji</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Dabolim (GOI)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">South Goa, Vasco da Gama</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~30km</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hub zones established</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mopa (GOX)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">North Goa, Pernem</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~50km</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Limited/growing — confirm in app</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Dabolim (GOI)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">South Goa, Vasco da Gama</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~30km</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Mopa (GOX)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">North Goa, Pernem</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">~50km</td></tr>
     </tbody></table></div>
     </section>
     
@@ -38,9 +38,9 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to do if the car is not at the pickup zone</h2>
     <ol>
     <li><strong>Do not leave the zone.</strong> Document your presence before anything else.</li>
-    <li><strong>Use in-app SOS immediately</strong> after waiting 10–15 minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
+    <li><strong>Use in-app SOS immediately</strong> after waiting a few minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
     <li><strong>Document with a timestamped photo</strong> of the empty parking bay — location metadata supports your claim.</li>
-    <li><strong>Request refund or replacement:</strong> car non-availability at pickup entitles you to a full refund if unresolved within 1 hour.</li>
+    <li><strong>Request a refund or replacement:</strong> ask ZoomCar support for a replacement car or a refund in the SOS chat.</li>
     </ol>
     </section>
     
@@ -56,20 +56,20 @@ bodyHtml: |
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0">
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Zymo tip — Goa airport alternatives</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside Zip cars and other partner vehicles for Goa. Goa airport pickups — especially at Dabolim — sell out during peak season (November to February) and long weekends. Book in advance rather than last-minute. Compare ZoomCar and Zip options on Zymo for current availability and pricing before confirming.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside ZIP cars and other partner vehicles for Goa. Peak season (November to February) and long weekends are busy, so book in advance rather than last-minute. Compare options across partners on Zymo for current availability and pricing before confirming.</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently asked questions</h2>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Which Goa airport does ZoomCar serve?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar primarily operates at Dabolim Airport (GOI) in South Goa. Mopa International Airport (GOX) in North Goa opened in 2022 — ZoomCar availability at Mopa may be limited or growing. Confirm the pickup location in the ZoomCar app for your specific booking. Zymo search shows what is available for your arrival airport and dates.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Goa has Dabolim Airport (GOI) in South Goa and Manohar International Airport (GOX) at Mopa in North Goa. Confirm the pickup location in the ZoomCar app for your specific booking. Zymo search shows what is available for your arrival airport and dates.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Is ZoomCar good for Goa road trips?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">A ZoomCar at Goa airport is one of the most popular use cases in India — pick up at Dabolim and drive directly to North Goa beaches (45km), South Goa (15km), Dudhsagar Falls (60km), or Hampi (350km). Book in advance; Goa airport pickups sell out during peak season (November–February).</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes — pick up at the airport and drive directly to North Goa beaches (45km), South Goa (15km), Dudhsagar Falls (60km), or Hampi (350km). Book in advance for peak season (November–February).</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Is a self-drive rental or bike rental better for Goa?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Depends on group size and comfort. A self-drive car (ZoomCar or Zip) is better for families, groups of 3+, monsoon travel, and outstation trips. Bikes are cheaper for solo travelers exploring North/South Goa beaches. Zymo shows self-drive car options — compare with what's available for your travel dates.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Depends on group size and comfort. A self-drive car (ZoomCar or ZIP) is better for families, groups of 3+, monsoon travel, and outstation trips. Bikes are cheaper for solo travelers exploring North/South Goa beaches. Zymo shows self-drive car options — compare with what's available for your travel dates.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -86,12 +86,11 @@ bodyHtml: |
 faqs: 
   - q: "Which Goa airport does ZoomCar serve?"
     a: |
-        ZoomCar primarily operates at Dabolim Airport (GOI) in South Goa. Mopa International Airport (GOX) in North Goa opened in 2022 — ZoomCar availability at Mopa may be limited or growing. Confirm the pickup location in the ZoomCar app for your specific booking. Zymo search shows what is available for your arrival airport and dates.
+        Goa has Dabolim Airport (GOI) in South Goa and Manohar International Airport (GOX) at Mopa in North Goa. Confirm the pickup location in the ZoomCar app for your booking. Zymo search shows what is available for your arrival airport and dates.
   - q: "Is ZoomCar good for Goa road trips?"
-    a: |
-        A ZoomCar at Goa airport is one of the most popular use cases in India — pick up at Dabolim and drive directly to North Goa beaches (45km), South Goa (15km), Dudhsagar Falls (60km), or Hampi (350km). Book in advance; Goa airport pickups sell out during peak season (November–February).
+    a: "Yes — pick up at the airport and drive directly to North Goa beaches, South Goa, Dudhsagar Falls, or Hampi (350km). Book in advance for peak season (November–February)."
   - q: "Is a self-drive rental or bike rental better for Goa?"
     a: |
-        Depends on group size and comfort. A self-drive car (ZoomCar or Zip) is better for families, groups of 3+, monsoon travel, and outstation trips. Bikes are cheaper for solo travelers exploring North/South Goa beaches. Zymo shows self-drive car options — compare with what's available for your travel dates.
+        Depends on group size and comfort. A self-drive car is better for families, groups of 3+, monsoon travel, and outstation trips. Bikes are cheaper for solo travellers exploring North/South Goa beaches. Zymo shows self-drive car options — compare with what's available for your travel dates.
 ---
 

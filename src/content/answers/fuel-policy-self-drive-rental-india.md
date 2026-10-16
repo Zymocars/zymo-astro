@@ -48,8 +48,8 @@ bodyHtml: |
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hatchback (Swift, i20)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">16-20 km/l</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹525-650</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan (City, Verna)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">17-20 km/l</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹525-620</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Compact SUV (Creta, Seltos)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">14-17 km/l</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹620-750</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Full-size SUV (Fortuner, XUV700)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">11-14 km/l (diesel ₹93/L)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹665-845</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">MPV (Innova Crysta)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">12-14 km/l (diesel)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹665-775</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Full-size SUV (Fortuner, XUV700)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">11-14 km/l (diesel ₹92/L)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹655-835</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">MPV (Innova Crysta)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">12-14 km/l (diesel ₹92/L)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹655-765</td></tr>
     </tbody></table>
     <p style="font-size:0.85rem;color:#8A94A6">Real-world mileage varies by driving style, traffic, AC usage, and fuel quality. Budget 15-20% more than the highway figure for mixed driving.</p>
     </section>
@@ -98,7 +98,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle fuel norms</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     

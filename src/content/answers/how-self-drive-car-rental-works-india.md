@@ -12,7 +12,7 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">How does self-drive car rental work in India?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Step-by-step guide to booking, pickup, driving, and return</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India works in five steps: search cars by city and dates, compare options across rental partners, book and pay online, complete identity verification, then pick up the car (or get doorstep delivery). You drive yourself, return at the same point with the same fuel level, and get your security deposit back in 3-5 days.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India works in five steps: search cars by city and dates, compare options across rental partners, book and pay online, complete identity verification, then pick up the car (or get doorstep delivery). You drive yourself, return at the same point with the same fuel level, and get your security deposit back within 5–7 working days after the trip.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The five steps in detail</h2>
@@ -30,7 +30,7 @@ bodyHtml: |
     <p>Complete the Aadhaar OTP verification step (a link sent to your WhatsApp or email). Pick up the car from the partner's hub or designated zone, OR receive it at your address (if doorstep delivery is enabled). Photograph the car at handover, sign the partner's handover form, collect the keys.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Step 5 — Drive and return</h3>
-    <p>Drive normally. Refuel as needed (most partners use full-to-full or same-to-same fuel policies). On return, the partner inspects the car, verifies fuel level, and processes the security deposit refund (typically credited to your original payment method within 3-5 working days).</p>
+    <p>Drive normally. Refuel as needed (most partners use full-to-full or same-to-same fuel policies). On return, the partner inspects the car and verifies the fuel level, and Zymo refunds the security deposit (credited to your original payment method within 5–7 working days after the trip).</p>
     </section>
     
     <section>
@@ -38,11 +38,11 @@ bodyHtml: |
     <table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Duration</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Common use cases</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Pricing notes</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Hourly</strong> (1-12 hrs)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">City errands, day trips, airport runs</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">From ₹45/hour for hatchbacks in metros</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Daily</strong> (1-7 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Weekend trips, short outstation drives, local errands</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Often a 5-15% discount vs equivalent hourly rate</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Weekly</strong> (7-14 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Long road trips, family visits, work assignments</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">10-15% discount vs daily rate</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Monthly</strong> (28-31 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Relocation, long-term work travel, before buying decisions</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">15-25% discount vs daily rate</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Extended Test Drive</strong> (2-7 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Testing a car before purchase</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Standard daily rate; the duration is the differentiator</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Hourly</strong> (1-12 hrs)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">City errands, day trips, airport runs</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">From ₹45/hour for hatchbacks</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Daily</strong> (1-7 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Weekend trips, short outstation drives, local errands</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Usually a lower effective rate than the same hours booked hourly</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Weekly</strong> (7-14 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Long road trips, family visits, work assignments</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Usually a lower per-day rate than daily bookings</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Monthly</strong> (28-31 days)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Relocation, long-term work travel, before buying decisions</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Usually the lowest per-day rate</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><strong>Extended Test Drive</strong> (one day to a month)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Testing a car before purchase</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Standard daily rate; the duration is the differentiator</td></tr>
     </tbody></table>
     </section>
     
@@ -52,33 +52,33 @@ bodyHtml: |
     <li>Vehicle rental for the booked duration</li>
     <li>Mandatory third-party insurance (legal requirement)</li>
     <li>Comprehensive insurance (with deductible) — included by most partners, optional add-on for some</li>
-    <li>Daily kilometre cap (typically 100-300 km/day depending on partner; unlimited on some monthly plans)</li>
+    <li>Daily kilometre cap (typically 100-350 km/day depending on partner; unlimited on some monthly plans)</li>
     </ul>
     <p style="margin-top:1rem"><strong style="color:#FFFFFF">Not included (paid separately):</strong> fuel, tolls, parking fees, traffic fines, extra-km charges beyond the cap, damage waiver upgrade (optional with some partners).</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Beyond rental: the Extended Test Drive use case</h2>
-    <p>One use case that's grown meaningfully on Zymo is booking a car for 2-7 days specifically to evaluate it before buying. A short test drive isn't enough to validate a multi-lakh purchase. Booking the exact model on Zymo for a few days lets you drive it on your real daily routes, test the features that matter to you, and make a buying decision with data instead of dealership pressure. Zymo pioneered this category in India.</p>
+    <p>One use case on Zymo is booking a car for anywhere from one day to a month specifically to evaluate it before buying. A short test drive isn't enough to validate a multi-lakh purchase. Booking the exact model on Zymo for a few days lets you drive it on your real daily routes, test the features that matter to you, and make a buying decision from your own experience of the car.</p>
     </section>
     
     <section id="faq">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I book a self-drive car on Zymo?</dt>
-    <dd>Enter your city and dates on zymo.app. Compare cars from multiple partners side by side — same car, different partners, different prices. Select the option that fits your needs, complete the Aadhaar OTP verification step (via WhatsApp or email link), pay, then pick up the car or get doorstep delivery on the booking date.</dd>
+    <dd>Enter your city and dates on zymo.app. Compare cars from multiple partners side by side — same car, different partners, different prices. Select the option that fits your needs and pay. After booking, complete the Aadhaar OTP verification step (via WhatsApp or email link) before pickup, then pick up the car or get doorstep delivery on the booking date.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What's the minimum and maximum booking duration?</dt>
-    <dd>Most partners allow hourly bookings (minimum 1 hour to 4 hours depending on partner) up to monthly. Weekly and monthly plans typically offer 5-20% discounts vs daily rates. Some partners also offer 2-7 day Extended Test Drive bookings for users evaluating a car purchase.</dd>
+    <dd>Most partners allow hourly bookings (minimum 1 hour to 4 hours depending on partner) up to monthly. Weekly and monthly plans often carry lower per-day rates than daily bookings. Extended Test Drive bookings of one day to a month are available for users evaluating a car purchase.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I get the car delivered to my home?</dt>
     <dd>Doorstep delivery is available with select Zymo partners. Some partners charge a delivery fee, others include it. Hub pickup (collecting the car from a designated partner location) is also available. The booking page shows each partner's pickup model alongside the price.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What's included in the rental price?</dt>
-    <dd>The base price includes vehicle rental, mandatory insurance, and a set kilometre limit per day (typically 100-300 km depending on partner). Fuel, tolls, parking, and any extra-km charges are billed separately. The booking page shows the full fare breakdown before payment.</dd>
+    <dd>The base price includes vehicle rental, mandatory insurance, and a set kilometre limit per day (typically 100-350 km depending on partner). Fuel, tolls, parking, and any extra-km charges are billed separately. The booking page shows the full fare breakdown before payment.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I return the car?</dt>
-    <dd>Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car, checks fuel level, then refunds the security deposit within 3-5 working days.</dd>
+    <dd>Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car and checks the fuel level; Zymo then refunds the security deposit within 5–7 working days after the trip.</dd>
     </dl>
     </section>
     
@@ -109,7 +109,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/cancellation-policy-self-drive-rental" style="color:#4F7BFF;text-decoration:none">What is the cancellation policy for self-drive car rentals?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration norms</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan parivahan portal</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -117,18 +117,18 @@ bodyHtml: |
 faqs: 
   - q: "How do I book a self-drive car on Zymo?"
     a: |
-        Enter your city and dates on zymo.app. Compare cars from multiple partners side by side — same car, different partners, different prices. Select the option that fits your needs, complete the Aadhaar OTP verification step (via WhatsApp or email link), pay, then pick up the car or get doorstep delivery on the booking date.
+        Enter your city and dates on zymo.app. Compare cars from multiple partners side by side — same car, different partners, different prices. Select the option that fits your needs and pay. After booking, complete the Aadhaar OTP verification step (via WhatsApp or email link) before pickup, then pick up the car or get doorstep delivery on the booking date.
   - q: "What's the minimum and maximum booking duration?"
     a: |
-        Most partners allow hourly bookings (minimum 1 hour to 4 hours depending on partner) up to monthly. Weekly and monthly plans typically offer 5-20% discounts vs daily rates. Some partners also offer 2-7 day Extended Test Drive bookings for users evaluating a car purchase.
+        Most partners allow hourly bookings (minimum 1 hour to 4 hours depending on partner) up to monthly. Weekly and monthly plans often carry lower per-day rates than daily bookings. Extended Test Drive bookings of one day to a month are available for users evaluating a car purchase.
   - q: "Can I get the car delivered to my home?"
     a: |
         Doorstep delivery is available with select Zymo partners. Some partners charge a delivery fee, others include it. Hub pickup (collecting the car from a designated partner location) is also available. The booking page shows each partner's pickup model alongside the price.
   - q: "What's included in the rental price?"
     a: |
-        The base price includes vehicle rental, mandatory insurance, and a set kilometre limit per day (typically 100-300 km depending on partner). Fuel, tolls, parking, and any extra-km charges are billed separately. The booking page shows the full fare breakdown before payment.
+        The base price includes vehicle rental, mandatory insurance, and a set kilometre limit per day (typically 100-350 km depending on partner). Fuel, tolls, parking, and any extra-km charges are billed separately. The booking page shows the full fare breakdown before payment.
   - q: "How do I return the car?"
     a: |
-        Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car, checks fuel level, then refunds the security deposit within 3-5 working days.
+        Return at the same pickup point (or the partner's designated drop-off if pre-arranged) with the same fuel level you started with (most partners use a full-to-full or same-to-same fuel policy). The partner inspects the car and checks the fuel level; Zymo then refunds the security deposit within 5–7 working days after the trip.
 ---
 

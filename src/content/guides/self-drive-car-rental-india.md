@@ -13,7 +13,7 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-Drive Car Rental in India: The Complete Guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">By Manish Pratik, Founder of Zymo &middot; Updated May 2026</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India lets you book a car and drive it yourself — no driver, no fixed schedule. Zymo is India's largest self-drive car rental aggregator, comparing prices from multiple rental partners across 60+ cities with 30,000+ cars. Hatchbacks start from Rs.45/hour. Book online, pick up the car, and drive.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India lets you book a car and drive it yourself — no driver, no fixed schedule. Zymo is a self-drive car rental aggregator across 60+ Indian cities, comparing cars from multiple partners. Hatchbacks start from Rs.45/hour. Book online, pick up the car, and drive.</p>
     
     <p>This guide covers everything you need to know: how self-drive rental works in India, what it costs, what documents you need, which cars to choose, and how to book. It draws on observations from real self-drive activity across multiple partners on the Zymo platform.</p>
     
@@ -38,12 +38,11 @@ bodyHtml: |
     
     <p>Unlike traditional cab services or chauffeur-driven rentals, self-drive gives you complete control. You decide when to leave, where to stop, how long to stay. This makes it ideal for road trips, weekend getaways, daily commutes, and — increasingly — for testing a car before buying it.</p>
     
-    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">Industry data:</strong> India's self-drive car rental market was valued at $1.5 billion in 2023 and is projected to grow at 15.4% CAGR through 2030 (Grand View Research). The segment is growing 3x faster than chauffeur-driven rentals.</div>
     </section>
     
     <section id="cost">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How Much Does Self-Drive Car Rental Cost in India?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India costs Rs.45-200/hour depending on the car type and city. Hatchbacks like Maruti Swift start from Rs.45/hour. Sedans like Honda City start from Rs.60/hour. SUVs like Hyundai Creta start from Rs.85/hour. Longer rentals get discounts of 5-20%.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India starts from Rs.45/hour, and the price depends on the car type and city. Hatchbacks like Maruti Swift start from Rs.45/hour. Sedans like Honda City start from Rs.60/hour. SUVs like Hyundai Creta start from Rs.85/hour. Longer rentals often cost less per day.</p>
     
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car Type</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Hourly (from)</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Daily (24hr)</th></tr></thead>
@@ -51,25 +50,21 @@ bodyHtml: |
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hatchback (Swift, i20)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.1,000-1,800</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan (City, Verna)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.60/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.1,800-2,500</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">SUV (Creta, Seltos)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.85/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.2,500-4,000</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">MPV (Ertiga, Innova)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.95/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.81/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.2,200-3,500</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Luxury (Fortuner, BMW)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.180/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.153/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Rs.4,500-8,000</td></tr>
     </tbody></table></div>
     
-    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">Zymo data:</strong> Booking 3+ days in advance saves an average of 10-15% compared to same-day bookings. Duration discounts: 5% off (12-24hrs), 10% off (1-2 days), 15% off (2-4 days), 20% off (4+ days).</div>
-    
-    <p>Prices vary by city, provider, car age, and demand. An aggregator like Zymo compares prices across multiple providers in one search — so you see the lowest available rate without checking each app individually.</p>
+    <p>Prices vary by city, provider, car age, and demand. An aggregator like Zymo compares prices across multiple providers in one search — so you see their prices side by side instead of checking each rental app separately.</p>
     </section>
     
     <section id="documents">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What documents do I need for self-drive car rental in India?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">To book a self-drive car in India, you need a valid driving license (at least 1 year old), a government-issued photo ID (Aadhaar card or passport), and a credit or debit card for the security deposit. The security deposit is fully refundable after the trip.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">To book a self-drive car in India, you need a valid driving license (at least 1 year old), a government-issued photo ID (Aadhaar card or passport), and the refundable security deposit, paid online with your booking. Zymo refunds the deposit within 5–7 working days after the trip.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Checklist</h3>
     <ul>
     <li><strong>Driving license</strong> — original, valid, at least 1 year old. International Driving Permit (IDP) accepted for foreign nationals.</li>
     <li><strong>Government ID</strong> — Aadhaar card, passport, or voter ID. Must match the name on the driving license.</li>
-    <li><strong>Security deposit</strong> — typically Rs.2,000-10,000 depending on car type. Refunded after trip. Some providers offer zero-deposit options for a small convenience fee (Rs.299-500).</li>
-    <li><strong>Age requirement</strong> — depends on the provider: usually 21, some accept 18. Some luxury cars require 25+.</li>
+    <li><strong>Security deposit</strong> — typically ₹3,000–₹15,000 depending on car class; the partner sets the amount, shown on the booking page. Some partners set a low or zero deposit. It is paid online with the booking and held by Zymo; Zymo refunds it within 5–7 working days after the trip.</li>
+    <li><strong>Age requirement</strong> — depends on the provider: usually 21, some accept 18. Premium cars may need a higher age.</li>
     </ul>
     </section>
     
@@ -84,12 +79,12 @@ bodyHtml: |
     <li><strong>Pick up and drive</strong> — Go to the pickup location or get doorstep delivery. Verify the car condition, take photos, and you're off.</li>
     </ol>
     
-    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">Zymo advantage:</strong> Unlike booking directly with one provider, Zymo searches multiple partners simultaneously. The same Hyundai Creta can be Rs.200-500/day cheaper on one partner vs another for the same dates. Zymo charges zero platform fee &mdash; the price you see is the price you pay.</div>
+    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">Zymo advantage:</strong> Unlike booking directly with one provider, Zymo searches multiple partners simultaneously. The same Hyundai Creta can be priced differently on one partner vs another for the same dates. Zymo charges zero platform fee &mdash; the price you see is the price you pay.</div>
     </section>
     
     <section id="compare">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Compare Apps and Providers</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India is split across several apps and direct-rental providers. They differ on city coverage, pricing, deposit policy, and platform fees. Zymo aggregates inventory from multiple of these partners in one search, so you compare prices side by side instead of opening five apps separately.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive car rental in India is split across several apps and direct-rental providers. They differ on city coverage, pricing, deposit policy, and platform fees. Zymo aggregates inventory from multiple of these partners in one search, so you compare prices side by side instead of checking each rental app separately.</p>
     
     <p>If you are picking which app to use for your next booking, these guides break down the differences with real pricing, city availability, and policy comparisons:</p>
     <ul>
@@ -117,19 +112,19 @@ bodyHtml: |
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Extended test drive</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">The car you're considering buying</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">See ETD guide</a></td></tr>
     </tbody></table></div>
     
-    <div style="background:#16222E;border-left:3px solid #7A5CFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-style:italic;font-size:0.9rem"><strong style="color:#7A5CFF">Pro tip:</strong> "Automatic transmission is worth the extra Rs.10-15/hour for city driving — especially in Bangalore and Mumbai traffic. Save manual for highway-only trips." — Based on Zymo rental pattern data.</div>
+    <div style="background:#16222E;border-left:3px solid #7A5CFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-style:italic;font-size:0.9rem"><strong style="color:#7A5CFF">Pro tip:</strong> Automatic transmission is worth its higher rate for city driving — especially in Bangalore and Mumbai traffic. Save manual for highway-only trips.</div>
     </section>
     
     <section id="cities">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">City-by-City Self-Drive Guide</h2>
-    <p>Self-drive car rental is available in 60+ Indian cities. Here are the top cities with the strongest rental inventory:</p>
+    <p>Self-drive car rental is available in 60+ Indian cities. Here are some of them, grouped by type:</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Metro Cities</h3>
     <ul>
     <li><a href="/self-drive-car-rental-in-mumbai" style="color:#4F7BFF;text-decoration:none"><strong>Mumbai</strong></a> — Gateway to Lonavala, Alibaug, Mahabaleshwar.</li>
     <li><a href="/self-drive-car-rental-in-delhi" style="color:#4F7BFF;text-decoration:none"><strong>Delhi NCR</strong></a> — Covers Noida, Gurugram, Ghaziabad. Best for Jaipur, Rishikesh trips.</li>
     <li><a href="/self-drive-car-rental-in-bangalore" style="color:#4F7BFF;text-decoration:none"><strong>Bangalore</strong></a> — Coorg, Mysore, Ooty within reach.</li>
-    <li><a href="/self-drive-car-rental-in-hyderabad" style="color:#4F7BFF;text-decoration:none"><strong>Hyderabad</strong></a> — Easiest ORR in India.</li>
+    <li><a href="/self-drive-car-rental-in-hyderabad" style="color:#4F7BFF;text-decoration:none"><strong>Hyderabad</strong></a> — The Outer Ring Road makes cross-city drives easy.</li>
     <li><a href="/self-drive-car-rental-in-chennai" style="color:#4F7BFF;text-decoration:none"><strong>Chennai</strong></a> — ECR to Pondicherry is a must-drive.</li>
     <li><a href="/self-drive-car-rental-in-pune" style="color:#4F7BFF;text-decoration:none"><strong>Pune</strong></a> — Maharashtra's road trip capital.</li>
     <li><a href="/self-drive-car-rental-in-kolkata" style="color:#4F7BFF;text-decoration:none"><strong>Kolkata</strong></a> — Darjeeling, Digha, Shantiniketan.</li>
@@ -157,11 +152,9 @@ bodyHtml: |
     
     <section id="etd">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Extended Test Drives: Rent Before You Buy</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive (ETD) is a 2-7 day self-drive car rental designed for people who want to experience a car on their real daily routes before making a purchase decision. Zymo pioneered this concept in India. A showroom test drive is short, on a pre-planned route. An ETD lets you live with the car.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">An Extended Test Drive (ETD) is a self-drive car rental of one day to a month, designed for people who want to experience a car on their real daily routes before making a purchase decision. It costs the same as a normal self-drive rental, with no surcharge. A showroom test drive is short, on a pre-planned route. An ETD lets you live with the car.</p>
     
-    <div style="background:#16222E;border-left:3px solid #4F7BFF;padding:12px 16px;margin:1rem 0;border-radius:0 6px 6px 0;font-size:0.9rem"><strong style="color:#4F7BFF">Industry data:</strong> According to J.D. Power, 78% of car buyers say the test drive was the deciding factor in their purchase. According to CDK Global, extended loaner/test drive experiences have an 86% purchase conversion rate — compared to just 20-30% for showroom visits.</div>
-    
-    <p>A meaningful and fast-growing share of Zymo customers already book Extended Test Drives to evaluate cars before buying. The most-popular Extended Test Drive models are Hyundai Creta, Tata Nexon, Mahindra Thar, and Honda City.</p>
+    <p>Any self-drive car on Zymo can be booked as an Extended Test Drive &mdash; for example a Hyundai Creta, Tata Nexon, Mahindra Thar, or Honda City.</p>
     
     <p><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">Read the complete Extended Test Drive guide &rarr;</a></p>
     </section>
@@ -169,7 +162,7 @@ bodyHtml: |
     <section id="tips">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Tips for First-Time Self-Drive Renters</h2>
     <ol>
-    <li><strong>Book 3+ days in advance</strong> — saves 10-15% and guarantees your preferred car.</li>
+    <li><strong>Book early</strong> — popular cars are booked out first on weekends and holidays.</li>
     <li><strong>Take photos at pickup</strong> — document any existing scratches or dents before driving off.</li>
     <li><strong>Check fuel level</strong> — most rentals require you to return with the same fuel level you received.</li>
     <li><strong>Carry your documents</strong> — driving license, Aadhaar, and booking confirmation. Always.</li>
@@ -183,16 +176,16 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently Asked Questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is self-drive car rental safe in India?</dt>
-    <dd>Yes. All rental partners on Zymo are verified. Cars are insured, regularly serviced, and inspected before each trip. Zymo provides 24/7 support through zAI, its AI assistant.</dd>
+    <dd>Yes. Partner cars are reviewed before listing (3–5 working days), and cars are insured. Zymo support is available through Zai, the chatbot in the Zymo app and website, and by email at hello@zymo.app.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What happens if I get into an accident?</dt>
-    <dd>All rental cars come with basic insurance. In case of an accident, contact the rental partner immediately. You may be liable for the deductible amount (typically Rs.5,000-15,000 depending on the car). Third-party insurance is included.</dd>
+    <dd>All rental cars come with basic insurance. In case of an accident, contact the rental partner immediately. You may be liable for the deductible amount, which depends on the car and the partner's policy. Third-party insurance is included.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I take a self-drive car to another state?</dt>
     <dd>Yes, most providers allow interstate travel. Some charge an outstation fee. Check the specific partner's policy before booking — Zymo shows this information on the car listing page.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is Zymo cheaper than booking directly?</dt>
-    <dd>Zymo aggregates prices from multiple rental partners. The same car can be priced differently across providers for the same dates. By comparing in one search, you find the lowest available rate. Zymo charges zero platform fee.</dd>
+    <dd>Zymo aggregates prices from multiple rental partners. The same car can be priced differently across providers for the same dates. By comparing in one search, you see those prices side by side. Zymo charges zero platform fee.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the cancellation policy?</dt>
     <dd>Cancellation policies vary by rental partner. Most offer free cancellation up to 24-48 hours before pickup. Last-minute cancellations may incur a fee. Check the specific policy on the booking page.</dd>
@@ -251,16 +244,15 @@ bodyHtml: |
 faqs: 
   - q: "How much does self-drive car rental cost in India?"
     a: |
-        Self-drive car rental in India starts from Rs.45/hour for hatchbacks. Sedans start from Rs.60/hour, SUVs from Rs.85/hour. Daily rates range from Rs.1,000 for hatchbacks to Rs.4,000+ for SUVs. Prices vary by city, car type, and duration. Longer bookings get discounts of 5-20%.
+        Self-drive car rental in India starts from Rs.45/hour for hatchbacks. Sedans start from Rs.60/hour, SUVs from Rs.85/hour. Daily rates range from Rs.1,000 for hatchbacks to Rs.4,000+ for SUVs. Prices vary by city, car type, and duration. Longer bookings often cost less per day.
   - q: "What documents do I need to book a self-drive car in India?"
     a: |
-        You need a valid driving license (at least 1 year old), a government-issued photo ID (Aadhaar or passport), and a credit or debit card for the security deposit. The deposit is fully refundable after the trip.
+        You need a valid driving license (at least 1 year old), a government-issued photo ID (Aadhaar or passport), and the refundable security deposit, paid online with your booking. Zymo refunds the deposit within 5–7 working days after the trip.
   - q: "Is self-drive car rental safe in India?"
-    a: |
-        Yes. Reputable platforms like Zymo verify all rental partners. Cars are insured, regularly serviced, and inspected. 24/7 roadside support is available. India's self-drive market has grown to $1.5 billion, serving millions of users safely.
+    a: "Yes. On Zymo, partner cars are reviewed before listing (3–5 working days), and cars are insured. Zymo support is available through the Zai chatbot and hello@zymo.app."
   - q: "What is the best self-drive car rental app in India?"
     a: |
-        Zymo is India's largest self-drive car rental aggregator, comparing prices from multiple rental partners across 60+ cities with 30,000+ cars. Other providers include ZoomCar, Revv, MyChoize, Drivezy, and Myles. For a full ranked comparison see /guides/best-self-drive-car-rental-apps-india. An aggregator like Zymo shows all options in one search.
+        Zymo is a self-drive car rental aggregator across 60+ Indian cities, comparing cars from multiple partners. Other providers include ZoomCar, Revv, MyChoize, Drivezy, and Myles. For a full ranked comparison see /guides/best-self-drive-car-rental-apps-india. An aggregator like Zymo shows cars from multiple partners in one search.
   - q: "Can I take a self-drive car on a road trip to another state?"
     a: |
         Yes, most rental partners allow interstate travel. Some charge an outstation fee. Always check the specific partner's policy before booking. Popular interstate routes include Mumbai-Goa, Delhi-Jaipur, and Bangalore-Coorg.
@@ -268,7 +260,7 @@ faqs:
 <!--
 This file was migrated from zymo-backend/functions/seo/guideContent.js
 + zymo-backend/functions/seo/metaConfigs.js by
-scripts/migrate-guide-content.mjs on 2026-10-13T10:01:48.341Z.
+scripts/migrate-guide-content.mjs.
 Do NOT hand-edit the bodyHtml front-matter — the raw HTML is what the
 Astro guide template renders verbatim.
 -->

@@ -15,7 +15,7 @@ bodyHtml: |
     <li><strong>Mandatory insurance:</strong> third-party cover is required by law on every ZoomCar vehicle</li>
     <li><strong>Comprehensive cover:</strong> varies by car and listing — check the specific policy before booking</li>
     <li><strong>Pickup inspection:</strong> photograph the car from all angles and note pre-existing damage on the handover form</li>
-    <li><strong>Emergency support:</strong> ZoomCar provides an in-app SOS and contact number on the booking confirmation</li>
+    <li><strong>Emergency support:</strong> check the ZoomCar app and your booking confirmation for its emergency support options</li>
     </ul>
     
     <section>
@@ -51,7 +51,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently asked questions — ZoomCar safety</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What happens if a ZoomCar breaks down during my trip?</dt>
-    <dd>ZoomCar provides roadside assistance through the in-app support. Coverage area and response time vary by city and route — metros have faster response than remote areas. For long-distance trips, confirm the coverage area before booking.</dd>
+    <dd>Check the ZoomCar app for its roadside-assistance terms. Coverage and response time vary by city and route, so for long-distance trips confirm the coverage area before booking.</dd>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is ZoomCar insurance enough or do I need extra cover?</dt>
     <dd>Third-party insurance is mandatory and covers damage or injury to others. If the listing's comprehensive cover has a high deductible (₹10,000+), consider whether you want an upgrade. The booking page on ZoomCar or on Zymo shows the specific deductible amount before payment.</dd>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is it safe to do a solo road trip with a ZoomCar?</dt>
@@ -72,7 +72,7 @@ faqs:
     a: |
         Yes. ZoomCar is a legitimate self-drive platform operating since 2013. All cars carry mandatory third-party insurance under the Motor Vehicles Act 1988. Verify comprehensive cover details and photograph the car at pickup.
   - q: "What happens if a ZoomCar breaks down during my trip?"
-    a: "ZoomCar provides roadside assistance through the in-app SOS. Coverage area and response time vary by city — metros have faster response than remote areas."
+    a: "Check the ZoomCar app for its roadside-assistance terms. Coverage and response time vary by city and route."
   - q: "Is ZoomCar insurance enough?"
     a: "Third-party cover is mandatory. Comprehensive cover varies by listing — check the specific deductible amount on the booking page before confirming."
 ---

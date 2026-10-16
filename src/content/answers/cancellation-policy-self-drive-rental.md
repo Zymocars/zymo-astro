@@ -30,7 +30,7 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How refunds are processed</h2>
-    <p>Refunds for partner-side cancellations are credited back to your original payment method within 3-5 working days, plus 2-3 days of bank processing depending on your card or UPI provider. Total time from cancellation to money-in-account typically ranges 5-8 days.</p>
+    <p>Refunds for partner-side cancellations are credited back to your original payment method within 5–7 working days.</p>
     <p>For Zymo bookings, the refund flow goes through Cashfree (the payment gateway). Track the status in your Zymo booking history — when the partner approves the cancellation, the refund is initiated automatically.</p>
     </section>
     
@@ -42,7 +42,7 @@ bodyHtml: |
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Shortening or extending bookings</h2>
     <p><strong>Shortening:</strong> Most partners refund the unused days minus a small early-return fee (typically ₹100-500 per day). Long-duration bookings (weekly or monthly) may lose their discount if shortened — you'd be charged at the daily rate for the actual days used. Confirm before agreeing to shorten.</p>
-    <p><strong>Extending:</strong> Most partners accept extensions if requested before the original return time AND the car is available for the extended period. The extra days are charged at the original daily rate. Late returns without extension request typically incur a per-day late fee plus the standard daily rate — usually 50% more than the regular rate.</p>
+    <p><strong>Extending:</strong> Most partners accept extensions if requested before the original return time AND the car is available for the extended period. The extra days are charged at the original daily rate. Late returns without an extension request incur the partner's late-return charge, shown on the booking page before you pay.</p>
     </section>
     
     <section>
@@ -57,7 +57,7 @@ bodyHtml: |
     <dd>Cancellation policies vary by rental partner — Zymo aggregates partners, each setting their own policy. Most partners offer free cancellation up to 24-48 hours before pickup. Cancellations within 24 hours of pickup typically incur a fee. The exact policy is visible on the booking page before payment.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">When will I get my refund?</dt>
-    <dd>Refunds are typically credited to your original payment method within 3-5 working days for partner-side cancellations. Security deposit refunds are processed similarly. Bank processing time may add 2-3 days depending on your card or UPI provider.</dd>
+    <dd>Refunds are typically credited to your original payment method within 5–7 working days for partner-side cancellations. Security deposit refunds are made by Zymo within 5–7 working days after the trip.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What if I'm running late and miss my pickup time?</dt>
     <dd>If you don't arrive within 2 hours of the scheduled pickup time without prior notice, most partners treat the booking as a no-show and forfeit the booking amount. If you anticipate a delay, message the partner via Zymo to extend the pickup window — most accommodate reasonable delays.</dd>
@@ -94,7 +94,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH consumer transport guidelines</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -104,8 +104,7 @@ faqs:
     a: |
         Cancellation policies vary by rental partner — Zymo aggregates partners, each setting their own policy. Most partners offer free cancellation up to 24-48 hours before pickup. Cancellations within 24 hours of pickup typically incur a fee. The exact policy is visible on the booking page before payment.
   - q: "When will I get my refund?"
-    a: |
-        Refunds are typically credited to your original payment method within 3-5 working days for partner-side cancellations. Security deposit refunds are processed similarly. Bank processing time may add 2-3 days depending on your card or UPI provider.
+    a: "Refunds are typically credited to your original payment method within 5–7 working days for partner-side cancellations. Security deposit refunds are made by Zymo within 5–7 working days after the trip."
   - q: "What if I'm running late and miss my pickup time?"
     a: |
         If you don't arrive within 2 hours of the scheduled pickup time without prior notice, most partners treat the booking as a no-show and forfeit the booking amount. If you anticipate a delay, message the partner via Zymo to extend the pickup window — most accommodate reasonable delays.

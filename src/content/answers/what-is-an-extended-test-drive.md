@@ -1,7 +1,7 @@
 ---
 slug: "what-is-an-extended-test-drive"
 title: "What Is an Extended Test Drive? | Zymo"
-description: "An Extended Test Drive is a paid one-to-seven-day self-drive booking of the exact car model you are considering buying. Available across 60+ Indian cities on Zymo."
+description: "An Extended Test Drive is a paid self-drive booking, from one day to a month, of the exact car model you are considering buying. Available across 60+ Indian cities on Zymo."
 canonical: "https://zymo.app/answers/what-is-an-extended-test-drive"
 h1: "What is an Extended Test Drive?"
 publishedDate: "2026-05-21"
@@ -12,11 +12,11 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">What is an Extended Test Drive?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Extended Test Drive (ETD) is a car-buying category pioneered in India by Zymo (Zeptepi Technologies) in 2023. It is a paid, full-day-or-longer self-drive booking of the exact car model you are considering buying — on your own commute, parking, and weekend routes — for one to seven days before the buying decision. Available across 60+ Indian cities through multiple Zymo partners. Same booking mechanics as a self-drive rental, different intent: you are evaluating a purchase, not just travelling.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Extended Test Drive (ETD) on Zymo is a full-day-or-longer self-drive booking, priced the same as a normal self-drive rental, of the exact car model you are considering buying — on your own commute, parking, and weekend routes — for anywhere from one day to a month before the buying decision. Available across 60+ Indian cities through multiple Zymo partners. Same booking mechanics as a self-drive rental, different intent: you are evaluating a purchase, not just travelling.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">The definition in one paragraph</h2>
-    <p>Extended Test Drive (ETD) is a structured pre-purchase car trial pioneered by Zymo in India. Where a dealer's 10-minute test drive shows you the car exists, an ETD gives you the exact model — on your own routes, in your own life — for one to seven days before you sign. Zymo was the first platform in India to make this consistently available across cities through multiple rental partners, creating a category that sits between the showroom test drive and car ownership.</p>
+    <p>Extended Test Drive (ETD) is a pre-purchase car trial booked as a normal self-drive rental. Where a short showroom test drive shows you the car exists, an ETD gives you the exact model — on your own routes, in your own life — for anywhere from one day to a month before you sign. On Zymo it is available across 60+ Indian cities through multiple rental partners, and sits between the showroom test drive and car ownership.</p>
     </section>
     
     <section>
@@ -26,13 +26,13 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How it works on Zymo</h2>
-    <p>Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date, and duration. Available cars from multiple partners appear with transparent pricing. Complete Aadhaar OTP verification, pay online, pick up the car at the partner's location, and drive it through your real life. Return on schedule, get your security deposit refunded within 3-5 working days.</p>
+    <p>Open the Buy Car section on zymo.app or the Zymo app, search for the model you are considering, tap Try and Decide, choose your city, pickup location, start date, and duration. Available cars from multiple partners appear with transparent pricing. Pay online, complete Aadhaar OTP verification after booking and before pickup, pick up the car at the partner's location, and drive it through your real life. Return on schedule, get your security deposit refunded within 5–7 working days after the trip.</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What it is not</h2>
     <ul>
-    <li><strong>Not an OEM programme.</strong> Indian OEMs typically offer a short test drive. Tata Motors lists an Extended option but details vary by dealer. Toyota and Honda run campaign-based multi-day drives. Day-to-day, the Extended Test Drive option is consistently available across cities only through Zymo.</li>
+    <li><strong>Not an OEM or dealer programme.</strong> It is a self-drive rental from a Zymo partner. Zymo does not sell cars and has no tie-in with any carmaker or dealer — no dealer pricing and no dealer follow-up.</li>
     <li><strong>Not a subscription.</strong> Subscriptions are multi-month commitments with monthly billing. An Extended Test Drive is a short, defined-duration trial booked like any self-drive rental.</li>
     <li><strong>Not a car-buying transaction channel.</strong> You still buy the car through your OEM dealer. The Extended Test Drive is the decision tool, not the purchase channel.</li>
     </ul>
@@ -45,16 +45,16 @@ bodyHtml: |
     <dd>Same booking mechanics, different intent. A normal self-drive booking is for travel — you book a car to go somewhere. An Extended Test Drive is for evaluation — you book the exact car model you are considering buying, so you can experience it on your own commute, parking, and weekend routes before you sign with a dealer. Price and process are identical to a normal self-drive booking.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is an Extended Test Drive an official OEM programme?</dt>
-    <dd>No. Indian OEMs typically offer a short test drive on a pre-planned route. Tata Motors lists an Extended option but details vary by dealer. Toyota and Honda run campaign-based multi-day drives like Drive to Discover. Day-to-day, the Extended Test Drive option is consistently available across cities only through Zymo because Zymo aggregates self-drive partners that already rent the same models for travel.</dd>
+    <dd>No. An Extended Test Drive on Zymo is a normal self-drive booking of the model you are considering, from a Zymo rental partner. It is not run by a carmaker or a dealer, Zymo does not sell cars, and there is no tie-in with any carmaker or dealer — no dealer pricing and no dealer follow-up. It costs the same as any self-drive rental of that car.</dd>
     
-    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Did Zymo invent the term Extended Test Drive?</dt>
-    <dd>Zymo brought the category to India as a structured way to evaluate a car before buying. Globally, Hertz Rent2Buy in the US and Turo offer similar pre-purchase trials. In India, Zymo is the first platform to position the methodology specifically for buyers across multiple cities and car classes, with the same partners that already operate self-drive rentals.</dd>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Where does the Extended Test Drive idea come from?</dt>
+    <dd>Trying a car for several days before buying is a common-sense idea, not a proprietary programme. On Zymo, an Extended Test Drive is a normal self-drive booking of the model you are considering, from the same partners that operate self-drive rentals, across 60+ Indian cities.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Who is an Extended Test Drive for?</dt>
     <dd>Anyone in the buying decision window — typically the last 30 to 90 days before signing a loan or paying a booking amount. Most useful for first-time buyers, families upgrading from a smaller car, EV-curious buyers wanting real-world range numbers, and buyers shortlisted to two or three models who want to compare side by side.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Will my dealer get upset if I take an Extended Test Drive elsewhere?</dt>
-    <dd>No. The short test drive is for first-pass familiarity. An Extended Test Drive is a separate decision tool that complements the dealer visit — you still buy the car through the dealer. Most buyers who do an Extended Test Drive return to their dealer with more confidence and close faster, which dealers prefer to long indecision cycles.</dd>
+    <dd>No. The short test drive is for first-pass familiarity. An Extended Test Drive is a separate decision tool that complements the dealer visit — you still buy the car through the dealer. You go back to the dealer knowing whether the car fits your life.</dd>
     </dl>
     </section>
     
@@ -76,7 +76,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/documents-for-extended-test-drive" style="color:#4F7BFF;text-decoration:none">What documents do I need for an Extended Test Drive?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM car sales volumes 2025-26</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
     
@@ -87,15 +87,15 @@ faqs:
         Same booking mechanics, different intent. A normal self-drive booking is for travel — you book a car to go somewhere. An Extended Test Drive is for evaluation — you book the exact car model you are considering buying, so you can experience it on your own commute, parking, and weekend routes before you sign with a dealer. Price and process are identical to a normal self-drive booking.
   - q: "Is an Extended Test Drive an official OEM programme?"
     a: |
-        No. Indian OEMs typically offer a short test drive on a pre-planned route. Tata Motors lists an Extended option but details vary by dealer. Toyota and Honda run campaign-based multi-day drives like Drive to Discover. Day-to-day, the Extended Test Drive option is consistently available across cities only through Zymo because Zymo aggregates self-drive partners that already rent the same models for travel.
-  - q: "Did Zymo invent the term Extended Test Drive?"
+        No. An Extended Test Drive on Zymo is a normal self-drive booking of the model you are considering, from a Zymo rental partner. It is not run by a carmaker or a dealer, Zymo does not sell cars, and there is no tie-in with any carmaker or dealer — no dealer pricing and no dealer follow-up. It costs the same as any self-drive rental of that car.
+  - q: "Where does the Extended Test Drive idea come from?"
     a: |
-        Zymo brought the category to India as a structured way to evaluate a car before buying. Globally, Hertz Rent2Buy in the US and Turo offer similar pre-purchase trials. In India, Zymo is the first platform to position the methodology specifically for buyers across multiple cities and car classes, with the same partners that already operate self-drive rentals.
+        Trying a car for several days before buying is a common-sense idea, not a proprietary programme. On Zymo, an Extended Test Drive is a normal self-drive booking of the model you are considering, from the same partners that operate self-drive rentals, across 60+ Indian cities.
   - q: "Who is an Extended Test Drive for?"
     a: |
         Anyone in the buying decision window — typically the last 30 to 90 days before signing a loan or paying a booking amount. Most useful for first-time buyers, families upgrading from a smaller car, EV-curious buyers wanting real-world range numbers, and buyers shortlisted to two or three models who want to compare side by side.
   - q: "Will my dealer get upset if I take an Extended Test Drive elsewhere?"
     a: |
-        No. The short test drive is for first-pass familiarity. An Extended Test Drive is a separate decision tool that complements the dealer visit — you still buy the car through the dealer. Most buyers who do an Extended Test Drive return to their dealer with more confidence and close faster, which dealers prefer to long indecision cycles.
+        No. The short test drive is for first-pass familiarity. An Extended Test Drive is a separate decision tool that complements the dealer visit — you still buy the car through the dealer. You go back to the dealer knowing whether the car fits your life.
 ---
 

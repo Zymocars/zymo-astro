@@ -17,7 +17,7 @@ bodyHtml: |
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. Outstation self-drive rentals are a core Zymo use case — Mumbai-Goa weekend trips, Delhi-Jaipur road trips, Bangalore-Ooty hill weekends, Chennai-Pondicherry coastal drives. Most partners support outstation use by default; some require you to mention the outstation destination at booking. Inter-state taxes (if applicable) and tolls are paid by you and visible on the booking page or itemised at return.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Permit and tax basics</h2><p>Outstation drives generally don't need additional driver permits beyond a valid Indian driving licence. However, certain inter-state crossings (e.g., entering Karnataka from another state) involve a one-time inter-state tax — visible at toll plazas and paid by you at the booth. Some partners build a fixed inter-state surcharge into the booking; others bill it post-trip.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Outstation distance caps and km policy</h2><p>Outstation bookings typically come with a daily km cap (250-350 km/day for SUVs, 200-300 km/day for hatchbacks). Long road trips (Mumbai-Goa-Mumbai = 1,180 km over 2 days) can exceed the cap; switch to an unlimited-km variant if available, or budget for extra-km charges at ₹6-12 per km. Partners list the km policy on the booking page.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Outstation distance caps and km policy</h2><p>Outstation bookings typically come with a daily km cap (250-350 km/day for SUVs, 200-300 km/day for hatchbacks). Long road trips (Mumbai-Goa-Mumbai = about 1,120 km over 2 days) can exceed the cap; switch to an unlimited-km variant if available, or budget for extra-km charges at ₹6-12 per km. Partners list the km policy on the booking page.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Popular outstation routes on Zymo</h2><p>Use the route-page library at /self-drive-mumbai-to-goa, /self-drive-delhi-to-jaipur, /self-drive-bangalore-to-ooty, /self-drive-chennai-to-pondicherry, /self-drive-cochin-to-munnar — each route page has the cost breakdown, toll math, suggested itinerary, and recommended car class for that specific drive.</p></section>
     
     
@@ -32,7 +32,7 @@ bodyHtml: |
     <dd>No. Inter-state taxes at border crossings are paid by you at the toll/check-post. Some partners build a fixed inter-state surcharge into outstation bookings; the booking page shows this explicitly when applicable.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How far can I drive outstation in one day?</dt>
-    <dd>Within the daily km cap (200-350 km depending on car). Long round trips (Mumbai-Goa-Mumbai = 1,180 km over 2 days) can exceed the cap — pick an unlimited-km variant if available, or budget for extra-km charges.</dd>
+    <dd>Within the daily km cap (typically 100-350 km, depending on the partner and car). Long round trips (Mumbai-Goa-Mumbai = about 1,120 km over 2 days) can exceed the cap — pick an unlimited-km variant if available, or budget for extra-km charges.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is overnight stay outside the booking city allowed?</dt>
     <dd>Yes. Overnight outstation stays are normal on self-drive bookings. The partner does not require daily check-ins or location reports. Keep the car secure at your accommodation and follow the partner's parking-and-handover guidance.</dd>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -83,7 +83,7 @@ faqs:
         No. Inter-state taxes at border crossings are paid by you at the toll/check-post. Some partners build a fixed inter-state surcharge into outstation bookings; the booking page shows this explicitly when applicable.
   - q: "How far can I drive outstation in one day?"
     a: |
-        Within the daily km cap (200-350 km depending on car). Long round trips (Mumbai-Goa-Mumbai = 1,180 km over 2 days) can exceed the cap — pick an unlimited-km variant if available, or budget for extra-km charges.
+        Within the daily km cap (typically 100-350 km, depending on the partner and car). Long round trips (Mumbai-Goa-Mumbai = about 1,120 km over 2 days) can exceed the cap — pick an unlimited-km variant if available, or budget for extra-km charges.
   - q: "Is overnight stay outside the booking city allowed?"
     a: |
         Yes. Overnight outstation stays are normal on self-drive bookings. The partner does not require daily check-ins or location reports. Keep the car secure at your accommodation and follow the partner's parking-and-handover guidance.

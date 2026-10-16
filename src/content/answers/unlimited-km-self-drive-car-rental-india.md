@@ -14,9 +14,9 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Some self-drive partners on Zymo offer unlimited-kilometre bookings, but it is not the default. The standard booking includes a daily kilometre cap (typically 200-300 km per day for hatchbacks, 250-350 km per day for sedans and SUVs), with extra-km charges of ₹6-12 per km if exceeded. Unlimited-km variants are visible on the booking page where available, usually at a higher daily rate.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Some self-drive partners on Zymo offer unlimited-kilometre bookings, but it is not the default. The standard booking includes a daily kilometre cap (typically 100-350 km per day, depending on the partner and car class), with extra-km charges of ₹6-12 per km if exceeded. Unlimited-km variants are visible on the booking page where available, usually at a higher daily rate.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When unlimited km matters</h2><p>On round-trip long road trips — Mumbai-Goa-Mumbai (1,180 km), Delhi-Jaipur-Udaipur-Delhi (~1,000 km), Bangalore-Coorg-Mysore-Bangalore (~600 km) — the daily cap on a standard booking can be exceeded, triggering extra-km charges. Unlimited-km bookings remove that risk and let you take detours without watching the odometer.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When unlimited km matters</h2><p>On round-trip long road trips — Mumbai-Goa-Mumbai (about 1,120 km), Delhi-Jaipur-Udaipur-Delhi (~1,000 km), Bangalore-Coorg-Mysore-Bangalore (~600 km) — the daily cap on a standard booking can be exceeded, triggering extra-km charges. Unlimited-km bookings remove that risk and let you take detours without watching the odometer.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When the standard cap is fine</h2><p>City-only use (a 200 km daily cap rarely exceeded by intra-city driving), short outstation trips (Mumbai-Lonavala, Delhi-Agra, Bangalore-Mysore — all under 300 km one-way), and Extended Test Drive bookings where you are evaluating the car on commute and weekend, not racking up highway miles.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How to confirm the cap on your booking</h2><p>The kilometre policy is visible on the partner's listing on the Zymo booking page before you confirm. Look for the kilometre allowance line under the daily price. If you anticipate exceeding the cap, switch to an unlimited-km variant if offered, or budget for the extra-km charge in your trip cost calculation.</p></section>
     
@@ -26,16 +26,16 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which Zymo partners offer unlimited km?</dt>
-    <dd>Availability varies by partner, car, and city. Filter for unlimited-km variants on the booking page after entering your dates. Tier-1 SUVs (Creta, Seltos, XUV700) and select hatchbacks have unlimited-km options on multiple partners.</dd>
+    <dd>Availability varies by partner, car, and city. Filter for unlimited-km variants on the booking page after entering your dates. Some partners offer unlimited-km options on SUVs such as the Creta, Seltos, and XUV700, and on select hatchbacks.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much more does unlimited km cost?</dt>
-    <dd>Typically 15-25 percent higher daily rate than the standard capped-km variant. For long road trips (Mumbai-Goa-Mumbai, Delhi-Jaipur-Udaipur-Delhi), the unlimited-km premium is recovered after about 600-800 km of driving.</dd>
+    <dd>Unlimited-km variants carry a higher daily rate than the standard capped-km variant; the booking page shows both. For long road trips (Mumbai-Goa-Mumbai, Delhi-Jaipur-Udaipur-Delhi), compare that premium against the extra-km charges on the capped variant.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Does unlimited km apply outstation?</dt>
     <dd>Yes. Unlimited-km variants cover both city and outstation use. Inter-state tolls and any inter-state taxes are still paid by you — unlimited-km removes only the per-km charge, not the toll math.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the standard km cap if I don't pick unlimited?</dt>
-    <dd>Standard caps are typically 200-300 km/day for hatchbacks and 250-350 km/day for sedans/SUVs. Exact cap is visible on the booking page under the daily rate. Extra-km charges of ₹6-12 per km kick in past the cap.</dd>
+    <dd>Standard caps are typically 100-350 km/day, depending on the partner and car class. Exact cap is visible on the booking page under the daily rate. Extra-km charges of ₹6-12 per km kick in past the cap.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I switch to unlimited km mid-booking?</dt>
     <dd>Mid-booking switches are not standard on most partners. Decide pre-pickup based on your planned itinerary — use a route-distance check on /tools/savings-calculator before booking if uncertain.</dd>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI highway network</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -77,15 +77,15 @@ bodyHtml: |
 faqs: 
   - q: "Which Zymo partners offer unlimited km?"
     a: |
-        Availability varies by partner, car, and city. Filter for unlimited-km variants on the booking page after entering your dates. Tier-1 SUVs (Creta, Seltos, XUV700) and select hatchbacks have unlimited-km options on multiple partners.
+        Availability varies by partner, car, and city. Filter for unlimited-km variants on the booking page after entering your dates. Some partners offer unlimited-km options on SUVs such as the Creta, Seltos, and XUV700, and on select hatchbacks.
   - q: "How much more does unlimited km cost?"
     a: |
-        Typically 15-25 percent higher daily rate than the standard capped-km variant. For long road trips (Mumbai-Goa-Mumbai, Delhi-Jaipur-Udaipur-Delhi), the unlimited-km premium is recovered after about 600-800 km of driving.
+        Unlimited-km variants carry a higher daily rate than the standard capped-km variant; the booking page shows both. For long road trips (Mumbai-Goa-Mumbai, Delhi-Jaipur-Udaipur-Delhi), compare that premium against the extra-km charges on the capped variant.
   - q: "Does unlimited km apply outstation?"
     a: "Yes. Unlimited-km variants cover both city and outstation use. Inter-state tolls and any inter-state taxes are still paid by you — unlimited-km removes only the per-km charge, not the toll math."
   - q: "What is the standard km cap if I don't pick unlimited?"
     a: |
-        Standard caps are typically 200-300 km/day for hatchbacks and 250-350 km/day for sedans/SUVs. Exact cap is visible on the booking page under the daily rate. Extra-km charges of ₹6-12 per km kick in past the cap.
+        Standard caps are typically 100-350 km/day, depending on the partner and car class. Exact cap is visible on the booking page under the daily rate. Extra-km charges of ₹6-12 per km kick in past the cap.
   - q: "Can I switch to unlimited km mid-booking?"
     a: "Mid-booking switches are not standard on most partners. Decide pre-pickup based on your planned itinerary — use a route-distance check on /tools/savings-calculator before booking if uncertain."
 ---

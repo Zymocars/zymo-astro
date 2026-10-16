@@ -12,44 +12,44 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-drive car rental in Kochi — complete guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Based on partner policies across the Zymo network</p>
     
-    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app ratings summary">
-    <p style="margin:0 0 0.75rem;line-height:1.3"><span style="color:#FFFFFF;font-size:1.75rem;font-weight:700">1,000+</span> <span style="color:#B3B7C3;font-size:0.95rem">ratings on Google Play and the App Store</span></p>
+    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app store links">
+    <p style="margin:0 0 0.75rem;line-height:1.3;color:#B3B7C3;font-size:0.95rem">See the Zymo app's current rating on Google Play and the App Store</p>
     <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-bottom:0.75rem">
-    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play — 800+ ratings ↗</a>
-    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store — 270+ ratings ↗</a>
+    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play ↗</a>
+    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store ↗</a>
     </div>
     <p style="margin:0 0 0.35rem;font-size:0.85rem;color:#B3B7C3">Serving <strong style="color:#FFFFFF">Kochi</strong> across Ernakulam, Fort Kochi, Marine Drive, Edappally, Kakkanad, Aluva, Tripunithura.</p>
-    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:underline;display:inline-block;padding:0.3rem 0">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
+    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Support: the Zai chatbot in the Zymo app and website, or email <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a>.</p>
     </div>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Kochi is Kerala's largest self-drive rental hub with Zymo partners in Edapally, Kakkanad, Ernakulam South, Marine Drive, and near Kochi International Airport (Nedumbassery). Hatchbacks from ₹1,100/day; compact SUVs from ₹2,200. Kerala routes: Kochi-Munnar (120 km, 3 hrs), Kochi-Thekkady (185 km, 4 hrs), Kochi-Alappuzha (50 km, 1 hr backwater day trip), Kochi-Thrissur (75 km, 1.5 hrs).</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Kochi has Zymo partners in Edapally, Kakkanad, Ernakulam South, Marine Drive, and near Kochi International Airport (Nedumbassery). Hatchbacks from ₹1,200/day; SUVs from ₹2,500. Kerala routes: Kochi-Munnar (about 130 km, 4 hrs), Kochi-Thekkady (185 km, 4 hrs), Kochi-Alappuzha (50 km, 1 hr backwater day trip), Kochi-Thrissur (75 km, 1.5 hrs).</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup areas in Kochi</h2><p>Edapally (NH66 junction) is the most accessible for any Kochi destination — highways radiate from this point to Munnar, Alappuzha, and Thrissur. Kakkanad (IT hub near Infopark) has partners for tech-workforce weekend trips. Ernakulam South and Marine Drive are central for MG Road, Mattancherry, and Fort Kochi visitors. Airport area (Nedumbassery, 25 km from central Kochi): partners allow direct car pickup on arrival for Kerala circuit trips.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for Kerala road trips from Kochi</h2><p>Hatchbacks: ₹1,100-1,400/day. Compact SUV: ₹2,200-2,800/day. 3-day Kochi-Munnar-Thekkady circuit: SUV ₹6,600-8,400 + fuel ₹2,000 (600 km round trip) + Munnar ghat tolls ₹80 + security deposit (refundable). FASTag installed on most Zymo Kochi fleet cars. Note: Kerala ghat roads (Munnar, Wayanad) have sections with no FASTag plazas — carry ₹500 cash for barrier booths.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for Kerala road trips from Kochi</h2><p>Hatchbacks: ₹1,200-1,800/day. SUV: ₹2,500-3,800/day. 3-day Kochi-Munnar-Thekkady circuit: SUV ₹7,500-11,400 + fuel about ₹5,600 (600 km round trip at 11 km/L and ₹103/L) + tolls (paid via FASTag) + security deposit (refundable). FASTag installed on most partner cars on Zymo in Kochi. Note: Kerala ghat roads (Munnar, Wayanad) have sections with no FASTag plazas — carry ₹500 cash for barrier booths.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Kerala driving conditions and tips</h2><p>Kerala roads are narrow compared to northern NHs — most state roads are 2-lane with blind curves in ghat sections. Early morning fog in Munnar (October-February): drive at dawn only after fog lifts on the Rajamala and Mattupetty sections. Night driving in Wayanad and Thekkady is discouraged due to wildlife crossings on forest roads. Kerala's monsoon (June-August) turns ghat roads slippery — drive in low gear on descents and allow double the normal braking distance.</p></section>
     
-    <section style="margin-top:1.75rem"><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What Zymo customers say</h2><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Gautam Menon</strong><span style="color:#FFD700;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Perfect platform to compare rental services, it saves time as well as money. Rewards are good, can be better though.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Zymo User</strong><span style="color:#FFD700;font-size:0.9rem">★★★★☆</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Car was in good condition. The clutch and brake weren't very smooth but manageable for the trip. Overall experience is good and I would use Zymo again.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Vemula Ananya</strong><span style="color:#FFD700;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">I love how easy it is to find a car here. Instead of checking five different apps, Zymo shows everything on one screen. The interface is super clean — you just enter your dates and pick the best deal. I can book a car in under 5 minutes without any of the usual paperwork headaches. Truly a time-saver.</p><span style="font-size:0.75rem;color:#8A94A6">Review from Google Maps &middot; 2026-01-27</span></div></section>
+    <section style="margin-top:1.75rem"><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What Zymo customers say</h2><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Gautam Menon</strong><span style="color:#4F7BFF;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Perfect platform to compare rental services, it saves time as well as money. Rewards are good, can be better though.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Zymo User</strong><span style="color:#4F7BFF;font-size:0.9rem">★★★★☆</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Car was in good condition. The clutch and brake weren't very smooth but manageable for the trip. Overall experience is good and I would use Zymo again.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Vemula Ananya</strong><span style="color:#4F7BFF;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">I love how easy it is to find a car here. Instead of checking five different apps, Zymo shows everything on one screen. The interface is super clean — you just enter your dates and pick the best deal. I can book a car in under 5 minutes without any of the usual paperwork headaches. Truly a time-saver.</p><span style="font-size:0.75rem;color:#8A94A6">Review from Google Maps &middot; 2026-01-27</span></div></section>
     
     <section id="faq">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive a self-drive car from Kochi to Munnar?</dt>
-    <dd>Yes. Kochi to Munnar is 120 km via NH85 and SH17, approximately 3 hours. The ghat section after Adimali has sharp bends — a compact SUV is recommended. Most Zymo Kochi partners allow the Munnar outstation.</dd>
+    <dd>Yes. Kochi to Munnar is about 130 km via NH85, approximately 4 hours. The ghat section after Adimali has sharp bends — a compact SUV is recommended.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does a self-drive car cost in Kochi per day?</dt>
-    <dd>Hatchbacks from ₹1,100-1,400/day. Compact SUVs from ₹2,200. Multi-day bookings for Kerala circuits get better per-day rates.</dd>
+    <dd>Hatchbacks about ₹1,200-1,800/day. SUVs from ₹2,500. Multi-day bookings for Kerala circuits get better per-day rates.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is there self-drive car pickup near Kochi airport?</dt>
     <dd>Yes. Kochi International Airport (Nedumbassery) is 25 km from central Kochi. Zymo has partners in the airport area and in Edapally (the closest major pickup zone). Confirm pickup point at booking.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive from Kochi to Alleppey (Alappuzha) backwaters?</dt>
-    <dd>Yes. Kochi to Alleppey is 50 km on NH66, approximately 1 hour. Leave the car at Alleppey parking and take a houseboat or shikara from the KSRTC boat jetty. Most Zymo Kochi partners allow this outstation.</dd>
+    <dd>Yes. Kochi to Alleppey is 50 km on NH66, approximately 1 hour. Leave the car at Alleppey parking and take a houseboat or shikara from the boat jetty.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Do I need an SUV for Kochi to Munnar?</dt>
     <dd>A compact SUV (Creta, Nexon, Brezza) is recommended for Munnar — the ghat approach narrows significantly above Adimali. Hatchbacks manage in dry season but can struggle on steep, wet bends in monsoon.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive from Kochi to Thekkady (Periyar) in a self-drive car?</dt>
-    <dd>Yes. Kochi to Thekkady is 185 km via NH220, approximately 4 hours. The last 70 km is mountain road. Confirm partner outstation permission and km cap at booking.</dd>
+    <dd>Yes. Kochi to Thekkady is 185 km via Kottayam and Kumily, approximately 4 hours. The last 70 km is mountain road. Confirm partner outstation permission and km cap at booking.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do I need to rent a self-drive car in Kochi?</dt>
     <dd>A valid driving licence (any state) and Aadhaar OTP on Zymo. Kerala does not require a Kerala-issued licence for self-drive.</dd>
@@ -86,26 +86,24 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI kochi highway data</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle stats kochi</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "Can I drive a self-drive car from Kochi to Munnar?"
-    a: |
-        Yes. Kochi to Munnar is 120 km via NH85 and SH17, approximately 3 hours. The ghat section after Adimali has sharp bends — a compact SUV is recommended. Most Zymo Kochi partners allow the Munnar outstation.
+    a: "Yes. Kochi to Munnar is about 130 km via NH85, approximately 4 hours. The ghat section after Adimali has sharp bends — a compact SUV is recommended."
   - q: "How much does a self-drive car cost in Kochi per day?"
-    a: "Hatchbacks from ₹1,100-1,400/day. Compact SUVs from ₹2,200. Multi-day bookings for Kerala circuits get better per-day rates."
+    a: "Hatchbacks about ₹1,200-1,800/day. SUVs from ₹2,500. Multi-day bookings for Kerala circuits get better per-day rates."
   - q: "Is there self-drive car pickup near Kochi airport?"
     a: "Yes. Kochi International Airport (Nedumbassery) is 25 km from central Kochi. Zymo has partners in the airport area and in Edapally (the closest major pickup zone). Confirm pickup point at booking."
   - q: "Can I drive from Kochi to Alleppey (Alappuzha) backwaters?"
-    a: |
-        Yes. Kochi to Alleppey is 50 km on NH66, approximately 1 hour. Leave the car at Alleppey parking and take a houseboat or shikara from the KSRTC boat jetty. Most Zymo Kochi partners allow this outstation.
+    a: "Yes. Kochi to Alleppey is 50 km on NH66, approximately 1 hour. Leave the car at Alleppey parking and take a houseboat or shikara from the boat jetty."
   - q: "Do I need an SUV for Kochi to Munnar?"
     a: "A compact SUV (Creta, Nexon, Brezza) is recommended for Munnar — the ghat approach narrows significantly above Adimali. Hatchbacks manage in dry season but can struggle on steep, wet bends in monsoon."
   - q: "Can I drive from Kochi to Thekkady (Periyar) in a self-drive car?"
-    a: "Yes. Kochi to Thekkady is 185 km via NH220, approximately 4 hours. The last 70 km is mountain road. Confirm partner outstation permission and km cap at booking."
+    a: "Yes. Kochi to Thekkady is 185 km via Kottayam and Kumily, approximately 4 hours. The last 70 km is mountain road. Confirm partner outstation permission and km cap at booking."
   - q: "What documents do I need to rent a self-drive car in Kochi?"
     a: "A valid driving licence (any state) and Aadhaar OTP on Zymo. Kerala does not require a Kerala-issued licence for self-drive."
   - q: "Are self-drive cars available in Kakkanad (Kochi IT hub)?"

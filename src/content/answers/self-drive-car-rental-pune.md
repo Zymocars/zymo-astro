@@ -12,50 +12,50 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Self-drive car rental in Pune — complete guide</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Based on partner policies across the Zymo network</p>
     
-    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app ratings summary">
-    <p style="margin:0 0 0.75rem;line-height:1.3"><span style="color:#FFFFFF;font-size:1.75rem;font-weight:700">1,000+</span> <span style="color:#B3B7C3;font-size:0.95rem">ratings on Google Play and the App Store</span></p>
+    <div style="background:#16222E;border:1px solid #1C2B36;border-radius:8px;padding:1.25rem 1.4rem;margin:0 0 1.5rem" data-speakable="true" role="region" aria-label="Zymo app store links">
+    <p style="margin:0 0 0.75rem;line-height:1.3;color:#B3B7C3;font-size:0.95rem">See the Zymo app's current rating on Google Play and the App Store</p>
     <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-bottom:0.75rem">
-    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play — 800+ ratings ↗</a>
-    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store — 270+ ratings ↗</a>
+    <a href="https://play.google.com/store/apps/details?id=com.letzrent.letzrentnew" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">Google Play ↗</a>
+    <a href="https://apps.apple.com/in/app/zymo-self-drive-car-rental/id1547829759" rel="noopener" style="display:inline-block;border:1px solid #4F7BFF;border-radius:999px;padding:0.4rem 0.8rem;color:#4F7BFF;text-decoration:none;font-size:0.85rem;font-weight:600">App Store ↗</a>
     </div>
     <p style="margin:0 0 0.35rem;font-size:0.85rem;color:#B3B7C3">Serving <strong style="color:#FFFFFF">Pune</strong> across Kothrud, Hinjewadi, Viman Nagar, Koregaon Park, Baner, Aundh, Wakad.</p>
-    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Contact: <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> &middot; <a href="tel:+912269620852" style="color:#4F7BFF;text-decoration:underline;display:inline-block;padding:0.3rem 0">022-6962-0852</a> (Mon-Sat, 10am-7pm IST).</p>
+    <p style="margin:0;font-size:0.85rem;color:#B3B7C3">Support: the Zai chatbot in the Zymo app and website, or email <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a>.</p>
     </div>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune has an active self-drive rental market with Zymo partners across Hinjewadi, Wakad, Baner (IT hub), Kothrud, Koregaon Park, and Viman Nagar near the airport. Hatchbacks from ₹1,100/day; compact SUVs from ₹2,000/day. Popular outstation routes: Pune-Mumbai (149 km, 2.5 hrs on Expressway), Pune-Mahabaleshwar (120 km, 2.5 hrs), Pune-Lonavala (65 km, 1 hr), Pune-Goa (455 km, 8 hrs).</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune has an active self-drive rental market with Zymo partners across Hinjewadi, Wakad, Baner (IT hub), Kothrud, Koregaon Park, and Viman Nagar near the airport. Hatchbacks from ₹1,100/day; SUVs from ₹2,200/day. Popular outstation routes: Pune-Mumbai (about 150 km, 2-2.5 hrs on Expressway), Pune-Mahabaleshwar (120 km, 2.5 hrs), Pune-Lonavala (about 65 km, 1.5 hrs), Pune-Goa (about 430 km, 7-8 hrs).</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup areas and partner locations in Pune</h2><p>Partners in Hinjewadi Phases 1, 2, and 3 are convenient for the IT corridor workforce who want a weekend car without the depot. Baner and Wakad are the dense residential zones with multiple partners within a 5 km radius. Koregaon Park partners suit the central Pune and Kalyani Nagar area. Viman Nagar has partners close to Pune International Airport for arriving travellers. Kothrud and Deccan are well-served for west Pune. Search your area on Zymo for live availability.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for a Pune self-drive trip</h2><p>Hatchbacks (Swift, i20, Altroz): ₹1,100-1,500 per day. Compact SUV (Creta, Seltos, Nexon): ₹2,000-2,600 per day. 2-day Pune-Mahabaleshwar booking: car ₹2,200-4,000 + fuel ₹900 (240 km round trip at petrol prices, June 2026) + tolls ₹160 + security deposit (refundable). Pune-Mumbai Expressway FASTag toll: ₹310 one-way for hatchback. FASTag pre-fitted on most Zymo Pune fleet cars.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Outstation driving from Pune</h2><p>Pune-Lonavala (65 km, 1 hr): quickest hill station from Pune, ideal for a half-day or overnight. Pune-Mahabaleshwar (120 km, 2.5 hrs): most popular long weekend destination — book accommodation well in advance May and December. Pune-Goa (455 km, 7-8 hrs via NH48 + NH66): weekend road trip — departure before 6 AM avoids Satara and Kolhapur traffic. Pune-Mumbai (149 km, 2-2.5 hrs on Expressway): the fastest inter-metro road in India.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup areas and partner locations in Pune</h2><p>Partners in Hinjewadi Phases 1, 2, and 3 are convenient for the IT corridor workforce who want a weekend car without the depot. Baner and Wakad suit the north-west residential areas. Koregaon Park partners suit the central Pune and Kalyani Nagar area. Viman Nagar is close to Pune International Airport for arriving travellers. Kothrud and Deccan suit west Pune. Search your area on Zymo for live availability.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for a Pune self-drive trip</h2><p>Hatchbacks (Swift, i20, Altroz): ₹1,100-1,600 per day. SUV (Creta, Seltos, Nexon): ₹2,200-3,400 per day. 2-day Pune-Mahabaleshwar booking: car ₹2,200-6,800 + fuel ₹1,530-2,226 (240 km round trip, hatchback to SUV) + tolls (paid via FASTag) + security deposit (refundable). Pune-Mumbai Expressway car toll: ₹320 one way for a car (as of October 2026). FASTag pre-fitted on most partner cars on Zymo in Pune.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Outstation driving from Pune</h2><p>Pune-Lonavala (65 km, 1.5 hrs): quickest hill station from Pune, ideal for a half-day or overnight. Pune-Mahabaleshwar (120 km, 2.5 hrs): a popular long weekend destination — book accommodation well in advance May and December. Pune-Goa (about 430 km, 7-8 hrs via NH48 and the Amboli ghat): weekend road trip — departure before 6 AM avoids Satara and Kolhapur traffic. Pune-Mumbai (about 150 km, 2-2.5 hrs on Expressway): a fast expressway drive.</p></section>
     
-    <section style="margin-top:1.75rem"><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What Zymo customers say</h2><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Sai Tours</strong><span style="color:#FFD700;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Perfect alternative to all high charging rental services! Overall seamless booking process.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Rishi Varma</strong><span style="color:#FFD700;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Easy and convenient way to book. Received reward points instantly after the payment. Looking forward to redeem them.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Vemula Ananya</strong><span style="color:#FFD700;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">I love how easy it is to find a car here. Instead of checking five different apps, Zymo shows everything on one screen. The interface is super clean — you just enter your dates and pick the best deal. I can book a car in under 5 minutes without any of the usual paperwork headaches. Truly a time-saver.</p><span style="font-size:0.75rem;color:#8A94A6">Review from Google Maps &middot; 2026-01-27</span></div></section>
+    <section style="margin-top:1.75rem"><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What Zymo customers say</h2><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Sai Tours</strong><span style="color:#4F7BFF;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Perfect alternative to all high charging rental services! Overall seamless booking process.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Rishi Varma</strong><span style="color:#4F7BFF;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">Easy and convenient way to book. Received reward points instantly after the payment. Looking forward to redeem them.</p><span style="font-size:0.75rem;color:#8A94A6">Verified Zymo user</span></div><div style="background:#16222E;border-radius:8px;padding:1rem 1.2rem;margin-bottom:0.75rem"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem"><strong style="color:#FFFFFF;font-size:0.95rem">Vemula Ananya</strong><span style="color:#4F7BFF;font-size:0.9rem">★★★★★</span></div><p style="margin:0 0 0.4rem;font-size:0.9rem;line-height:1.6">I love how easy it is to find a car here. Instead of checking five different apps, Zymo shows everything on one screen. The interface is super clean — you just enter your dates and pick the best deal. I can book a car in under 5 minutes without any of the usual paperwork headaches. Truly a time-saver.</p><span style="font-size:0.75rem;color:#8A94A6">Review from Google Maps &middot; 2026-01-27</span></div></section>
     
     <section id="faq">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
-    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which area in Pune has the most self-drive car rental options?</dt>
-    <dd>Hinjewadi, Baner, and Wakad have the highest partner density in Pune — convenient for the IT corridor. Kothrud and Koregaon Park serve central and east Pune well.</dd>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Where can I pick up a self-drive car in Pune?</dt>
+    <dd>Hinjewadi, Baner, and Wakad are common pickup areas, convenient for the IT corridor. Kothrud and Koregaon Park serve central and east Pune well.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive a self-drive car from Pune to Goa?</dt>
-    <dd>Yes. Pune to Goa is 455 km via NH48 and NH66, approximately 7-8 hours. Most Zymo Pune partners allow the Maharashtra-Goa outstation. An SUV or sedan is recommended for the ghat sections.</dd>
+    <dd>Yes. Pune to Goa is about 430 km via NH48 and the Amboli ghat, approximately 7-8 hours. Confirm at booking that the partner allows the Goa trip. An SUV or sedan is recommended for the ghat sections.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does a self-drive car cost in Pune per day?</dt>
-    <dd>Hatchbacks from ₹1,100-1,500 per day. Compact SUVs from ₹2,000. Multi-day bookings get better per-day rates. Fuel, tolls, and refundable security deposit are separate.</dd>
+    <dd>Hatchbacks about ₹1,100-1,600 per day. SUVs from ₹2,200. Multi-day bookings get better per-day rates. Fuel, tolls, and refundable security deposit are separate.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is there self-drive pickup near Pune airport?</dt>
     <dd>Yes. Select Zymo partners operate in Viman Nagar and near Pune International Airport. Book in advance for airport area availability — it can be limited during peak season.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the toll from Pune to Mumbai on the Expressway?</dt>
-    <dd>₹310 one-way for a standard car via FASTag on the Mumbai-Pune Expressway. FASTag is pre-installed on most Zymo Pune partner cars.</dd>
+    <dd>The Mumbai-Pune Expressway toll is ₹320 one way for a car (as of October 2026), paid via FASTag. FASTag is pre-installed on most Zymo Pune partner cars.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I rent a self-drive car from Pune to Mahabaleshwar?</dt>
-    <dd>Yes. Pune to Mahabaleshwar is 120 km, approximately 2.5 hours. Most Zymo Pune partners allow this outstation. A hatchback handles the route in dry weather; an SUV is more comfortable in monsoon on the ghat approach.</dd>
+    <dd>Yes. Pune to Mahabaleshwar is 120 km, approximately 2.5 hours. A hatchback handles the route in dry weather; an SUV is more comfortable in monsoon on the ghat approach.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Are self-drive cars available in Hinjewadi (Pune IT hub)?</dt>
     <dd>Yes. Zymo has partners across Hinjewadi Phase 1-3, Wakad, and Baner — convenient for the Rajiv Gandhi Infotech Park IT workforce.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do I need to rent a self-drive car in Pune?</dt>
-    <dd>A valid driving licence from any state and Aadhaar for KYC on Zymo. Maharashtra does not require a Maharashtra-issued licence for self-drive. First-time verification takes under 10 minutes in the app.</dd>
+    <dd>A valid driving licence from any state and Aadhaar for KYC on Zymo. Maharashtra does not require a Maharashtra-issued licence for self-drive. First-time verification takes a few minutes in the app.</dd>
     </dl>
     </section>
     
@@ -86,28 +86,27 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI pune highway data</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle stats pune</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
-  - q: "Which area in Pune has the most self-drive car rental options?"
-    a: "Hinjewadi, Baner, and Wakad have the highest partner density in Pune — convenient for the IT corridor. Kothrud and Koregaon Park serve central and east Pune well."
+  - q: "Where can I pick up a self-drive car in Pune?"
+    a: "Hinjewadi, Baner, and Wakad are common pickup areas, convenient for the IT corridor. Kothrud and Koregaon Park serve central and east Pune well."
   - q: "Can I drive a self-drive car from Pune to Goa?"
-    a: "Yes. Pune to Goa is 455 km via NH48 and NH66, approximately 7-8 hours. Most Zymo Pune partners allow the Maharashtra-Goa outstation. An SUV or sedan is recommended for the ghat sections."
+    a: "Yes. Pune to Goa is about 430 km via NH48 and the Amboli ghat, approximately 7-8 hours. Confirm at booking that the partner allows the Goa trip. An SUV or sedan is recommended for the ghat sections."
   - q: "How much does a self-drive car cost in Pune per day?"
-    a: "Hatchbacks from ₹1,100-1,500 per day. Compact SUVs from ₹2,000. Multi-day bookings get better per-day rates. Fuel, tolls, and refundable security deposit are separate."
+    a: "Hatchbacks about ₹1,100-1,600 per day. SUVs from ₹2,200. Multi-day bookings get better per-day rates. Fuel, tolls, and refundable security deposit are separate."
   - q: "Is there self-drive pickup near Pune airport?"
     a: "Yes. Select Zymo partners operate in Viman Nagar and near Pune International Airport. Book in advance for airport area availability — it can be limited during peak season."
   - q: "What is the toll from Pune to Mumbai on the Expressway?"
-    a: "₹310 one-way for a standard car via FASTag on the Mumbai-Pune Expressway. FASTag is pre-installed on most Zymo Pune partner cars."
+    a: "The Mumbai-Pune Expressway toll is ₹320 one way for a car (as of October 2026), paid via FASTag. FASTag is pre-installed on most Zymo Pune partner cars."
   - q: "Can I rent a self-drive car from Pune to Mahabaleshwar?"
-    a: |
-        Yes. Pune to Mahabaleshwar is 120 km, approximately 2.5 hours. Most Zymo Pune partners allow this outstation. A hatchback handles the route in dry weather; an SUV is more comfortable in monsoon on the ghat approach.
+    a: "Yes. Pune to Mahabaleshwar is 120 km, approximately 2.5 hours. A hatchback handles the route in dry weather; an SUV is more comfortable in monsoon on the ghat approach."
   - q: "Are self-drive cars available in Hinjewadi (Pune IT hub)?"
     a: "Yes. Zymo has partners across Hinjewadi Phase 1-3, Wakad, and Baner — convenient for the Rajiv Gandhi Infotech Park IT workforce."
   - q: "What documents do I need to rent a self-drive car in Pune?"
-    a: "A valid driving licence from any state and Aadhaar for KYC on Zymo. Maharashtra does not require a Maharashtra-issued licence for self-drive. First-time verification takes under 10 minutes in the app."
+    a: "A valid driving licence from any state and Aadhaar for KYC on Zymo. Maharashtra does not require a Maharashtra-issued licence for self-drive. First-time verification takes a few minutes in the app."
 ---
 

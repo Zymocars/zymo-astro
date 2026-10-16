@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-hyderabad-airport"
 title: "ZoomCar Hyderabad Airport Pickup — Rajiv Gandhi International Guide | Zymo"
-description: "ZoomCar Hyderabad airport pickup: hub zones at Rajiv Gandhi International (HYD), 30km from Hitech City. Pickup procedure and what to do if the car is not present."
+description: "ZoomCar Hyderabad airport pickup: finding the pickup zone at Rajiv Gandhi International (HYD), 30km from Hitech City. Pickup procedure and what to do if the car is not present."
 canonical: "https://zymo.app/zoomcar-hyderabad-airport"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -37,13 +37,13 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to do if the car is not present</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">If you arrive at the hub zone and the car is not there, wait 10–15 minutes and then use the in-app SOS button immediately. Document the empty zone with a timestamped photograph. ZoomCar's policy for car non-availability at pickup is to provide a replacement car or a full refund. Do not leave the zone before initiating the support contact, as this strengthens your non-availability claim.</p>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">If you booked through Zymo, contact Zymo support simultaneously for faster partner-channel escalation. Zymo's partner relations channel with ZoomCar typically resolves airport non-availability faster than the standard consumer support queue.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">If you arrive at the hub zone and the car is not there, wait a few minutes and then use the in-app SOS button immediately. Document the empty zone with a timestamped photograph. Ask ZoomCar support for a replacement car or a refund. Do not leave the zone before initiating the support contact, as this strengthens your non-availability claim.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">If you booked through Zymo, also email hello@zymo.app with your booking ID and Zymo follows up with the partner.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0">
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Zymo tip — Hyderabad airport alternatives</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo shows ZoomCar airport listings alongside Zip cars and other partner vehicles for Hyderabad. If ZoomCar is unavailable for your specific HYD arrival dates, alternatives appear in the same search — compare across all partners without re-searching. Given HYD's distance (30 km to Hitech City), having a rental car waiting at the airport is considerably more efficient than a cab.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo shows ZoomCar airport listings alongside ZIP cars and other partner vehicles for Hyderabad. If ZoomCar is unavailable for your specific HYD arrival dates, alternatives appear in the same search — compare across multiple partners without re-searching. Given HYD's distance (30 km to Hitech City), having a rental car waiting at the airport is considerably more efficient than a cab.</p>
     </section>
     
     <section>
@@ -53,10 +53,10 @@ bodyHtml: |
     <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rajiv Gandhi International Airport (HYD) is approximately 30km from Hitech City and HITEC City tech corridor, and 25km from Secunderabad. Factor 40–60 minutes from the city center depending on traffic on NH44.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Does ZoomCar have cars at Hyderabad airport?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar has hub zones at HYD Airport. The pickup location is shown in your booking confirmation and the ZoomCar app. Airport pickup is one of ZoomCar's strong use cases in Hyderabad given the distance from the city.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the ZoomCar app for the pickup zone at HYD Airport. The pickup location is shown in your booking confirmation and the ZoomCar app.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">What if ZoomCar has no availability at Hyderabad airport?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Search on Zymo — Zymo shows ZoomCar alongside Zip and other partners for Hyderabad. If ZoomCar is unavailable for your specific dates, Zymo surfaces alternative options in the same search.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Search on Zymo — Zymo shows ZoomCar alongside ZIP and other partners for Hyderabad. If ZoomCar is unavailable for your specific dates, Zymo surfaces alternative options in the same search.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -76,9 +76,8 @@ faqs:
     a: |
         Rajiv Gandhi International Airport (HYD) is approximately 30km from Hitech City and HITEC City tech corridor, and 25km from Secunderabad. Factor 40–60 minutes from the city center depending on traffic on NH44.
   - q: "Does ZoomCar have cars at Hyderabad airport?"
-    a: |
-        ZoomCar has hub zones at HYD Airport. The pickup location is shown in your booking confirmation and the ZoomCar app. Airport pickup is one of ZoomCar's strong use cases in Hyderabad given the distance from the city.
+    a: "Check the ZoomCar app for the pickup zone at HYD Airport. The pickup location is shown in your booking confirmation and the ZoomCar app."
   - q: "What if ZoomCar has no availability at Hyderabad airport?"
-    a: "Search on Zymo — Zymo shows ZoomCar alongside Zip and other partners for Hyderabad. If ZoomCar is unavailable for your specific dates, Zymo surfaces alternative options in the same search."
+    a: "Search on Zymo — Zymo shows ZoomCar alongside ZIP and other partners for Hyderabad. If ZoomCar is unavailable for your dates, other options appear in the same search."
 ---
 

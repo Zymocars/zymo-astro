@@ -18,7 +18,7 @@ bodyHtml: |
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When a one-day booking makes sense</h2><p>Day-trips to nearby attractions (Mumbai-Lonavala, Delhi-Agra, Bangalore-Mysore via the Expressway, Chennai-Mahabalipuram), single-day client meetings in another city, weekend airport-and-back runs with luggage, and Extended Test Drives where the buyer wants a full 24-hour real-world experience with a car they are considering.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Per-day vs per-hour math</h2><p>A one-day booking at ₹1,100 averages ₹46 per hour over 24 hours. Hourly bookings at ₹45/hour are cheaper for trips under 24 hours; the breakeven point is roughly 22-24 hours depending on the partner. Hourly is good for short city errands; full-day is better for any trip that crosses noon-to-noon.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup, drop, and overtime</h2><p>Pickup is at the booked time at the partner's location. Drop is at the same partner location 24 hours later. Returning the car late incurs an hourly overtime charge — typically ₹100-200 per hour above the daily rate. Most partners allow a 30-minute grace window. Returning the car early does not reduce the booked rate.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup, drop, and overtime</h2><p>Pickup is at the booked time at the partner's location. Drop is at the same partner location 24 hours later. Returning the car late incurs the partner's late-return charge, shown on the booking page before you pay; any grace period is set by the partner. Returning the car early does not reduce the booked rate.</p></section>
     
     
     
@@ -26,19 +26,19 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the minimum self-drive booking duration?</dt>
-    <dd>Hourly bookings (typically 4-hour minimum) start from ₹45 per hour on Zymo. Daily bookings are the standard 24-hour duration. For trips under 8-10 hours, hourly is usually cheaper; for trips over 10-12 hours, full-day is the better rate.</dd>
+    <dd>Hourly bookings start from ₹45 per hour on Zymo; the minimum hours vary by partner and show on the listing. Daily bookings are the standard 24-hour duration. For trips under 8-10 hours, hourly is usually cheaper; for trips over 10-12 hours, full-day is the better rate.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Does the 24 hours start at pickup or midnight?</dt>
-    <dd>At pickup. A 10 AM pickup means a 10 AM return the next day. Partners enforce the actual booked start time; return-by time is computed from there with a small grace window (typically 30 minutes).</dd>
+    <dd>At pickup. A 10 AM pickup means a 10 AM return the next day. Partners enforce the actual booked start time; return-by time is computed from there; any grace period is set by the partner.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I do a Delhi-Agra day trip on a one-day booking?</dt>
-    <dd>Yes. Delhi-Agra round-trip is 460 km / about 8-9 hours total including sightseeing. Within the standard 200-300 km daily km cap, you have buffer for sightseeing detours. Yamuna Expressway tolls (₹405 each way) are billed separately.</dd>
+    <dd>Yes. Delhi-Agra is about 230 km each way via the Yamuna Expressway, so about 460 km round trip — check that the booking's daily km cap covers it. Yamuna Expressway tolls are billed separately; check the current rate in your FASTag app.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What's the cheapest one-day self-drive booking?</dt>
-    <dd>Hatchbacks (Swift, i20, WagonR, Tiago) at around ₹1,100-1,500 per day are the cheapest class. Compact-segment partners may offer the absolute lowest rates on quiet midweek days.</dd>
+    <dd>Hatchbacks (Swift, i20, WagonR, Tiago) at around ₹900-1,500 per day, depending on the city, are the cheapest class. Compact-segment partners may offer the absolute lowest rates on quiet midweek days.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I extend a one-day booking by a few hours?</dt>
-    <dd>Yes, subject to partner availability and the next booking on the car. Use in-app extension; additional hours are billed at the partner's hourly overtime rate (typically ₹100-200 per hour above the daily rate).</dd>
+    <dd>Yes, subject to partner availability and the next booking on the car. Use in-app extension; additional hours are billed at the partner's extension rate, shown in the app before you confirm.</dd>
     </dl>
     </section>
     
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -77,16 +77,15 @@ bodyHtml: |
 faqs: 
   - q: "What is the minimum self-drive booking duration?"
     a: |
-        Hourly bookings (typically 4-hour minimum) start from ₹45 per hour on Zymo. Daily bookings are the standard 24-hour duration. For trips under 8-10 hours, hourly is usually cheaper; for trips over 10-12 hours, full-day is the better rate.
+        Hourly bookings start from ₹45 per hour on Zymo; the minimum hours vary by partner and show on the listing. Daily bookings are the standard 24-hour duration. For trips under 8-10 hours, hourly is usually cheaper; for trips over 10-12 hours, full-day is the better rate.
   - q: "Does the 24 hours start at pickup or midnight?"
-    a: "At pickup. A 10 AM pickup means a 10 AM return the next day. Partners enforce the actual booked start time; return-by time is computed from there with a small grace window (typically 30 minutes)."
+    a: "At pickup. A 10 AM pickup means a 10 AM return the next day. Partners enforce the actual booked start time; return-by time is computed from there; any grace period is set by the partner."
   - q: "Can I do a Delhi-Agra day trip on a one-day booking?"
     a: |
-        Yes. Delhi-Agra round-trip is 460 km / about 8-9 hours total including sightseeing. Within the standard 200-300 km daily km cap, you have buffer for sightseeing detours. Yamuna Expressway tolls (₹405 each way) are billed separately.
+        Yes. Delhi-Agra is about 230 km each way via the Yamuna Expressway, so about 460 km round trip — check that the booking's daily km cap covers it. Yamuna Expressway tolls are billed separately; check the current rate in your FASTag app.
   - q: "What's the cheapest one-day self-drive booking?"
-    a: "Hatchbacks (Swift, i20, WagonR, Tiago) at around ₹1,100-1,500 per day are the cheapest class. Compact-segment partners may offer the absolute lowest rates on quiet midweek days."
+    a: "Hatchbacks (Swift, i20, WagonR, Tiago) at around ₹900-1,500 per day, depending on the city, are the cheapest class. Compact-segment partners may offer the absolute lowest rates on quiet midweek days."
   - q: "Can I extend a one-day booking by a few hours?"
-    a: |
-        Yes, subject to partner availability and the next booking on the car. Use in-app extension; additional hours are billed at the partner's hourly overtime rate (typically ₹100-200 per hour above the daily rate).
+    a: "Yes, subject to partner availability and the next booking on the car. Use in-app extension; additional hours are billed at the partner's extension rate, shown in the app before you confirm."
 ---
 
