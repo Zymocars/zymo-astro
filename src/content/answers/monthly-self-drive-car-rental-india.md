@@ -26,7 +26,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is monthly cheaper than a daily booking for 30 days?</dt>
-    <dd>Yes, meaningfully. A 30-day monthly booking works out to about ₹600-800 per day for a hatchback vs ₹1,100-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.</dd>
+    <dd>Yes, meaningfully. A 30-day monthly booking works out to about ₹600-800 per day for a hatchback vs ₹900-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive the monthly rental outstation?</dt>
     <dd>Yes, subject to the partner's outstation policy. Most partners allow outstation use on monthly bookings within the agreed km allowance. Inter-state surcharges and tolls are paid by you. Confirm the outstation policy on the booking page.</dd>
@@ -77,7 +77,7 @@ bodyHtml: |
 faqs: 
   - q: "Is monthly cheaper than a daily booking for 30 days?"
     a: |
-        Yes, meaningfully. A 30-day monthly booking works out to about ₹600-800 per day for a hatchback vs ₹1,100-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.
+        Yes, meaningfully. A 30-day monthly booking works out to about ₹600-800 per day for a hatchback vs ₹900-1,500 per day for the equivalent daily bookings. Monthly is the right tier for any rental need over 25 days.
   - q: "Can I drive the monthly rental outstation?"
     a: |
         Yes, subject to the partner's outstation policy. Most partners allow outstation use on monthly bookings within the agreed km allowance. Inter-state surcharges and tolls are paid by you. Confirm the outstation policy on the booking page.

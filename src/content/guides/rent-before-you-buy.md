@@ -4,7 +4,7 @@ title: "Extended Test Drive: Drive Before You Buy | Zymo"
 description: |
     Drive a car for anywhere from one day to a month before buying. Zymo offers Extended Test Drives at the same price as a normal rental. A short test drive at the showroom is not enough to validate a multi-lakh decision.
 canonical: "https://zymo.app/guides/rent-before-you-buy"
-h1: "Extended Test Drive: Why 30 Minutes Isn't Enough Before Buying a Car"
+h1: "Extended Test Drive: Why a Short Test Drive Isn't Enough Before Buying a Car"
 type: "spoke"
 publishedDate: "2026-03-24"
 modifiedDate: "2026-05-10"

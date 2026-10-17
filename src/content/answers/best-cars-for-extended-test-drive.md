@@ -94,7 +94,7 @@ bodyHtml: |
     
     <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why a Short Test Drive Isn't Enough</a></p>
     
     </article>
 faqs: 

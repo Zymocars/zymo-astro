@@ -35,7 +35,7 @@ bodyHtml: |
     <dd>Depends on your roads and parking. Ground clearance (185-210mm on compact SUVs vs 160-180mm on hatchbacks) matters on broken city roads. But compact SUVs are harder to park in tight slots and have lower city fuel economy. If your parking slot is under 5 metres and your roads are smooth, a sedan or tall hatchback often makes more sense.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I compare two shortlisted cars before buying?</dt>
-    <dd>Drive both on the same route in the same conditions — your commute, your parking slot, your family in the car. Spec sheets and comparison articles compare cars in ideal conditions; your route is not ideal conditions. An Extended Test Drive of 2-3 days on each shortlisted model gives real data that a 30-minute showroom drive cannot.</dd>
+    <dd>Drive both on the same route in the same conditions — your commute, your parking slot, your family in the car. Spec sheets and comparison articles compare cars in ideal conditions; your route is not ideal conditions. An Extended Test Drive of 2-3 days on each shortlisted model gives real data that a showroom drive cannot.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How can I try a car properly before buying it in India?</dt>
     <dd>Book an Extended Test Drive on Zymo for the model you are evaluating. Choose anywhere from one day to a month and drive on your own routes and conditions. This costs around ₹2,200 per day for a compact SUV and gives you real ownership data before committing to a 15-20 lakh purchase.</dd>
@@ -62,7 +62,7 @@ bodyHtml: |
     
     <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why 30 Minutes Isn't Enough</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/rent-before-you-buy" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Extended Test Drive Guide &mdash; Why a Short Test Drive Isn't Enough</a></p>
     
     </article>
 faqs: 
@@ -77,7 +77,7 @@ faqs:
         Depends on your roads and parking. Ground clearance (185-210mm on compact SUVs vs 160-180mm on hatchbacks) matters on broken city roads. But compact SUVs are harder to park in tight slots and have lower city fuel economy. If your parking slot is under 5 metres and your roads are smooth, a sedan or tall hatchback often makes more sense.
   - q: "How do I compare two shortlisted cars before buying?"
     a: |
-        Drive both on the same route in the same conditions — your commute, your parking slot, your family in the car. Spec sheets and comparison articles compare cars in ideal conditions; your route is not ideal conditions. An Extended Test Drive of 2-3 days on each shortlisted model gives real data that a 30-minute showroom drive cannot.
+        Drive both on the same route in the same conditions — your commute, your parking slot, your family in the car. Spec sheets and comparison articles compare cars in ideal conditions; your route is not ideal conditions. An Extended Test Drive of 2-3 days on each shortlisted model gives real data that a showroom drive cannot.
   - q: "How can I try a car properly before buying it in India?"
     a: |
         Book an Extended Test Drive on Zymo for the model you are evaluating. Choose anywhere from one day to a month and drive on your own routes and conditions. This costs around ₹2,200 per day for a compact SUV and gives you real ownership data before committing to a 15-20 lakh purchase.

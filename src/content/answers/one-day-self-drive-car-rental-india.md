@@ -1,7 +1,7 @@
 ---
 slug: "one-day-self-drive-car-rental-india"
 title: "One-Day Self-Drive Car Rental in India | Zymo"
-description: "24-hour bookings from ₹1,100 (hatchback) on Zymo. Hourly from ₹45/hour for trips under 10 hours. Day-trip use cases, overtime charges, grace windows."
+description: "24-hour bookings from ₹900 (hatchback) on Zymo. Hourly from ₹45/hour for trips under 10 hours. Day-trip use cases, overtime charges, grace windows."
 canonical: "https://zymo.app/answers/one-day-self-drive-car-rental-india"
 h1: "Can I book a self-drive car for just one day in India?"
 publishedDate: "2026-05-27"
@@ -14,10 +14,10 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. One-day (24-hour) self-drive bookings on Zymo start from around ₹1,100 for hatchbacks, ₹1,600 for sedans, and ₹2,200 for compact SUVs. The clock starts at pickup and runs for 24 hours; returning early does not reduce the rate. Hourly bookings (from ₹45 per hour) are an alternative for trips under 8-10 hours where a full-day rate isn't justified.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. One-day (24-hour) self-drive bookings on Zymo start from around ₹900 for hatchbacks, ₹1,600 for sedans, and ₹2,200 for compact SUVs. The clock starts at pickup and runs for 24 hours; returning early does not reduce the rate. Hourly bookings (from ₹45 per hour) are an alternative for trips under 8-10 hours where a full-day rate isn't justified.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When a one-day booking makes sense</h2><p>Day-trips to nearby attractions (Mumbai-Lonavala, Delhi-Agra, Bangalore-Mysore via the Expressway, Chennai-Mahabalipuram), single-day client meetings in another city, weekend airport-and-back runs with luggage, and Extended Test Drives where the buyer wants a full 24-hour real-world experience with a car they are considering.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Per-day vs per-hour math</h2><p>A one-day booking at ₹1,100 averages ₹46 per hour over 24 hours. Hourly bookings at ₹45/hour are cheaper for trips under 24 hours; the breakeven point is roughly 22-24 hours depending on the partner. Hourly is good for short city errands; full-day is better for any trip that crosses noon-to-noon.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Per-day vs per-hour math</h2><p>A one-day booking at ₹900 averages about ₹38 per hour over 24 hours. Hourly bookings at ₹45/hour are cheaper for trips under 20 hours; the breakeven point is about 20 hours depending on the partner. Hourly is good for short city errands; full-day is better for any trip that crosses noon-to-noon.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Pickup, drop, and overtime</h2><p>Pickup is at the booked time at the partner's location. Drop is at the same partner location 24 hours later. Returning the car late incurs the partner's late-return charge, shown on the booking page before you pay; any grace period is set by the partner. Returning the car early does not reduce the booked rate.</p></section>
     
     
