@@ -7,6 +7,9 @@
 //
 // Partner blog listing + posts are Firestore-driven and are deferred to
 // Phase 5's nightly refresh workflow.
+//
+// titles/descriptions/canonicals come from backend metaConfigs getters —
+// never hardcoded here, so banned claims and title drift cannot re-enter.
 
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
@@ -25,27 +28,21 @@ const PARTNER_PAGES = [
     fileSlug: 'earn-from-your-car',
     urlSlug: 'earn-from-your-car',
     kind: 'earn',
-    canonical: 'https://zymo.app/earn-from-your-car',
-    title: 'Earn ₹10K–₹40K/mo From Your Car — List with Zymo | Zymo Partner',
-    description: 'Turn your idle car into monthly income. List with Zymo — India\'s largest self-drive car rental aggregator. Owner keeps 75% of every booking. Weekly payouts.',
+    metaGetter: { fn: 'getLandingPageMeta', arg: 'earn-from-your-car' },
     generatorFn: 'generateEarnPageContentHtml',
   },
   {
     fileSlug: 'partner-landing',
     urlSlug: 'partner',
     kind: 'landing',
-    canonical: 'https://zymo.app/partner',
-    title: 'Become a Zymo Partner | List Your Fleet on India\'s Largest Rental Aggregator',
-    description: 'Partner with Zymo — India\'s largest self-drive car rental aggregator across 60+ cities. Get bookings from Zymo\'s customer traffic, keep 75% of every rental. Sign up in minutes.',
+    metaGetter: { fn: 'getPartnerPageMeta', arg: 'landing' },
     generatorFn: 'generatePartnerLandingHtml',
   },
   {
     fileSlug: 'partner-faq',
     urlSlug: 'partner/faq',
     kind: 'faq',
-    canonical: 'https://zymo.app/partner/faq',
-    title: 'Partner FAQs | Zymo Fleet & Owner Partnership Questions',
-    description: 'Frequently asked questions from Zymo partner-fleet owners: onboarding, payouts, insurance, KYC, damage handling, cancellations. Everything you need before signing up.',
+    metaGetter: { fn: 'getPartnerPageMeta', arg: 'faq' },
     generatorFn: 'generatePartnerFAQHtml',
   },
 ];
@@ -76,6 +73,13 @@ async function main() {
       continue;
     }
 
+    const getter = metaConfigs[page.metaGetter.fn];
+    const meta = typeof getter === 'function' ? getter(page.metaGetter.arg) : null;
+    if (!meta || !meta.title || !meta.description) {
+      console.warn(`[skip] ${page.urlSlug} — metaConfigs.${page.metaGetter.fn}(${JSON.stringify(page.metaGetter.arg)}) returned no title/description`);
+      continue;
+    }
+
     // Pull the schema stack from backend based on page kind.
     let schemas = [];
     try {
@@ -94,9 +98,9 @@ async function main() {
     const frontMatter = {
       slug: page.fileSlug,
       kind: page.kind,
-      title: page.title,
-      description: page.description,
-      canonical: page.canonical,
+      title: meta.title,
+      description: meta.description,
+      canonical: meta.canonical,
       bodyHtml,
       schemas,
     };

@@ -1,7 +1,7 @@
 ---
 slug: "how-much-does-self-drive-car-rental-cost-india"
 title: "How Much Does Self-Drive Car Rental Cost in India? | Zymo"
-description: "Hatchback ~₹1,100/day, sedan ~₹1,600/day, compact SUV ~₹2,200/day. From ₹45/hour. What the daily rate includes and what changes the price on Zymo."
+description: "Hatchback ~₹900/day, sedan ~₹1,600/day, compact SUV ~₹2,200/day. From ₹45/hour. What the daily rate includes and what changes the price on Zymo."
 canonical: "https://zymo.app/answers/how-much-does-self-drive-car-rental-cost-india"
 h1: "How much does self-drive car rental cost in India?"
 publishedDate: "2026-05-27"

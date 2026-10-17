@@ -35,7 +35,7 @@ bodyHtml: |
     <dd>For an Indian family of 4, compact SUV wins: better ground clearance for speed bumps and flooded underpasses, bigger boot, more comfortable rear seat for adults on trips. The ground clearance difference — about 165mm hatchback vs 190mm SUV — matters on Indian roads. Hatchback wins only on tight parking and slightly better fuel economy.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What should I test on an extended test drive for a sub-15 lakh car?</dt>
-    <dd>Park it in your actual housing society spot. Drive your commute in morning peak. Sit in the rear seat for 30 minutes on a highway. Test the infotainment with your own phone in direct sunlight. Load the boot with your real luggage. These tests cannot be replicated in a 30-minute showroom drive.</dd>
+    <dd>Park it in your actual housing society spot. Drive your commute in morning peak. Sit in the rear seat for 30 minutes on a highway. Test the infotainment with your own phone in direct sunlight. Load the boot with your real luggage. These tests cannot be replicated in a showroom drive.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which cars under 15 lakh have the best resale value?</dt>
     <dd>Maruti models such as the Baleno and Brezza are known for strong resale, with the Hyundai i20 and Creta close behind. Kia resale can vary more between metros and Tier-2 cities. Tata's resale has improved alongside its safety reputation. Check current used-car prices in your city.</dd>
@@ -86,7 +86,7 @@ faqs:
         For an Indian family of 4, compact SUV wins: better ground clearance for speed bumps and flooded underpasses, bigger boot, more comfortable rear seat for adults on trips. The ground clearance difference — about 165mm hatchback vs 190mm SUV — matters on Indian roads. Hatchback wins only on tight parking and slightly better fuel economy.
   - q: "What should I test on an extended test drive for a sub-15 lakh car?"
     a: |
-        Park it in your actual housing society spot. Drive your commute in morning peak. Sit in the rear seat for 30 minutes on a highway. Test the infotainment with your own phone in direct sunlight. Load the boot with your real luggage. These tests cannot be replicated in a 30-minute showroom drive.
+        Park it in your actual housing society spot. Drive your commute in morning peak. Sit in the rear seat for 30 minutes on a highway. Test the infotainment with your own phone in direct sunlight. Load the boot with your real luggage. These tests cannot be replicated in a showroom drive.
   - q: "Which cars under 15 lakh have the best resale value?"
     a: |
         Maruti models such as the Baleno and Brezza are known for strong resale, with the Hyundai i20 and Creta close behind. Kia resale can vary more between metros and Tier-2 cities. Tata's resale has improved alongside its safety reputation. Check current used-car prices in your city.

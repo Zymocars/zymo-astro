@@ -9,7 +9,7 @@ body: |
     <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Cheap Car Rental in India</h1>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Cheap self-drive car rentals in India start from ₹45/hour for hatchbacks. Daily rates typically range ₹1,100-1,500 for economy cars. Booking 1-2 weeks ahead, choosing weekday pickups, and selecting hatchbacks instead of SUVs are the simplest ways to lower your rental cost. Compare partner prices on Zymo for your dates.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Cheap self-drive car rentals in India start from ₹45/hour for hatchbacks. Daily rates typically range ₹900-1,500 for economy cars. Booking 1-2 weeks ahead, choosing weekday pickups, and selecting hatchbacks instead of SUVs are the simplest ways to lower your rental cost. Compare partner prices on Zymo for your dates.</p>
     
     <p>&ldquo;Cheap&rdquo; rarely means one fixed lowest number — it varies by city, season, day of week, and how far ahead you book. The aggregator model on Zymo surfaces price differences across rental partners for the same car category, so you can pick the price that suits your dates without switching between apps.</p>
     
@@ -29,7 +29,7 @@ body: |
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Car Class</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Hourly From</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Daily Range</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Example Models</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Economy hatchback</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,100-1,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Maruti Swift, Hyundai i20, Tata Tiago</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Economy hatchback</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹45/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹900-1,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Maruti Swift, Hyundai i20, Tata Tiago</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sedan</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹60/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,500-2,500</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Honda City, Hyundai Verna</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">SUV</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹85/hr</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹1,800-2,800</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Hyundai Creta, Kia Seltos, Tata Nexon</td></tr>
     </tbody></table></div>

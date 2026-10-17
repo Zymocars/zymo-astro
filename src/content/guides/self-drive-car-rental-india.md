@@ -176,7 +176,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently Asked Questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is self-drive car rental safe in India?</dt>
-    <dd>Yes. Partner cars are reviewed before listing (3–5 working days), and cars are insured. Zymo support is available through Zai, the chatbot in the Zymo app and website, and by email at hello@zymo.app.</dd>
+    <dd>Yes. Partner cars are reviewed before listing (usually within a few working days), and cars are insured. Zymo support is available through Zai, the chatbot in the Zymo app and website, and by email at hello@zymo.app.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What happens if I get into an accident?</dt>
     <dd>All rental cars come with basic insurance. In case of an accident, contact the rental partner immediately. You may be liable for the deductible amount, which depends on the car and the partner's policy. Third-party insurance is included.</dd>
@@ -249,7 +249,7 @@ faqs:
     a: |
         You need a valid driving license (at least 1 year old), a government-issued photo ID (Aadhaar or passport), and the refundable security deposit, paid online with your booking. Zymo refunds the deposit within 5–7 working days after the trip.
   - q: "Is self-drive car rental safe in India?"
-    a: "Yes. On Zymo, partner cars are reviewed before listing (3–5 working days), and cars are insured. Zymo support is available through the Zai chatbot and hello@zymo.app."
+    a: "Yes. On Zymo, partner cars are reviewed before listing (usually within a few working days), and cars are insured. Zymo support is available through the Zai chatbot and hello@zymo.app."
   - q: "What is the best self-drive car rental app in India?"
     a: |
         Zymo is a self-drive car rental aggregator across 60+ Indian cities, comparing cars from multiple partners. Other providers include ZoomCar, Revv, MyChoize, Drivezy, and Myles. For a full ranked comparison see /guides/best-self-drive-car-rental-apps-india. An aggregator like Zymo shows cars from multiple partners in one search.

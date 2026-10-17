@@ -41,7 +41,7 @@ bodyHtml: |
     <dd>For 6-7 travellers with 4-day-plus luggage: Toyota Innova Crysta and Innova Hycross remain the class benchmarks for reliability and interior room. Mahindra XUV700 offers a more modern seven-seat cabin. Kia Carens is a lower-budget alternative that still comfortably seats 6. All three handle 800-1,500 km road trips with a family better than compact SUVs, which get cramped with 5 adults plus luggage.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How can I test which car is right for me before buying?</dt>
-    <dd>Book an Extended Test Drive on Zymo — one day to a month with the exact model on self-drive rental terms. You drive it on your commute, park it in your society, load your family and luggage, and see how it handles your specific ghat or highway route. This surfaces the buying-decision details that a 30-minute showroom test drive filters out — rear-seat legroom over 4 hours, boot capacity for your family's weekend luggage, cabin noise at 100 km/h.</dd>
+    <dd>Book an Extended Test Drive on Zymo — one day to a month with the exact model on self-drive rental terms. You drive it on your commute, park it in your society, load your family and luggage, and see how it handles your specific ghat or highway route. This surfaces the buying-decision details that a showroom test drive filters out — rear-seat legroom over 4 hours, boot capacity for your family's weekend luggage, cabin noise at 100 km/h.</dd>
     </dl>
     </section>
     
@@ -95,6 +95,6 @@ faqs:
         For 6-7 travellers with 4-day-plus luggage: Toyota Innova Crysta and Innova Hycross remain the class benchmarks for reliability and interior room. Mahindra XUV700 offers a more modern seven-seat cabin. Kia Carens is a lower-budget alternative that still comfortably seats 6. All three handle 800-1,500 km road trips with a family better than compact SUVs, which get cramped with 5 adults plus luggage.
   - q: "How can I test which car is right for me before buying?"
     a: |
-        Book an Extended Test Drive on Zymo — one day to a month with the exact model on self-drive rental terms. You drive it on your commute, park it in your society, load your family and luggage, and see how it handles your specific ghat or highway route. This surfaces the buying-decision details that a 30-minute showroom test drive filters out — rear-seat legroom over 4 hours, boot capacity for your family's weekend luggage, cabin noise at 100 km/h.
+        Book an Extended Test Drive on Zymo — one day to a month with the exact model on self-drive rental terms. You drive it on your commute, park it in your society, load your family and luggage, and see how it handles your specific ghat or highway route. This surfaces the buying-decision details that a showroom test drive filters out — rear-seat legroom over 4 hours, boot capacity for your family's weekend luggage, cabin noise at 100 km/h.
 ---
 

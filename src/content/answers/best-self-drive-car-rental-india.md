@@ -44,7 +44,7 @@ bodyHtml: |
     <dd>A valid driving licence from any state is the primary requirement. Most platforms also require Aadhaar for identity verification. On Zymo, Aadhaar OTP verification is completed online after booking, before pickup; carry your original driving licence at pickup.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is self-drive car rental safe in India?</dt>
-    <dd>Yes, with sensible precautions. On Zymo, a partner's listing goes through approval (3–5 working days) before it goes live. Do a walk-around inspection and photograph existing scratches at pickup — a clear handover form keeps damage liability documented.</dd>
+    <dd>Yes, with sensible precautions. On Zymo, a partner's listing goes through approval (usually within a few working days) before it goes live. Do a walk-around inspection and photograph existing scratches at pickup — a clear handover form keeps damage liability documented.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I rent a self-drive car for just a few hours in India?</dt>
     <dd>Yes. Hourly self-drive is available in many cities; the minimum hours vary by partner and show on the listing. On Zymo, hourly bookings start from ₹45 per hour, with a km cap per hour (extra-km charges apply beyond the cap).</dd>
@@ -104,7 +104,7 @@ faqs:
         A valid driving licence from any state is the primary requirement. Most platforms also require Aadhaar for identity verification. On Zymo, Aadhaar OTP verification is completed online after booking, before pickup; carry your original driving licence at pickup.
   - q: "Is self-drive car rental safe in India?"
     a: |
-        Yes, with sensible precautions. On Zymo, a partner's listing goes through approval (3–5 working days) before it goes live. Do a walk-around inspection and photograph existing scratches at pickup — a clear handover form keeps damage liability documented.
+        Yes, with sensible precautions. On Zymo, a partner's listing goes through approval (usually within a few working days) before it goes live. Do a walk-around inspection and photograph existing scratches at pickup — a clear handover form keeps damage liability documented.
   - q: "Can I rent a self-drive car for just a few hours in India?"
     a: |
         Yes. Hourly self-drive is available in many cities; the minimum hours vary by partner and show on the listing. On Zymo, hourly bookings start from ₹45 per hour, with a km cap per hour (extra-km charges apply beyond the cap).

@@ -16,7 +16,7 @@ bodyHtml: |
     
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">I have watched Indian car buyers make the same mistakes over and over. Running Zymo's extended test drives across 60+ cities gives me a view most automotive commentators do not have: I know what buyers discover on day 3 and day 5 of a real test drive that they completely missed in the showroom.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 1: The 30-minute showroom drive is not enough data</h2><p>A showroom drive is 30 minutes on a fixed route the dealer controls. You drive through familiar lanes, the sales team is watching, and you are never in your own parking lot at 9 PM or stuck in a school-run traffic jam. Five things that often bother buyers about a new car — gear lever ergonomics, infotainment lag, rear seat AC strength, parking visibility, and boot usability — are impossible to evaluate in 30 minutes. The solution: an extended test drive of one day to a month on your actual routes before you sign.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 1: A short showroom drive is not enough data</h2><p>A showroom drive lasts a few minutes on a fixed route the dealer controls. You drive through familiar lanes, the sales team is watching, and you are never in your own parking lot at 9 PM or stuck in a school-run traffic jam. Five things that often bother buyers about a new car — gear lever ergonomics, infotainment lag, rear seat AC strength, parking visibility, and boot usability — are impossible to evaluate on a short drive. The solution: an extended test drive of one day to a month on your actual routes before you sign.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 2: EMI anchoring bias</h2><p>Most Indian car buyers start the conversation with 'what is the EMI?' instead of 'what is the total cost of ownership?' The difference matters enormously. On a ₹12 lakh car (₹2L down, ₹10L financed at 8.5% over 7 years), the EMI is about ₹15,800 and total loan repayment is about ₹13.3 lakh — about ₹15.3 lakh with the down payment. Buyers who anchor on the EMI do not compute that they are paying about ₹15.3 lakh in total for a ₹12 lakh car. Calculate the total on-road cost plus total loan repayment first — that is the real number. Then decide.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Mistake 3: Trusting ARAI mileage figures</h2><p>ARAI certified mileage is irrelevant to the Indian urban driver. The Grand i10 Nios claims 20.7 km/l ARAI; real-world on Mumbai roads is 13-15 km/l. On a 10,000 km/year usage at ₹105/litre, the difference between ARAI and real is about ₹19,000-30,000 in annual fuel costs. Buyers compare ARAI mileage between two cars and make financial decisions on data that does not apply to their actual driving. Use owner forums and YouTube owner reviews from your specific city for real-world numbers.</p></section>
     
@@ -26,7 +26,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the biggest car buying mistake in India?</dt>
-    <dd>Taking a 30-minute showroom test drive and treating it as sufficient data. Showroom drives are designed by the dealer — preset route, salesperson present, car in peak condition. The car's real behaviour on your commute, your parking lot, and your highway shows up by day 3 of an extended drive, not in 30 minutes.</dd>
+    <dd>Taking a showroom test drive and treating it as sufficient data. Showroom drives are designed by the dealer — preset route, salesperson present, car in peak condition. The car's real behaviour on your commute, your parking lot, and your highway shows up by day 3 of an extended drive, not in a short one.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How do I avoid EMI anchoring when buying a car in India?</dt>
     <dd>Calculate the total on-road cost first — ex-showroom + road tax + insurance + accessories. Then compute total loan repayment over your tenure: principal + total interest. That is the real number. On a ₹12 lakh car with ₹10L financed at 8.5% over 7 years, the EMI is about ₹15,800 and total loan repayment is about ₹13.3 lakh. Starting with the EMI and working backwards is how buyers overpay.</dd>
@@ -38,7 +38,7 @@ bodyHtml: |
     <dd>Park in your actual housing society spot — can you reverse in cleanly? Drive your morning commute at peak hour. Sit in the rear seat for 30 minutes. Test the infotainment with your own phone (Apple CarPlay, voice commands) in sunlight where glare shows up. Load the boot with your real luggage. These are the tests showrooms cannot replicate.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How many km should I drive before buying a car in India?</dt>
-    <dd>Minimum 200-300 km on an extended test drive, covering city commute, highway, and your regular routes in both directions. A 30-minute showroom drive gives you roughly 10 km of data on a curated route the dealer controls. That is not enough to make a 7-year financial decision.</dd>
+    <dd>Minimum 200-300 km on an extended test drive, covering city commute, highway, and your regular routes in both directions. A showroom drive gives you roughly 10 km of data on a curated route the dealer controls. That is not enough to make a 7-year financial decision.</dd>
     </dl>
     </section>
     
@@ -77,7 +77,7 @@ bodyHtml: |
 faqs: 
   - q: "What is the biggest car buying mistake in India?"
     a: |
-        Taking a 30-minute showroom test drive and treating it as sufficient data. Showroom drives are designed by the dealer — preset route, salesperson present, car in peak condition. The car's real behaviour on your commute, your parking lot, and your highway shows up by day 3 of an extended drive, not in 30 minutes.
+        Taking a showroom test drive and treating it as sufficient data. Showroom drives are designed by the dealer — preset route, salesperson present, car in peak condition. The car's real behaviour on your commute, your parking lot, and your highway shows up by day 3 of an extended drive, not in a short one.
   - q: "How do I avoid EMI anchoring when buying a car in India?"
     a: |
         Calculate the total on-road cost first — ex-showroom + road tax + insurance + accessories. Then compute total loan repayment over your tenure: principal + total interest. That is the real number. On a ₹12 lakh car with ₹10L financed at 8.5% over 7 years, the EMI is about ₹15,800 and total loan repayment is about ₹13.3 lakh. Starting with the EMI and working backwards is how buyers overpay.
@@ -89,6 +89,6 @@ faqs:
         Park in your actual housing society spot — can you reverse in cleanly? Drive your morning commute at peak hour. Sit in the rear seat for 30 minutes. Test the infotainment with your own phone (Apple CarPlay, voice commands) in sunlight where glare shows up. Load the boot with your real luggage. These are the tests showrooms cannot replicate.
   - q: "How many km should I drive before buying a car in India?"
     a: |
-        Minimum 200-300 km on an extended test drive, covering city commute, highway, and your regular routes in both directions. A 30-minute showroom drive gives you roughly 10 km of data on a curated route the dealer controls. That is not enough to make a 7-year financial decision.
+        Minimum 200-300 km on an extended test drive, covering city commute, highway, and your regular routes in both directions. A showroom drive gives you roughly 10 km of data on a curated route the dealer controls. That is not enough to make a 7-year financial decision.
 ---
 
