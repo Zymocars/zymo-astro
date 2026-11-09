@@ -1,0 +1,89 @@
+name: Weekly SEO regen (Monday)
+
+# Automates the Monday regen that backend's check-astro-parity gate requires.
+# City freshness callouts rotate on the ISO week, so every Monday the
+# freshly generated pages differ from what's committed — without this job,
+# backend CI goes red until a human regenerates by hand (the previous
+# standing ritual: manual `npm run regenerate` + commit by whoever noticed).
+#
+# What it does: checks out this repo + backend main side by side (the layout
+# migrate-*.mjs expects: ../../zymo-backend relative to scripts/), runs the
+# same `npm run regenerate` the parity check runs, and commits + pushes only
+# when the output actually changed. No-op weeks cost one short run.
+#
+# Timing: 01:00 UTC Monday = 06:30 IST — safely inside the new ISO week, so
+# the stamped week is the one that just started (a 00:00-05:30 IST run would
+# still label the old week). Backend CI's parity check then passes all week.
+#
+# Auth: the backend repo is private, so its clone needs BACKEND_READ_TOKEN
+# (a fine-grained PAT with read-only access to Zymocars/zymo-backend, stored
+# as a repo secret in THIS repo). Pushing the result back here uses the
+# built-in GITHUB_TOKEN (contents: write, below). If the backend repo ever
+# goes public, the token step can go back to an anonymous clone.
+#
+# Mid-week generator changes are NOT covered: if backend's functions/seo
+# changes on another day, the parity check goes red and the author runs the
+# manual regen (see zymo-backend/scripts/check-astro-parity.sh). This job
+# only guarantees the calendar-driven Monday rollover.
+
+on:
+  schedule:
+    - cron: '0 1 * * MON'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-regen
+  # default cancel-in-progress: false — overlapping runs queue instead of
+  # clobbering each other's push.
+
+jobs:
+  regen:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout zymo-astro (this repo)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Clone backend main as sibling (migrate scripts expect ../../zymo-backend)
+        env:
+          BACKEND_READ_TOKEN: ${{ secrets.BACKEND_READ_TOKEN }}
+        run: |
+          if [ -z "$BACKEND_READ_TOKEN" ]; then
+            echo "BACKEND_READ_TOKEN is not set. Create a fine-grained PAT (read-only, Zymocars/zymo-backend) and save it as this repo's Actions secret. See the workflow header."
+            exit 1
+          fi
+          git clone --depth 1 --branch main "https://x-access-token:${BACKEND_READ_TOKEN}@github.com/Zymocars/zymo-backend.git" ../zymo-backend
+
+      - name: Install migrate-script deps (js-yaml, isolated from the repo tree)
+        run: |
+          mkdir -p /tmp/regen-deps
+          cd /tmp/regen-deps
+          npm init -y >/dev/null 2>&1
+          npm install --no-audit --no-fund js-yaml@4.1.0
+
+      - name: Regenerate (same command the parity check runs)
+        env:
+          NODE_PATH: /tmp/regen-deps/node_modules
+        run: npm run regenerate
+
+      - name: Commit + push if content changed
+        run: |
+          git add src
+          if git diff --cached --quiet; then
+            echo "No content change — astro is already current."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "seo: regenerate city pages for ISO week $(date +%V) (Monday rollover)"
+          git push
