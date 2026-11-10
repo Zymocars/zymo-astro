@@ -96,6 +96,7 @@ bodyHtml: |
   <li><strong>Analytics and service providers:</strong> Aggregated and anonymised data for platform improvement (Google Analytics, Firebase, Sentry).</li>
   <li><strong>Legal and regulatory authorities:</strong> When required by Applicable Law, court order, or governmental directive.</li>
   <li><strong>Professional advisors:</strong> Lawyers, auditors, and consultants, subject to confidentiality obligations.</li>
+  <li><strong>In-app assistants:</strong> the &ldquo;Zap&rdquo; help assistant in Zymo&rsquo;s apps answers from a fixed, human-written topic bank hosted on Zymo&rsquo;s own servers. Your questions and the account details used to answer them are processed only by Zymo systems and are never sent to any third-party artificial-intelligence service.</li>
   </ul>
   <p>We do NOT sell, trade, or rent your Personal Data to third parties for their marketing purposes.</p>
   </section>
