@@ -519,7 +519,10 @@ const NewRSB = ({ urlcity }: NewRSBProps) => {
   const [headerIndex, setHeaderIndex] = useState(0);
 
   const placesAPILibraries: Libraries = useMemo(() => ["places"] as Libraries, []);
-  const placesAPIKey = import.meta.env.VITE_PLACES_API_KEY || "AIzaSyD_MEGXTOrcX0VUcYC2Uzw7ryAgs9H-vG4";
+  // 2026-11-15 audit: no hardcoded key fallback — a missing env must fail
+  // the prebuild gate (scripts/verify-env.mjs), not silently ship a
+  // scraped production key in source.
+  const placesAPIKey = import.meta.env.VITE_PLACES_API_KEY;
 
   //flag to track if you're initializing from localStorage,  Only true on first render
   const isInitialLoad = useRef(true);

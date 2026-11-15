@@ -10,10 +10,17 @@ import sitemap from '@astrojs/sitemap';
 // interaction-defer for gtag in Base.astro.
 export default defineConfig({
   site: 'https://zymo.app',
-  // Match firebase.json "trailingSlash": false — emit sitemap URLs without
-  // trailing slash so Google isn't chased through a 301 chain from the sitemap.
+  // Match firebase.json trailingSlash false — emit sitemap URLs without
+  // trailing slash so Google isn't chased through a 301 chain.
   trailingSlash: 'never',
   build: { format: 'file' },
+  // 2026-11-15 audit: Astro defaults envPrefix to PUBLIC_ only, so
+  // VITE_PLACES_API_KEY was never inlined into client islands (search
+  // shipped key=undefined; the old hardcoded fallback masked it).
+  // Accept both prefixes so .env VITE_* keys reach the client bundle.
+  vite: {
+    envPrefix: ['PUBLIC_', 'VITE_'],
+  },
   integrations: [
     react(),
     sitemap({
