@@ -12,7 +12,7 @@ bodyHtml: |
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Can I take a self-drive car interstate in India?</h1>
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Outstation rules and partner policies across the Zymo network</p>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. Most rental partners on Zymo allow interstate travel — cars are registered with All-India Tourist Permit, which authorises crossing state boundaries. No separate permit needed. Tolls, state-entry charges, and FASTag costs are paid as you go. Some partners apply a one-way drop fee for cross-city returns. Sikkim, Arunachal Pradesh, and certain mountain areas need permits the customer obtains.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. Most rental partners on Zymo allow interstate travel, and the partner provides the car's registration, insurance, and permit papers. You need no separate permit as the driver. Tolls, state-entry charges, and FASTag costs are paid as you go. Some partners apply a one-way drop fee for cross-city returns. Sikkim, Arunachal Pradesh, and certain mountain areas need permits the customer obtains.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What works without any extra paperwork</h2>
@@ -25,7 +25,7 @@ bodyHtml: |
     <li><strong>From Hyderabad:</strong> Hampi, Vijayawada, Vishakhapatnam, Tirupati</li>
     <li><strong>From Kolkata:</strong> Darjeeling, Gangtok (with ILP), Shantiniketan</li>
     </ul>
-    <p>For each route, the rental partner provides the vehicle's RC, insurance, and All-India Tourist Permit — you just drive.</p>
+    <p>For each route, the rental partner provides the vehicle's RC, insurance, and permit papers — you just drive.</p>
     </section>
     
     <section>
@@ -38,7 +38,7 @@ bodyHtml: |
     <table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Cost</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Typical amount</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Paid by</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Tolls</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹50-500 per toll plaza, varies by route</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Renter via FASTag</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Tolls</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Varies by route and toll plaza</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Renter via FASTag</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">State-entry tax</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹50-300 per state crossing (some states only)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Renter at toll plaza</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Environmental / road-user fee</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹100-500 (Himachal, Uttarakhand)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Renter at state border</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Outstation processing fee</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹200-500 (some partners only)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Charged at booking</td></tr>
@@ -61,14 +61,14 @@ bodyHtml: |
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Roadside support during interstate trips</h2>
-    <p>Most partners' 24/7 roadside assistance covers interstate routes, with response time varying by location. Metros and national highway routes get faster response (1-3 hours typical). Remote routes — mountain highways, hill stations, certain stretches of the northeast — can take longer (4-8 hours or more). For trips into remote regions, confirm the partner's emergency-support coverage area before booking. Carry the partner's emergency number saved in your phone.</p>
+    <p>Roadside assistance terms vary by partner, including on interstate routes, and response time varies by location. Metros and national highway routes usually get a faster response; remote routes — mountain highways, hill stations, certain stretches of the northeast — can take much longer. For trips into remote regions, confirm the partner's emergency-support coverage area before booking. Carry the partner's emergency number saved in your phone.</p>
     </section>
     
     <section id="faq">
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Do I need a special permit for interstate travel in a rental?</dt>
-    <dd>No special permit needed for the customer — the partner provides a vehicle with All-India Tourist Permit and the registration documents you'd carry. You drive normally; tolls and state-entry charges are paid as you cross. Confirm with the partner before booking long-distance trips.</dd>
+    <dd>No special permit is needed by the customer — the partner provides the car with its registration, insurance, and permit papers. You drive normally; tolls and state-entry charges are paid as you cross. Confirm with the partner before booking long-distance trips.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I drive into restricted areas like Sikkim or Lakshadweep?</dt>
     <dd>Some states require Inner Line Permits (ILP) for non-residents — Sikkim, Arunachal Pradesh, Mizoram, Nagaland — which the customer must obtain personally. Lakshadweep requires special tourism permits. Most rental partners restrict their cars to mainland states; check the partner's policy before booking.</dd>
@@ -77,7 +77,7 @@ bodyHtml: |
     <dd>Outstation rates are usually similar to in-city rates plus a one-way drop fee if returning the car in a different city. Toll charges and state-entry taxes are paid by the driver at toll plazas (FASTag works across India). Some partners also apply a one-time outstation processing fee — visible on the booking page.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What happens if I have a breakdown in another state?</dt>
-    <dd>Most partners' 24/7 roadside assistance covers interstate routes. Coverage radius and response time vary — metros are faster, remote routes slower. For trips to mountain regions or remote routes, confirm the partner's emergency-support coverage area before booking.</dd>
+    <dd>Roadside assistance terms vary by partner, including on interstate routes. Coverage radius and response time vary — metros are faster, remote routes slower. For trips to mountain regions or remote routes, confirm the partner's emergency-support coverage area before booking.</dd>
     </dl>
     </section>
     
@@ -108,7 +108,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/cancellation-policy-self-drive-rental" style="color:#4F7BFF;text-decoration:none">What is the cancellation policy for self-drive car rentals?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH Motor Vehicles Act</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -116,7 +116,7 @@ bodyHtml: |
 faqs: 
   - q: "Do I need a special permit for interstate travel in a rental?"
     a: |
-        No special permit needed for the customer — the partner provides a vehicle with All-India Tourist Permit and the registration documents you'd carry. You drive normally; tolls and state-entry charges are paid as you cross. Confirm with the partner before booking long-distance trips.
+        No special permit is needed by the customer — the partner provides the car with its registration, insurance, and permit papers. You drive normally; tolls and state-entry charges are paid as you cross. Confirm with the partner before booking long-distance trips.
   - q: "Can I drive into restricted areas like Sikkim or Lakshadweep?"
     a: |
         Some states require Inner Line Permits (ILP) for non-residents — Sikkim, Arunachal Pradesh, Mizoram, Nagaland — which the customer must obtain personally. Lakshadweep requires special tourism permits. Most rental partners restrict their cars to mainland states; check the partner's policy before booking.
@@ -125,6 +125,6 @@ faqs:
         Outstation rates are usually similar to in-city rates plus a one-way drop fee if returning the car in a different city. Toll charges and state-entry taxes are paid by the driver at toll plazas (FASTag works across India). Some partners also apply a one-time outstation processing fee — visible on the booking page.
   - q: "What happens if I have a breakdown in another state?"
     a: |
-        Most partners' 24/7 roadside assistance covers interstate routes. Coverage radius and response time vary — metros are faster, remote routes slower. For trips to mountain regions or remote routes, confirm the partner's emergency-support coverage area before booking.
+        Roadside assistance terms vary by partner, including on interstate routes. Coverage radius and response time vary — metros are faster, remote routes slower. For trips to mountain regions or remote routes, confirm the partner's emergency-support coverage area before booking.
 ---
 

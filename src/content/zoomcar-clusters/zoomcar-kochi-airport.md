@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-kochi-airport"
 title: "ZoomCar Kochi Airport Pickup — Cochin International COK Guide | Zymo"
-description: "ZoomCar Kochi airport pickup: hub zone at Nedumbassery (COK), 27km from Marine Drive. Drive directly to Munnar or Alleppey from the airport."
+description: "ZoomCar Kochi airport pickup: Nedumbassery (COK), 27km from Marine Drive. Drive directly to Munnar or Alleppey from the airport."
 canonical: "https://zymo.app/zoomcar-kochi-airport"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -10,11 +10,11 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Cochin International Airport (COK), Nedumbassery — approximately 27km from Marine Drive</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How does ZoomCar airport pickup work at Kochi?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Cochin International Airport (COK) in Nedumbassery. The car is parked at a designated hub zone on or near the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact hub zone location. Kochi is a well-served ZoomCar city with strong inventory — the airport zone is an active pickup point. Unlock the car via the app and complete the in-app pre-trip inspection before driving away.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Cochin International Airport (COK) in Nedumbassery. The car is parked at a designated hub zone on or near the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact hub zone location. Unlock the car via the app and complete the in-app pre-trip inspection before driving away.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Planning for COK's location relative to Kochi and Kerala hill stations</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">COK Airport at Nedumbassery is approximately 27km from Marine Drive (Ernakulam) and 30km from Fort Kochi. The airport is also 50km from Munnar, making it the most convenient entry point for a ZoomCar pickup before driving to Kerala's hill stations. Factor 45–60 minutes from COK to Marine Drive depending on NH66 traffic, and approximately 90 minutes to Munnar via the Adimali highway.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">COK Airport at Nedumbassery is approximately 27km from Marine Drive (Ernakulam) and 30km from Fort Kochi. Munnar is approximately 110km by road — about 3 hours via the Adimali highway. Factor 45–60 minutes from COK to Marine Drive depending on NH66 traffic.</p>
     </section>
     
     <section>
@@ -33,9 +33,9 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to do if the car is not at the COK pickup zone</h2>
     <ol>
     <li><strong>Do not leave the zone.</strong> Document your presence before doing anything else.</li>
-    <li><strong>Use in-app SOS immediately</strong> after waiting 10–15 minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
+    <li><strong>Use in-app SOS immediately</strong> after waiting a few minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
     <li><strong>Document with a timestamped photo</strong> of the empty parking bay — location metadata supports your claim.</li>
-    <li><strong>Request refund or replacement:</strong> car non-availability at pickup entitles you to a full refund if unresolved within 1 hour.</li>
+    <li><strong>Request a refund or replacement:</strong> ask ZoomCar support for a replacement car or a refund in the SOS chat.</li>
     </ol>
     </section>
     
@@ -51,20 +51,20 @@ bodyHtml: |
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0">
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Zymo tip — Kochi airport alternatives</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside Zip cars and other partner vehicles for Kochi. For Kerala hill station routes — Munnar (110km), Alleppey/Alappuzha (75km), Thekkady (195km) — book a SUV or compact SUV on Zymo and compare ZoomCar and Zip options for terrain and km requirements before confirming.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside ZIP cars and other partner vehicles for Kochi. For Kerala hill station routes from the airport — Munnar (110km), Alleppey/Alappuzha (75km), Thekkady (195km) — book a SUV or compact SUV on Zymo and compare options across partners for terrain and km requirements before confirming.</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently asked questions</h2>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">How far is Cochin airport from the city?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Cochin International Airport (COK) at Nedumbassery is approximately 27km from Marine Drive and 30km from Fort Kochi. The airport is also 50km from Munnar, making it the most convenient entry point for a ZoomCar pickup before driving to the hill stations.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Cochin International Airport (COK) at Nedumbassery is approximately 27km from Marine Drive and 30km from Fort Kochi. Munnar is approximately 110km by road, about 3 hours.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Does ZoomCar operate at Kochi airport?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar has hub zones at COK Airport. The exact zone is shown in the ZoomCar app at booking. Kochi is a well-served ZoomCar city with strong inventory — the airport zone is an active pickup point.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the ZoomCar app for the pickup zone at COK Airport. The exact zone is shown in the ZoomCar app at booking.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Can I drive from Kochi airport to Munnar or Alleppey with ZoomCar?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Munnar is approximately 110km from COK airport — a 3-hour drive through the Western Ghats. Alleppey (Alappuzha) is 75km, about 90 minutes. For either route, book a SUV or compact SUV on Zymo — compare ZoomCar and Zip options for the terrain and km requirements.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Munnar is approximately 110km from COK airport — a 3-hour drive through the Western Ghats. Alleppey (Alappuzha) is 75km, about 90 minutes. For either route, book a SUV or compact SUV on Zymo — compare options across partners for the terrain and km requirements.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -80,12 +80,11 @@ bodyHtml: |
     </article>
 faqs: 
   - q: "How far is Cochin airport from the city?"
-    a: |
-        Cochin International Airport (COK) at Nedumbassery is approximately 27km from Marine Drive and 30km from Fort Kochi. The airport is also 50km from Munnar, making it the most convenient entry point for a ZoomCar pickup before driving to the hill stations.
+    a: "Cochin International Airport (COK) at Nedumbassery is approximately 27km from Marine Drive and 30km from Fort Kochi. Munnar is approximately 110km by road, about 3 hours."
   - q: "Does ZoomCar operate at Kochi airport?"
-    a: "ZoomCar has hub zones at COK Airport. The exact zone is shown in the ZoomCar app at booking. Kochi is a well-served ZoomCar city with strong inventory — the airport zone is an active pickup point."
+    a: "Check the ZoomCar app for the pickup zone at COK Airport. The exact zone is shown in the ZoomCar app at booking."
   - q: "Can I drive from Kochi airport to Munnar or Alleppey with ZoomCar?"
     a: |
-        Munnar is approximately 110km from COK airport — a 3-hour drive through the Western Ghats. Alleppey (Alappuzha) is 75km, about 90 minutes. For either route, book a SUV or compact SUV on Zymo — compare ZoomCar and Zip options for the terrain and km requirements.
+        Munnar is approximately 110km from COK airport — about 3 hours through the Western Ghats. Alleppey (Alappuzha) is 75km, about 90 minutes. For either route, book an SUV or compact SUV on Zymo and compare options for terrain and km requirements.
 ---
 

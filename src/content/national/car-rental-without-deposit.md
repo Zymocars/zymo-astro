@@ -9,17 +9,17 @@ body: |
     <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
     <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Car Rental Without Deposit in India</h1>
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zero-deposit and low-deposit self-drive car rentals are available with select partners on Zymo. Most rentals require a refundable security deposit of ₹3,000-15,000 to cover potential damage and traffic fines, but no-deposit options exist on specific cars and partners — visible on the booking page before you confirm.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Partners set the security deposit, and some partners set a low or zero deposit; the amount is shown on the listing. Most rentals require a refundable security deposit of ₹3,000-15,000 to cover potential damage and traffic fines, but no-deposit options exist on specific cars and partners — visible on the booking page before you confirm.</p>
     
-    <p>The security deposit is the rental industry&rsquo;s standard risk-coverage mechanism. It&rsquo;s held (not charged) on your card during the rental and refunded within 5-7 working days of return, provided the car is returned without damage and with the correct fuel level. No-deposit options trade this hold for either a higher base price, stricter eligibility (e.g., higher minimum age), or restrictions on car class.</p>
+    <p>The security deposit is the rental industry&rsquo;s standard risk-coverage mechanism. It&rsquo;s paid online with your booking, held by Zymo during the rental and refunded by Zymo within 5–7 working days after the trip, provided the car is returned without damage and with the correct fuel level. No-deposit options trade the deposit for either a higher base price, stricter eligibility (e.g., higher minimum age), or restrictions on car class.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How No-Deposit Rentals Work</h2>
     <ol>
     <li><strong>Filter on Zymo:</strong> select cars marked as &ldquo;zero deposit&rdquo; or &ldquo;low deposit&rdquo; in the booking page filters.</li>
-    <li><strong>Verify identity:</strong> partners typically require a slightly stricter verification — Aadhaar OTP plus driving licence verification at pickup.</li>
-    <li><strong>Pay the rental amount only:</strong> no separate deposit hold on your card. Some partners may charge a one-time small administrative fee in lieu of the deposit.</li>
-    <li><strong>Return the car as agreed:</strong> any damages or excess fuel charges are billed to your card directly. The booking page shows the per-incident rates.</li>
+    <li><strong>Verify identity:</strong> complete Aadhaar OTP verification after booking; the partner checks your driving licence at pickup.</li>
+    <li><strong>Pay the rental amount only:</strong> on a zero-deposit listing there is no security deposit with the booking. The deposit amount, if any, is shown on the listing.</li>
+    <li><strong>Return the car as agreed:</strong> any damages or excess fuel charges are billed to you separately. The booking page shows the per-incident rates.</li>
     </ol>
     </section>
     
@@ -28,10 +28,10 @@ body: |
     <p>The security deposit covers three categories of risk for the rental partner:</p>
     <ul>
     <li><strong>Vehicle damage:</strong> minor scratches, dents, or interior damage discovered at return.</li>
-    <li><strong>Traffic fines:</strong> any e-challans issued during your rental period get assigned to the registered owner (the partner) and recovered from the deposit.</li>
+    <li><strong>Traffic fines:</strong> any e-challans issued during your rental period get assigned to the registered owner (the partner) and are recovered from the deposit.</li>
     <li><strong>Fuel level shortfall:</strong> if you return with less fuel than you started, the partner refuels and charges the difference.</li>
     </ul>
-    <p>Without a deposit hold, partners absorb this risk through pricing. That&rsquo;s why no-deposit options sometimes carry a 5-15% higher rental rate.</p>
+    <p>Without a deposit, partners absorb this risk through pricing. That&rsquo;s why no-deposit options sometimes carry a higher rental rate.</p>
     </section>
     
     <section>
@@ -39,11 +39,11 @@ body: |
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0"><table style="width:100%;border-collapse:collapse;margin:1rem 0">
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Aspect</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Standard Rental</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">No-Deposit Rental</th></tr></thead>
     <tbody>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Security hold</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹3,000-15,000 on card</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹0 hold</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Base rental rate</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Standard</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">5-15% higher</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Eligibility</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">21+ in most cities</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Often 23+ + driving history</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Security deposit</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹3,000-15,000, paid online with the booking</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">₹0</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Base rental rate</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Standard</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Sometimes higher</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Eligibility</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Depends on the partner (usually 21+, some accept 18+)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Varies by partner</td></tr>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Car class available</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">All</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Limited (mostly hatchbacks/sedans)</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Refund window</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">5-7 working days</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Immediate (no hold to release)</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Deposit refund</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Refunded by Zymo within 5–7 working days after the trip</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Nothing to refund</td></tr>
     </tbody></table></div>
     </section>
     

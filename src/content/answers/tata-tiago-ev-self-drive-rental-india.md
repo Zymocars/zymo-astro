@@ -14,11 +14,11 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Tata Tiago EV is the most affordable electric car in the Zymo rental network — available in select cities. Price: ₹1,400-2,000 per day. 5 seats. 19.2 kWh or 24 kWh battery. Real-world city range: 120-170 km per charge. Best for city-only trips and short-range urban use where public charging infrastructure is available. Not suitable for intercity trips beyond 150 km without charging planning.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Tata Tiago EV is an affordable electric car listed on Zymo in select cities. Price: ₹1,400-2,000 per day. 5 seats. 19.2 kWh or 24 kWh battery. Real-world city range: about 120-190 km per charge, depending on battery. Best for city-only trips and short-range urban use where public charging infrastructure is available. Not suitable for intercity trips beyond 150 km without charging planning.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Tiago EV specs for self-drive rental context</h2><p>Battery: 19.2 kWh (250 km ARAI, 120-140 km real-world) or 24 kWh (315 km ARAI, 160-190 km real-world). Motor: 74 PS. Charging: AC home charge (7.2 kW onboard, 0-100% in 3.6 hrs), DC fast charge (50 kW, 0-80% in 57 min). Boot: 242 litres. Seating: 5 passengers, comfortable for 4. Dimensions: same as Tiago ICE — compact body, excellent for city parking.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Where and how to use a Tiago EV rental</h2><p>Best use cases: city sightseeing (Bangalore, Hyderabad, Pune — cities with Tata Power DC charger networks), short day trips within 100 km round trip, corporate campus travel, airport transfers within city. Charging on Zymo rental: confirm with the partner whether the car is handed over fully charged and expected back charged or at a specific level. Carry the Tata Power app to locate chargers on route. Typical DC fast charger locations: Tata Power ChargeZone stations in malls, hotels, and highway rest areas in Tier-1 cities.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Tiago EV pricing and booking on Zymo</h2><p>Daily rate: ₹1,400-2,000/day (lower than Nexon EV, reflects smaller battery and range). Security deposit: ₹5,000-8,000 (refundable). Charging cost: electricity at public chargers approximately ₹15-22/kWh; full charge of 24 kWh battery costs approximately ₹400-530. For a 150 km city day: 1 charge in the morning, 1 top-up if needed. Available primarily in Bangalore, Hyderabad, Pune, and Mumbai — check Zymo booking page for live availability by city.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Where and how to use a Tiago EV rental</h2><p>Best use cases: city sightseeing (Bangalore, Hyderabad, Pune — cities with Tata Power DC charger networks), short day trips within 100 km round trip, corporate campus travel, airport transfers within city. Charging on Zymo rental: confirm with the partner whether the car is handed over fully charged and expected back charged or at a specific level. Carry the Tata Power EZ Charge app to locate chargers on route. Typical DC fast charger locations: Tata Power EZ Charge stations in malls, hotels, and highway rest areas in Tier-1 cities.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Tiago EV pricing and booking on Zymo</h2><p>Daily rate: ₹1,400-2,000/day (lower than Nexon EV, reflects smaller battery and range). Security deposit: ₹5,000-8,000 (refundable). Charging cost: electricity at public chargers approximately ₹15-22/kWh; full charge of 24 kWh battery costs approximately ₹400-530. For a 150 km city day: 1 charge in the morning, 1 top-up if needed. Availability varies by city — check the Zymo booking page for live availability.</p></section>
     
     
     
@@ -26,22 +26,22 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the Tata Tiago EV available for self-drive rental in India?</dt>
-    <dd>Yes. The Tata Tiago EV is listed on Zymo in Bangalore, Pune, Mumbai, Hyderabad, and select EV-ready cities. It's the most affordable EV for self-drive rental — significant savings over petrol equivalents for city use.</dd>
+    <dd>Yes, where partners list it — availability depends on the city. It is an affordable EV for city-focused self-drive use.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does a Tata Tiago EV self-drive rental cost?</dt>
-    <dd>₹1,400-1,900/day for the Tiago EV on Zymo. At ₹0 fuel cost vs ₹5-8/km for petrol, it's often cheaper total cost than a petrol hatchback for city-heavy use.</dd>
+    <dd>₹1,400-2,000/day for the Tiago EV on Zymo. Charging costs about ₹1-3/km vs ₹5-8/km for petrol, which offsets the higher daily rate on city-heavy use.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the real-world range of the Tata Tiago EV?</dt>
-    <dd>The Long Range variant (24 kWh battery) has ARAI range of 315 km. Real-world range: 200-250 km in mixed city driving. Short Range (19.2 kWh): 150-180 km real-world. Check which variant is booked and plan charging accordingly.</dd>
+    <dd>The Long Range variant (24 kWh battery) has ARAI range of 315 km. Real-world range: about 160-190 km in mixed city driving. Short Range (19.2 kWh): about 120-140 km real-world. Check which variant is booked and plan charging accordingly.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is the Tiago EV suitable for outstation trips?</dt>
-    <dd>Best for city use and short outstation runs (under 150 km one-way). For longer routes, plan charging stops. Bangalore-Mysore (145 km) is ideal — Mysuru has Tata fast chargers. Avoid routes with sparse charging infrastructure on the first trip.</dd>
+    <dd>Best for city use and short outstation runs (under 150 km one-way). For longer routes, plan charging stops. Bangalore-Mysore (145 km) is a good fit — check fast chargers in Mysuru before you go. Avoid routes with sparse charging infrastructure on the first trip.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Where can I charge the Tiago EV during a self-drive rental?</dt>
-    <dd>Tata Zcharge network (in Tata showrooms), BPCL EV stations, ChargeZone, and Ather public chargers support the Tiago EV. The Tata EZ Charge app shows live locations. Partner pickup points often include charging as part of the booking.</dd>
+    <dd>Public car chargers such as the Tata Power EZ Charge network, oil-company EV stations, and ChargeZone support the Tiago EV. The Tata Power EZ Charge app shows live locations. Confirm with the partner whether the car is handed over charged.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How does Tiago EV compare to a petrol hatchback for self-drive?</dt>
-    <dd>Tiago EV at ₹1,600/day + ₹0 fuel for 100 km city = ₹1,600 total. Swift petrol at ₹1,200/day + ₹450 fuel (100 km) = ₹1,650 total. EV wins on city use. For highway trips (300+ km), petrol becomes simpler — no charging stop planning needed.</dd>
+    <dd>Tiago EV at about ₹1,600/day + about ₹200-300 of public charging for 100 km = about ₹1,800-1,900. Swift petrol at ₹1,200/day + about ₹550 fuel (100 km) = about ₹1,750. For city use the two cost about the same, and the EV is quieter and smoother. For highway trips (300+ km), petrol is simpler — no charging stops to plan.</dd>
     </dl>
     </section>
     
@@ -72,28 +72,27 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">SIAM EV data India</a> &middot; <a href="https://powermin.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoP EV charging infra</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration stats</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://siam.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Society of Indian Automobile Manufacturers (SIAM)</a> &middot; <a href="https://powermin.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Power</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "Is the Tata Tiago EV available for self-drive rental in India?"
-    a: |
-        Yes. The Tata Tiago EV is listed on Zymo in Bangalore, Pune, Mumbai, Hyderabad, and select EV-ready cities. It's the most affordable EV for self-drive rental — significant savings over petrol equivalents for city use.
+    a: "Yes, where partners list it — availability depends on the city. It is an affordable EV for city-focused self-drive use."
   - q: "How much does a Tata Tiago EV self-drive rental cost?"
-    a: "₹1,400-1,900/day for the Tiago EV on Zymo. At ₹0 fuel cost vs ₹5-8/km for petrol, it's often cheaper total cost than a petrol hatchback for city-heavy use."
+    a: "₹1,400-2,000/day for the Tiago EV on Zymo. Charging costs about ₹1-3/km vs ₹5-8/km for petrol, which offsets the higher daily rate on city-heavy use."
   - q: "What is the real-world range of the Tata Tiago EV?"
     a: |
-        The Long Range variant (24 kWh battery) has ARAI range of 315 km. Real-world range: 200-250 km in mixed city driving. Short Range (19.2 kWh): 150-180 km real-world. Check which variant is booked and plan charging accordingly.
+        The Long Range variant (24 kWh battery) has ARAI range of 315 km. Real-world range: about 160-190 km in mixed city driving. Short Range (19.2 kWh): about 120-140 km real-world. Check which variant is booked and plan charging accordingly.
   - q: "Is the Tiago EV suitable for outstation trips?"
     a: |
-        Best for city use and short outstation runs (under 150 km one-way). For longer routes, plan charging stops. Bangalore-Mysore (145 km) is ideal — Mysuru has Tata fast chargers. Avoid routes with sparse charging infrastructure on the first trip.
+        Best for city use and short outstation runs (under 150 km one-way). For longer routes, plan charging stops. Bangalore-Mysore (145 km) is a good fit — check fast chargers in Mysuru before you go. Avoid routes with sparse charging infrastructure on the first trip.
   - q: "Where can I charge the Tiago EV during a self-drive rental?"
     a: |
-        Tata Zcharge network (in Tata showrooms), BPCL EV stations, ChargeZone, and Ather public chargers support the Tiago EV. The Tata EZ Charge app shows live locations. Partner pickup points often include charging as part of the booking.
+        Public car chargers such as the Tata Power EZ Charge network, oil-company EV stations, and ChargeZone support the Tiago EV. The Tata Power EZ Charge app shows live locations. Confirm with the partner whether the car is handed over charged.
   - q: "How does Tiago EV compare to a petrol hatchback for self-drive?"
     a: |
-        Tiago EV at ₹1,600/day + ₹0 fuel for 100 km city = ₹1,600 total. Swift petrol at ₹1,200/day + ₹450 fuel (100 km) = ₹1,650 total. EV wins on city use. For highway trips (300+ km), petrol becomes simpler — no charging stop planning needed.
+        Tiago EV at about ₹1,600/day + about ₹200-300 of public charging for 100 km = about ₹1,800-1,900. Swift petrol at ₹1,200/day + about ₹550 fuel (100 km) = about ₹1,750. For city use the two cost about the same, and the EV is quieter and smoother. For highway trips (300+ km), petrol is simpler — no charging stops to plan.
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-insurance-coverage"
-title: "ZoomCar Insurance Coverage — Third-Party, CDW, Trip Insurance Guide | Zymo"
-description: "ZoomCar insurance: third-party cover is mandatory. Comprehensive and Trip Insurance vary by listing. How deductibles work and what is not covered."
+title: "ZoomCar Insurance Coverage — Third-Party, CDW & Add-ons Guide | Zymo"
+description: "ZoomCar insurance: third-party cover is mandatory. Comprehensive cover and add-ons vary by listing. How deductibles work and what is not covered."
 canonical: "https://zymo.app/zoomcar-insurance-coverage"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -18,10 +18,10 @@ bodyHtml: |
     <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Covers damage or injury you cause to others. Does not cover damage to the ZoomCar vehicle itself. Present on every ZoomCar listing — non-negotiable.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">2. Comprehensive cover / CDW (own damage)</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Covers damage to the ZoomCar car itself. Availability and the deductible amount <strong>vary by listing</strong> — some listings include it, others offer it as an add-on, and a few do not include it. The deductible is the amount you pay even when comprehensive cover is active. Typical deductibles range from <strong>₹2,000 to ₹10,000</strong> depending on car class. Check the specific listing before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Covers damage to the ZoomCar car itself. Availability and the deductible amount <strong>vary by listing</strong> — some listings include it, others offer it as an add-on, and a few do not include it. The deductible is the amount you pay even when comprehensive cover is active. The listing shows the deductible for your car — check it before booking.</p>
     
-    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">3. Trip Insurance add-on (optional)</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar's optional Trip Insurance product caps your liability in an at-fault accident at the deductible amount shown on the listing. Without it, you may be liable for repair costs above the standard CDW limit. For premium cars (Fortuner, XUV700) where repair costs are higher, Trip Insurance is worth evaluating.</p>
+    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">3. Trip-protection add-on (if offered)</h3>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">If your listing offers an optional trip-protection add-on, check what it covers and the liability cap shown on the listing. For premium cars (Fortuner, XUV700) where repair costs are higher, it is worth evaluating.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Coverage summary table</h2>
@@ -29,8 +29,8 @@ bodyHtml: |
     <thead><tr><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Coverage type</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">What it covers</th><th style="text-align:left;padding:10px 8px;border-bottom:1px solid #333;color:#FFFFFF;font-weight:600">Who pays deductible</th></tr></thead>
     <tbody>
     <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Third-party (mandatory)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Damage/injury to others — vehicles, people, property</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">N/A (fully covered by insurer)</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Comprehensive / CDW</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Own damage to ZoomCar vehicle</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">You pay deductible (₹2,000–₹10,000 depending on listing)</td></tr>
-    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Trip Insurance add-on</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Caps your at-fault liability to listed deductible</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">You pay deductible (capped); insurer covers the rest</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Comprehensive / CDW</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Own damage to ZoomCar vehicle</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">You pay the deductible shown on the listing</td></tr>
+    <tr><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Trip-protection add-on (if offered)</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">Caps your at-fault liability to listed deductible</td><td style="padding:10px 8px;border-bottom:1px solid #1C2B36">You pay deductible (capped); insurer covers the rest</td></tr>
     </tbody></table></div>
     </section>
     
@@ -56,11 +56,11 @@ bodyHtml: |
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Is ZoomCar insured?</h3>
     <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. All ZoomCar vehicles carry mandatory third-party insurance under the Motor Vehicles Act 1988. This covers damage or injury to third parties. Comprehensive own-damage cover (CDW) varies by listing — check before booking.</p>
     
-    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">What is ZoomCar's Trip Insurance?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar's Trip Insurance is an optional add-on that caps your liability in an at-fault accident to the deductible amount shown on the listing. Without it, you may be liable for the full repair cost above the standard CDW limit.</p>
+    <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Is there an optional trip-protection add-on?</h3>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the listing. Where an add-on is offered, the listing shows what it covers and the liability cap.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">What is not covered by ZoomCar insurance?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Standard ZoomCar insurance does not cover tyre damage from road hazards, underbody damage from off-road use beyond the car's rating, personal belongings left in the car, or incidents under the influence of alcohol or drugs.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the listing's exclusions. Insurance commonly does not cover tyre damage from road hazards, underbody damage from off-road use beyond the car's rating, personal belongings left in the car, or incidents under the influence of alcohol or drugs.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -79,11 +79,10 @@ faqs:
   - q: "Is ZoomCar insured?"
     a: |
         Yes. All ZoomCar vehicles carry mandatory third-party insurance under the Motor Vehicles Act 1988. This covers damage or injury to third parties. Comprehensive own-damage cover (CDW) varies by listing — check before booking.
-  - q: "What is ZoomCar's trip insurance?"
-    a: |
-        ZoomCar's Trip Insurance is an optional add-on that caps your liability in an at-fault accident to the deductible amount shown on the listing. Without it, you may be liable for the full repair cost above the standard CDW limit.
+  - q: "Is there an optional trip-protection add-on?"
+    a: "Check the listing. Where an optional trip-protection add-on is offered, the listing shows what it covers and the liability cap."
   - q: "What is not covered by ZoomCar insurance?"
     a: |
-        Standard ZoomCar insurance does not cover tyre damage from road hazards, underbody damage from off-road use beyond the car's rating, personal belongings left in the car, or incidents under the influence of alcohol or drugs.
+        Check the listing's exclusions. Insurance commonly does not cover tyre damage from road hazards, underbody damage from off-road use beyond the car's rating, personal belongings left in the car, or incidents under the influence of alcohol or drugs.
 ---
 

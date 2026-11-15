@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-jaipur-airport"
 title: "ZoomCar Jaipur Airport Pickup — Sanganer JAI Guide | Zymo"
-description: "ZoomCar Jaipur airport pickup: hub zone at Sanganer (JAI), 11km from City Palace. Rajasthan road trip routes from the airport."
+description: "ZoomCar Jaipur airport pickup: Sanganer (JAI), 11km from City Palace. Rajasthan road trip routes from the airport."
 canonical: "https://zymo.app/zoomcar-jaipur-airport"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -10,11 +10,11 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Jaipur International Airport (JAI), Sanganer — approximately 11km from City Palace</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How does ZoomCar airport pickup work at Jaipur?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Jaipur International Airport (JAI) in Sanganer. The car is parked at a designated hub zone on or near the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact hub zone location. Jaipur is a strong ZoomCar city with good inventory — the airport zone connects to the main fleet serving Rajasthan routes. JAI is one of India's most centrally located airports relative to its main tourist areas, making it an efficient starting point for a self-drive Rajasthan circuit.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Jaipur International Airport (JAI) in Sanganer. The car is parked at a designated hub zone on or near the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact hub zone location. JAI is about 11km from City Palace, a convenient starting point for a self-drive Rajasthan circuit.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Planning for JAI's location and Rajasthan routes</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Jaipur International Airport at Sanganer is approximately 11km from City Palace and 13km from Hawa Mahal — one of India's most centrally located airports relative to its main tourist areas. A ZoomCar pickup at JAI drops you into the Pink City circuit without a long transfer. For outstation Rajasthan routes: Ajmer 135km (2hr), Pushkar 145km, Jodhpur 340km (5hr), and Udaipur 400km (6hr).</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Jaipur International Airport at Sanganer is approximately 11km from City Palace and 13km from Hawa Mahal. A ZoomCar pickup at JAI drops you into the Pink City circuit without a long transfer. For outstation Rajasthan routes: Ajmer 135km (2hr), Pushkar 145km, Jodhpur 340km (5hr), and Udaipur 395km (6hr).</p>
     </section>
     
     <section>
@@ -33,9 +33,9 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to do if the car is not at the JAI pickup zone</h2>
     <ol>
     <li><strong>Do not leave the zone.</strong> Document your presence before doing anything else.</li>
-    <li><strong>Use in-app SOS immediately</strong> after waiting 10–15 minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
+    <li><strong>Use in-app SOS immediately</strong> after waiting a few minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
     <li><strong>Document with a timestamped photo</strong> of the empty parking bay — location metadata supports your claim.</li>
-    <li><strong>Request refund or replacement:</strong> car non-availability at pickup entitles you to a full refund if unresolved within 1 hour. State this clearly in the SOS chat.</li>
+    <li><strong>Request a refund or replacement:</strong> ask ZoomCar support for a replacement car or a refund in the SOS chat.</li>
     </ol>
     </section>
     
@@ -51,20 +51,20 @@ bodyHtml: |
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0">
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Zymo tip — Jaipur airport alternatives</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside Zip cars and other partner vehicles for Jaipur. For multi-city Rajasthan circuits — Jaipur → Jodhpur → Udaipur — book a ZoomCar Subscription (unlimited km) on Zymo and compare ZoomCar and Zip options. The Rajasthan desert roads between cities are well-maintained national highways manageable in a standard sedan or compact SUV.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside ZIP cars and other partner vehicles for Jaipur. For multi-city Rajasthan circuits — Jaipur → Jodhpur → Udaipur — check the km allowance on each listing and compare options on Zymo. The Rajasthan desert roads between cities are well-maintained national highways manageable in a standard sedan or compact SUV.</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently asked questions</h2>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">How far is Jaipur airport from the city center?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Jaipur International Airport (JAI) at Sanganer is approximately 11km from City Palace and 13km from Hawa Mahal — one of India's most centrally located airports relative to its main tourist areas. A ZoomCar pickup at JAI drops you into the Pink City circuit without a long transfer.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Jaipur International Airport (JAI) at Sanganer is approximately 11km from City Palace and 13km from Hawa Mahal. A ZoomCar pickup at JAI drops you into the Pink City circuit without a long transfer.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Does ZoomCar operate at Jaipur airport?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar has hub zones at JAI Airport. The pickup point is confirmed in the app. Jaipur is a strong ZoomCar city with good inventory — the airport zone connects to the main fleet serving Rajasthan routes.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the ZoomCar app for the pickup zone at JAI Airport. The pickup point is confirmed in the app.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Can I drive from Jaipur airport to Ajmer, Pushkar, or Jodhpur with ZoomCar?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. Ajmer is 135km (2hr), Pushkar is 145km, Jodhpur is 340km (5hr), and Udaipur is 400km (6hr). For multi-city Rajasthan circuits, book a Subscription (unlimited km) on Zymo and compare ZoomCar and Zip options — the Rajasthan desert roads are manageable in a standard sedan or compact SUV.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. Ajmer is 135km (2hr), Pushkar is 145km, Jodhpur is 340km (5hr), and Udaipur is 395km (6hr). For multi-city Rajasthan circuits, check the km allowance on each listing and compare options on Zymo — the Rajasthan desert roads are manageable in a standard sedan or compact SUV.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -81,13 +81,11 @@ bodyHtml: |
     </article>
 faqs: 
   - q: "How far is Jaipur airport from the city center?"
-    a: |
-        Jaipur International Airport (JAI) at Sanganer is approximately 11km from City Palace and 13km from Hawa Mahal — one of India's most centrally located airports relative to its main tourist areas. A ZoomCar pickup at JAI drops you into the Pink City circuit without a long transfer.
+    a: "Jaipur International Airport (JAI) at Sanganer is approximately 11km from City Palace and 13km from Hawa Mahal, so a pickup at JAI puts you close to the Pink City circuit."
   - q: "Does ZoomCar operate at Jaipur airport?"
-    a: |
-        ZoomCar has hub zones at JAI Airport. The pickup point is confirmed in the app. Jaipur is a strong ZoomCar city with good inventory — the airport zone connects to the main fleet serving Rajasthan routes.
+    a: "Check the ZoomCar app for the pickup zone at JAI Airport. The pickup point is confirmed in the app."
   - q: "Can I drive from Jaipur airport to Ajmer, Pushkar, or Jodhpur with ZoomCar?"
     a: |
-        Yes. Ajmer is 135km (2hr), Pushkar is 145km, Jodhpur is 340km (5hr), and Udaipur is 400km (6hr). For multi-city Rajasthan circuits, book a Subscription (unlimited km) on Zymo and compare ZoomCar and Zip options — the Rajasthan desert roads are manageable in a standard sedan or compact SUV.
+        Yes. Ajmer is 135km (2hr), Pushkar is 145km, Jodhpur is 340km (5hr), and Udaipur is 395km (6hr). For multi-city Rajasthan circuits, check the km allowance on each listing and compare options on Zymo — the Rajasthan desert roads are manageable in a standard sedan or compact SUV.
 ---
 

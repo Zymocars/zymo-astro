@@ -1,7 +1,7 @@
 ---
 slug: "download-app"
 title: "Download Zymo App | Self-Drive Car Rental"
-description: "Download the Zymo app for iOS and Android. Book self-drive cars, track bookings, and get exclusive app-only deals."
+description: "Download the Zymo app for iOS and Android. Book self-drive cars and track bookings — same prices as the website."
 canonical: "https://zymo.app/download-app"
 bodyHtml: |
   <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:900px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -20,7 +20,7 @@ bodyHtml: |
   <section>
   <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">What You Can Do in the App</h2>
   <ul>
-  <li><strong>Compare across partners.</strong> One search shows every available car from every rental partner in your city &mdash; same category, side-by-side prices.</li>
+  <li><strong>Compare across partners.</strong> One search shows cars from multiple rental partners in your city &mdash; same category, side-by-side prices.</li>
   <li><strong>Book in two minutes.</strong> Pick a car, choose your dates, complete Aadhaar OTP verification, pay through Cashfree, and you&rsquo;re done.</li>
   <li><strong>Hourly, daily, weekly, monthly.</strong> Flexible packages depending on the partner and city.</li>
   <li><strong>Hatchbacks, sedans, SUVs, MPVs, luxury, and EVs</strong> &mdash; filter by car class.</li>

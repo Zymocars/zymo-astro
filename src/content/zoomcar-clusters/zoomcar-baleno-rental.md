@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-baleno-rental"
 title: "ZoomCar Baleno Rental — Maruti Baleno Self-Drive Price India | Zymo"
-description: "Rent a Maruti Baleno on ZoomCar: 5-star NCAP, 318L boot, 1.2L DualJet petrol, AGS automatic available, premium hatchback across ZoomCar metros. Compare Baleno pricing on Zymo."
+description: "Rent a Maruti Baleno on ZoomCar: 318L boot, 1.2L DualJet petrol, AGS automatic available. Compare Baleno pricing on Zymo."
 canonical: "https://zymo.app/zoomcar-baleno-rental"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -10,7 +10,7 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Maruti Baleno self-drive availability and pricing guide</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Is the Maruti Baleno available on ZoomCar?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Maruti Baleno is available on ZoomCar in select cities. A 5-star Global NCAP-rated premium hatchback with 318 L boot and AGS automatic option, the Baleno offers a comfortable, well-equipped hatchback experience for city and short outstation trips. Zymo shows Baleno listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Maruti Baleno is available on ZoomCar in select cities. A premium hatchback with a 318 L boot and AGS automatic option, the Baleno offers a comfortable, well-equipped hatchback experience for city and short outstation trips. Zymo shows Baleno listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Maruti Baleno — key specs for self-drive</h2>
@@ -27,12 +27,11 @@ bodyHtml: |
     </section>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What does a ZoomCar Baleno cost?</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Baleno is in the premium hatchback class — expect rates from approximately ₹50/hr in major metros. Security deposits for hatchbacks typically run ₹3,000–5,000. Confirm the exact rate on the listing page before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rates and deposits vary by city and date — the listing page shows the exact figures before you book.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Why rent a Baleno?</h2>
     <ul>
-    <li><strong>5-star NCAP safety:</strong> the Baleno holds a 5-star Global NCAP rating — one of the best safety scores in the hatchback class</li>
-    <li><strong>Wide availability:</strong> as one of India's best-selling hatchbacks, Baleno units are available on ZoomCar in multiple cities</li>
+    <li><strong>Safety kit:</strong> check the variant on the listing for airbags and other safety features</li>
     <li><strong>AGS automatic:</strong> the AGS transmission is practical for city driving; smooth at low speeds</li>
     <li><strong>Comfortable highway car:</strong> 1.2L DualJet provides adequate overtaking power on two-lane highways</li>
     </ul>
@@ -49,16 +48,14 @@ bodyHtml: |
     <p style="margin:0"><a href="/" style="color:#4F7BFF;text-decoration:none;font-weight:600">Browse cars on Zymo →</a></p>
     </section>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; ZoomCar pricing guide by car class</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; How ZoomCar pricing works</a></p>
     
     </article>
 faqs: 
   - q: "Is the Maruti Baleno available on ZoomCar?"
-    a: |
-        Yes. The Maruti Baleno is available on ZoomCar in select cities. A 5-star NCAP-rated premium hatchback with 318 L boot and AGS automatic option, it is a popular choice for city and short outstation drives.
+    a: "Yes. The Maruti Baleno is available on ZoomCar in select cities — a premium hatchback with a 318 L boot and AGS automatic option for city and short outstation drives."
   - q: "How much does a ZoomCar Baleno rental cost?"
-    a: |
-        The Baleno is in the premium hatchback class — expect rates from approximately ₹50/hr in major metros. Security deposits typically run ₹3,000–5,000, refunded after trip close. Confirm the exact rate on the listing page.
+    a: "Rates and deposits vary by city and date — the listing page shows the exact figures before you book."
   - q: "Is the Baleno automatic available on ZoomCar?"
     a: |
         The Baleno AGS (Automated Gear Shift) variant is available on ZoomCar in select listings. Note that the AGS is a clutchless manual, not a torque-converter automatic — it is practical for city driving but behaves differently from a traditional automatic.

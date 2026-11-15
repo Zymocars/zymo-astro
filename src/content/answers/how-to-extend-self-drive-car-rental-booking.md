@@ -16,9 +16,9 @@ bodyHtml: |
     
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">To extend your active Zymo booking, open the booking on the Zymo app or website, tap 'Extend booking', enter the new return time, and pay the extension cost. Confirm extension at least 2-4 hours before your original return time to lock the car for the extra duration. Extensions are partner-dependent — some partners can extend by hours, others only by full days.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Same-day extension vs next-day extension</h2><p>Same-day extensions (adding a few hours to a 24-hour booking) are billed at the hourly overtime rate, typically ₹100-200 per hour above the daily rate. Multi-day extensions (adding a full day or more) are billed at the partner's standard daily rate at the time of extension. The total extension cost is shown in the app before you confirm.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Same-day extension vs next-day extension</h2><p>Same-day extensions (adding a few hours to a 24-hour booking) are billed at the partner's extension rate. Multi-day extensions (adding a full day or more) are billed at the partner's standard daily rate at the time of extension. The total extension cost is shown in the app before you confirm.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When the partner can refuse an extension</h2><p>If the car is booked by another customer immediately after your return time, the partner cannot extend — they will tell you in-app, and you must return on time. To minimise extension refusal risk, book a longer duration upfront (a 5-day booking is cheaper per day than a 3-day plus 2-day extension), or extend early before another booking locks the car.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What happens if you return late without extending</h2><p>Late returns without a confirmed extension trigger the partner's late-return penalty — typically ₹200-500 per hour for the first 3 hours, escalating to a full additional day charge after that. Repeated late returns risk a partner blacklist on your Zymo account. Always extend the booking in-app rather than returning late.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What happens if you return late without extending</h2><p>Late returns without a confirmed extension trigger the partner's late-return penalty, shown on the booking page before you pay; a long delay can be charged as an extra day. Repeated late returns risk a partner blacklist on your Zymo account. Always extend the booking in-app rather than returning late.</p></section>
     
     
     
@@ -29,7 +29,7 @@ bodyHtml: |
     <dd>At least 2-4 hours before your original return time. Earlier is better — the partner can lock the car for the extra duration before it's booked by another customer. Extensions confirmed in the final 30 minutes have a higher refusal risk.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What if the partner refuses my extension?</dt>
-    <dd>You must return the car at the original time. If you return late without an approved extension, the partner charges the late-return penalty (typically ₹200-500 per hour for the first 3 hours, escalating to a full additional day after that).</dd>
+    <dd>You must return the car at the original time. If you return late without an approved extension, the partner charges its late-return penalty, shown on the booking page before you pay.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is there a limit to how long I can extend?</dt>
     <dd>Subject to the partner's availability and the next booking on the same car. Many partners allow extensions of several days; some only support hourly extensions. The maximum extension is visible in the app when you start the extension flow.</dd>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle registration</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -79,8 +79,7 @@ faqs:
     a: |
         At least 2-4 hours before your original return time. Earlier is better — the partner can lock the car for the extra duration before it's booked by another customer. Extensions confirmed in the final 30 minutes have a higher refusal risk.
   - q: "What if the partner refuses my extension?"
-    a: |
-        You must return the car at the original time. If you return late without an approved extension, the partner charges the late-return penalty (typically ₹200-500 per hour for the first 3 hours, escalating to a full additional day after that).
+    a: "You must return the car at the original time. If you return late without an approved extension, the partner charges its late-return penalty, shown on the booking page before you pay."
   - q: "Is there a limit to how long I can extend?"
     a: |
         Subject to the partner's availability and the next booking on the same car. Many partners allow extensions of several days; some only support hourly extensions. The maximum extension is visible in the app when you start the extension flow.

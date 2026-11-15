@@ -56,7 +56,7 @@ bodyHtml: |
     <ol>
     <li><strong>Ensure safety first.</strong> Move yourself and any injured parties to a safe location. Call 100 (police) or 102 (ambulance) for serious injuries.</li>
     <li><strong>Photograph everything.</strong> The damage to your car, the other vehicle (if any), the location, road conditions, license plates. Multiple angles. These photos protect you in any dispute.</li>
-    <li><strong>Contact the rental partner immediately.</strong> Their 24/7 emergency line. Don't move the car unless safety requires it — the partner may want to dispatch their own assessor.</li>
+    <li><strong>Contact the rental partner immediately.</strong> Use their emergency line. Don't move the car unless safety requires it — the partner may want to dispatch their own assessor.</li>
     <li><strong>File a police FIR if required.</strong> For accidents involving injury, third-party damage, or theft. The FIR is required for insurance claims.</li>
     <li><strong>Don't admit fault on the spot.</strong> Stick to facts when speaking to police or the other driver. Let insurance underwriters determine fault.</li>
     <li><strong>Don't get repairs done independently.</strong> The rental partner has authorised garages. Independent repairs may void the comprehensive coverage.</li>
@@ -137,7 +137,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Motor Vehicles Act 1988 §146</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH third-party insurance</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     

@@ -1,7 +1,7 @@
 ---
 slug: "delhi-to-jaipur-self-drive"
 title: "Delhi to Jaipur Self-Drive Road Trip Guide [2026] | Zymo"
-description: "Complete guide for the Delhi to Jaipur self-drive road trip via NH48. Distance 280 km, toll costs, Neemrana stopover, 4.5-hour drive — book a self-drive car on Zymo."
+description: "Complete guide for the Delhi to Jaipur self-drive road trip via NH48. Distance 280 km, tolls via FASTag, Neemrana stopover, 5-hour drive — book a self-drive car on Zymo."
 canonical: "https://zymo.app/answers/delhi-to-jaipur-self-drive"
 h1: "Delhi to Jaipur self-drive road trip"
 publishedDate: "2026-06-13"
@@ -14,12 +14,12 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Delhi to Jaipur is 280 km on NH48 (Delhi-Mumbai Expressway), approximately 4.5-5 hours. One of the best long-distance highways in India — 6-lane, well-lit, FASTag-managed. Gurgaon to Jaipur is the fastest start point (240 km). Total toll Delhi to Jaipur: approximately ₹340 one-way via FASTag. A hatchback or sedan handles this route perfectly — SUV is not required.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Delhi to Jaipur is 280 km on NH48, approximately 5 hours. One of the best long-distance highways in India — 6-lane, well-lit, FASTag-managed. Gurgaon to Jaipur is the fastest start point (about 250 km). Tolls are paid via FASTag. A hatchback or sedan handles this route perfectly — SUV is not required.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Delhi to Jaipur route breakdown</h2><p>Delhi → Gurgaon (NH48, 30 km, 30 mins): exit via NH48 from Mahipalpur or Vasant Kunj. Gurgaon → Shahjahanpur toll (NH48, 115 km, 1.5 hrs): 6-lane expressway — fastest stretch of the trip. Shahjahanpur → Jaipur (NH48, 130 km, 1.5 hrs): road quality remains excellent — watch for trucks in the slow lane. Total from Delhi: 280 km. Note: Google Maps sometimes suggests NH9 via Tijara — NH48 is faster and has better surface.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for Delhi-Jaipur self-drive</h2><p>Car: hatchback ₹1,100-1,500/day; sedan ₹1,600-2,200/day. Day trip (1 day): car ₹1,100-2,200. 2-day Jaipur weekend: car ₹2,200-4,400. Fuel: 560 km round trip (280 km × 2); hatchback at 15 km/L at PPAC June 2026 petrol prices = ₹3,900. Tolls: ₹340 one-way (₹680 round trip) on NH48 via FASTag. Jaipur sightseeing: Amber Fort entry ₹200 per person, City Palace ₹200 per person. Total round-trip non-refundable budget for 2 people: ₹8,000-12,000.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for Delhi-Jaipur self-drive</h2><p>Car: hatchback ₹1,300-2,000/day; sedan ₹2,000-2,800/day. Day trip (1 day): car ₹1,300-2,800. 2-day Jaipur weekend: car ₹2,600-5,600. Fuel: 560 km round trip (280 km × 2); a hatchback at 16 km/L and ₹96/L = ₹3,360. Tolls: tolls vary by route and vehicle class and are paid via FASTag — check current rates in your FASTag or NHAI app before you leave. Jaipur sightseeing: Amber Fort entry ₹200 per person, City Palace ₹200 per person. Total 2-day budget for car and fuel: about ₹5,960-9,440, plus tolls and sightseeing tickets.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Jaipur sightseeing circuit by self-drive</h2><p>Jaipur is one of India's most driveable sightseeing cities — all major attractions are on distinct road circuits. Amer Fort + Jaigarh Fort: 12 km from Jaipur centre via NH11, 25 mins. City Palace + Hawa Mahal: central city, 5 km from hotel zone. Jantar Mantar: adjacent to City Palace. Birla Mandir + Nahargarh Fort: 8 km scenic drive. Jal Mahal (Water Palace): visible from the Amer road — park at the lake road for photos. Stepwells (Panna Meena ka Kund): 3 km from Amer, narrow lane, SUV parking is difficult — hatchback recommended here.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Fuel stops and road conditions by segment</h2><p>Gurgaon outskirts (30 km from Delhi, NH48 start): fill up at the Rajokri or Kherki Daula fuel cluster before the expressway — expressway fuel plazas are spaced 60-80 km apart. Neemrana rest area (140 km): NHAI rest stop with HPCL fuel station — popular midpoint break. Shahjahanpur toll (145 km): good fuel availability on both carriageways. Road conditions: NH48 Delhi-Jaipur is India's best 6-lane highway in this stretch — excellent surface, well-lit, speed cameras at Dharuhera and Shahjahanpur. Night driving is safe on NH48 but watch for overloaded trucks in the slow lane between Rewari and Bhiwadi.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Fuel stops and road conditions by segment</h2><p>Gurgaon outskirts (30 km from Delhi, NH48 start): fill up at the Rajokri or Kherki Daula fuel cluster before the expressway — expressway fuel plazas are spaced 60-80 km apart. Neemrana rest area (140 km): NHAI rest stop with HPCL fuel station — popular midpoint break. Shahjahanpur toll (145 km): good fuel availability on both carriageways. Road conditions: NH48 Delhi-Jaipur is an excellent 6-lane highway in this stretch — good surface, well-lit, speed cameras at Dharuhera and Shahjahanpur. Night driving is safe on NH48 but watch for overloaded trucks in the slow lane between Rewari and Bhiwadi.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which car to book for Delhi-Jaipur on Zymo</h2><p>Maruti Dzire or Hyundai Aura (sedan): ideal for the Delhi-Jaipur run — comfortable for 4 adults, good fuel economy on the NH48 expressway, low toll category. Maruti Swift or i20 (hatchback): equally capable on this flat highway. You genuinely do not need an SUV for Delhi-Jaipur — the highway is perfect and Jaipur city sightseeing is easier in a smaller car (tight Amer Fort parking lanes). Splurge the SUV budget on a Rajasthan desert circuit instead (Jaipur-Jodhpur-Udaipur) where ghat roads and village approach tracks benefit from extra clearance. Book from South Delhi, Gurgaon, or Noida partners on Zymo.</p></section>
     
     
@@ -28,10 +28,10 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How long does it take to drive from Delhi to Jaipur?</dt>
-    <dd>4.5-5 hours on NH48 from Delhi (280 km). From Gurgaon it is 240 km and takes 4 hours.</dd>
+    <dd>About 5 hours on NH48 from Delhi (280 km). From Gurgaon it is about 250 km and takes about 4.5 hours.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the toll from Delhi to Jaipur?</dt>
-    <dd>Approximately ₹340 one-way via FASTag on NH48. FASTag is pre-installed on most Zymo partner cars.</dd>
+    <dd>Tolls on NH48 vary by vehicle class and are revised periodically — check the current total in your FASTag or NHAI app. FASTag is pre-installed on most Zymo partner cars.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which is better for Delhi-Jaipur — hatchback or SUV?</dt>
     <dd>A hatchback or sedan is ideal for this route — NH48 is excellent 6-lane highway. An SUV is overkill for Delhi-Jaipur unless you plan to go off-route in Rajasthan desert villages.</dd>
@@ -46,10 +46,10 @@ bodyHtml: |
     <dd>NH48 is well-lit and safe for night driving. Avoid travelling late into Jaipur city after midnight — hotel check-in can be complicated. Most people prefer departing Delhi by 6-7 AM and returning by 8 PM.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which car should I book for Delhi to Jaipur on Zymo?</dt>
-    <dd>Book a hatchback or compact sedan for this route. It is a flat expressway drive — comfort and fuel economy matter more than ground clearance. A 5-seater hatchback (Swift, i20) is the most popular choice.</dd>
+    <dd>Book a hatchback or compact sedan for this route. It is a flat expressway drive — comfort and fuel economy matter more than ground clearance. A 5-seater hatchback (Swift, i20) is a good choice.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does it cost to self-drive Delhi to Jaipur for a 2-day trip?</dt>
-    <dd>Approximately ₹8,000-12,000 non-refundable for 2 people: car ₹2,200-4,400 + fuel ₹3,900 (round trip) + tolls ₹680. Security deposit refunded on car return.</dd>
+    <dd>Approximately ₹5,960-9,440 non-refundable for car and fuel: car ₹2,600-5,600 + fuel ₹3,360-3,840 (round trip, hatchback to sedan) + tolls (paid via FASTag). Security deposit is refunded by Zymo after the trip.</dd>
     </dl>
     </section>
     
@@ -80,16 +80,16 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH highway safety data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "How long does it take to drive from Delhi to Jaipur?"
-    a: "4.5-5 hours on NH48 from Delhi (280 km). From Gurgaon it is 240 km and takes 4 hours."
+    a: "About 5 hours on NH48 from Delhi (280 km). From Gurgaon it is about 250 km and takes about 4.5 hours."
   - q: "What is the toll from Delhi to Jaipur?"
-    a: "Approximately ₹340 one-way via FASTag on NH48. FASTag is pre-installed on most Zymo partner cars."
+    a: "Tolls on NH48 vary by vehicle class and are revised periodically — check the current total in your FASTag or NHAI app. FASTag is pre-installed on most Zymo partner cars."
   - q: "Which is better for Delhi-Jaipur — hatchback or SUV?"
     a: "A hatchback or sedan is ideal for this route — NH48 is excellent 6-lane highway. An SUV is overkill for Delhi-Jaipur unless you plan to go off-route in Rajasthan desert villages."
   - q: "Can I do Delhi to Jaipur as a day trip by self-drive?"
@@ -100,9 +100,9 @@ faqs:
     a: |
         NH48 is well-lit and safe for night driving. Avoid travelling late into Jaipur city after midnight — hotel check-in can be complicated. Most people prefer departing Delhi by 6-7 AM and returning by 8 PM.
   - q: "Which car should I book for Delhi to Jaipur on Zymo?"
-    a: |
-        Book a hatchback or compact sedan for this route. It is a flat expressway drive — comfort and fuel economy matter more than ground clearance. A 5-seater hatchback (Swift, i20) is the most popular choice.
+    a: "Book a hatchback or compact sedan for this route. It is a flat expressway drive — comfort and fuel economy matter more than ground clearance. A 5-seater hatchback (Swift, i20) is a good choice."
   - q: "How much does it cost to self-drive Delhi to Jaipur for a 2-day trip?"
-    a: "Approximately ₹8,000-12,000 non-refundable for 2 people: car ₹2,200-4,400 + fuel ₹3,900 (round trip) + tolls ₹680. Security deposit refunded on car return."
+    a: |
+        Approximately ₹5,960-9,440 non-refundable for car and fuel: car ₹2,600-5,600 + fuel ₹3,360-3,840 (round trip, hatchback to sedan) + tolls (paid via FASTag). Security deposit is refunded by Zymo after the trip.
 ---
 

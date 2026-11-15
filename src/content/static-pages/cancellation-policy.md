@@ -20,7 +20,7 @@ bodyHtml: |
   <li><strong>Partner-cancelled bookings:</strong> Eligible for a full refund, including all booking charges. The refund is initiated automatically.</li>
   <li><strong>Security deposits:</strong> Always refunded in full, regardless of when you cancel or whether the cancellation is partner-initiated or user-initiated.</li>
   <li><strong>User-initiated cancellations:</strong> Refund amount depends on time-of-cancellation slabs set by the rental partner. Earlier cancellations typically attract lower charges; cancellations close to the trip start time or after the trip starts may attract higher charges or no refund.</li>
-  <li><strong>Refund timing:</strong> Once a cancellation is confirmed, refunds are usually initiated within 5&ndash;7 business days. The amount reflects in your original payment method based on your bank or payment processor&rsquo;s timelines.</li>
+  <li><strong>Refund timing:</strong> Once a cancellation is confirmed, Zymo initiates the refund; it reaches your original payment method in 5&ndash;7 working days.</li>
   </ul>
   </section>
   

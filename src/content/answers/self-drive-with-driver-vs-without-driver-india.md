@@ -16,7 +16,7 @@ bodyHtml: |
     
     <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Self-drive is cheaper, more flexible, and gives you the car for the entire trip — but you do the driving. With-driver rental is more expensive but lets you sleep, work, or watch the road. For 2+ travellers on intercity trips, self-drive is usually the better economic choice. For solo travellers or anyone who'd rather not drive Indian highways, with-driver wins.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost: self-drive vs with-driver</h2><p>On a 2-day Mumbai-Goa trip, a self-drive hatchback costs around ₹4,500 total (car + fuel + tolls). The same trip with a hired driver and the same hatchback costs around ₹8,500-11,000 — driver wages (₹500-700 per day), night-stay allowance (₹400-600 per night), and food. Self-drive saves ₹4,000-6,500 per couple-of-days trip.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost: self-drive vs with-driver</h2><p>On a 2-day Mumbai-Goa trip, a self-drive hatchback costs from ₹6,005 for the car and one-way fuel, plus tolls. With a hired driver you pay for the same car and fuel plus driver wages (₹500-700 per day), a night-stay allowance (₹400-600 per night) and food — about ₹1,400-2,600 more for a 2-day trip, before food.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When with-driver wins</h2><p>Solo travellers who'd rather not drive on Indian highways. Overnight long-haul drives where you genuinely want to sleep. Wedding-and-event days where you need a car waiting outside venues. Drives in unfamiliar mountain terrain where a local driver's road knowledge is valuable (Manali ghats, Sikkim, parts of Kerala monsoon).</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">When self-drive wins</h2><p>Group trips of 2+ on familiar routes (Mumbai-Goa, Delhi-Jaipur, Bangalore-Coorg). Multi-stop city-and-attraction trips where you want full flexibility on stops. Extended Test Drives where the entire point is YOU driving the car. Budget-conscious travellers — the with-driver premium is meaningful.</p></section>
     
@@ -26,10 +26,10 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Is a self-drive cheaper than hiring a driver-and-car?</dt>
-    <dd>Yes. A self-drive Mumbai-Goa 2-day trip costs around ₹4,500 total; the same trip with a hired driver costs around ₹8,500-11,000 (driver wages ₹500-700/day, night allowance ₹400-600/night, food). Self-drive saves ₹4,000-6,500 on a typical 2-day trip.</dd>
+    <dd>Yes. A 2-day self-drive Mumbai-Goa trip costs from ₹6,005 for a hatchback and one-way fuel, plus tolls. With a hired driver you pay for the same car and fuel plus driver wages (₹500-700 per day), a night-stay allowance (₹400-600 per night) and food — about ₹1,400-2,600 more for a 2-day trip, before food.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I hire a driver separately for a self-drive booking?</dt>
-    <dd>Some users hire a driver from an external service (Cabby, DriveU, GoDriver) to drive a Zymo self-drive car. This is allowed by most partners — the driver must have a valid driving licence and be added to the booking. Confirm partner policy at pickup.</dd>
+    <dd>Some users hire a driver from an external service (Cabby, DriveU, GoDriver) to drive a Zymo self-drive car. Confirm the partner's policy before booking — any additional driver needs a valid driving licence and must be declared to the partner.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Are with-driver rentals available on Zymo?</dt>
     <dd>Zymo's core product is self-drive. For chauffeur-driven intercity travel, intercity cab services like Ola Outstation, Uber Outstation, or local taxi operators are the standard option. The economic comparison favours self-drive on most multi-day intercity trips.</dd>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH vehicle transport act</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -77,10 +77,10 @@ bodyHtml: |
 faqs: 
   - q: "Is a self-drive cheaper than hiring a driver-and-car?"
     a: |
-        Yes. A self-drive Mumbai-Goa 2-day trip costs around ₹4,500 total; the same trip with a hired driver costs around ₹8,500-11,000 (driver wages ₹500-700/day, night allowance ₹400-600/night, food). Self-drive saves ₹4,000-6,500 on a typical 2-day trip.
+        Yes. A 2-day self-drive Mumbai-Goa trip costs from ₹6,005 for a hatchback and one-way fuel, plus tolls. With a hired driver you pay for the same car and fuel plus driver wages (₹500-700 per day), a night-stay allowance (₹400-600 per night) and food — about ₹1,400-2,600 more for a 2-day trip, before food.
   - q: "Can I hire a driver separately for a self-drive booking?"
     a: |
-        Some users hire a driver from an external service (Cabby, DriveU, GoDriver) to drive a Zymo self-drive car. This is allowed by most partners — the driver must have a valid driving licence and be added to the booking. Confirm partner policy at pickup.
+        Some users hire a driver from an external service (Cabby, DriveU, GoDriver) to drive a Zymo self-drive car. Confirm the partner's policy before booking — any additional driver needs a valid driving licence and must be declared to the partner.
   - q: "Are with-driver rentals available on Zymo?"
     a: |
         Zymo's core product is self-drive. For chauffeur-driven intercity travel, intercity cab services like Ola Outstation, Uber Outstation, or local taxi operators are the standard option. The economic comparison favours self-drive on most multi-day intercity trips.

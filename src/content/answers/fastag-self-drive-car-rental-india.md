@@ -1,7 +1,7 @@
 ---
 slug: "fastag-self-drive-car-rental-india"
 title: "FASTag and Self-Drive Car Rental in India | Zymo"
-description: "All Zymo partner cars have working FASTag. How toll charges are billed, why your own FASTag won't work on a rental, route-by-route toll math."
+description: "Partner cars come fitted with FASTag — confirm the balance at pickup. How toll charges are billed, why your own FASTag won't work on a rental, route-by-route toll math."
 canonical: "https://zymo.app/answers/fastag-self-drive-car-rental-india"
 h1: "Do self-drive rental cars in India have FASTag?"
 publishedDate: "2026-05-27"
@@ -14,11 +14,11 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. All highway-going self-drive partner cars on Zymo are equipped with a working FASTag. Toll charges incurred during your rental are billed to you separately at the end of the trip, typically by deducting the actual toll cost from the security deposit or charging it to your card. The FASTag itself is registered to the partner; you only pay the toll amount, not a per-trip activation fee.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. Partner cars come fitted with FASTag; confirm the balance at pickup. Toll charges incurred during your rental are billed to you separately at the end of the trip, typically by deducting the actual toll cost from the security deposit or charging it to your card. The FASTag itself is registered to the partner; you only pay the toll amount, not a per-trip activation fee.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How toll billing works on a rental</h2><p>Partners use one of two methods. Method 1: a separate toll-tracking system reads your trip's toll usage and charges you the total at the end. Method 2: the partner reads the FASTag balance pre-trip and post-trip, and the difference is what you owe. Either way, you pay only the actual toll amount — no markup for using the partner's FASTag account.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Why your own FASTag won't work</h2><p>Highway FASTags are linked to the vehicle's registration number, not the driver. Your personal FASTag (registered to your own car) cannot be used on a rental car — toll plazas read the windshield-mounted tag's RFID, not your phone. You don't need to bring a FASTag for a rental; the car comes with one.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Toll math example</h2><p>Mumbai-Goa one-way via NH66 = ₹640 total tolls (Mumbai-Pune Expressway ₹320, Khed ₹85, Kolhapur ₹120, Goa Border ₹115). Delhi-Agra via Yamuna Expressway = ₹405 one-way. Bangalore-Mysore Expressway = ₹275 one-way. These are billed back to you after the trip ends.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Toll math example</h2><p>Mumbai-Pune Expressway: ₹320 one way for a car (as of October 2026). Bengaluru-Mysuru Expressway: about ₹370 one way for a car (₹185 on each of the expressway's two tolled sections, as of October 2026). On other routes, tolls vary by route and vehicle class and are paid via FASTag — check current rates in your FASTag or NHAI app before you leave. Tolls are billed back to you after the trip ends.</p></section>
     
     
     
@@ -38,7 +38,7 @@ bodyHtml: |
     <dd>No. Tolls are passed through to you at the exact amount you accrue during the trip. The daily booking covers the car only; tolls, fuel, and parking are separate.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much do tolls cost on typical Indian routes?</dt>
-    <dd>Mumbai-Goa one-way = ₹640. Delhi-Agra (Yamuna Expressway) = ₹405 one-way. Bangalore-Mysore Expressway = ₹275 one-way. Delhi-Jaipur (NH48) = ₹220 one-way. Most highways accept FASTag for cashless payment.</dd>
+    <dd>Mumbai-Pune Expressway: ₹320 one way for a car (as of October 2026). Bengaluru-Mysuru Expressway: about ₹370 one way for a car (₹185 on each of the expressway's two tolled sections, as of October 2026). On other routes, tolls vary by route and vehicle class and are paid via FASTag — check current rates in your FASTag or NHAI app before you leave.</dd>
     </dl>
     </section>
     
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI FASTag programme</a> &middot; <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -87,6 +87,6 @@ faqs:
     a: "No. Tolls are passed through to you at the exact amount you accrue during the trip. The daily booking covers the car only; tolls, fuel, and parking are separate."
   - q: "How much do tolls cost on typical Indian routes?"
     a: |
-        Mumbai-Goa one-way = ₹640. Delhi-Agra (Yamuna Expressway) = ₹405 one-way. Bangalore-Mysore Expressway = ₹275 one-way. Delhi-Jaipur (NH48) = ₹220 one-way. Most highways accept FASTag for cashless payment.
+        Mumbai-Pune Expressway: ₹320 one way for a car (as of October 2026). Bengaluru-Mysuru Expressway: about ₹370 one way for a car (₹185 on each of the expressway's two tolled sections, as of October 2026). On other routes, tolls vary by route and vehicle class and are paid via FASTag — check current rates in your FASTag or NHAI app before you leave.
 ---
 

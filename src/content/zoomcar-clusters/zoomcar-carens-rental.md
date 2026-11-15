@@ -27,12 +27,12 @@ bodyHtml: |
     </section>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What does a ZoomCar Carens cost?</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Carens is in the MPV/SUV class — expect rates from approximately ₹85/hr and above. Security deposits typically run ₹6,000–10,000 for this class, refunded after trip close. Confirm the exact rate and variant on the listing page before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rates and deposits vary by city and date — the listing page shows the exact figures before you book.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Why choose the Carens for a group trip?</h2>
     <ul>
     <li><strong>195 mm clearance:</strong> more capable than the Ertiga on uneven terrain; handles ghat roads and rural tracks comfortably</li>
-    <li><strong>6-seater captain layout:</strong> the 6-seat configuration with captain chairs in row 2 is the most comfortable multi-row layout for long journeys</li>
+    <li><strong>6-seater captain layout:</strong> the 6-seat configuration has captain chairs in row 2 for long journeys</li>
     <li><strong>Diesel efficiency:</strong> the 1.5L CRDi diesel returns excellent economy on highway outstation trips with a full load</li>
     <li><strong>ADAS on top trims:</strong> forward-collision warning and lane departure alert reduce fatigue on National Highway runs</li>
     </ul>
@@ -49,7 +49,7 @@ bodyHtml: |
     <p style="margin:0"><a href="/" style="color:#4F7BFF;text-decoration:none;font-weight:600">Browse cars on Zymo →</a></p>
     </section>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; ZoomCar pricing guide by car class</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; How ZoomCar pricing works</a></p>
     
     </article>
 faqs: 
@@ -57,8 +57,7 @@ faqs:
     a: |
         Yes. The Kia Carens is available on ZoomCar in select cities. A modern 6 or 7-seater MPV with 195 mm ground clearance and 1.5L petrol and diesel engines, it combines multi-row seating with compact SUV capability.
   - q: "How much does a ZoomCar Carens rental cost?"
-    a: |
-        The Carens is in the MPV class — expect rates from approximately ₹85/hr and above. Security deposits typically run ₹6,000–10,000 for this class, refunded after trip close. Confirm the exact rate and variant on the listing page.
+    a: "Rates and deposits vary by city and date — the listing page shows the exact figures before you book."
   - q: "Does the Kia Carens on ZoomCar have ADAS?"
     a: |
         ADAS is available on Carens Luxury+ and above trims. Not all listings include the ADAS-equipped variant. Confirm whether the specific listing is the Luxury+ trim before booking if ADAS features are important for your trip.

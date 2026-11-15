@@ -14,11 +14,11 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. Most metro airports in India (Mumbai CSMIA, Delhi IGI, Bangalore BLR, Hyderabad RGIA, Chennai MAA, Pune, Kolkata NSCBI) have partner pickup at or near the airport. Tier-2 airports (Goa, Kochi, Ahmedabad, Lucknow, Indore, Jaipur) have airport-pickup partners on Zymo. Search your airport city on Zymo, select airport pickup if listed, and the partner pickup point is shown on the booking page.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes, where a partner offers airport pickup. Search your airport city on Zymo, select airport pickup if listed, and the partner pickup point is shown on the booking page.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">On-airport vs near-airport pickup</h2><p>Some partners have a car-rental counter inside or just outside the terminal — pickup time is 15-30 minutes after landing. Other partners pick you up from arrivals in a shuttle to a nearby off-airport location — pickup time is 30-60 minutes total. The exact pickup model is shown on the booking page before you confirm.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to expect at airport pickup</h2><p>Carry your driving licence, government photo ID, the credit/debit card used for booking, and your flight landing confirmation (helps the partner schedule). Complete Aadhaar OTP verification on Zymo before landing to skip 10-15 minutes of paperwork at the counter. The car is handed over after a quick damage walkthrough and documentation check.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Late-night and red-eye flights</h2><p>Some airports support 24x7 self-drive pickup; others have limited operating hours. Bangalore, Delhi, Mumbai, Hyderabad, and Chennai metro airports are typically 24x7. Smaller airports may only operate until 11 PM or midnight. Confirm pickup time availability on the booking page for your specific arrival time.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Late-night and red-eye flights</h2><p>Some airport-area partners offer late-night pickup; others have limited operating hours. Confirm pickup time availability on the booking page for your specific arrival time.</p></section>
     
     
     
@@ -26,7 +26,7 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which Indian airports have self-drive pickup?</dt>
-    <dd>All metro airports (Mumbai CSMIA, Delhi IGI, Bangalore BLR, Hyderabad RGIA, Chennai MAA, Pune, Kolkata NSCBI) and major Tier-2 airports (Goa, Kochi, Ahmedabad, Lucknow, Indore, Jaipur, Chandigarh) have partner pickup at or near the airport.</dd>
+    <dd>Airport pickup is offered where a partner provides it. Search your airport city on Zymo and select airport pickup if it is listed.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How long does airport pickup take?</dt>
     <dd>On-airport counters: 15-30 minutes after landing. Off-airport shuttle pickup: 30-60 minutes including the shuttle ride. Completing Aadhaar OTP on Zymo before landing saves another 10-15 minutes at the counter.</dd>
@@ -69,15 +69,14 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH airport transport rules</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan vehicle registration</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a> &middot; <a href="https://vahan.parivahan.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Vahan portal (Parivahan)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "Which Indian airports have self-drive pickup?"
-    a: |
-        All metro airports (Mumbai CSMIA, Delhi IGI, Bangalore BLR, Hyderabad RGIA, Chennai MAA, Pune, Kolkata NSCBI) and major Tier-2 airports (Goa, Kochi, Ahmedabad, Lucknow, Indore, Jaipur, Chandigarh) have partner pickup at or near the airport.
+    a: "Airport pickup is offered where a partner provides it. Search your airport city on Zymo and select airport pickup if it is listed."
   - q: "How long does airport pickup take?"
     a: |
         On-airport counters: 15-30 minutes after landing. Off-airport shuttle pickup: 30-60 minutes including the shuttle ride. Completing Aadhaar OTP on Zymo before landing saves another 10-15 minutes at the counter.

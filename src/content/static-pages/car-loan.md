@@ -1,20 +1,20 @@
 ---
 slug: "car-loan"
 title: "Car Loan | Easy Auto Financing | Zymo"
-description: "Get easy car loan financing for your vehicle purchase. Compare loan options and apply online with Zymo's hassle-free process."
+description: "Planning to finance a car? Estimate your EMI across loan amounts and tenures, then get introduced to a partner lender through Zymo."
 canonical: "https://zymo.app/car-loan"
 bodyHtml: |
   <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:900px;margin:0 auto;line-height:1.8;font-size:0.95rem">
   <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Car Loan &mdash; Auto Financing on Zymo</h1>
   
-  <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo connects car buyers with auto-financing options through partner lenders. You can apply for a car loan online, get an estimated EMI based on the loan amount and tenure you choose, and proceed with the lender for documentation and approval. Loan eligibility, interest rates, and approved amounts are decided by the lender based on your profile (income, credit history, employment type) &mdash; Zymo facilitates the introduction.</p>
+  <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo connects car buyers with auto-financing options through partner lenders. Use Zymo&rsquo;s car loan EMI calculator to estimate a monthly payment for the loan amount and tenure you have in mind, then write to us and we will put you in touch with a lender. Loan eligibility, interest rates, and approved amounts are decided by the lender based on your profile (income, credit history, employment type) &mdash; Zymo facilitates the introduction.</p>
   
   <section>
   <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">How It Works</h2>
   <ol>
-  <li>Open the <a href="/car-loan" style="color:#4F7BFF;text-decoration:none">Car Loan page</a> and fill out the application form with basic details (name, contact, city, employment, expected loan amount).</li>
-  <li>Use the EMI calculator to estimate your monthly payment for different tenures.</li>
-  <li>Submit the application &mdash; the lender will reach out for verification and the next steps.</li>
+  <li>Use the EMI calculator to estimate your monthly payment across different loan amounts and tenures.</li>
+  <li>Email <a href="mailto:hello@zymo.app" style="color:#4F7BFF;text-decoration:none">hello@zymo.app</a> with the subject line &ldquo;Car loan enquiry&rdquo;, and include your city, employment type, and the loan amount you are looking for.</li>
+  <li>We pass the enquiry to a partner lender, who reaches out for verification and the next steps.</li>
   </ol>
   </section>
   

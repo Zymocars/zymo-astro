@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-delhi-airport"
 title: "ZoomCar Delhi Airport Pickup — IGI Terminal Pickup Guide | Zymo"
-description: "ZoomCar Delhi airport pickup: hub zones at IGI T1/T3, step-by-step pickup process, and what to do if you arrive and the car is not present."
+description: "ZoomCar Delhi airport pickup: finding the pickup zone at IGI T1/T3, step-by-step pickup process, and what to do if you arrive and the car is not present."
 canonical: "https://zymo.app/zoomcar-delhi-airport"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -28,9 +28,9 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to do if the car is not at the IGI pickup zone</h2>
     <ol>
     <li><strong>Do not leave the zone.</strong> Stay until you have documented the absence and received a response from ZoomCar support.</li>
-    <li><strong>Use in-app SOS immediately</strong> after waiting 10–15 minutes. Open ZoomCar app → active booking → SOS.</li>
+    <li><strong>Use in-app SOS immediately</strong> after waiting a few minutes. Open ZoomCar app → active booking → SOS.</li>
     <li><strong>Document with a timestamped photo</strong> of the empty parking bay from your phone — location metadata supports your claim.</li>
-    <li><strong>Request refund or replacement:</strong> car non-availability at pickup entitles you to a full refund if unresolved within 1 hour. State this in the SOS chat.</li>
+    <li><strong>Request a refund or replacement:</strong> ask ZoomCar support for a replacement car or a refund in the SOS chat.</li>
     </ol>
     </section>
     
@@ -46,7 +46,7 @@ bodyHtml: |
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0">
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Zymo tip — Delhi airport alternatives</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside Zip cars and other partner vehicles in Delhi. If ZoomCar is unavailable for your exact airport dates, alternatives appear in the same search. Search Zymo for "Delhi airport pickup" to compare current availability and pricing across all partners in one place.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside ZIP cars and other partner vehicles in Delhi. If ZoomCar is unavailable for your exact airport dates, alternatives appear in the same search. Search Zymo for "Delhi airport pickup" to compare current availability and pricing across multiple partners in one place.</p>
     </section>
     
     <section>
@@ -56,7 +56,7 @@ bodyHtml: |
     <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses designated hub zones at IGI. The pickup location (terminal and parking level) is in your booking confirmation. Use the ZoomCar app to unlock the car after completing the in-app pre-trip inspection.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Is ZoomCar available at Delhi T3?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar has hub zones at IGI serving both T1 and T3. Confirm the exact zone in your booking — T1 domestic and T3 international are in different parts of the airport complex.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the ZoomCar app for the pickup zone for your booking — T1 domestic and T3 international are in different parts of the airport complex.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -76,6 +76,6 @@ faqs:
     a: |
         ZoomCar uses designated hub zones at IGI. The pickup location (terminal and parking level) is in your booking confirmation. Use the ZoomCar app to unlock the car after completing the in-app pre-trip inspection.
   - q: "Is ZoomCar available at Delhi T3?"
-    a: "ZoomCar has hub zones at IGI serving both T1 and T3. Confirm the exact zone in your booking — T1 domestic and T3 international are in different parts of the airport complex."
+    a: "Check the ZoomCar app for the pickup zone for your booking — T1 domestic and T3 international are in different parts of the airport complex."
 ---
 

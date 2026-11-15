@@ -10,7 +10,7 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Hyundai Verna self-drive availability and booking guide</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Is the Hyundai Verna available on ZoomCar?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Hyundai Verna is available on ZoomCar in select cities. The most feature-loaded sedan in its class, the 2023 Verna brings a 528 L boot, 1.5L turbo petrol option, and ADAS on top trims — making it the premium sedan choice for highway runs and executive group travel. Zymo shows Verna listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. The Hyundai Verna is available on ZoomCar in select cities. The 2023 Verna brings a 528 L boot, 1.5L turbo petrol option, and ADAS on top trims — making it the premium sedan choice for highway runs and executive group travel. Zymo shows Verna listings from ZoomCar alongside other self-drive partners for your city and dates.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Hyundai Verna — key specs for self-drive</h2>
@@ -27,14 +27,14 @@ bodyHtml: |
     </section>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What does a ZoomCar Verna cost?</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">The Verna is in the premium sedan class — expect rates from approximately ₹75–85/hr in major metros. Security deposits typically run ₹6,000–10,000 for this class. The turbo variant may carry a slight premium. Confirm the exact rate on the listing page before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Rates and deposits vary by city and date — the listing page shows the exact figures before you book.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Why choose the Verna for highway drives?</h2>
     <ul>
-    <li><strong>528 L boot:</strong> the largest boot in the mid-sedan class — handles luggage for 4 adults on multi-night trips comfortably</li>
+    <li><strong>528 L boot:</strong> handles luggage for 4 adults on multi-night trips comfortably</li>
     <li><strong>Turbo petrol:</strong> the 1.5T DCT variant delivers 160 PS for effortless overtaking on National Highway expressways</li>
     <li><strong>ADAS on top trims:</strong> forward collision warning, lane keep assist, and blind-spot monitoring on SX(O) variants reduce fatigue on 400+ km runs</li>
-    <li><strong>Premium interior:</strong> the 2023 Verna's panoramic sunroof, ventilated front seats, and 10.25-inch cluster make it the most premium rental cabin in its segment</li>
+    <li><strong>Premium interior:</strong> the 2023 Verna's panoramic sunroof, ventilated front seats, and 10.25-inch cluster add comfort on long drives</li>
     </ul>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to verify before booking a ZoomCar Verna</h2>
@@ -49,16 +49,14 @@ bodyHtml: |
     <p style="margin:0"><a href="/" style="color:#4F7BFF;text-decoration:none;font-weight:600">Browse cars on Zymo →</a></p>
     </section>
     
-    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; ZoomCar pricing guide by car class</a></p>
+    <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/zoomcar-pricing" style="color:#4F7BFF;text-decoration:none">&larr; How ZoomCar pricing works</a></p>
     
     </article>
 faqs: 
   - q: "Is the Hyundai Verna available on ZoomCar?"
-    a: |
-        Yes. The Hyundai Verna (2023 gen) is available on ZoomCar in select cities. A premium mid-sedan with 528 L boot, 1.5T turbo petrol option, and ADAS on top trims, it is the most feature-loaded sedan in its rental class.
+    a: "Yes. The Hyundai Verna (2023 gen) is available on ZoomCar in select cities — a mid-sedan with a 528 L boot, 1.5T turbo petrol option, and ADAS on top trims."
   - q: "How much does a ZoomCar Verna rental cost?"
-    a: |
-        The Verna is in the premium sedan class — expect rates from approximately ₹75–85/hr in major metros. The turbo variant may carry a slight premium. Security deposits typically run ₹6,000–10,000, refunded after trip close.
+    a: "Rates and deposits vary by city and date — the listing page shows the exact figures before you book."
   - q: "Does the Hyundai Verna on ZoomCar have ADAS?"
     a: |
         ADAS is available only on the Verna SX(O) Connect trim. Not all listings are the top trim. Confirm the specific variant on the listing page before booking if ADAS features (lane keep, forward collision warning) are important to your trip.

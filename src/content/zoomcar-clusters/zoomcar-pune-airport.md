@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-pune-airport"
 title: "ZoomCar Pune Airport Pickup — Lohegaon PNQ Guide | Zymo"
-description: "ZoomCar Pune airport pickup: hub zone at Lohegaon (PNQ), 10km from Koregaon Park. Pickup steps and what to do if the car is not present."
+description: "ZoomCar Pune airport pickup: Lohegaon (PNQ), 10km from Koregaon Park. Pickup steps and what to do if the car is not present."
 canonical: "https://zymo.app/zoomcar-pune-airport"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -10,11 +10,11 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; Pune International Airport (PNQ), Lohegaon — approximately 10km from Koregaon Park</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">How does ZoomCar airport pickup work at Pune?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Pune International Airport (PNQ) in Lohegaon. The car is parked at a designated hub zone on or near the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact hub zone location. PNQ is one of India's more compact airports, which makes locating the hub zone straightforward compared to larger metro airports. Unlock the car via the app and complete the in-app pre-trip inspection before driving away.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar uses a hub-model pickup at Pune International Airport (PNQ) in Lohegaon. The car is parked at a designated hub zone on or near the airport premises — not brought to the terminal exit. Your booking confirmation and the ZoomCar app show the exact hub zone location. Unlock the car via the app and complete the in-app pre-trip inspection before driving away.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Planning for PNQ's location in Pune</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune International Airport at Lohegaon is approximately 10km from Koregaon Park, 12km from Camp (Cantonment), and 15km from Hinjewadi IT corridor. This is one of India's closer city-airport distances — a ZoomCar pickup at PNQ drops you into Pune's traffic without a long airport approach drive. Factor 20–35 minutes from the airport to Koregaon Park or Camp depending on traffic, and 30–45 minutes to Hinjewadi during peak IT corridor hours.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune International Airport at Lohegaon is approximately 10km from Koregaon Park, 12km from Camp (Cantonment), and 15km from Hinjewadi IT corridor. Factor 20–35 minutes from the airport to Koregaon Park or Camp depending on traffic, and 30–45 minutes to Hinjewadi during peak IT corridor hours.</p>
     </section>
     
     <section>
@@ -33,9 +33,9 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">What to do if the car is not at the PNQ pickup zone</h2>
     <ol>
     <li><strong>Do not leave the zone.</strong> Document your presence at the correct zone before doing anything else.</li>
-    <li><strong>Use in-app SOS immediately</strong> after waiting 10–15 minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
+    <li><strong>Use in-app SOS immediately</strong> after waiting a few minutes. Open ZoomCar app → active booking → SOS. State your booking ID and that the car is not present.</li>
     <li><strong>Document with a timestamped photo</strong> of the empty parking bay — location metadata on the photo supports your claim.</li>
-    <li><strong>Request refund or replacement:</strong> car non-availability at pickup entitles you to a full refund if unresolved within 1 hour. State this clearly in the SOS chat.</li>
+    <li><strong>Request a refund or replacement:</strong> ask ZoomCar support for a replacement car or a refund in the SOS chat.</li>
     </ol>
     </section>
     
@@ -51,20 +51,20 @@ bodyHtml: |
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0">
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Zymo tip — Pune airport alternatives</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside Zip cars and other partner vehicles in Pune. If ZoomCar is unavailable for your exact PNQ pickup dates, alternatives appear in the same search. Pune is a strong ZoomCar city — availability at PNQ is generally good. For outstation trips to Mahabaleshwar (120km), Lonavala (65km), or Kolhapur (230km), compare ZoomCar and Zip options on Zymo to ensure the km allowance fits your route before booking.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo's search shows ZoomCar airport listings alongside ZIP cars and other partner vehicles in Pune. If ZoomCar is unavailable for your exact PNQ pickup dates, alternatives appear in the same search. For outstation trips to Mahabaleshwar (120km), Lonavala (65km), or Kolhapur (230km), compare options across partners on Zymo to ensure the km allowance fits your route before booking.</p>
     </section>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently asked questions</h2>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">How far is Pune airport from the city?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune International Airport (PNQ) at Lohegaon is approximately 10km from Koregaon Park, 12km from Camp, and 15km from Hinjewadi IT corridor. It is one of India's closer city-airport distances — a ZoomCar pickup at PNQ drops you into Pune traffic without a long airport approach.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune International Airport (PNQ) at Lohegaon is approximately 10km from Koregaon Park, 12km from Camp, and 15km from Hinjewadi IT corridor.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">Does ZoomCar have cars at Pune airport?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar has hub zones at PNQ Airport. The exact pickup point is shown in your booking confirmation and the ZoomCar app. Given Pune's compact airport layout, locating the hub zone is straightforward compared to larger metros.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Check the ZoomCar app for the pickup zone at PNQ Airport. The exact pickup point is shown in your booking confirmation and the ZoomCar app.</p>
     
     <h3 style="color:#FFFFFF;margin:1.5rem 0 0.5rem;font-size:1.15rem">What if I need a car at Pune airport for Mahabaleshwar or Lonavala?</h3>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune airport is an excellent starting point for Mahabaleshwar (120km), Lonavala (65km), and Kolhapur (230km). Book in advance on Zymo — compare ZoomCar and Zip options for the outstation distance to ensure you have the right km allowance.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Pune airport is a good starting point for Mahabaleshwar (120km), Lonavala (65km), and Kolhapur (230km). Book in advance on Zymo — compare options across partners for the outstation distance to ensure you have the right km allowance.</p>
     </section>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
@@ -81,13 +81,10 @@ bodyHtml: |
     </article>
 faqs: 
   - q: "How far is Pune airport from the city?"
-    a: |
-        Pune International Airport (PNQ) at Lohegaon is approximately 10km from Koregaon Park, 12km from Camp, and 15km from Hinjewadi IT corridor. It is one of India's closer city-airport distances — a ZoomCar pickup at PNQ drops you into Pune traffic without a long airport approach.
+    a: "Pune International Airport (PNQ) at Lohegaon is approximately 10km from Koregaon Park, 12km from Camp, and 15km from Hinjewadi IT corridor."
   - q: "Does ZoomCar have cars at Pune airport?"
-    a: |
-        ZoomCar has hub zones at PNQ Airport. The exact pickup point is shown in your booking confirmation and the ZoomCar app. Given Pune's compact airport layout, locating the hub zone is straightforward compared to larger metros.
+    a: "Check the ZoomCar app for the pickup zone at PNQ Airport. The exact pickup point is shown in your booking confirmation and the ZoomCar app."
   - q: "What if I need a car at Pune airport for Mahabaleshwar or Lonavala?"
-    a: |
-        Pune airport is an excellent starting point for Mahabaleshwar (120km), Lonavala (65km), and Kolhapur (230km). Book in advance on Zymo — compare ZoomCar and Zip options for the outstation distance to ensure you have the right km allowance.
+    a: "Pune airport is a good starting point for Mahabaleshwar (120km), Lonavala (65km), and Kolhapur (230km). Book in advance on Zymo and compare options to ensure the km allowance fits your route."
 ---
 

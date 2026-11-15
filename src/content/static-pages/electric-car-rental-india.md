@@ -7,14 +7,14 @@ bodyHtml: |
   <article style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:900px;margin:0 auto;line-height:1.8;font-size:0.95rem">
   <h1 style="color:#FFFFFF;font-size:1.6rem;margin-bottom:0.5rem">Electric Car Rental in India &mdash; Self-Drive EVs</h1>
   
-  <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo aggregates electric vehicle (EV) rental listings from multiple self-drive partners across major Indian cities. Bangalore, Delhi, Mumbai, Pune, Hyderabad, and Chennai have the widest selection. Most rental EVs offer 250&ndash;400 km of range and ship with a home charging cable. Running cost is roughly &#8377;1&ndash;1.5 per km in electricity vs &#8377;7&ndash;8 per km in petrol &mdash; a meaningful saving on longer trips. Documents needed: a valid Aadhaar and a valid driving licence. No special EV licence required.</p>
+  <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo aggregates electric vehicle (EV) rental listings from multiple self-drive partners across major Indian cities. EV listings vary by city and by partner — search your city and dates to see the EVs listed. Most rental EVs offer 250&ndash;400 km of range and ship with a home charging cable. Running cost is roughly &#8377;1&ndash;1.5 per km in electricity vs &#8377;7&ndash;8 per km in petrol &mdash; a meaningful saving on longer trips. Documents needed: a valid Aadhaar and a valid driving licence. No special EV licence required.</p>
   
   <section>
   <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">Why Choose an Electric Car</h2>
   <ul>
   <li><strong>Lower running cost.</strong> EVs cost roughly &#8377;1&ndash;1.5 per km in electricity vs &#8377;7&ndash;8 per km in petrol. On a 500 km trip, the savings are substantial.</li>
   <li><strong>Silent, smooth driving.</strong> No engine noise, no gear shifts, instant torque. Once you experience EV driving in city traffic, the appeal becomes obvious.</li>
-  <li><strong>Try before you commit.</strong> EVs start at &#8377;12&ndash;15 lakh. That&rsquo;s a meaningful purchase. An Extended Test Drive lets you live with the EV for days &mdash; on your routes, with your charging reality &mdash; before deciding.</li>
+  <li><strong>Try before you commit.</strong> An EV is a large purchase. An Extended Test Drive lets you live with the EV for days &mdash; on your routes, with your charging reality &mdash; before deciding.</li>
   </ul>
   </section>
   
@@ -33,7 +33,7 @@ bodyHtml: |
   
   <section>
   <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">EV Rentals by City</h2>
-  <p>EV availability varies by city and depends on partner supply. Major metros have the widest selection.</p>
+  <p>EV availability varies by city and depends on partner supply; search your city to see the EVs listed for your dates.</p>
   <ul style="list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0.4rem 1rem">
   <li><a href="/self-drive-car-rental-in-bangalore" style="color:#4F7BFF;text-decoration:none">Search EVs in Bangalore</a></li>
   <li><a href="/self-drive-car-rental-in-delhi" style="color:#4F7BFF;text-decoration:none">Search EVs in Delhi</a></li>
@@ -56,7 +56,7 @@ bodyHtml: |
   
   <section>
   <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.3rem">Considering Buying an EV? Live With It First</h2>
-  <p>An EV is a &#8377;12&ndash;25 lakh commitment. Beyond the initial short test drive at the showroom, you&rsquo;ll want to know about charging convenience near your home, real-world range in your traffic, and how it fits into your daily routine. Take an Extended Test Drive from Zymo &mdash; spend a full day or longer with the EV on your actual routes. Experience the charging workflow, the range in real conditions, and the driving difference. Then decide with confidence. <a href="/extended-test-drive" style="color:#4F7BFF;text-decoration:none">See the Extended Test Drive page</a>.</p>
+  <p>An EV is a large purchase. Beyond the initial short test drive at the showroom, you&rsquo;ll want to know about charging convenience near your home, real-world range in your traffic, and how it fits into your daily routine. Take an Extended Test Drive from Zymo &mdash; spend a full day or longer with the EV on your actual routes. Experience the charging workflow, the range in real conditions, and the driving difference. Then decide with confidence. <a href="/extended-test-drive" style="color:#4F7BFF;text-decoration:none">See the Extended Test Drive page</a>.</p>
   </section>
   
   <section>

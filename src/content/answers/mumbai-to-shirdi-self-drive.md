@@ -14,12 +14,12 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Mumbai to Shirdi is 240 km via the Pune-Nashik Expressway and NH160, approximately 4.5 hours. Shirdi is one of India's most visited pilgrimage towns — Sai Baba Samadhi Mandir sees over 25,000 devotees daily. A hatchback handles the route; book in advance for long weekends when Shirdi accommodation fills quickly.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Mumbai to Shirdi is about 250 km via Nashik on NH160, approximately 4.5-5 hours. Shirdi is one of India's most visited pilgrimage towns, home to the Sai Baba Samadhi Mandir. A hatchback handles the route; book in advance for long weekends when Shirdi accommodation fills quickly.</p>
     
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Route breakdown and milestones</h2><p>Mumbai (Andheri/Thane) → Nashik via NH848B and NH160 (165 km, 3 hrs): good 4-lane expressway. Nashik → Shirdi via NH160 (85 km, 1.5 hrs): 4-lane highway through Sinnar and Kopargaon. Total: 240-255 km depending on Mumbai departure point. Alternative shorter route via NH160 Kasara-Igatpuri-Nashik-Shirdi — same road. From South Mumbai, add 30-45 km via NH48 to connect to Thane.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for Mumbai-Shirdi self-drive</h2><p>Car: hatchback ₹1,100-1,500/day. 2-day trip: ₹2,200-3,000. Fuel: 480 km round trip; hatchback at 15 km/L = ₹3,360. Tolls: Nashik Expressway Mumbai-Nashik (₹230 one-way) + Nashik-Shirdi NH160 (₹80 one-way) = ₹310 one-way, ₹620 round-trip. Total 2-day budget for 2 people: ₹8,000-12,000. Plan accommodation booking 2 weeks ahead for Ramnavami, Guru Pournima, Diwali weekends — rooms fill completely.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Shirdi pilgrimage planning for self-drive visitors</h2><p>Shirdi Sai Baba Samadhi Mandir: darshan is free, online VIP darshan booking at sai.org.in reduces queue to 30-45 minutes vs 3-4 hours for general queue. Darshan timings: 5:30 AM first aarti, last entry 9:30 PM. Parking: official Shirdi Sansthan parking lots near the temple — ₹50/day. Shani Shingnapur (65 km from Shirdi, 1.5 hrs): open-air Shani temple — common one-day Shirdi+Shani circuit. Nashik (85 km from Shirdi): Sula Vineyards, Trimbakeshwar Jyotirlinga — add on return day.</p></section>
-    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Fuel stops and road conditions by segment</h2><p>Thane Expressway (before NH848B, 30 km from Mumbai): fill up before the expressway. Igatpuri (130 km, base of ghat): BPCL fuel station — good stop after the ghat ascent. Nashik city (165 km): large fuel cluster near the NH160 junction — recommended fuel and meal stop. Kopargaon (220 km): small town before Shirdi; fuel if needed. Road conditions: Mumbai-Nashik Expressway is excellent 4-lane; Nashik-Shirdi NH160 is 4-lane and well-maintained throughout.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Route breakdown and milestones</h2><p>Mumbai (Andheri/Thane) → Kasara → Igatpuri → Nashik via NH160 (165 km, 3.5 hrs): good 4-lane highway. Nashik → Shirdi via NH160 (85 km, 1.5 hrs): 4-lane highway through Sinnar. Total: about 250 km depending on Mumbai departure point. From South Mumbai, add 30-45 km to reach Thane.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Cost breakdown for Mumbai-Shirdi self-drive</h2><p>Car: hatchback ₹1,200-1,800/day. 2-day trip: ₹2,400-3,600. Fuel: about 500 km round trip; hatchback at 15 km/L and ₹105/L = about ₹3,500. Tolls: tolls vary by route and vehicle class and are paid via FASTag — check current rates in your FASTag or NHAI app before you leave. Car and fuel for 2 days: about ₹5,900-7,100, plus tolls. Plan accommodation booking 2 weeks ahead for Ramnavami, Guru Pournima, Diwali weekends — rooms fill completely.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Shirdi pilgrimage planning for self-drive visitors</h2><p>Shirdi Sai Baba Samadhi Mandir: darshan is free; paid darshan passes booked on the official Shirdi Sansthan site shorten the queue considerably. Darshan runs from the early-morning aarti to late evening — check the Sansthan site for current timings. Parking: official Shirdi Sansthan parking lots near the temple. Shani Shingnapur (65 km from Shirdi, 1.5 hrs): open-air Shani temple — common one-day Shirdi+Shani circuit. Nashik (85 km from Shirdi): Sula Vineyards, Trimbakeshwar Jyotirlinga — add on return day.</p></section>
+    <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Fuel stops and road conditions by segment</h2><p>Thane (about 30 km from Mumbai): fill up before the highway. Igatpuri (130 km, base of ghat): BPCL fuel station — good stop after the ghat ascent. Nashik city (165 km): large fuel cluster near the NH160 junction — recommended fuel and meal stop. Kopargaon (220 km): small town before Shirdi; fuel if needed. Road conditions: the Mumbai-Nashik highway (NH160) is a good 4-lane road; Nashik-Shirdi NH160 is 4-lane and well-maintained.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Which car to book for Mumbai-Shirdi on Zymo</h2><p>Maruti Swift or WagonR: ideal for Mumbai-Shirdi — the route is flat highway and Shirdi town roads are manageable in a compact car. Hatchbacks also park easily in the Shirdi Sansthan official lots. Compact SUV: warranted if extending to Aurangabad-Ellora Caves (180 km from Shirdi) where some approach roads are rough. Innova or large SUV: unnecessary for the Mumbai-Shirdi core route. Book from Andheri or Borivali partners on Zymo for the closest Mumbai departure.</p></section>
     
     
@@ -28,22 +28,22 @@ bodyHtml: |
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related questions</h2>
     <dl>
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How far is Mumbai to Shirdi by self-drive?</dt>
-    <dd>Mumbai to Shirdi is 240 km via NH160 through Nashik and takes 4.5-5 hours in normal traffic. Via the old Kasara Ghat route it is 270 km but more scenic.</dd>
+    <dd>Mumbai to Shirdi is about 250 km via NH160 through Kasara, Igatpuri, and Nashik, and takes about 4.5-5 hours in normal traffic.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which route is best from Mumbai to Shirdi?</dt>
     <dd>NH160 via Nashik (Kasara or Igatpuri, then Sinnar, Shirdi) is the main route — well-maintained and mostly 4-lane. Many pilgrims stop at Nashik (Trimbakeshwar) en route — worth planning a 2-day trip.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the toll from Mumbai to Shirdi?</dt>
-    <dd>Approximately ₹350-500 one-way via NH160, including Mumbai-Nashik Expressway tolls. FASTag required. Check live toll amounts on the FASTag app before departing.</dd>
+    <dd>Tolls on the Mumbai-Nashik-Shirdi route vary by vehicle class and are revised periodically. FASTag required. Check live toll amounts on the FASTag app before departing.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What car is best for Mumbai to Shirdi?</dt>
     <dd>Any car handles the NH160 well — it's a smooth highway. Hatchback or compact sedan for 2-4 people. Innova Crysta or Ertiga for larger pilgrim groups. The route includes a gentle ghat section at Igatpuri.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does a Mumbai-Shirdi self-drive cost?</dt>
-    <dd>Approximately ₹6,000-9,000 for a day trip: car ₹1,500-2,500 + fuel ₹1,000-1,400 (240 km one-way) + tolls ₹700-1,000 round trip + Shirdi Sai Baba Temple darshan (free, queue time: 1-4 hours).</dd>
+    <dd>A day trip is long (about 500 km round trip); 2 days is more comfortable. For 2 days: car ₹2,400-3,600 (hatchback) + fuel about ₹3,500 (500 km at 15 km/L and ₹105/L) + tolls. Darshan is free (queue time: 1-4 hours).</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I book a Mumbai self-drive car for Shirdi?</dt>
-    <dd>Yes. Most Zymo Mumbai and Thane partners include Maharashtra outstation covering the Nashik-Shirdi corridor. Confirm outstation permission at booking.</dd>
+    <dd>Yes. Confirm Maharashtra outstation permission with the partner at booking.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is the best time to start driving from Mumbai to Shirdi?</dt>
     <dd>Leave by 4:30-5:00 AM to avoid Mumbai traffic and reach Shirdi by 9-10 AM for manageable darshan queues. Avoid weekends and major festivals (Ram Navami, Vijayadashami) when darshan queues can extend 6-8 hours.</dd>
@@ -77,25 +77,26 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">MoRTH highway safety data</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://morth.nic.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Ministry of Road Transport &amp; Highways (MoRTH)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
     </article>
 faqs: 
   - q: "How far is Mumbai to Shirdi by self-drive?"
-    a: "Mumbai to Shirdi is 240 km via NH160 through Nashik and takes 4.5-5 hours in normal traffic. Via the old Kasara Ghat route it is 270 km but more scenic."
+    a: "Mumbai to Shirdi is about 250 km via NH160 through Kasara, Igatpuri, and Nashik, and takes about 4.5-5 hours in normal traffic."
   - q: "Which route is best from Mumbai to Shirdi?"
     a: "NH160 via Nashik (Kasara or Igatpuri, then Sinnar, Shirdi) is the main route — well-maintained and mostly 4-lane. Many pilgrims stop at Nashik (Trimbakeshwar) en route — worth planning a 2-day trip."
   - q: "What is the toll from Mumbai to Shirdi?"
-    a: "Approximately ₹350-500 one-way via NH160, including Mumbai-Nashik Expressway tolls. FASTag required. Check live toll amounts on the FASTag app before departing."
+    a: "Tolls on the Mumbai-Nashik-Shirdi route vary by vehicle class and are revised periodically. FASTag required. Check live toll amounts on the FASTag app before departing."
   - q: "What car is best for Mumbai to Shirdi?"
     a: |
         Any car handles the NH160 well — it's a smooth highway. Hatchback or compact sedan for 2-4 people. Innova Crysta or Ertiga for larger pilgrim groups. The route includes a gentle ghat section at Igatpuri.
   - q: "How much does a Mumbai-Shirdi self-drive cost?"
-    a: "Approximately ₹6,000-9,000 for a day trip: car ₹1,500-2,500 + fuel ₹1,000-1,400 (240 km one-way) + tolls ₹700-1,000 round trip + Shirdi Sai Baba Temple darshan (free, queue time: 1-4 hours)."
+    a: |
+        A day trip is long (about 500 km round trip); 2 days is more comfortable. For 2 days: car ₹2,400-3,600 (hatchback) + fuel about ₹3,500 (500 km at 15 km/L and ₹105/L) + tolls. Darshan is free (queue time: 1-4 hours).
   - q: "Can I book a Mumbai self-drive car for Shirdi?"
-    a: "Yes. Most Zymo Mumbai and Thane partners include Maharashtra outstation covering the Nashik-Shirdi corridor. Confirm outstation permission at booking."
+    a: "Yes. Confirm Maharashtra outstation permission with the partner at booking."
   - q: "What is the best time to start driving from Mumbai to Shirdi?"
     a: |
         Leave by 4:30-5:00 AM to avoid Mumbai traffic and reach Shirdi by 9-10 AM for manageable darshan queues. Avoid weekends and major festivals (Ram Navami, Vijayadashami) when darshan queues can extend 6-8 hours.

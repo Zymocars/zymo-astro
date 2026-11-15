@@ -1,7 +1,7 @@
 ---
 slug: "zoomcar-automatic-cars"
 title: "ZoomCar Automatic Cars — AMT, AT, CVT Models & Booking Guide | Zymo"
-description: "ZoomCar automatic cars: WagonR AMT, Baleno AGS, i20 IVT, Brezza AT, Creta AT. Compare ZoomCar automatics with Zip and other partners on Zymo."
+description: "ZoomCar automatic cars: WagonR AMT, Baleno AGS, i20 IVT, Brezza AT, Creta AT. Compare ZoomCar automatics with ZIP and other partners on Zymo."
 canonical: "https://zymo.app/zoomcar-automatic-cars"
 bodyHtml: |
     <article class="seo-content" style="background:#05070E;color:#B3B7C3;font-family:Poppins,sans-serif;padding:2rem 1rem;max-width:800px;margin:0 auto;line-height:1.8;font-size:0.95rem">
@@ -10,7 +10,7 @@ bodyHtml: |
     <p style="color:#8A94A6;font-size:0.85rem;margin-bottom:1.5rem">Updated June 2026 &middot; How to find and book automatic transmission cars through ZoomCar on Zymo</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Does ZoomCar have automatic cars?</h2>
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. ZoomCar has a range of automatic transmission cars available across India — including AMT (Automated Manual Transmission), AT (torque-converter automatic), CVT, and IVT variants. Availability varies by city and date. The most practical way to find ZoomCar automatic cars alongside other partners' automatic inventory is to use the Automatic filter on Zymo's search — Zymo shows ZoomCar automatics together with Zip automatic cars and other partners in a single view.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes. ZoomCar lists automatic transmission cars — including AMT (Automated Manual Transmission), AT (torque-converter automatic), CVT, and IVT variants. Availability varies by city and date. The most practical way to find ZoomCar automatic cars alongside other partners' automatic inventory is to use the Automatic filter on Zymo's search — Zymo shows ZoomCar automatics together with ZIP cars and other partners in a single view.</p>
     
     <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">ZoomCar automatic car models</h2>
@@ -43,15 +43,15 @@ bodyHtml: |
     <ol>
     <li>Search your city and dates on <a href="/" style="color:#4F7BFF;text-decoration:none">Zymo</a></li>
     <li>Apply the <strong>Automatic</strong> filter in the car type / transmission section</li>
-    <li>Results show ZoomCar automatic cars alongside Zip automatic cars and other partners — compare pricing, pickup location, and KM limits side-by-side</li>
+    <li>Results show ZoomCar automatic cars alongside ZIP cars and other partners — compare pricing, pickup location, and KM limits side-by-side</li>
     <li>Confirm the specific transmission type (AMT, AT, CVT) on the listing detail page before booking — not all "automatic" listings are the same</li>
     </ol>
     
-    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Marketplace advantage: ZoomCar automatics vs Zip automatics</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo shows ZoomCar automatic cars alongside Zip automatic cars and other partners in the same search. This matters because Zip — Zymo's own in-house fleet — often has automatic options in major metros, sometimes with zero-deposit terms or different pricing structures. Filtering by Automatic on Zymo is the fastest way to see all options, compare prices, and pick the best fit for your trip without checking multiple apps.</p>
+    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Marketplace advantage: ZoomCar automatics and other partners</h2>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Zymo shows ZoomCar automatic cars alongside ZIP cars (listed on Zymo by individual owners) and other partners in the same search. Each partner sets its own price and deposit, shown on the listing. Filtering by Automatic on Zymo is a quick way to see options from multiple partners, compare prices, and pick the best fit for your trip without checking multiple apps.</p>
     
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">City availability for ZoomCar automatics</h2>
-    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">ZoomCar automatic cars are most widely available in metro cities: Mumbai, Delhi, Bangalore, Hyderabad, Chennai, and Pune. Tier-2 cities like Jaipur, Ahmedabad, Chandigarh, and Lucknow have growing automatic inventory but with fewer model options. For best results, search with flexible dates — automatic availability varies significantly day-to-day even within the same city.</p>
+    <p style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Automatic availability varies by city and from day to day. For best results, search with flexible dates on Zymo.</p>
     
     <section style="background:#16222E;border-radius:10px;padding:1.5rem;margin:2rem 0;text-align:center">
     <p style="color:#FFFFFF;font-weight:600;margin-bottom:0.5rem">Compare ZoomCar with multiple self-drive partners</p>
@@ -64,14 +64,13 @@ bodyHtml: |
 faqs: 
   - q: "Does ZoomCar have automatic cars in India?"
     a: |
-        Yes. ZoomCar has automatic cars including AMT, AT, CVT, and IVT variants — from WagonR AMT and Baleno AGS to Creta IVT and Brezza AT. Availability varies by city and date. Use the Automatic filter on Zymo to see live options.
+        Yes. ZoomCar lists automatic cars including AMT, AT, CVT, and IVT variants — such as the WagonR AMT, Baleno AGS, Creta IVT and Brezza AT. Availability varies by city and date. Use the Automatic filter on Zymo to see live options.
   - q: "What is the difference between AMT and AT on ZoomCar?"
     a: |
         AMT (Automated Manual Transmission) has noticeable gear hesitation and is best for city driving. AT (torque-converter automatic) gives a smoother, more traditional automatic feel suitable for city and highway mixed use. CVT/IVT is the smoothest option with no gear steps.
   - q: "How do I book an automatic ZoomCar on Zymo?"
-    a: "Search your city and dates on Zymo, then apply the Automatic filter. Results show ZoomCar automatic cars alongside Zip automatic cars and other partners with side-by-side pricing."
+    a: "Search your city and dates on Zymo, then apply the Automatic filter. Results show ZoomCar automatic cars alongside ZIP cars and other partners with side-by-side pricing."
   - q: "Are ZoomCar automatic cars available in Tier-2 cities?"
-    a: |
-        Yes, but with fewer model options than metros. Mumbai, Delhi, Bangalore, Hyderabad, Chennai, and Pune have the widest automatic car selection on ZoomCar. Jaipur, Ahmedabad, Chandigarh, and Lucknow have growing automatic inventory.
+    a: "Automatic availability varies by city and date — search your city on Zymo to see live options."
 ---
 

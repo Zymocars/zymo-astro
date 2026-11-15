@@ -14,7 +14,7 @@ bodyHtml: |
     
     
     
-    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes — 5-day and 7-day self-drive brackets on Zymo are popular for week-long trips and typically carry a better per-day rate than booking 7 single days. A 7-day hatchback booking averages around ₹6,500-9,000 total; a 7-day SUV booking averages ₹13,000-22,000 depending on city, car, and dates. Pick the duration on the booking page and the partner's actual per-day rate adjusts automatically.</p>
+    <p data-speakable="true" style="font-size:1.05rem;color:#FFFFFF;line-height:1.8;margin-bottom:1rem">Yes — 5-day and 7-day self-drive brackets on Zymo are popular for week-long trips and typically carry a better per-day rate than booking 7 single days. A 7-day hatchback booking typically costs about ₹6,500-9,000 in total; a 7-day SUV booking about ₹13,000-22,000 depending on city, car, and dates. Pick the duration on the booking page and the partner's actual per-day rate adjusts automatically.</p>
     
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Why a 7-day booking is cheaper per day</h2><p>Partners pad multi-day brackets with built-in discounts because longer bookings reduce their cleaning, handover, and inspection overhead. The same Swift booking might cost ₹1,500 per day on a 2-day booking but only ₹1,100 per day on a 7-day booking. The savings scale up further on 10-day, 15-day, and monthly brackets.</p></section>
     <section><h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Common week-long use cases</h2><p>Goa or Kerala week-trip rentals from Mumbai or Bangalore. Family vacation week with airport-pickup and multiple-city itineraries. Extended Test Drives where the buyer wants a real week with the car they are evaluating. Inter-city work assignments where flying-and-renting is cheaper than driving from home.</p></section>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a> &middot; <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI toll rate schedule</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a> &middot; <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     

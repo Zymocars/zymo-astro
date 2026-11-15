@@ -35,7 +35,7 @@ bodyHtml: |
     <dd>Some partners support airport drop on one-way bookings. Confirm on the booking page — airport drop typically carries a small additional fee over the standard one-way drop point.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What documents do I need for a one-way booking?</dt>
-    <dd>Same as a round-trip booking: valid Indian driving licence, government photo ID, payment card for security deposit. Inter-state travel doesn't require additional driver permits but may incur a one-time inter-state tax at the border.</dd>
+    <dd>Same as a round-trip booking: valid Indian driving licence and government photo ID; the security deposit is paid online with the booking. Inter-state travel doesn't require additional driver permits but may incur a one-time inter-state tax at the border.</dd>
     
     <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Can I extend a one-way booking once underway?</dt>
     <dd>Yes, subject to partner availability. Use the in-app extension flow; the additional time is billed at the partner's daily rate plus a pro-rata drop-fee adjustment if the new drop time changes the relocation schedule.</dd>
@@ -69,7 +69,7 @@ bodyHtml: |
     <li style="margin-bottom:8px"><a href="/answers/interstate-self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Can I take a self-drive car interstate in India?</a></li>
     </ul></section>
     
-    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Sources: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">NHAI highway network</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">PPAC fuel prices June 2026</a></p>
+    <p style="font-size:0.8rem;color:#8A94A6;margin-top:1rem;border-top:1px solid #2A2D3E;padding-top:0.75rem">Official sites: <a href="https://nhai.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">National Highways Authority of India (NHAI)</a> &middot; <a href="https://ppac.gov.in" rel="nofollow noopener" style="color:#8A94A6;text-decoration:none">Petroleum Planning &amp; Analysis Cell (PPAC)</a></p>
     
     <p style="margin-top:1.5rem;font-size:0.9rem"><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">&larr; Back to: Complete Guide to Self-Drive Car Rental in India</a></p>
     
@@ -84,7 +84,7 @@ faqs:
     a: "Some partners support airport drop on one-way bookings. Confirm on the booking page — airport drop typically carries a small additional fee over the standard one-way drop point."
   - q: "What documents do I need for a one-way booking?"
     a: |
-        Same as a round-trip booking: valid Indian driving licence, government photo ID, payment card for security deposit. Inter-state travel doesn't require additional driver permits but may incur a one-time inter-state tax at the border.
+        Same as a round-trip booking: valid Indian driving licence and government photo ID; the security deposit is paid online with the booking. Inter-state travel doesn't require additional driver permits but may incur a one-time inter-state tax at the border.
   - q: "Can I extend a one-way booking once underway?"
     a: |
         Yes, subject to partner availability. Use the in-app extension flow; the additional time is billed at the partner's daily rate plus a pro-rata drop-fee adjustment if the new drop time changes the relocation schedule.
