@@ -1,7 +1,7 @@
 ---
 slug: chandigarh
 cityName: Chandigarh
-title: Chandigarh Self-Drive — Shimla, Manali Hills | Zymo
+title: Chandigarh Self-Drive Car Rental — Shimla, Manali | Zymo
 description: Self-drive cars in Chandigarh from ₹45/hr. Shimla (115km), Manali (310km), Dharamshala (240km). Sectors 17, 22, 26 pickup. Snow-window Dec-Feb. Zymo.
 canonical: https://zymo.app/self-drive-car-rental-in-chandigarh
 heroImage: /images/CityCars&Price/default.webp

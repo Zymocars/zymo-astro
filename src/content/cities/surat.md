@@ -1,7 +1,7 @@
 ---
 slug: surat
 cityName: Surat
-title: Self-Drive Cars in Surat from ₹45/hr — Compare & Book | Zymo
+title: Self-Drive Car Rental Surat ₹45/hr — Compare | Zymo
 description: No Zymo fee. Compare self-drive car prices in Surat from ₹45/hr. Hatchbacks, sedans & SUVs from multiple partners. Book in 2 minutes on Zymo.
 canonical: https://zymo.app/self-drive-car-rental-in-surat
 heroImage: /images/CityCars&Price/default.webp

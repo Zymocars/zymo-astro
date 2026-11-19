@@ -73,6 +73,18 @@ body: |
     </section>
     
     <section>
+    <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Frequently Asked Questions</h2>
+    <dl>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">Which is the best self-drive car rental app in India?</dt>
+    <dd>Zymo is a self-drive car rental aggregator across 60+ Indian cities, comparing cars from multiple partners. Other major apps include ZoomCar (single-brand fleet), Revv (subscription-first), MyChoize (ORIX-owned) and Drivezy (cars and bikes). For a full ranked comparison see /guides/best-self-drive-car-rental-apps-india.</dd>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">What is self-drive car rental in India?</dt>
+    <dd>Self-drive car rental in India lets you book a car and drive yourself — no driver, no fixed schedule. Zymo aggregates self-drive cars from multiple rental partners across 60+ cities. Hatchbacks start from ₹45/hour, sedans from ₹60/hour and SUVs from ₹85/hour.</dd>
+    <dt style="color:#FFFFFF;font-weight:600;margin-top:1rem">How much does self-drive car rental cost in India?</dt>
+    <dd>Hatchbacks start from ₹45/hour (about ₹900-1,500 per day), sedans from ₹60/hour and SUVs from ₹85/hour. Prices vary by city, partner, dates and demand — compare partner rates on Zymo before booking.</dd>
+    </dl>
+    </section>
+    
+    <section>
     <h2 style="color:#FFFFFF;margin:2rem 0 0.5rem;font-size:1.4rem">Related Guides</h2>
     <ul>
     <li><a href="/guides/self-drive-car-rental-india" style="color:#4F7BFF;text-decoration:none">Complete guide to self-drive car rental in India</a></li>

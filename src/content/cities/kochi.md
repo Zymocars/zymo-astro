@@ -1,7 +1,7 @@
 ---
 slug: kochi
 cityName: Kochi
-title: Kochi Self-Drive Cars — Munnar, Alleppey, Wayanad | Zymo
+title: Kochi Self-Drive Car Rental — Munnar, Alleppey | Zymo
 description: Self-drive cars in Kochi from ₹45/hr. Munnar (130km) tea estates, Alleppey (60km) backwaters, Wayanad (270km). Fort Kochi pickup. Book on Zymo.
 canonical: https://zymo.app/self-drive-car-rental-in-kochi
 heroImage: /images/CityCars&Price/default.webp
