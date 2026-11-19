@@ -71,10 +71,12 @@ jobs:
           cd /tmp/regen-deps
           npm init -y >/dev/null 2>&1
           npm install --no-audit --no-fund js-yaml@4.1.0
+          # ESM (.mjs) ignores NODE_PATH — js-yaml must resolve from the
+          # repo's own node_modules. Symlink, same trick as
+          # zymo-backend/scripts/check-astro-parity.sh.
+          ln -sfn /tmp/regen-deps/node_modules "$GITHUB_WORKSPACE/node_modules"
 
       - name: Regenerate (same command the parity check runs)
-        env:
-          NODE_PATH: /tmp/regen-deps/node_modules
         run: npm run regenerate
 
       - name: Commit + push if content changed
